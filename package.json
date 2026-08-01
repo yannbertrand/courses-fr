@@ -1,0 +1,27 @@
+{
+  "name": "courses-fr",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/yannbertrand/courses-fr#readme",
+  "bugs": {
+    "url": "https://github.com/yannbertrand/courses-fr/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannbertrand/courses-fr.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npx puppeteer browsers install firefox",
+    "scrap": "node index.js",
+    "test": "vitest --test-timeout=15000"
+  },
+  "devDependencies": {
+    "vitest": "4.1.10"
+  },
+  "dependencies": {
+    "puppeteer": "25.4.0"
+  }
+}

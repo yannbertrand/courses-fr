@@ -1,0 +1,23 @@
+name: Test
+
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6.1.0
+      - name: Setup Node.js
+        uses: actions/setup-node@v6.5.0
+        with:
+          node-version-file: '.node-version'
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm i --prefer-offline
+      - name: Test
+        run: npm run test
