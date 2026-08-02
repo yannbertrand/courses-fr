@@ -1,3 +1,6 @@
+import { findEventType } from '../utils/event-type-finder.js';
+import { frenchDateToIsoDate } from '../utils/french-date.js';
+
 export async function listFutureEvents(nbMois = 12, { page }) {
   await page.goto(
     'https://www.espace-competition.com/index.php?module=accueil&action=agenda',
@@ -48,22 +51,16 @@ export async function listFutureEvents(nbMois = 12, { page }) {
       const name = link.innerText.trim();
 
       const dateDiv = tr.querySelector('.col-sm-3 div:nth-child(2)');
-      const { beginning, ending } = dateDiv
-        ? await window.frenchDateToIsoDate(dateDiv.innerText.trim())
-        : { beginning: null, ending: null };
+      const dateString = dateDiv ? dateDiv.innerText.trim() : null;
 
       const discEl = tr.querySelector('.col-sm-3 i.text-muted');
-      let eventTypeRaw = null;
+      let eventType = null;
       if (discEl) {
         const clone = discEl.cloneNode(true);
         const iconSpan = clone.querySelector('span');
         if (iconSpan) iconSpan.remove();
-        eventTypeRaw = clone.innerText.trim();
+        eventType = clone.innerText.trim();
       }
-
-      const eventType = eventTypeRaw
-        ? await window.findEventType(eventTypeRaw)
-        : null;
 
       const lieuDiv = tr.querySelector('.col-sm-9 > div:not(.hidden-xs)');
       const lieuText = lieuDiv
@@ -100,8 +97,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
       result.push({
         place: 'unknown',
         comp,
-        beginning,
-        ending,
+        dateString,
         name,
         city,
         departementNumber,
@@ -118,7 +114,21 @@ export async function listFutureEvents(nbMois = 12, { page }) {
 
   const uniqueMap = new Map();
   for (const ev of events) {
-    if (ev.comp) uniqueMap.set(ev.comp, ev);
+    if (ev.comp) {
+      uniqueMap.set(ev.comp, {
+        place: ev.place,
+        comp: ev.comp,
+        name: ev.name,
+        city: ev.city,
+        departementNumber: ev.departementNumber,
+        eventType: findEventType(ev.eventType),
+        registrationStatus: ev.registrationStatus,
+        registrationLink: ev.registrationLink,
+        eventLink: ev.eventLink,
+        numberOfRaceVariants: ev.numberOfRaceVariants,
+        ...frenchDateToIsoDate(ev.dateString),
+      });
+    }
   }
 
   return Array.from(uniqueMap.values()).map(({ comp, ...rest }) => rest);

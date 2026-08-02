@@ -1,3 +1,5 @@
+import { findEventType } from '../utils/event-type-finder.js';
+
 export async function listFutureEvents(nbMois, { page }) {
   const now = new Date();
   const limitDate = new Date(now);
@@ -58,7 +60,7 @@ export async function listFutureEvents(nbMois, { page }) {
             departementNumber = parseInt(villeMatch[2], 10);
           }
           if (discMatch) {
-            eventType = await window.findEventType(discMatch[1].trim());
+            eventType = discMatch[1].trim();
           }
         }
 
@@ -124,7 +126,7 @@ export async function listFutureEvents(nbMois, { page }) {
         ending: endingStr,
         departementNumber: ev.departementNumber,
         eventLink,
-        eventType: ev.eventType,
+        eventType: findEventType(ev.eventType),
         name: ev.name,
         numberOfRaceVariants: 'unknown',
         registrationLink: registrationLink || eventLink,

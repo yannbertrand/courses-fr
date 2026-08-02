@@ -1,6 +1,4 @@
 import { launch } from 'puppeteer';
-import { findEventType } from '../sources/utils/event-type-finder.js';
-import { frenchDateToIsoDate } from '../sources/utils/french-date.js';
 
 export async function getBrowserPage(mockData = undefined) {
   const browser = await launch({
@@ -8,8 +6,6 @@ export async function getBrowserPage(mockData = undefined) {
     browser: 'firefox',
   });
   const page = await browser.newPage();
-  await page.exposeFunction('findEventType', findEventType);
-  await page.exposeFunction('frenchDateToIsoDate', frenchDateToIsoDate);
 
   if (mockData !== undefined) {
     await page.setRequestInterception(true);
