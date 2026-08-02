@@ -1,0 +1,15 @@
+import { getBrowserPage } from '../browser/browser.js';
+import { listFutureEvents as listECFutureEvents } from './espace-competition/scrapper.js';
+import { listFutureEvents as listTPFutureEvents } from './timepulse/scrapper.js';
+
+export async function listAllFutureEvents(nbMois) {
+  const { browser, page } = await getBrowserPage();
+
+  const events = [
+    ...(await listECFutureEvents(nbMois, { page })),
+    ...(await listTPFutureEvents(nbMois, { page })),
+  ].sort((a, b) => a.beginning.localeCompare(b.beginning));
+
+  await browser.close();
+  return events;
+}

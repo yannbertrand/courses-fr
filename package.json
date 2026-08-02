@@ -16,6 +16,7 @@
   "scripts": {
     "postinstall": "npx puppeteer browsers install firefox",
     "scrap": "node index.js",
+    "build": "node build/build.js",
     "test": "vitest --test-timeout=15000"
   },
   "devDependencies": {

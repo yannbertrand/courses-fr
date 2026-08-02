@@ -1,0 +1,44 @@
+name: Build
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6.1.0
+      - name: Setup Node.js
+        uses: actions/setup-node@v6.5.0
+        with:
+          node-version-file: '.node-version'
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm i --prefer-offline
+      - name: Build
+        run: npm run build
+      - id: check-empty-file
+        name: Interrupt workflow
+        run: |
+          set +e
+          git diff --quiet dist/events.json
+          DIFF_EXIT_CODE=$?
+          set -e
+
+          if [ $DIFF_EXIT_CODE -ne 0 ]; then
+              echo "events.json has changed"
+              echo "do-commit=true" >> $GITHUB_OUTPUT
+          else
+              echo "events.json has not changed"
+              echo "do-commit=false" >> $GITHUB_OUTPUT
+          fi
+      - uses: test-room-7/action-update-file@v2.1.0
+        if: steps.check-empty-file.outputs.do-commit == 'true'
+        with:
+          file-path: dist/events.json
+          commit-msg: 📦️ Sync events.json
+          github-token: ${{ secrets.GITHUB_TOKEN }}
