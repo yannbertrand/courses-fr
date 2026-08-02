@@ -9,19 +9,19 @@ export async function listFutureEvents(nbMois, { page }) {
     waitUntil: 'networkidle2',
   });
 
-  const rawEvents = await page.evaluate(() => {
+  const rawEvents = await page.evaluate(async () => {
     const results = [];
 
     const panels = Array.from(document.querySelectorAll('div[id]')).filter(
       (el) => /^\d{1,2}_\d{4}$/.test(el.id),
     );
 
-    panels.forEach((panel) => {
+    for (const panel of panels) {
       const [month, year] = panel.id.split('_').map(Number);
 
       const articles = panel.querySelectorAll('article');
 
-      articles.forEach((article) => {
+      for (const article of articles) {
         const timeEl = article.querySelector('time');
         const h2 = article.querySelector('h2');
         if (!timeEl || !h2) return;
@@ -46,7 +46,7 @@ export async function listFutureEvents(nbMois, { page }) {
         let departementNumber = null;
         let eventType = null;
 
-        infosBlocks.forEach((block) => {
+        for (const block of infosBlocks) {
           const text = block.textContent;
           const lieuMatch = text.match(/Lieu\s*:\s*(.+?)(?:\s*Ville\s*:|$)/s);
           const villeMatch = text.match(/Ville\s*:\s*(.+?)\s*\((\d{2,3})\)/s);
@@ -57,8 +57,10 @@ export async function listFutureEvents(nbMois, { page }) {
             city = villeMatch[1].trim();
             departementNumber = parseInt(villeMatch[2], 10);
           }
-          if (discMatch) eventType = discMatch[1].trim();
-        });
+          if (discMatch) {
+            eventType = await window.findEventType(discMatch[1].trim());
+          }
+        }
 
         const links = article.querySelectorAll('.bt-wrap a');
         let eventLink = null;
@@ -88,8 +90,8 @@ export async function listFutureEvents(nbMois, { page }) {
           eventLink,
           registrationLink,
         });
-      });
-    });
+      }
+    }
 
     return results;
   });

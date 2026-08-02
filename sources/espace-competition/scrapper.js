@@ -36,73 +36,34 @@ export async function listFutureEvents(nbMois = 12, { page }) {
 
   console.log('Extraction des événements...');
 
-  const events = await page.evaluate(() => {
-    const slugify = (str) =>
-      str
-        .toLowerCase()
-        .normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, '')
-        .replace(/[^a-z0-9]+/g, '_')
-        .replace(/^_+|_+$/g, '');
-
+  const events = await page.evaluate(async () => {
     const result = [];
-    document.querySelectorAll('tbody > tr').forEach((tr) => {
+    const trs = Array.from(document.querySelectorAll('tbody > tr'));
+
+    for (const tr of trs) {
       const link = tr.querySelector('h4 a[href*="module=inscription"]');
-      if (!link) return;
+      if (!link) continue;
 
       const comp = new URL(link.href, location.origin).searchParams.get('comp');
       const name = link.innerText.trim();
 
       const dateDiv = tr.querySelector('.col-sm-3 div:nth-child(2)');
       const { beginning, ending } = dateDiv
-        ? frenchDateToIsoDate(dateDiv.innerText.trim())
-        : null;
-      function frenchDateToIsoDate(dateString) {
-        const mois = {
-          janvier: 1,
-          février: 2,
-          mars: 3,
-          avril: 4,
-          mai: 5,
-          juin: 6,
-          juillet: 7,
-          août: 8,
-          septembre: 9,
-          octobre: 10,
-          novembre: 11,
-          décembre: 12,
-        };
-
-        const regex = /(\d{1,2})(?: - (\d{1,2}))?\s+([A-ZÀ-ÿ]+)\s+(\d{4})/i;
-        const match = dateString.match(regex);
-
-        if (!match) throw new Error(`Format invalide: ${dateString}`);
-
-        const [, beginningDay, endingDay, moisStr, year] = match;
-        const moisIndex = mois[moisStr.toLowerCase()];
-
-        if (moisIndex === undefined)
-          throw new Error(`Mois invalide: ${moisStr}`);
-
-        const beginning = `${year}-${`${moisIndex}`.padStart(2, '0')}-${beginningDay.padStart(2, '0')}`;
-        return {
-          beginning: beginning,
-          ending: endingDay
-            ? `${year}-${`${moisIndex}`.padStart(2, '0')}-${endingDay.padStart(2, '0')}`
-            : beginning,
-        };
-      }
+        ? await window.frenchDateToIsoDate(dateDiv.innerText.trim())
+        : { beginning: null, ending: null };
 
       const discEl = tr.querySelector('.col-sm-3 i.text-muted');
       let eventTypeRaw = null;
       if (discEl) {
-        // Clone pour ne pas toucher au DOM réel, puis on retire le <span> icône
         const clone = discEl.cloneNode(true);
         const iconSpan = clone.querySelector('span');
         if (iconSpan) iconSpan.remove();
         eventTypeRaw = clone.innerText.trim();
       }
-      const eventType = eventTypeRaw ? slugify(eventTypeRaw) : null;
+
+      const eventType = eventTypeRaw
+        ? await window.findEventType(eventTypeRaw)
+        : null;
 
       const lieuDiv = tr.querySelector('.col-sm-9 > div:not(.hidden-xs)');
       const lieuText = lieuDiv
@@ -123,7 +84,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
       const registrationLink = link.href;
 
       const btnEl = tr.querySelector('td.vert-align a');
-      let registrationStatus = null;
+      let registrationStatus;
       if (btnEl) {
         if (btnEl.classList.contains('btn-success'))
           registrationStatus = 'open';
@@ -150,7 +111,8 @@ export async function listFutureEvents(nbMois = 12, { page }) {
         eventLink,
         numberOfRaceVariants,
       });
-    });
+    }
+
     return result;
   });
 
