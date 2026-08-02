@@ -117,6 +117,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     if (ev.comp) {
       uniqueMap.set(ev.comp, {
         place: ev.place,
+        ...frenchDateToIsoDate(ev.dateString),
         comp: ev.comp,
         name: ev.name,
         city: ev.city,
@@ -126,7 +127,6 @@ export async function listFutureEvents(nbMois = 12, { page }) {
         registrationLink: ev.registrationLink,
         eventLink: ev.eventLink,
         numberOfRaceVariants: ev.numberOfRaceVariants,
-        ...frenchDateToIsoDate(ev.dateString),
       });
     }
   }
