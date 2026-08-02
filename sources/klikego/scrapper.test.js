@@ -1,22 +1,32 @@
 import { readFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
-import { describe, expect, it } from 'vitest';
+import { afterEach, describe, expect, it, vi } from 'vitest';
 import { getBrowserPage } from '../../browser/browser.js';
 import { listFutureEvents } from './scrapper.js';
 
 describe('#klikego.listFutureEvents()', () => {
+  afterEach(() => {
+    vi.unstubAllGlobals();
+  });
+
   it('should return list of all future events', async () => {
     const html = await readFile(
       resolve(__dirname, 'mocks/index.html'),
       'utf-8',
     );
-    const { browser, page } = await getBrowserPage({
-      'https://www.klikego.com/v8/evenements/search.jsp?search=&geo=': {
-        status: 200,
-        contentType: 'text/html',
-        body: html,
-      },
-    });
+    vi.stubGlobal(
+      'fetch',
+      vi.fn(async (url) => {
+        expect(url).toBe(
+          'https://www.klikego.com/v8/evenements/search.jsp?search=&geo=',
+        );
+        return new Response(html, {
+          status: 200,
+          headers: { 'Content-Type': 'text/html' },
+        });
+      }),
+    );
+    const { browser, page } = await getBrowserPage();
 
     const list = await listFutureEvents(1, { page });
     expect(list).toMatchInlineSnapshot(`

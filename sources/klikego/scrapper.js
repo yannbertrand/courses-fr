@@ -11,15 +11,19 @@ export async function listFutureEvents(nbMois, { page }) {
   console.log(`[KL] Récupération des événements`);
 
   const url = 'https://www.klikego.com/v8/evenements/search.jsp?search=&geo=';
-  const response = await page.goto(url, { waitUntil: 'networkidle2' });
 
-  if (!response.ok()) {
-    throw new Error(
-      `Erreur HTTP ${response.status()} sur la recherche Klikego`,
-    );
-  }
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent':
+        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+      'Accept-Language': 'fr-FR,fr;q=0.9',
+    },
+  });
 
-  const buffer = await response.buffer();
+  if (!res.ok)
+    throw new Error(`Erreur HTTP ${res.status} sur la recherche Klikego`);
+
+  const buffer = await res.arrayBuffer();
   const html = new TextDecoder('utf-8').decode(buffer);
   await page.setContent(html, { waitUntil: 'domcontentloaded' });
 
