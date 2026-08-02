@@ -8,7 +8,7 @@ try {
   const events = [
     ...(await listECFutureEvents(3, { page })),
     ...(await listTPFutureEvents(3, { page })),
-  ];
+  ].sort((a, b) => a.beginning.localeCompare(b.beginning));
   console.log('\n=== Résultat final ===');
   console.log(JSON.stringify(events, null, 2));
   console.log(`\nTotal unique: ${events.length} événements`);
