@@ -6,10 +6,11 @@ import { listFutureEvents as listTPFutureEvents } from './sources/timepulse/scra
 const { browser, page } = await getBrowserPage();
 
 try {
+  const nbMois = 1;
   const events = [
-    ...(await listECFutureEvents(1, { page })),
-    ...(await listKLFutureEvents(1, { page })),
-    ...(await listTPFutureEvents(1, { page })),
+    ...(await listECFutureEvents(nbMois, { page })),
+    ...(await listKLFutureEvents(nbMois, { page })),
+    ...(await listTPFutureEvents(nbMois, { page })),
   ].sort((a, b) => a.beginning - b.beginning);
   console.log('\n=== Résultat final ===');
   console.log(JSON.stringify(events, null, 2));
