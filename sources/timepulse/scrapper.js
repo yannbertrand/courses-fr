@@ -1,6 +1,8 @@
 import { findEventType } from '../utils/event-type-finder.js';
 
 export async function listFutureEvents(nbMois, { page }) {
+  console.log(`[TP] Récupération des événements`);
+
   const now = new Date();
   const limitDate = new Date(now);
   limitDate.setMonth(limitDate.getMonth() + nbMois);
@@ -98,7 +100,7 @@ export async function listFutureEvents(nbMois, { page }) {
     return results;
   });
 
-  return rawEvents
+  const events = rawEvents
     .map((ev) => {
       const pad = (n) => String(n).padStart(2, '0');
 
@@ -135,4 +137,10 @@ export async function listFutureEvents(nbMois, { page }) {
     })
     .filter(Boolean)
     .sort((a, b) => a.beginning.localeCompare(b.beginning));
+
+  console.log(
+    `[TP] Trouvé ${events.length} évenements sur https://www.timepulse.fr/calendrier`,
+  );
+
+  return events;
 }

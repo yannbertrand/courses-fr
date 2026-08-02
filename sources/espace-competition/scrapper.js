@@ -2,6 +2,8 @@ import { findEventType } from '../utils/event-type-finder.js';
 import { frenchDateToIsoDate } from '../utils/french-date.js';
 
 export async function listFutureEvents(nbMois = 12, { page }) {
+  console.log(`[EC] Récupération des événements`);
+
   await page.goto(
     'https://www.espace-competition.com/index.php?module=accueil&action=agenda',
     {
@@ -20,10 +22,10 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     }
   } catch (e) {}
 
-  console.log(`Chargement du mois initial (1/${nbMois})...`);
+  console.log(`[EC] Chargement du mois initial (1/${nbMois})...`);
 
   for (let i = 2; i <= nbMois; i++) {
-    console.log(`Chargement du mois suivant (${i}/${nbMois})...`);
+    console.log(`[EC] Chargement du mois suivant (${i}/${nbMois})...`);
 
     await Promise.all([
       page
@@ -37,7 +39,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     await new Promise((resolve) => setTimeout(resolve, 300));
   }
 
-  console.log('Extraction des événements...');
+  console.log('[EC] Extraction des événements...');
 
   const events = await page.evaluate(async () => {
     const result = [];
@@ -131,5 +133,13 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     }
   }
 
-  return Array.from(uniqueMap.values()).map(({ comp, ...rest }) => rest);
+  const dedupedEvents = Array.from(uniqueMap.values()).map(
+    ({ comp, ...rest }) => rest,
+  );
+
+  console.log(
+    `[EC] Trouvé ${events.length} évenements sur https://www.espace-competition.com/index.php?module=accueil&action=agenda`,
+  );
+
+  return dedupedEvents;
 }
