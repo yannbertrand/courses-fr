@@ -10,7 +10,7 @@ try {
     ...(await listECFutureEvents(1, { page })),
     ...(await listKLFutureEvents(1, { page })),
     ...(await listTPFutureEvents(1, { page })),
-  ].sort((a, b) => a.beginning.localeCompare(b.beginning));
+  ].sort((a, b) => a.beginning - b.beginning);
   console.log('\n=== Résultat final ===');
   console.log(JSON.stringify(events, null, 2));
   console.log(`\nTotal unique: ${events.length} événements`);

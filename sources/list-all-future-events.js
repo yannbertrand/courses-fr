@@ -10,7 +10,7 @@ export async function listAllFutureEvents(nbMois) {
     ...(await listECFutureEvents(nbMois, { page })),
     ...(await listKLFutureEvents(nbMois, { page })),
     ...(await listTPFutureEvents(nbMois, { page })),
-  ].sort((a, b) => a.beginning.localeCompare(b.beginning));
+  ].sort((a, b) => a.beginning - b.beginning);
 
   await browser.close();
   return events;

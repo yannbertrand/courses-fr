@@ -20,11 +20,17 @@ export function frenchDateToIsoDate(dateString) {
   const [, beginningDay, endingDay, moisStr, year] = match;
   const moisIndex = mois[moisStr.toLowerCase()];
   if (moisIndex === undefined) throw new Error(`Mois invalide: ${moisStr}`);
-  const beginning = `${year}-${`${moisIndex}`.padStart(2, '0')}-${beginningDay.padStart(2, '0')}`;
+
+  const beginning = new Date(
+    `${year}-${`${moisIndex}`.padStart(2, '0')}-${beginningDay.padStart(2, '0')}`,
+  ).getTime();
+
   return {
     beginning,
     ending: endingDay
-      ? `${year}-${`${moisIndex}`.padStart(2, '0')}-${endingDay.padStart(2, '0')}`
+      ? new Date(
+          `${year}-${`${moisIndex}`.padStart(2, '0')}-${endingDay.padStart(2, '0')}`,
+        ).getTime()
       : beginning,
   };
 }

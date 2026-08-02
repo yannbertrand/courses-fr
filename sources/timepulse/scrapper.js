@@ -104,8 +104,12 @@ export async function listFutureEvents(nbMois, { page }) {
     .map((ev) => {
       const pad = (n) => String(n).padStart(2, '0');
 
-      const beginningStr = `${ev.year}-${pad(ev.month)}-${pad(ev.beginDay)}`;
-      const endingStr = `${ev.year}-${pad(ev.month)}-${pad(ev.endDay)}`;
+      const beginningStr = new Date(
+        `${ev.year}-${pad(ev.month)}-${pad(ev.beginDay)}`,
+      ).getTime();
+      const endingStr = new Date(
+        `${ev.year}-${pad(ev.month)}-${pad(ev.endDay)}`,
+      ).getTime();
 
       // Pour la comparaison avec now/limitDate, on utilise Date.UTC pour éviter tout décalage
       const beginDate = new Date(Date.UTC(ev.year, ev.month - 1, ev.beginDay));
@@ -136,7 +140,7 @@ export async function listFutureEvents(nbMois, { page }) {
       };
     })
     .filter(Boolean)
-    .sort((a, b) => a.beginning.localeCompare(b.beginning));
+    .sort((a, b) => a.beginning - b.beginning);
 
   console.log(
     `[TP] Trouvé ${events.length} évenements sur https://www.timepulse.fr/calendrier`,
