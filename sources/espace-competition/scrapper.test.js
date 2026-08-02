@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { readFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { getBrowserPage } from '../../browser/browser.js';
@@ -6,7 +6,10 @@ import { listFutureEvents } from './scrapper.js';
 
 describe('#espaceCompetition.listFutureEvents()', () => {
   it('should return list of all future events', async () => {
-    const html = readFileSync(resolve(__dirname, 'mocks/index.html'), 'utf-8');
+    const html = await readFile(
+      resolve(__dirname, 'mocks/index.html'),
+      'utf-8',
+    );
     const { browser, page } = await getBrowserPage({
       'https://www.espace-competition.com/index.php?module=accueil&action=agenda':
         {
