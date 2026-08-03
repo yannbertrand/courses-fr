@@ -248,19 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint-Abraham",
-    "departementNumber": 56,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1785772800000,
-    "ending": 1785772800000,
-    "name": "Foulées stéphanoises",
-    "eventLink": "https://fr.milesrepublic.com/event/foulees-stephanoises-5553"
-  },
-  {
-    "place": "unknown",
     "city": "Courboin",
     "departementNumber": 2,
     "eventType": "running",
@@ -136875,6 +136862,19 @@
     "ending": 1812524400000,
     "name": "La ronde des deux sources",
     "eventLink": "https://fr.milesrepublic.com/event/la-ronde-des-deux-sources-11315"
+  },
+  {
+    "place": "unknown",
+    "city": "Bois",
+    "departementNumber": 17,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812526200000,
+    "ending": 1812528000000,
+    "name": "Trail de saint antoine",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-saint-antoine-11028"
   },
   {
     "place": "unknown",
