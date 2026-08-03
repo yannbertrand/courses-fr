@@ -151,10 +151,14 @@ export async function listFutureEvents(nbMois, { page }) {
     }
   }
 
+  console.log('');
   console.log(
     `[KL] Trouvé ${events.length} évenements sur https://www.klikego.com/recherche?search=&geo=`,
-    `[KL] Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
   );
+  console.log(
+    `[KL]  Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
+  );
+  console.log('');
 
   return events;
 }

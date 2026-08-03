@@ -137,10 +137,14 @@ export async function listFutureEvents(nbMois, { page }) {
     .filter(Boolean)
     .sort((a, b) => a.beginning - b.beginning);
 
+  console.log('');
   console.log(
     `[TP] Trouvé ${events.length} évenements sur https://www.timepulse.fr/calendrier`,
-    `[TP] Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
   );
+  console.log(
+    `[TP]  Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
+  );
+  console.log('');
 
   return events;
 }

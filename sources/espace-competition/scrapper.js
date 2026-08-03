@@ -137,10 +137,14 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     ({ comp, ...rest }) => rest,
   );
 
+  console.log('');
   console.log(
-    `[EC] Trouvé ${events.length} évenements sur https://www.espace-competition.com/index.php?module=accueil&action=agenda`,
-    `[EC] Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
+    `[EC] Trouvé ${dedupedEvents.length} évenements sur https://www.espace-competition.com/index.php?module=accueil&action=agenda`,
   );
+  console.log(
+    `[EC]  Du ${new Date(dedupedEvents.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(dedupedEvents.at(-1)?.beginning).toLocaleString('fr-FR')}`,
+  );
+  console.log('');
 
   return dedupedEvents;
 }

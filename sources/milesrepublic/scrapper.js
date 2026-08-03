@@ -134,10 +134,13 @@ export async function listFutureEvents(nbMois) {
     page++;
   }
 
+  console.log('');
+  console.log(`[MR] Trouvé ${events.length} événements`);
   console.log(
-    `[KL] Trouvé ${events.length} événements`,
-    `[KL] Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
+    `[MR]  Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
   );
+  console.log('');
+
   return events;
 }
 
