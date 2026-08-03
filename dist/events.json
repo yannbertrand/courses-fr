@@ -61230,6 +61230,19 @@
     "name": "Trail de Runan"
   },
   {
+    "place": "unknown",
+    "city": "Guenin",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795305600000,
+    "ending": 1795305600000,
+    "eventLink": "https://www.klikego.com/inscription/tro-maneguen-2026/course-a-pied-running/1481176811097-9",
+    "name": "Tro Maneguen"
+  },
+  {
     "place": "Salle de La Viauderie",
     "city": "Saint-Michel-Chef-Chef",
     "departementNumber": 44,
