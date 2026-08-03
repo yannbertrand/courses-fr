@@ -4,6 +4,7 @@ import {
   dedupeEvents,
   finalizeEvents,
   normalizeEvent,
+  parseLocation,
 } from '../utils/scrapper-common.js';
 
 const BASE_URL = 'https://www.timepulse.fr';
@@ -51,20 +52,18 @@ export async function listFutureEvents(nbMois, { page }) {
 
         const infosBlocks = article.querySelectorAll('.infos');
         let place = null;
-        let city = null;
-        let departementNumber = null;
+        let locationText = null;
         let eventType = null;
 
         for (const block of infosBlocks) {
           const text = block.textContent;
           const lieuMatch = text.match(/Lieu\s*:\s*(.+?)(?:\s*Ville\s*:|$)/s);
-          const villeMatch = text.match(/Ville\s*:\s*(.+?)\s*\((\d{2,3})\)/s);
+          const villeMatch = text.match(/Ville\s*:\s*((.+?)\s*\((\d{2,3})\))/s);
           const discMatch = text.match(/Discipline\s*:\s*(.+)/s);
 
           if (lieuMatch) place = lieuMatch[1].trim().replace(/\s+/g, ' ');
           if (villeMatch) {
-            city = villeMatch[1].trim();
-            departementNumber = parseInt(villeMatch[2], 10);
+            locationText = villeMatch[1];
           }
           if (discMatch) {
             eventType = discMatch[1].trim();
@@ -93,8 +92,7 @@ export async function listFutureEvents(nbMois, { page }) {
           year,
           name,
           place,
-          city,
-          departementNumber,
+          locationText,
           eventType,
           eventLink,
           hasRegistrationLink,
@@ -116,12 +114,14 @@ export async function listFutureEvents(nbMois, { page }) {
       ).getTime();
       if (!isInRange(beginning, ending, { now, limitDate })) return null;
 
+      const { city, departementNumber } = parseLocation(ev.locationText);
+
       return normalizeEvent({
         beginning,
         ending,
         place: ev.place,
-        city: ev.city,
-        departementNumber: ev.departementNumber,
+        city,
+        departementNumber,
         eventType: ev.eventType,
         name: ev.name,
         eventLink: absoluteUrl(ev.eventLink, BASE_URL),

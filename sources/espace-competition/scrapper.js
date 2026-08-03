@@ -71,7 +71,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
       }
 
       const lieuDiv = tr.querySelector('.col-sm-9 > div:not(.hidden-xs)');
-      const lieuText = lieuDiv
+      const locationText = lieuDiv
         ? lieuDiv.innerText.replace(/\s+/g, ' ').trim()
         : null;
 
@@ -103,7 +103,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
         comp,
         dateString,
         name,
-        lieuText,
+        locationText,
         eventType,
         registrationStatus,
         registrationLink,
@@ -129,7 +129,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     // Filtrage par nbMois (le chargement par boutons peut ramener du hors-période)
     if (!isInRange(dates.beginning, dates.ending, { now, limitDate })) continue;
 
-    const { city, departementNumber } = parseLocation(ev.lieuText);
+    const { city, departementNumber } = parseLocation(ev.locationText);
 
     events.push(
       normalizeEvent({

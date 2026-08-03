@@ -77,13 +77,16 @@ export async function listFutureEvents(nbMois, { page }) {
 
       if (new Date(beginning) >= limitDate) continue;
 
+      const { city, departementNumber } = parseLocation(raw.locationText);
+
       events.push(
         normalizeEvent({
           beginning,
           ending,
           eventLink,
           name: raw.name,
-          ...parseLocation(raw.locationText),
+          city,
+          departementNumber,
           numberOfRaceVariants:
             raw.numberOfRaceVariants > 0 ? raw.numberOfRaceVariants : 'unknown',
         }),
