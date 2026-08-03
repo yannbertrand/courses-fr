@@ -139,6 +139,7 @@ export async function listFutureEvents(nbMois, { page }) {
 
   console.log(
     `[TP] Trouvé ${events.length} évenements sur https://www.timepulse.fr/calendrier`,
+    `[TP] Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
   );
 
   return events;
