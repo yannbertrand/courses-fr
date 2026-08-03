@@ -1,8 +1,6 @@
-import { frenchDateToIsoDate } from '../utils/french-date.js';
+import { frenchDateToIsoDate, getDateRange, isInRange } from '../utils/date.js';
 import {
   finalizeEvents,
-  getDateRange,
-  isInRange,
   normalizeEvent,
   parseLocation,
 } from '../utils/scrapper-common.js';

@@ -1,8 +1,5 @@
-import {
-  finalizeEvents,
-  getDateRange,
-  normalizeEvent,
-} from '../utils/scrapper-common.js';
+import { getDateRange } from '../utils/date.js';
+import { finalizeEvents, normalizeEvent } from '../utils/scrapper-common.js';
 
 const API_URL = 'https://search.milesrepublic.com/multi-search';
 const TOKEN =

@@ -1,8 +1,11 @@
-import { expandMonthAbbr, frenchDateToIsoDate } from '../utils/french-date.js';
+import {
+  expandMonthAbbr,
+  frenchDateToIsoDate,
+  getDateRange,
+} from '../utils/date.js';
 import {
   absoluteUrl,
   finalizeEvents,
-  getDateRange,
   normalizeEvent,
   parseLocation,
 } from '../utils/scrapper-common.js';

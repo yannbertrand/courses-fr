@@ -72,3 +72,19 @@ function normalizeMonth(str) {
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '');
 }
+
+/**
+ * Compute now + limitDate (first day of month after nbMois) — the standard
+ * filtering window used by every scraper.
+ */
+export function getDateRange(nbMois) {
+  const now = new Date();
+  const limitDate = new Date(now.getFullYear(), now.getMonth() + nbMois + 1, 1);
+  return { now, limitDate };
+}
+
+/** True if the event starts within [now, limitDate). */
+export function isInRange(beginning, { now, limitDate }) {
+  const d = new Date(beginning);
+  return d >= now && d < limitDate;
+}
