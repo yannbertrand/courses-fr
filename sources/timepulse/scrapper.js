@@ -114,7 +114,7 @@ export async function listFutureEvents(nbMois, { page }) {
       const ending = new Date(
         `${ev.year}-${pad(ev.month)}-${pad(ev.endDay)}`,
       ).getTime();
-      if (!isInRange(beginning, { now, limitDate })) return null;
+      if (!isInRange(beginning, ending, { now, limitDate })) return null;
 
       return normalizeEvent({
         beginning,

@@ -84,7 +84,11 @@ export function getDateRange(nbMois) {
 }
 
 /** True if the event starts within [now, limitDate). */
-export function isInRange(beginning, { now, limitDate }) {
-  const d = new Date(beginning);
-  return d >= now && d < limitDate;
+export function isInRange(beginning, ending, { now, limitDate }) {
+  const startOfToday = new Date(
+    now.getFullYear(),
+    now.getMonth(),
+    now.getDate(),
+  ).getTime();
+  return ending >= startOfToday && beginning < limitDate.getTime();
 }

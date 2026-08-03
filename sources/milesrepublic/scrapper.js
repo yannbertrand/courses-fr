@@ -1,4 +1,4 @@
-import { getDateRange } from '../utils/date.js';
+import { getDateRange, isInRange } from '../utils/date.js';
 import {
   dedupeEvents,
   finalizeEvents,
@@ -112,7 +112,10 @@ export async function listFutureEvents(nbMois) {
     }
     const result = data.results[0];
     for (const hit of result.hits) {
-      events.push(mapHit(hit));
+      const event = mapHit(hit);
+      if (!isInRange(event.beginning, event.ending, { now, limitDate }))
+        continue;
+      events.push(event);
     }
     totalPages = result.totalPages ?? 1;
     page++;

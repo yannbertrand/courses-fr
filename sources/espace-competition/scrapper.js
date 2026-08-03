@@ -127,7 +127,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     }
 
     // Filtrage par nbMois (le chargement par boutons peut ramener du hors-période)
-    if (!isInRange(dates.beginning, { now, limitDate })) continue;
+    if (!isInRange(dates.beginning, dates.ending, { now, limitDate })) continue;
 
     const { city, departementNumber } = parseLocation(ev.lieuText);
 
