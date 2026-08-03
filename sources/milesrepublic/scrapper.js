@@ -10,6 +10,8 @@ const TOKEN =
   '6ec06c9d0b2ad245d4e7d098af96c5ba660e5f3b9a458200116cd124f3ddae6e';
 const BASE_URL = 'https://fr.milesrepublic.com';
 
+const MAX_PAGES = 50;
+
 function getBody(after, before, withTieBreaker = true) {
   return {
     queries: [
@@ -92,7 +94,7 @@ export async function listFutureEvents(nbMois) {
     totalPages = Infinity;
   let body = getBody(now.getTime(), limitDate.getTime());
 
-  while (page <= totalPages) {
+  while (page <= totalPages && page <= MAX_PAGES) {
     console.log(
       `[MR] Chargement de la page ${page}/${totalPages === Infinity ? '?' : totalPages}`,
     );
@@ -119,6 +121,12 @@ export async function listFutureEvents(nbMois) {
     }
     totalPages = result.totalPages ?? 1;
     page++;
+  }
+
+  if (page > MAX_PAGES) {
+    console.warn(
+      `[MR] Limite de ${MAX_PAGES} pages atteinte, pagination arrêtée prématurément.`,
+    );
   }
 
   const dedupedEvents = dedupeEvents(events);
