@@ -104,6 +104,19 @@
     "registrationStatus": "unknown"
   },
   {
+    "beginning": 1781022600000,
+    "ending": 1785947400000,
+    "city": "Anglet",
+    "departementNumber": 64,
+    "eventType": "cycling",
+    "name": "PBS Sports",
+    "numberOfRaceVariants": 3,
+    "place": "unknown",
+    "eventLink": "https://fr.milesrepublic.com/event/pop-bike-shop-17352",
+    "registrationLink": "https://fr.milesrepublic.com/event/pop-bike-shop-17352",
+    "registrationStatus": "open"
+  },
+  {
     "beginning": 1781942400000,
     "ending": 1790488800000,
     "city": "Peyrabout",
@@ -167,45 +180,6 @@
     "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3207",
     "eventLink": null,
     "numberOfRaceVariants": 17
-  },
-  {
-    "beginning": 1785708000000,
-    "ending": 1785738600000,
-    "city": "Ghisoni",
-    "departementNumber": "2B",
-    "eventType": "walk",
-    "name": "Corsa di l'Oriente",
-    "numberOfRaceVariants": 2,
-    "place": "unknown",
-    "eventLink": "https://fr.milesrepublic.com/event/corsa-di-loriente-2506",
-    "registrationLink": "https://fr.milesrepublic.com/event/corsa-di-loriente-2506",
-    "registrationStatus": "open"
-  },
-  {
-    "beginning": 1785738600000,
-    "ending": 1785738600000,
-    "city": "Figeac",
-    "departementNumber": 46,
-    "eventType": "cycling",
-    "name": "La vélotoise",
-    "numberOfRaceVariants": 4,
-    "place": "unknown",
-    "eventLink": "https://fr.milesrepublic.com/event/la-velotoise-11573",
-    "registrationLink": "https://fr.milesrepublic.com/event/la-velotoise-11573",
-    "registrationStatus": "open"
-  },
-  {
-    "beginning": 1785740400000,
-    "ending": 1785744000000,
-    "city": "Vigeois",
-    "departementNumber": 19,
-    "eventType": "walk",
-    "name": "Trail de la fête",
-    "numberOfRaceVariants": 2,
-    "place": "unknown",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-fete-2584",
-    "registrationLink": "https://fr.milesrepublic.com/event/trail-de-la-fete-2584",
-    "registrationStatus": "unknown"
   },
   {
     "beginning": 1785744000000,
@@ -2663,6 +2637,19 @@
     "eventLink": "https://fr.milesrepublic.com/event/-metz-et-ses-belles-facades--14505",
     "registrationLink": "https://fr.milesrepublic.com/event/-metz-et-ses-belles-facades--14505",
     "registrationStatus": "unknown"
+  },
+  {
+    "beginning": 1786831200000,
+    "ending": 1786831200000,
+    "city": "Châteauneuf-de-Vernoux",
+    "departementNumber": 7,
+    "eventType": "cycling",
+    "name": "Castel gravel",
+    "numberOfRaceVariants": 4,
+    "place": "unknown",
+    "eventLink": "https://fr.milesrepublic.com/event/castel-gravel-14599",
+    "registrationLink": "https://fr.milesrepublic.com/event/castel-gravel-14599",
+    "registrationStatus": "open"
   },
   {
     "beginning": 1786838400000,
@@ -10401,19 +10388,6 @@
   },
   {
     "beginning": 1788645600000,
-    "ending": 1788681600000,
-    "city": "Barraux",
-    "departementNumber": 38,
-    "eventType": "trail",
-    "name": "Barr’O Trail",
-    "numberOfRaceVariants": 4,
-    "place": "unknown",
-    "eventLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965",
-    "registrationLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965",
-    "registrationStatus": "open"
-  },
-  {
-    "beginning": 1788645600000,
     "ending": 1788645600000,
     "city": "Chenove",
     "departementNumber": 21,
@@ -10725,6 +10699,19 @@
     "registrationStatus": "open"
   },
   {
+    "beginning": 1788645660000,
+    "ending": 1788681600000,
+    "city": "Barraux",
+    "departementNumber": 38,
+    "eventType": "trail",
+    "name": "Barr’O Trail",
+    "numberOfRaceVariants": 4,
+    "place": "unknown",
+    "eventLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965",
+    "registrationLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965",
+    "registrationStatus": "open"
+  },
+  {
     "place": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
@@ -10754,19 +10741,6 @@
     "place": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "name": "FAYE L'ABBESSE 6EME MANCHE TROPHEE POITOU CHARENTES VENDEE",
-    "city": "FAYE L'ABBESSE",
-    "departementNumber": 79,
-    "eventType": "poursuite_sur_terre",
-    "registrationStatus": "not_open_yet",
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3208",
-    "eventLink": null,
-    "numberOfRaceVariants": 17
-  },
-  {
-    "place": "unknown",
-    "beginning": 1788652800000,
-    "ending": 1788652800000,
     "name": "POURSUITE SUR TERRE - TROISIEME ÉPREUVE DU TROPHÉE MAINE ANJOU ECOUCHE",
     "city": "ECOUCHÉ LES VALLÉES",
     "departementNumber": 61,
@@ -10775,6 +10749,19 @@
     "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3224",
     "eventLink": "https://www.facebook.com/groups/4155814168077047/",
     "numberOfRaceVariants": 38
+  },
+  {
+    "place": "unknown",
+    "beginning": 1788652800000,
+    "ending": 1788652800000,
+    "name": "FAYE L'ABBESSE 6EME MANCHE TROPHEE POITOU CHARENTES VENDEE",
+    "city": "FAYE L'ABBESSE",
+    "departementNumber": 79,
+    "eventType": "poursuite_sur_terre",
+    "registrationStatus": "not_open_yet",
+    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3208",
+    "eventLink": null,
+    "numberOfRaceVariants": 17
   },
   {
     "beginning": 1788652800000,
@@ -23713,6 +23700,19 @@
   },
   {
     "beginning": 1789889400000,
+    "ending": 1789889400000,
+    "city": "Saint-Didier-au-Mont-d'Or",
+    "departementNumber": 69,
+    "eventType": "trail",
+    "name": "Lions Trail Saint-Didier",
+    "numberOfRaceVariants": 1,
+    "place": "unknown",
+    "eventLink": "https://fr.milesrepublic.com/event/lions-trail-saint-didier-17918",
+    "registrationLink": "https://fr.milesrepublic.com/event/lions-trail-saint-didier-17918",
+    "registrationStatus": "open"
+  },
+  {
+    "beginning": 1789889400000,
     "ending": 1789891200000,
     "city": "Mareuil Sur Lay Dissais",
     "departementNumber": 85,
@@ -26639,19 +26639,6 @@
   {
     "beginning": 1790373600000,
     "ending": 1790373600000,
-    "city": "Châteauneuf-de-Vernoux",
-    "departementNumber": 7,
-    "eventType": "cycling",
-    "name": "Castel gravel",
-    "numberOfRaceVariants": 5,
-    "place": "unknown",
-    "eventLink": "https://fr.milesrepublic.com/event/castel-gravel-14599",
-    "registrationLink": "https://fr.milesrepublic.com/event/castel-gravel-14599",
-    "registrationStatus": "open"
-  },
-  {
-    "beginning": 1790373600000,
-    "ending": 1790373600000,
     "city": "Puy du Fou",
     "departementNumber": 85,
     "eventType": "running",
@@ -27206,6 +27193,19 @@
     "place": "unknown",
     "eventLink": "https://fr.milesrepublic.com/event/duo-trail-les-crozets-2857",
     "registrationLink": "https://fr.milesrepublic.com/event/duo-trail-les-crozets-2857",
+    "registrationStatus": "open"
+  },
+  {
+    "beginning": 1790427600000,
+    "ending": 1790427600000,
+    "city": "Lambres-lez-Douai",
+    "departementNumber": 59,
+    "eventType": "fun",
+    "name": "Color Run \"Together For Peace #6\"",
+    "numberOfRaceVariants": 1,
+    "place": "unknown",
+    "eventLink": "https://fr.milesrepublic.com/event/color-run-together-for-peace-6-8165",
+    "registrationLink": "https://fr.milesrepublic.com/event/color-run-together-for-peace-6-8165",
     "registrationStatus": "open"
   },
   {
@@ -28533,6 +28533,19 @@
     "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3169",
     "eventLink": null,
     "numberOfRaceVariants": 5
+  },
+  {
+    "place": "unknown",
+    "beginning": 1790467200000,
+    "ending": 1790467200000,
+    "name": "MELLERAN 8EME MANCHE TROPHEE POITOU CHARENTES VENDEE",
+    "city": "MELLERAN",
+    "departementNumber": 79,
+    "eventType": "poursuite_sur_terre",
+    "registrationStatus": "not_open_yet",
+    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3226",
+    "eventLink": null,
+    "numberOfRaceVariants": 17
   },
   {
     "place": "Domaine national de Saint-Cloud",
@@ -30223,19 +30236,6 @@
     "eventLink": "https://fr.milesrepublic.com/event/terratrail-14176",
     "registrationLink": "https://fr.milesrepublic.com/event/terratrail-14176",
     "registrationStatus": "unknown"
-  },
-  {
-    "beginning": 1790514000000,
-    "ending": 1790514000000,
-    "city": "Lambres-lez-Douai",
-    "departementNumber": 59,
-    "eventType": "fun",
-    "name": "Color Run \"Together For Peace #6\"",
-    "numberOfRaceVariants": 1,
-    "place": "unknown",
-    "eventLink": "https://fr.milesrepublic.com/event/color-run-together-for-peace-6-8165",
-    "registrationLink": "https://fr.milesrepublic.com/event/color-run-together-for-peace-6-8165",
-    "registrationStatus": "open"
   },
   {
     "beginning": 1790517600000,
@@ -40362,6 +40362,19 @@
     "place": "unknown",
     "eventLink": "https://fr.milesrepublic.com/event/bike-and-run-de-la-vallee-des-loups-17914",
     "registrationLink": "https://fr.milesrepublic.com/event/bike-and-run-de-la-vallee-des-loups-17914",
+    "registrationStatus": "open"
+  },
+  {
+    "beginning": 1791669600000,
+    "ending": 1791669600000,
+    "city": "École-Valentin",
+    "departementNumber": 25,
+    "eventType": "trail",
+    "name": "Tagada Run",
+    "numberOfRaceVariants": 0,
+    "place": "unknown",
+    "eventLink": "https://fr.milesrepublic.com/event/tagada-run-17920",
+    "registrationLink": "https://fr.milesrepublic.com/event/tagada-run-17920",
     "registrationStatus": "open"
   },
   {
@@ -55507,6 +55520,19 @@
     "place": "unknown",
     "eventLink": "https://fr.milesrepublic.com/event/la-foulee-de-la-solidarite-16263",
     "registrationLink": "https://fr.milesrepublic.com/event/la-foulee-de-la-solidarite-16263",
+    "registrationStatus": "open"
+  },
+  {
+    "beginning": 1794646800000,
+    "ending": 1794722400000,
+    "city": "Bormes-les-Mimosas",
+    "departementNumber": 83,
+    "eventType": "trail",
+    "name": "Anguei'Run",
+    "numberOfRaceVariants": 3,
+    "place": "unknown",
+    "eventLink": "https://fr.milesrepublic.com/event/angueirun-17919",
+    "registrationLink": "https://fr.milesrepublic.com/event/angueirun-17919",
     "registrationStatus": "open"
   },
   {
@@ -133104,19 +133130,6 @@
     "place": "unknown",
     "eventLink": "https://fr.milesrepublic.com/event/inseec-running-wine-8493",
     "registrationLink": "https://fr.milesrepublic.com/event/inseec-running-wine-8493",
-    "registrationStatus": "unknown"
-  },
-  {
-    "beginning": 1812578400000,
-    "ending": 1812633300000,
-    "city": "Rives-en-Seine",
-    "departementNumber": 76,
-    "eventType": "walk",
-    "name": "Trail des 5 châteaux",
-    "numberOfRaceVariants": 5,
-    "place": "unknown",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-5-chateaux-1945",
-    "registrationLink": "https://fr.milesrepublic.com/event/trail-des-5-chateaux-1945",
     "registrationStatus": "unknown"
   }
 ]
