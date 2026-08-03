@@ -15,7 +15,13 @@ try {
     ...(await listTPFutureEvents(nbMois, { page })),
   ].sort((a, b) => a.beginning - b.beginning);
   console.log('\n=== Résultat final ===');
-  console.log(JSON.stringify(events, null, 2));
+  console.log(
+    JSON.stringify(
+      events.map((e) => e.name),
+      null,
+      2,
+    ),
+  );
   console.log(`\nTotal unique: ${events.length} événements`);
 } catch (err) {
   console.error('Erreur:', err.message);
