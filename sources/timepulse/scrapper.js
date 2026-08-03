@@ -13,8 +13,6 @@ export async function listFutureEvents(nbMois, { page }) {
   const { now, limitDate } = getDateRange(nbMois);
   console.log(`[TP] Récupération des événements`);
 
-  limitDate.setMonth(limitDate.getMonth() + nbMois);
-
   await page.goto(`${BASE_URL}/calendrier`, {
     waitUntil: 'networkidle2',
   });
