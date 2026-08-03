@@ -1,5 +1,6 @@
 import { frenchDateToIsoDate, getDateRange, isInRange } from '../utils/date.js';
 import {
+  dedupeEvents,
   finalizeEvents,
   normalizeEvent,
   parseLocation,
@@ -114,8 +115,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     return result;
   });
 
-  // Déduplication par "comp" + normalisation
-  const uniqueMap = new Map();
+  const events = [];
   for (const ev of rawEvents) {
     if (!ev.comp || !ev.dateString) continue;
 
@@ -131,8 +131,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
 
     const { city, departementNumber } = parseLocation(ev.lieuText);
 
-    uniqueMap.set(
-      ev.comp,
+    events.push(
       normalizeEvent({
         ...dates,
         name: ev.name,
@@ -147,5 +146,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     );
   }
 
-  return finalizeEvents('EC', AGENDA_URL, Array.from(uniqueMap.values()));
+  const dedupedEvents = dedupeEvents(events);
+
+  return finalizeEvents('EC', AGENDA_URL, dedupedEvents);
 }

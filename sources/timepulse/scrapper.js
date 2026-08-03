@@ -1,6 +1,7 @@
 import { getDateRange, isInRange } from '../utils/date.js';
 import {
   absoluteUrl,
+  dedupeEvents,
   finalizeEvents,
   normalizeEvent,
 } from '../utils/scrapper-common.js';
@@ -129,5 +130,7 @@ export async function listFutureEvents(nbMois, { page }) {
     })
     .filter(Boolean);
 
-  return finalizeEvents('TP', `${BASE_URL}/calendrier`, events);
+  const dedupedEvents = dedupeEvents(events);
+
+  return finalizeEvents('TP', `${BASE_URL}/calendrier`, dedupedEvents);
 }

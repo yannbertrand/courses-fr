@@ -5,6 +5,7 @@ import {
 } from '../utils/date.js';
 import {
   absoluteUrl,
+  dedupeEvents,
   finalizeEvents,
   normalizeEvent,
   parseLocation,
@@ -48,7 +49,6 @@ export async function listFutureEvents(nbMois, { page }) {
   );
   const { limitDate } = getDateRange(nbMois);
   const events = [];
-  const seenLinks = new Set();
 
   for (const dateParam of monthParams) {
     const url = `${BASE_URL}/v8/evenements/search.jsp?search=&geo=&date=${dateParam}`;
@@ -67,8 +67,6 @@ export async function listFutureEvents(nbMois, { page }) {
     for (const raw of rawEvents) {
       if (!raw.dateText) continue;
       const eventLink = absoluteUrl(raw.link, BASE_URL);
-      if (seenLinks.has(eventLink)) continue;
-      seenLinks.add(eventLink);
 
       let beginning, ending;
       try {
@@ -92,7 +90,10 @@ export async function listFutureEvents(nbMois, { page }) {
       );
     }
   }
-  return finalizeEvents('KL', `${BASE_URL}/recherche`, events);
+
+  const dedupedEvents = dedupeEvents(events);
+
+  return finalizeEvents('KL', `${BASE_URL}/recherche`, dedupedEvents);
 }
 
 function extractCards() {

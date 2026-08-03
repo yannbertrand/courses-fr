@@ -1,5 +1,9 @@
 import { getDateRange } from '../utils/date.js';
-import { finalizeEvents, normalizeEvent } from '../utils/scrapper-common.js';
+import {
+  dedupeEvents,
+  finalizeEvents,
+  normalizeEvent,
+} from '../utils/scrapper-common.js';
 
 const API_URL = 'https://search.milesrepublic.com/multi-search';
 const TOKEN =
@@ -84,7 +88,6 @@ export async function listFutureEvents(nbMois) {
   console.log('[MR] Récupération des événements');
   const { now, limitDate } = getDateRange(nbMois);
   const events = [];
-  const seen = new Set();
   let page = 1,
     totalPages = Infinity;
   let body = getBody(now.getTime(), limitDate.getTime());
@@ -109,14 +112,15 @@ export async function listFutureEvents(nbMois) {
     }
     const result = data.results[0];
     for (const hit of result.hits) {
-      if (seen.has(hit.objectID)) continue;
-      seen.add(hit.objectID);
       events.push(mapHit(hit));
     }
     totalPages = result.totalPages ?? 1;
     page++;
   }
-  return finalizeEvents('MR', BASE_URL, events);
+
+  const dedupedEvents = dedupeEvents(events);
+
+  return finalizeEvents('MR', BASE_URL, dedupedEvents);
 }
 
 function getDepartementNumber(hit) {

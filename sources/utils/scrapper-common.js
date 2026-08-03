@@ -20,6 +20,7 @@ export function normalizeEvent(raw) {
     place: 'unknown',
     city: null,
     departementNumber: null,
+    eventType: 'unknown',
     numberOfRaceVariants: 'unknown',
     registrationLink: '',
     registrationStatus: 'unknown',
@@ -41,4 +42,14 @@ export function finalizeEvents(tag, url, events) {
   }
   console.log('');
   return events;
+}
+
+export function dedupeEvents(events) {
+  const seen = new Set();
+  return events.filter((ev) => {
+    const key = ev.eventLink;
+    if (key == null || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
