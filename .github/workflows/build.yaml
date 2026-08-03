@@ -19,6 +19,13 @@ jobs:
         with:
           node-version-file: '.node-version'
           cache: 'npm'
+      - name: Snapshot previous events.json
+        run: |
+          if [ -f dist/events.json ]; then
+            cp dist/events.json /tmp/events.old.json
+          else
+            echo '[]' > /tmp/events.old.json
+          fi
       - name: Install dependencies
         run: npm i --prefer-offline
       - name: Build
@@ -38,9 +45,33 @@ jobs:
               echo "events.json has not changed"
               echo "do-commit=false" >> $GITHUB_OUTPUT
           fi
+      - id: event-stats
+        name: Compute event stats
+        if: steps.check-empty-file.outputs.do-commit == 'true'
+        run: |
+          node --input-type=module << 'EOF' >> "$GITHUB_OUTPUT"
+          import { readFile } from 'node:fs/promises';
+
+          const oldEvents = JSON.parse(await readFile('/tmp/events.old.json', 'utf8'));
+          const newEvents = JSON.parse(await readFile('dist/events.json', 'utf8'));
+
+          const oldByEventLink = new Map(oldEvents.map((e) => [e.eventLink, JSON.stringify(e)]));
+          const newByEventLink = new Map(newEvents.map((e) => [e.eventLink, JSON.stringify(e)]));
+
+          let added = 0, removed = 0, modified = 0;
+          for (const [eventLink, json] of newByEventLink) {
+            if (!oldByEventLink.has(eventLink)) added++;
+            else if (oldByEventLink.get(eventLink) !== json) modified++;
+          }
+          for (const eventLink of oldByEventLink.keys()) {
+            if (!newByEventLink.has(eventLink)) removed++;
+          }
+
+          console.log(`commit-msg=📦️ Sync events.json (+${added} added, ~${modified} modified, -${removed} removed)`);
+          EOF
       - uses: test-room-7/action-update-file@v2.1.0
         if: steps.check-empty-file.outputs.do-commit == 'true'
         with:
           file-path: dist/events.json
-          commit-msg: 📦️ Sync events.json
+          commit-msg: ${{ steps.event-stats.outputs.commit-msg || '📦️ Sync events.json' }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
