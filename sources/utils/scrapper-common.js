@@ -9,7 +9,7 @@ export function absoluteUrl(link, baseUrl) {
 /** Parse "City Name (35)" / "City, Region (35)" into { city, departementNumber }. */
 export function parseLocation(text) {
   if (!text) return { city: null, departementNumber: null };
-  const m = text.match(/^(.+?)(?:,\s*.+?)?\s*\((\d{2,3})\)$/);
+  const m = text.trim().match(/^(.+?)(?:,\s*.+?)?\s*\((\d{2,3})\)$/);
   if (!m) return { city: text.trim(), departementNumber: null };
   return { city: m[1].trim(), departementNumber: parseInt(m[2], 10) };
 }
