@@ -1,4 +1,18 @@
-import { frenchDateToIsoDate } from '../utils/french-date.js';
+import { expandMonthAbbr, frenchDateToIsoDate } from '../utils/french-date.js';
+import {
+  absoluteUrl,
+  finalizeEvents,
+  getDateRange,
+  normalizeEvent,
+  parseLocation,
+} from '../utils/scrapper-common.js';
+
+const BASE_URL = 'https://www.klikego.com';
+const FETCH_HEADERS = {
+  'User-Agent':
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+  'Accept-Language': 'fr-FR,fr;q=0.9',
+};
 
 /**
  * Génère la liste des query params "YYYY-MM" de now à now + nbMois.
@@ -29,157 +43,89 @@ export async function listFutureEvents(nbMois, { page }) {
   console.log(
     `[KL] Récupération des événements pour ${monthParams.join(', ')}`,
   );
-
-  // Limite de filtrage : aujourd'hui + nbMois
-  const now = new Date();
-  const limitDate = new Date(now.getFullYear(), now.getMonth() + nbMois + 1, 1);
-
+  const { limitDate } = getDateRange(nbMois);
   const events = [];
   const seenLinks = new Set();
 
   for (const dateParam of monthParams) {
-    const url = `https://www.klikego.com/v8/evenements/search.jsp?search=&geo=&date=${dateParam}`;
-
-    const res = await fetch(url, {
-      headers: {
-        'User-Agent':
-          'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
-        'Accept-Language': 'fr-FR,fr;q=0.9',
-      },
-    });
-
+    const url = `${BASE_URL}/v8/evenements/search.jsp?search=&geo=&date=${dateParam}`;
+    const res = await fetch(url, { headers: FETCH_HEADERS });
     if (!res.ok) {
       console.warn(
         `[KL] Erreur HTTP ${res.status} pour date=${dateParam}, on continue`,
       );
       continue;
     }
-
-    const buffer = await res.arrayBuffer();
-    const html = new TextDecoder('utf-8').decode(buffer);
+    const html = new TextDecoder('utf-8').decode(await res.arrayBuffer());
     await page.setContent(html, { waitUntil: 'domcontentloaded' });
 
-    // Extraction brute de toutes les cartes d'événements
-    const rawEvents = await page.evaluate(() => {
-      const cards = Array.from(
-        document.querySelectorAll('div.relative.w-full'),
-      );
-
-      return cards
-        .map((card) => {
-          const link = card.querySelector('a[href*="/inscription/"]');
-          if (!link) return null;
-
-          const name =
-            card
-              .querySelector('.text-content-body-emphasis')
-              ?.textContent.trim() ?? null;
-
-          const noteTexts = Array.from(
-            card.querySelectorAll('.text-content-note-regular'),
-          ).map((el) => el.textContent.trim());
-
-          const dateText = noteTexts.find((t) => /\d{4}/.test(t)) ?? null;
-          const locationText =
-            noteTexts.find((t) => /\(\d{2,3}\)/.test(t)) ?? null;
-
-          // Nombre de variantes de course = nombre de badges de distance
-          const numberOfRaceVariants = card.querySelectorAll(
-            '.badge.badge-neutral.badge-light',
-          ).length;
-
-          return {
-            name,
-            dateText,
-            locationText,
-            numberOfRaceVariants,
-            link: link.getAttribute('href'),
-          };
-        })
-        .filter(Boolean);
-    });
+    const rawEvents = await page.evaluate(extractCards); // hoisted for testability
 
     for (const raw of rawEvents) {
       if (!raw.dateText) continue;
-
-      const eventLink = raw.link.startsWith('http')
-        ? raw.link
-        : `https://www.klikego.com${raw.link}`;
-
-      // Déduplication : un événement multi-mois peut apparaître sur plusieurs requêtes
+      const eventLink = absoluteUrl(raw.link, BASE_URL);
       if (seenLinks.has(eventLink)) continue;
       seenLinks.add(eventLink);
 
-      // Normalisation du texte de date Klikego ("6 déc. 2026", "11–13 déc. 2026")
       let beginning, ending;
       try {
         ({ beginning, ending } = parseKlikegoDate(raw.dateText));
       } catch {
-        continue; // format de date non géré, on ignore l'événement
+        continue;
       }
 
-      // Filtrage par nbMois
       if (new Date(beginning) >= limitDate) continue;
 
-      // Parsing de "Janze, Ille et Vilaine (35)"
-      let city = null;
-      let departementNumber = null;
-      if (raw.locationText) {
-        const locMatch = raw.locationText.match(
-          /^(.+?),\s*(.+?)\s*\((\d{2,3})\)$/,
-        );
-        if (locMatch) {
-          city = locMatch[1].trim();
-          departementNumber = parseInt(locMatch[3], 10);
-        }
-      }
-
-      events.push({
-        beginning,
-        city,
-        departementNumber,
-        ending,
-        eventLink,
-        eventType: 'unknown',
-        name: raw.name,
-        numberOfRaceVariants:
-          raw.numberOfRaceVariants > 0 ? raw.numberOfRaceVariants : 'unknown',
-        place: null,
-        registrationLink: '',
-        registrationStatus: 'unknown',
-      });
+      events.push(
+        normalizeEvent({
+          beginning,
+          ending,
+          eventLink,
+          name: raw.name,
+          ...parseLocation(raw.locationText),
+          numberOfRaceVariants:
+            raw.numberOfRaceVariants > 0 ? raw.numberOfRaceVariants : 'unknown',
+        }),
+      );
     }
   }
-
-  console.log('');
-  console.log(
-    `[KL] Trouvé ${events.length} évenements sur https://www.klikego.com/recherche?search=&geo=`,
-  );
-  console.log(
-    `[KL]  Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
-  );
-  console.log('');
-
-  return events;
+  return finalizeEvents('KL', `${BASE_URL}/recherche`, events);
 }
 
-const MONTH_ABBR_TO_FULL = {
-  janv: 'janvier',
-  févr: 'février',
-  fev: 'février',
-  mars: 'mars',
-  avr: 'avril',
-  mai: 'mai',
-  juin: 'juin',
-  juil: 'juillet',
-  août: 'août',
-  aout: 'août',
-  sept: 'septembre',
-  oct: 'octobre',
-  nov: 'novembre',
-  déc: 'décembre',
-  dec: 'décembre',
-};
+function extractCards() {
+  const cards = Array.from(document.querySelectorAll('div.relative.w-full'));
+
+  return cards
+    .map((card) => {
+      const link = card.querySelector('a[href*="/inscription/"]');
+      if (!link) return null;
+
+      const name =
+        card.querySelector('.text-content-body-emphasis')?.textContent.trim() ??
+        null;
+
+      const noteTexts = Array.from(
+        card.querySelectorAll('.text-content-note-regular'),
+      ).map((el) => el.textContent.trim());
+
+      const dateText = noteTexts.find((t) => /\d{4}/.test(t)) ?? null;
+      const locationText = noteTexts.find((t) => /\(\d{2,3}\)/.test(t)) ?? null;
+
+      // Nombre de variantes de course = nombre de badges de distance
+      const numberOfRaceVariants = card.querySelectorAll(
+        '.badge.badge-neutral.badge-light',
+      ).length;
+
+      return {
+        name,
+        dateText,
+        locationText,
+        numberOfRaceVariants,
+        link: link.getAttribute('href'),
+      };
+    })
+    .filter(Boolean);
+}
 
 /**
  * Convertit une date Klikego ("6 déc. 2026", "11–13 déc. 2026",
@@ -188,52 +134,49 @@ const MONTH_ABBR_TO_FULL = {
  */
 function parseKlikegoDate(rawText) {
   const cleaned = rawText
-    .replace(/\u00a0/g, ' ') // espaces insécables
-    .replace(/\./g, '') // "déc." -> "déc"
-    .replace(/[–—]/g, '-') // tirets typographiques -> tiret simple
+    .replace(/\u00a0/g, ' ')
+    .replace(/\./g, '')
+    .replace(/[–—]/g, '-')
     .replace(/\s+/g, ' ')
     .trim();
 
-  const expandMonth = (abbr) => {
-    const full = MONTH_ABBR_TO_FULL[abbr.toLowerCase()];
-    if (!full) throw new Error(`Mois inconnu: ${abbr}`);
-    return full;
-  };
-
-  // Cas 1 : "6 déc 2026" ou "11-13 déc 2026" -> directement compatible après expansion
+  // Cas 1 : "6 déc 2026" ou "11-13 déc 2026"
   let match = cleaned.match(
-    /^(\d{1,2})(?:\s*-\s*(\d{1,2}))?\s+([a-zéûà]+)\s+(\d{4})$/i,
+    /^(\d{1,2})(?:\s*-\s*(\d{1,2}))?\s+([A-Za-zÀ-ÿ]+)\s+(\d{4})$/i,
   );
   if (match) {
     const [, d1, d2, abbr, year] = match;
-    const month = expandMonth(abbr);
+    const month = expandMonthAbbr(abbr);
     return frenchDateToIsoDate(
       d2 ? `${d1} - ${d2} ${month} ${year}` : `${d1} ${month} ${year}`,
     );
   }
 
-  // Cas 2 : "1 févr - 20 déc 2026" (deux mois, une année)
+  // Cas 2 : "1 févr - 20 déc 2026"
   match = cleaned.match(
-    /^(\d{1,2})\s+([a-zéûà]+)\s*-\s*(\d{1,2})\s+([a-zéûà]+)\s+(\d{4})$/i,
+    /^(\d{1,2})\s+([A-Za-zÀ-ÿ]+)\s*-\s*(\d{1,2})\s+([A-Za-zÀ-ÿ]+)\s+(\d{4})$/i,
   );
   if (match) {
     const [, d1, m1, d2, m2, y] = match;
     return {
-      beginning: frenchDateToIsoDate(`${d1} ${expandMonth(m1)} ${y}`).beginning,
-      ending: frenchDateToIsoDate(`${d2} ${expandMonth(m2)} ${y}`).beginning,
+      beginning: frenchDateToIsoDate(`${d1} ${expandMonthAbbr(m1)} ${y}`)
+        .beginning,
+      ending: frenchDateToIsoDate(`${d2} ${expandMonthAbbr(m2)} ${y}`)
+        .beginning,
     };
   }
 
-  // Cas 3 : "1 sept 2026 - 31 août 2027" (deux dates complètes)
+  // Cas 3 : "1 sept 2026 - 31 août 2027"
   match = cleaned.match(
-    /^(\d{1,2})\s+([a-zéûà]+)\s+(\d{4})\s*-\s*(\d{1,2})\s+([a-zéûà]+)\s+(\d{4})$/i,
+    /^(\d{1,2})\s+([A-Za-zÀ-ÿ]+)\s+(\d{4})\s*-\s*(\d{1,2})\s+([A-Za-zÀ-ÿ]+)\s+(\d{4})$/i,
   );
   if (match) {
     const [, d1, m1, y1, d2, m2, y2] = match;
     return {
-      beginning: frenchDateToIsoDate(`${d1} ${expandMonth(m1)} ${y1}`)
+      beginning: frenchDateToIsoDate(`${d1} ${expandMonthAbbr(m1)} ${y1}`)
         .beginning,
-      ending: frenchDateToIsoDate(`${d2} ${expandMonth(m2)} ${y2}`).beginning,
+      ending: frenchDateToIsoDate(`${d2} ${expandMonthAbbr(m2)} ${y2}`)
+        .beginning,
     };
   }
 

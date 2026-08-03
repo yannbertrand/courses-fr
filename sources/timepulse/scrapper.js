@@ -1,15 +1,20 @@
-import { findEventType } from '../utils/event-type-finder.js';
+import {
+  absoluteUrl,
+  finalizeEvents,
+  getDateRange,
+  isInRange,
+  normalizeEvent,
+} from '../utils/scrapper-common.js';
+
+const BASE_URL = 'https://www.timepulse.fr';
 
 export async function listFutureEvents(nbMois, { page }) {
+  const { now, limitDate } = getDateRange(nbMois);
   console.log(`[TP] Récupération des événements`);
 
-  const now = new Date();
-  const limitDate = new Date(now);
   limitDate.setMonth(limitDate.getMonth() + nbMois);
 
-  const baseUrl = 'https://www.timepulse.fr';
-
-  await page.goto(`${baseUrl}/calendrier`, {
+  await page.goto(`${BASE_URL}/calendrier`, {
     waitUntil: 'networkidle2',
   });
 
@@ -28,12 +33,12 @@ export async function listFutureEvents(nbMois, { page }) {
       for (const article of articles) {
         const timeEl = article.querySelector('time');
         const h2 = article.querySelector('h2');
-        if (!timeEl || !h2) return;
+        if (!timeEl || !h2) continue;
 
         // Extraire tous les jours (gère "22 et 23 août" et "22 août")
         const timeText = timeEl.textContent.trim();
         const dayMatches = timeText.match(/\d{1,2}/g);
-        if (!dayMatches) return;
+        if (!dayMatches) continue;
 
         const beginDay = parseInt(dayMatches[0], 10);
         const endDay = parseInt(dayMatches[dayMatches.length - 1], 10);
@@ -79,7 +84,7 @@ export async function listFutureEvents(nbMois, { page }) {
           }
         });
 
-        if (!eventLink) return;
+        if (!eventLink) continue;
 
         results.push({
           beginDay,
@@ -103,48 +108,27 @@ export async function listFutureEvents(nbMois, { page }) {
   const events = rawEvents
     .map((ev) => {
       const pad = (n) => String(n).padStart(2, '0');
-
-      const beginningStr = new Date(
+      const beginning = new Date(
         `${ev.year}-${pad(ev.month)}-${pad(ev.beginDay)}`,
       ).getTime();
-      const endingStr = new Date(
+      const ending = new Date(
         `${ev.year}-${pad(ev.month)}-${pad(ev.endDay)}`,
       ).getTime();
+      if (!isInRange(beginning, { now, limitDate })) return null;
 
-      // Pour la comparaison avec now/limitDate, on utilise Date.UTC pour éviter tout décalage
-      const beginDate = new Date(Date.UTC(ev.year, ev.month - 1, ev.beginDay));
-
-      if (beginDate < now || beginDate > limitDate) return null;
-
-      const eventLink = ev.eventLink.startsWith('http')
-        ? ev.eventLink
-        : `${baseUrl}${ev.eventLink}`;
-
-      return {
+      return normalizeEvent({
+        beginning,
+        ending,
         place: ev.place,
         city: ev.city,
-        beginning: beginningStr,
-        ending: endingStr,
         departementNumber: ev.departementNumber,
-        eventLink,
-        eventType: findEventType(ev.eventType),
+        eventType: ev.eventType,
         name: ev.name,
-        numberOfRaceVariants: 'unknown',
-        registrationLink: '',
+        eventLink: absoluteUrl(ev.eventLink, BASE_URL),
         registrationStatus: ev.hasRegistrationLink ? 'open' : 'unknown',
-      };
+      });
     })
-    .filter(Boolean)
-    .sort((a, b) => a.beginning - b.beginning);
+    .filter(Boolean);
 
-  console.log('');
-  console.log(
-    `[TP] Trouvé ${events.length} évenements sur https://www.timepulse.fr/calendrier`,
-  );
-  console.log(
-    `[TP]  Du ${new Date(events.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(events.at(-1)?.beginning).toLocaleString('fr-FR')}`,
-  );
-  console.log('');
-
-  return events;
+  return finalizeEvents('TP', `${BASE_URL}/calendrier`, events);
 }

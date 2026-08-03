@@ -1,16 +1,23 @@
-import { findEventType } from '../utils/event-type-finder.js';
 import { frenchDateToIsoDate } from '../utils/french-date.js';
+import {
+  finalizeEvents,
+  getDateRange,
+  isInRange,
+  normalizeEvent,
+  parseLocation,
+} from '../utils/scrapper-common.js';
+
+const AGENDA_URL =
+  'https://www.espace-competition.com/index.php?module=accueil&action=agenda';
 
 export async function listFutureEvents(nbMois = 12, { page }) {
   console.log(`[EC] Récupération des événements`);
 
-  await page.goto(
-    'https://www.espace-competition.com/index.php?module=accueil&action=agenda',
-    {
-      waitUntil: 'networkidle2',
-    },
-  );
+  const { now, limitDate } = getDateRange(nbMois);
 
+  await page.goto(AGENDA_URL, { waitUntil: 'networkidle2' });
+
+  // Bandeau cookies éventuel
   try {
     const buttons = await page.$$('button');
     for (const btn of buttons) {
@@ -41,7 +48,7 @@ export async function listFutureEvents(nbMois = 12, { page }) {
 
   console.log('[EC] Extraction des événements...');
 
-  const events = await page.evaluate(async () => {
+  const rawEvents = await page.evaluate(() => {
     const result = [];
     const trs = Array.from(document.querySelectorAll('tbody > tr'));
 
@@ -68,9 +75,6 @@ export async function listFutureEvents(nbMois = 12, { page }) {
       const lieuText = lieuDiv
         ? lieuDiv.innerText.replace(/\s+/g, ' ').trim()
         : null;
-      const lieuMatch = lieuText ? lieuText.match(/^(.+?)\s*\((\d+)\)/) : null;
-      const city = lieuMatch ? lieuMatch[1].trim() : lieuText;
-      const departementNumber = lieuMatch ? parseInt(lieuMatch[2], 10) : null;
 
       const nbEpreuvesEl = tr.querySelector('.badge');
       const numberOfRaceVariants = nbEpreuvesEl
@@ -97,12 +101,10 @@ export async function listFutureEvents(nbMois = 12, { page }) {
       }
 
       result.push({
-        place: 'unknown',
         comp,
         dateString,
         name,
-        city,
-        departementNumber,
+        lieuText,
         eventType,
         registrationStatus,
         registrationLink,
@@ -114,37 +116,38 @@ export async function listFutureEvents(nbMois = 12, { page }) {
     return result;
   });
 
+  // Déduplication par "comp" + normalisation
   const uniqueMap = new Map();
-  for (const ev of events) {
-    if (ev.comp) {
-      uniqueMap.set(ev.comp, {
-        place: ev.place,
-        ...frenchDateToIsoDate(ev.dateString),
-        comp: ev.comp,
+  for (const ev of rawEvents) {
+    if (!ev.comp || !ev.dateString) continue;
+
+    let dates;
+    try {
+      dates = frenchDateToIsoDate(ev.dateString);
+    } catch {
+      continue; // date non parsable, on ignore
+    }
+
+    // Filtrage par nbMois (le chargement par boutons peut ramener du hors-période)
+    if (!isInRange(dates.beginning, { now, limitDate })) continue;
+
+    const { city, departementNumber } = parseLocation(ev.lieuText);
+
+    uniqueMap.set(
+      ev.comp,
+      normalizeEvent({
+        ...dates,
         name: ev.name,
-        city: ev.city,
-        departementNumber: ev.departementNumber,
-        eventType: findEventType(ev.eventType),
+        city,
+        departementNumber,
+        eventType: ev.eventType,
         registrationStatus: ev.registrationStatus,
         registrationLink: ev.registrationLink,
         eventLink: ev.eventLink,
-        numberOfRaceVariants: ev.numberOfRaceVariants,
-      });
-    }
+        numberOfRaceVariants: ev.numberOfRaceVariants ?? 'unknown',
+      }),
+    );
   }
 
-  const dedupedEvents = Array.from(uniqueMap.values()).map(
-    ({ comp, ...rest }) => rest,
-  );
-
-  console.log('');
-  console.log(
-    `[EC] Trouvé ${dedupedEvents.length} évenements sur https://www.espace-competition.com/index.php?module=accueil&action=agenda`,
-  );
-  console.log(
-    `[EC]  Du ${new Date(dedupedEvents.at(0)?.beginning).toLocaleString('fr-FR')} au ${new Date(dedupedEvents.at(-1)?.beginning).toLocaleString('fr-FR')}`,
-  );
-  console.log('');
-
-  return dedupedEvents;
+  return finalizeEvents('EC', AGENDA_URL, Array.from(uniqueMap.values()));
 }
