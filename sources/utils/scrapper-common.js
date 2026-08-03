@@ -20,12 +20,11 @@ export function normalizeEvent(raw) {
     place: 'unknown',
     city: null,
     departementNumber: null,
-    eventType: 'unknown',
     numberOfRaceVariants: 'unknown',
     registrationLink: '',
     registrationStatus: 'unknown',
     ...raw,
-    eventType: raw.eventType ? findEventType(raw.eventType) : 'unknown',
+    eventType: findEventType(raw.eventType),
   };
 }
 
