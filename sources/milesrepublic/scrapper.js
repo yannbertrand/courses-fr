@@ -56,7 +56,7 @@ function mapHit(hit) {
     numberOfRaceVariants: hit.eventLiveDistanceKm?.length ?? 'unknown',
     place: 'unknown',
     eventLink,
-    registrationLink: eventLink,
+    registrationLink: '',
     registrationStatus:
       hit.editionCalendarStatus === 'CONFIRMED' ? 'open' : 'unknown',
   };

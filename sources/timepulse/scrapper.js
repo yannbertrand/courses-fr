@@ -68,12 +68,12 @@ export async function listFutureEvents(nbMois, { page }) {
 
         const links = article.querySelectorAll('.bt-wrap a');
         let eventLink = null;
-        let registrationLink = null;
+        let hasRegistrationLink = false;
 
         links.forEach((a) => {
           const href = a.getAttribute('href');
           if (href.includes('#epreuve')) {
-            registrationLink = href;
+            hasRegistrationLink = true;
           } else {
             eventLink = href;
           }
@@ -92,7 +92,7 @@ export async function listFutureEvents(nbMois, { page }) {
           departementNumber,
           eventType,
           eventLink,
-          registrationLink,
+          hasRegistrationLink,
         });
       }
     }
@@ -119,11 +119,6 @@ export async function listFutureEvents(nbMois, { page }) {
       const eventLink = ev.eventLink.startsWith('http')
         ? ev.eventLink
         : `${baseUrl}${ev.eventLink}`;
-      const registrationLink = ev.registrationLink
-        ? ev.registrationLink.startsWith('http')
-          ? ev.registrationLink
-          : `${baseUrl}${ev.registrationLink}`
-        : null;
 
       return {
         place: ev.place,
@@ -135,8 +130,8 @@ export async function listFutureEvents(nbMois, { page }) {
         eventType: findEventType(ev.eventType),
         name: ev.name,
         numberOfRaceVariants: 'unknown',
-        registrationLink: registrationLink || eventLink,
-        registrationStatus: registrationLink ? 'open' : 'unknown',
+        registrationLink: '',
+        registrationStatus: ev.hasRegistrationLink ? 'open' : 'unknown',
       };
     })
     .filter(Boolean)

@@ -37,7 +37,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "BACKYARD ULTRA Saint-Jude",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/backyard-ultra-saint-jude-2026/running-course-a-pied/1779433585991-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -50,7 +50,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "ENDURO des SABLES",
           "numberOfRaceVariants": 9,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/enduro-des-sables-2026/running-course-a-pied-marche-nordique/1497318881384-10",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -63,7 +63,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Johanna's Color Run",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/johannas-color-run-2026/running-course-a-pied/1559092823188-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -76,7 +76,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Fresn'N Run",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-fresnn-run-2026/course-a-pied-running/1774691656225-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -89,7 +89,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les foulées Fougerollaises",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-fougerollaises-2026/running-course-a-pied/1686604830451-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -102,7 +102,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les Foulées Stéphanoises",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-stephanoises-2026/running-course-a-pied/1529526473305-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -115,7 +115,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "MARATHON ST ANDRE DES EAUX 22630",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/marathon-st-andre-des-eaux--22630-2026/running-course-a-pied/1524255600254-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -128,7 +128,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de la Forêt de Saint Sever",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-la-foret-de-saint-sever-2026/running-course-a-pied/1561506082592-14",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -141,7 +141,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail du Pays du Châtaignier 2026",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-du-pays-du-chataignier-2026/course-a-pied-running/1652297007253-5",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -154,7 +154,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "LA BEACH RUN TRANCHAISE",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-beach-run-tranchaise-2026/running-course-a-pied/1289363737972-23",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -167,7 +167,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "12ème Trail des 6 Burons",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/12eme-trail-des-6-burons-2026/course-a-pied-running/1417744126765-19",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -180,7 +180,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Corrida pédestre de la licorne",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/corrida-pedestre-de-la-licorne-2026/running-course-a-pied/1743986785490-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -193,7 +193,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "LES FOULÉES DE BRASPARTS",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-de-brasparts-2026/course-a-pied-running/1529653089423-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -206,7 +206,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "MINI MARATHON SAINT-JEAN/SAINT-LAURENT DU MARONILES FOULEES DE L'AMITIE SPORTIVE",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/mini-marathon--saint-jeansaint-laurent-du-maroniles-foulees-de-lamitie-sportive-2026/running-course-a-pied/1782900274273-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -219,7 +219,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail du Quiloury",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-du-quiloury-2026/running-course-a-pied-marche-nordique/1717380072949-3",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -232,7 +232,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "FOULEES DES LANGOUSTINES - Challenge RUN AVENTURE BRO AN ORIANT 2026",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/foulees-des-langoustines-challenge-run-aventure-bro-an-oriant-2026/running-course-a-pied/1496620669711-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -245,7 +245,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les Foulées du Milhassou 2026",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-du-milhassou-2026/running-course-a-pied/1656531109697-5",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -258,7 +258,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Pont l'Abbé Urban Trail 2026",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/pont-labbe-urban-trail-2026/running-course-a-pied/1778797719471-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -271,7 +271,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Course du 15 août",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/course-du-15-aout-2026/running-course-a-pied/1624668298530-6",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -284,7 +284,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Foulées Saugettes 2026",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/foulees-saugettes-2026/running-course-a-pied/1433108543142-21",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -297,7 +297,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Foulée des Tourterelles 2026",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-foulee-des-tourterelles-2026/running-course-a-pied/1650333998247-6",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -310,7 +310,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Seilhac Summer Run",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/seilhac-summer-run-2026/running-course-a-pied/1776993214196-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -323,7 +323,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail des Forges Ychoux",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-des-forges-ychoux-2026/running-course-a-pied/1741387871041-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -336,7 +336,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "L'Arvor Saintpolitaine",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/larvor-saintpolitaine-2026/running-course-a-pied/1671003953876-6",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -349,7 +349,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Parcours d'orientation",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/parcours-dorientation-2026/running-course-a-pied/1783625839314-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -362,7 +362,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de Queue D'Ane 2026",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-queue-dane-2026/running-course-a-pied/1622684601155-6",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -375,7 +375,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail du Mont Gargan 2026",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-du-mont-gargan-2026/running-course-a-pied/1746145028683-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -388,7 +388,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Virée au Domaine de Nounours",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-viree-au-domaine-de-nounours-2026/running-course-a-pied/1433965577672-14",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -401,7 +401,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Montée du Phare d'Eckmühl",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/montee-du-phare-deckmuhl-2026/running-course-a-pied/1685770871621-4",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -414,7 +414,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de l'algue 2026",
           "numberOfRaceVariants": 10,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-lalgue-2026/running-course-a-pied-marche-nordique/1782109338804-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -427,7 +427,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Triathlon de la Madeleine",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/triathlon-de-la-madeleine-2026/triathlon/1699664782865-6",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -440,7 +440,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Triathlon de la Ferté-Bernard 2026",
           "numberOfRaceVariants": 8,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/triathlon-de-la-ferte-bernard-2026/triathlon/1682975279042-5",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -453,7 +453,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Foulées de Madranges 2026",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/foulees-de-madranges-2026/running-course-a-pied/1748553146887-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -466,7 +466,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Foulées Meslannaises",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/foulees-meslannaises-2026/running-course-a-pied/1653961052390-5",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -479,7 +479,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Ronde des Phares 2026",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-ronde-des-phares-2026/running-course-a-pied/1717106660656-3",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -492,7 +492,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Ronde du Four 2026",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-ronde-du-four-2026/running-course-a-pied/1747097896945-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -505,7 +505,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les foulées O2 l'air",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-o2-lair-2026/running-course-a-pied/1643237107171-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -518,7 +518,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "MARATHON DES ÉTOILES DE LA BAIE",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/marathon-des-etoiles-de-la-baie-2026/course-a-pied-running/1661660197943-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -531,7 +531,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "RANDOS U VTT - GRAVEL - MARCHE " La Manche Atlantique "",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/randos-u--vtt-gravel-marche---la-manche-atlantique--2026/cyclo/vtt/1752785676796-4",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -544,7 +544,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Run in Séné Nature 2026",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/run-in-sene-nature-2026/course-a-pied-running/1543709692306-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -557,7 +557,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "TRAIL DE L'HUITRE",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-lhuitre-2026/running-course-a-pied/1777880501775-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -570,7 +570,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de Peyrignac",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-peyrignac-2026/running-course-a-pied/1747082851006-3",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -583,7 +583,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trails de la montagne",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trails-de-la-montagne-2026/course-a-pied-running/1776796331243-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -596,7 +596,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Urban trail",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/urban-trail-2026/running-course-a-pied/1782607331698-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -609,7 +609,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Cross de la Foire d'Automne",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/cross-de-la-foire-dautomne-2026/running-course-a-pied/1749784297019-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -622,7 +622,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Biskoulenn",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-biskoulenn-2026/running-course-a-pied/1647992854676-5",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -635,7 +635,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "LA TREZ BELLEC",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-trez-bellec-2026/running-course-a-pied/1743540715773-3",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -648,7 +648,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "LE TRAIL D'ANNESSE 2026",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/le-trail-dannesse-2026/running-course-a-pied/1654544826542-4",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -661,7 +661,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Le Trail du 1313 2026",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/le-trail-du-1313-2026/running-course-a-pied/1715795807693-3",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -674,7 +674,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les Foulées Gourmandes",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-gourmandes-2026/running-course-a-pied/1545792733497-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -687,7 +687,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Parigny Running Show",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/parigny-running-show-2026/running-course-a-pied/1726864032196-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -700,7 +700,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Plouf'trail de la Maxi Gouët",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/plouftrail-de-la-maxi-gouet-2026/running-course-a-pied/1719017557913-3",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -713,7 +713,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Randonnée du Comité des fêtes de Plouay",
           "numberOfRaceVariants": "unknown",
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/randonnee-du-comite-des-fetes-de-plouay-2026/running-marche-nordique/1486906592795-20",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -726,7 +726,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "TRAIL DE SAINT-PHILIBERT",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-saint-philibert-2026/running-course-a-pied/1566127531880-5",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -739,7 +739,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "TRAIL DES POTIANS épisode 2",
           "numberOfRaceVariants": 6,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-des-potians-episode-2-2026/running-course-a-pied/1741115948337-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -752,7 +752,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Triathlon de Veigné - Edition 2026",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/triathlon-de-veigne-edition-2026/triathlon/1740975965646-4",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -765,7 +765,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Le Tour de Houat",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/le-tour-de-houat-2026/running-course-a-pied/1704950771660-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -778,7 +778,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "TRIATHLON DES CADETS DE GASCOGNE 2026",
           "numberOfRaceVariants": 9,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/triathlon-des-cadets-de-gascogne-2026/triathlon/1703648524449-5",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -791,7 +791,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "16ème Triathlon du Pays de Quimperlé",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/16eme-triathlon-du-pays-de-quimperle-2026/triathlon/1329877266341-19",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -804,7 +804,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Gravel de l'Odet 105km / 60km / 35km",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/gravel-de-lodet-105km--60km--35km-2026/cyclo/vtt/1745366113769-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -817,7 +817,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Cro Magnon",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/course-a-pied-running/1767296761033-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -830,7 +830,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "LA DOMARTOISE",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-domartoise-2026/running-course-a-pied/1621924692918-10",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -843,7 +843,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Le Gouruntrail",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/le-gouruntrail-2026/running-course-a-pied/1638121706046-6",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -856,7 +856,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les 10 Km Vayres - Rochechouart",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-10-km-vayres-rochechouart-2026/running-course-a-pied/1761079181557-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -869,7 +869,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les Foulées du Sillon 2026",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-du-sillon-2026/running-course-a-pied/1430097349716-11",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -882,7 +882,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "RAID BOL D'EAU 2026",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/raid-bol-deau-2026/running-course-a-pied/1717782997203-3",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -895,7 +895,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Randonnée & course libres Rêves de Marmouz",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/randonnee--course-libres-reves-de-marmouz-2026/running-course-a-pied/1722632170257-4",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -908,7 +908,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de Bourron-Marlotte",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-bourron-marlotte-2026/running-course-a-pied/1778205266444-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -921,7 +921,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail des Châteaux 2026",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-des-chateaux-2026/running-course-a-pied/1415523726020-9",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -934,7 +934,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "TRAIL TAHITI PAPENOO 2026",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-tahiti-papenoo-2026/running-course-a-pied-marche-nordique/1436987879178-27",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -947,7 +947,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Triathlon de Carentan",
           "numberOfRaceVariants": 6,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/triathlon-de-carentan-2026/triathlon/1580677317492-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -960,7 +960,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Triathlon Raid du Cap Ste Adresse",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/triathlon-raid-du-cap-ste-adresse-2026/triathlon/1619593066063-13",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -973,7 +973,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "URBAN WILD BAVENT",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/urban-wild-bavent-2026/running-course-a-pied/1725333772884-4",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -986,7 +986,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "24èmes foulées kernéveloises",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/24emes-foulees-kerneveloises-2026/running-course-a-pied/1531027253285-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -999,7 +999,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "49ème Foulées Châteaulinoises",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/49eme-foulees-chateaulinoises-2026/running-course-a-pied/1496025007232-14",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1012,7 +1012,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Corrid'Oeuf",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-corridoeuf-2026/running-course-a-pied/1689804697914-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1025,7 +1025,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La corrida de Pontivy",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-corrida-de-pontivy-2026/running-course-a-pied/1718231947073-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1038,7 +1038,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La course au homard",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-course-au-homard-2026/running-course-a-pied/1781750639650-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1051,7 +1051,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Grande Bosse 21km & la Petite Bosse 10km",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-grande-bosse-21km--la-petite-bosse-10km-2026/running-course-a-pied/1427507090682-24",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1064,7 +1064,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les Foulées de la Tour",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-de-la-tour-2026/running-course-a-pied/1693081209668-9",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1077,7 +1077,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Rural Trail des Foulées de la Rosière",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/rural-trail-des-foulees-de-la-rosiere-2026/running-course-a-pied/1653540626177-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1090,7 +1090,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de la vallée de l'Urne",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-la-vallee-de-lurne-2026/running-course-a-pied/1663749929985-9",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1103,7 +1103,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de la vallée du Bois Riou",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-bois-riou-2026/running-course-a-pied/1780645915872-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1116,7 +1116,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail Urbain de Châteaubourg",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-urbain-de-chateaubourg-2026/running-course-a-pied/jceb_1353799516527-12",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1129,7 +1129,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Stage Trail en Suisse normande",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/stage-trail-en-suisse-normande-2026/running-course-a-pied/1773697515147-6",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1142,7 +1142,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trizef Triathlon 2026 - 2ème édition",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trizef-triathlon-2026-2eme-edition/triathlon/1771306287932-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1155,7 +1155,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "10km Hexagone Trocadéro",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/10km-hexagone-trocadero-2026/running-course-a-pied/1724195398568-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1168,7 +1168,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "10km Run d'espoir",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/10km-run-despoir-2026/running-course-a-pied/1768252386841-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1181,7 +1181,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "5 et 10km de la st Grégoire",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/5-et-10km-de-la-st-gregoire-2026/running-course-a-pied/1686604830451-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1194,7 +1194,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "CHARCU'TRAILS",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/charcutrails-2026/running-course-a-pied/1758051819634-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1207,7 +1207,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Courir à Carignan 2026",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/courir-a-carignan-2026/running-course-a-pied/1681848760467-4",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1220,7 +1220,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "COURSE DU COEUR - Première édition - 5 Km",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/course-du-coeur-premiere-edition-5-km-2026/running-course-a-pied/1774946889808-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1233,7 +1233,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Foulées de Menfouest",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/foulees-de-menfouest-2026/running-course-a-pied/1495425678076-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1246,7 +1246,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "L'Armor Trail Santec",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/larmor-trail-santec-2026/running-course-a-pied/1623204318528-6",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1259,7 +1259,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La braconienne Briaude",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-braconienne-briaude-2026/running-course-a-pied/1776385987476-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1272,7 +1272,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Color Run des Cramp'O Nez",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-color-run-des-crampo-nez-2026/running-course-a-pied/1775865885864-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1285,7 +1285,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Guib'Roul",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-guibroul-2026/running-course-a-pied/1754425569405-3",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1298,7 +1298,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Guiboll'run",
           "numberOfRaceVariants": 6,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-guibollrun-2026/running-course-a-pied/1579734410853-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1311,7 +1311,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Santez Helen La course nature de la ria d'Etel",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-santez-helen-la-course-nature-de-la-ria-detel-2026/running-course-a-pied/1485655279941-15",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1324,7 +1324,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "La Stellantis Run",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/la-stellantis-run-2026/running-course-a-pied/1780688895761-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1337,7 +1337,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les 10 km de l'Avenir - Edition 2026",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-10-km-de-lavenir-edition-2026/running-course-a-pied/1717803804391-3",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1350,7 +1350,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les Boucles de Saint-Thonan - Challenge de l'Elorn",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-boucles-de-saint-thonan-challenge-de-lelorn-2026/running-course-a-pied/1561498121416-12",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1363,7 +1363,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "LES FOULEES D'IZE 2026",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-dize-2026/running-course-a-pied/1572788573194-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1376,7 +1376,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Les Foulées de la Forêt de Bréviande",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/les-foulees-de-la-foret-de-breviande-2026/running-course-a-pied/1430291346020-13",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1389,7 +1389,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Paris Églises Tour 2026",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/paris-eglises-tour-2026/running-course-a-pied/1763593801187-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1402,7 +1402,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Randonnée Gourmande - La Rand'Eau des Papilles",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/randonnee-gourmande-la-randeau-des-papilles-2026/course-a-pied-running/1745360127215-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1415,7 +1415,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Run and Bike La Vecquemontoise",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/run-and-bike-la-vecquemontoise-2026/triathlon/1743801130879-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1428,7 +1428,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "RUN SENS PIWI 2026",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/run-sens-piwi-2026/running-course-a-pied/1748303371812-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1441,7 +1441,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Sur les Traces Des Moulins de Plonéour",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/sur-les-traces-des-moulins-de-ploneour-2026/running-course-a-pied/1706220220437-5",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1454,7 +1454,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de Fontseche",
           "numberOfRaceVariants": 3,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-fontseche-2026/running-course-a-pied/1773451446403-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1467,7 +1467,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de Gestel",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-gestel-2026/running-course-a-pied/1470777014151-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1480,7 +1480,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail de l'Ecole Ste Therese",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-de-lecole-ste-therese-2026/running-course-a-pied/1781508971357-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1493,7 +1493,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail des Croquants",
           "numberOfRaceVariants": 6,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-des-croquants-2026/running-course-a-pied/1551850936519-8",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1506,7 +1506,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Trail du bandiat 2026",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/trail-du-bandiat-2026/running-course-a-pied/1688433500099-4",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1519,7 +1519,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "TRI ALRE RACE - Saint Goustan Auray",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/tri-alre-race-saint-goustan-auray-2026/triathlon/1489906391862-10",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1532,7 +1532,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Triathlon de Caen 2026",
           "numberOfRaceVariants": 4,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/triathlon-de-caen-2026/triathlon/1513897436512-21",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1545,7 +1545,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Triathlon de Saint-Gilles-Croix-de-Vie 2026",
           "numberOfRaceVariants": 5,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/triathlon-de-saint-gilles-croix-de-vie-2026/triathlon/1644021780895-7",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1558,7 +1558,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "AMBRIERES URBAN TRAIL",
           "numberOfRaceVariants": 6,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/ambrieres-urban-trail-2026/running-course-a-pied/1559768009308-9",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1571,7 +1571,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Backyard MILS 205",
           "numberOfRaceVariants": 1,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/backyard-mils-205-2026/running-course-a-pied/1784066012251-1",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -1584,7 +1584,7 @@ describe('#klikego.listFutureEvents()', () => {
           "name": "Causse Trail 2026",
           "numberOfRaceVariants": 2,
           "place": null,
-          "registrationLink": "https://www.klikego.com/inscription/causse-trail-2026/running-course-a-pied/1750897709640-2",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
       ]

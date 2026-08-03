@@ -31,7 +31,7 @@ describe('#timePulse.listFutureEvents()', () => {
           "name": "Les Foulées Micheloises 2026",
           "numberOfRaceVariants": "unknown",
           "place": "Complexe sportif de la Viauderie",
-          "registrationLink": "https://www.timepulse.fr/evenements/voir/3422/les-foulees-micheloises-2026-saint-michel-chef-chef#epreuve",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -44,7 +44,7 @@ describe('#timePulse.listFutureEvents()', () => {
           "name": "EDF AQUA CHALLENGE PARIS",
           "numberOfRaceVariants": "unknown",
           "place": "BRAS DE GRENELLE - PARIS 15 VAUGIRARD (75)",
-          "registrationLink": "https://www.timepulse.fr/calendrier/voir/3511/edf-aqua-challenge-paris-paris-15-vaugirard",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -57,7 +57,7 @@ describe('#timePulse.listFutureEvents()', () => {
           "name": "Les Foulées des Dunes",
           "numberOfRaceVariants": "unknown",
           "place": "Boulevard de l'Océan (A proximité de l'Office du Tourisme situé Place Rene Guy Cadou ) Saint Brevin L'Océan.",
-          "registrationLink": "https://www.timepulse.fr/evenements/voir/3407/les-foulees-des-dunes-saint-brevin-les-pins#epreuve",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -70,7 +70,7 @@ describe('#timePulse.listFutureEvents()', () => {
           "name": "Traversée du lac à ANNECY (74)",
           "numberOfRaceVariants": "unknown",
           "place": "Annecy",
-          "registrationLink": "https://www.timepulse.fr/calendrier/voir/3512/traversee-du-lac-a-annecy-74-annecy",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -83,7 +83,7 @@ describe('#timePulse.listFutureEvents()', () => {
           "name": "Trail des Moulins 2026",
           "numberOfRaceVariants": "unknown",
           "place": "Stade de la Pommeraye",
-          "registrationLink": "https://www.timepulse.fr/evenements/voir/3318/trail-des-moulins-2026-la-pommeraye#epreuve",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -96,7 +96,7 @@ describe('#timePulse.listFutureEvents()', () => {
           "name": "Marche Nordique Trail des Moulins 2026",
           "numberOfRaceVariants": "unknown",
           "place": "Stade de la Pommeraye",
-          "registrationLink": "https://www.timepulse.fr/evenements/voir/3320/marche-nordique-trail-des-moulins-2026-la-pommeraye#epreuve",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -109,7 +109,7 @@ describe('#timePulse.listFutureEvents()', () => {
           "name": "Trail du Pont Noyer",
           "numberOfRaceVariants": "unknown",
           "place": "Le Haut Vieux Couffé",
-          "registrationLink": "https://www.timepulse.fr/evenements/voir/3335/trail-du-pont-noyer-couffe#epreuve",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -122,7 +122,7 @@ describe('#timePulse.listFutureEvents()', () => {
           "name": "TOULON SWIM RACE",
           "numberOfRaceVariants": "unknown",
           "place": "Anse des Pins, Mourillon, Toulon",
-          "registrationLink": "https://www.timepulse.fr/evenements/voir/3420/toulon-swim-race-toulon#epreuve",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
       ]

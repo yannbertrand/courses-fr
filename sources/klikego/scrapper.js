@@ -99,7 +99,7 @@ export async function listFutureEvents(nbMois, { page }) {
       }
     }
 
-    const fullLink = raw.link.startsWith('http')
+    const eventLink = raw.link.startsWith('http')
       ? raw.link
       : `https://www.klikego.com${raw.link}`;
 
@@ -108,13 +108,13 @@ export async function listFutureEvents(nbMois, { page }) {
       city,
       departementNumber,
       ending,
-      eventLink: fullLink,
+      eventLink,
       eventType: 'unknown',
       name: raw.name,
       numberOfRaceVariants:
         raw.numberOfRaceVariants > 0 ? raw.numberOfRaceVariants : 'unknown',
       place: null,
-      registrationLink: fullLink,
+      registrationLink: '',
       registrationStatus: 'unknown',
     });
   }

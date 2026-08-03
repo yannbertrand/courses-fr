@@ -38,7 +38,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "2 miles Sri Chinmoy",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/2-miles-sri-chinmoy-7590",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -51,7 +51,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Grand Raid Kiprun 3 Vallées Moûtiers",
           "numberOfRaceVariants": 6,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/grand-raid-kiprun-3-vallees-moutiers-15342",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -64,7 +64,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Rando Ste Propice",
           "numberOfRaceVariants": 19,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/rando-ste-propice-route-gravel-vtt-et-marche-15713",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -77,7 +77,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Lindahls Pro+ Triathlon Séries",
           "numberOfRaceVariants": 2,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/lindahls-pro-triathlon-series-12136",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -90,7 +90,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "La verticale Haut Vial",
           "numberOfRaceVariants": 3,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/la-verticale-haut-vial-5548",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -103,7 +103,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Les foulées des 4 portes",
           "numberOfRaceVariants": 7,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/les-foulees-des-4-portes-3037",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -116,7 +116,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Morvan oxygène trail",
           "numberOfRaceVariants": 6,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/morvan-oxygene-trail-2108",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -129,7 +129,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Mud girl Provence",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/mud-girl-provence-10158",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -142,7 +142,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": " Lindahls Pro+ Triathlon Séries",
           "numberOfRaceVariants": 2,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/-lindahls-pro-triathlon-series-12724",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -155,7 +155,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "L'enfer vert",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/l-enfer-vert-15328",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -168,7 +168,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "La Monte et sèche",
           "numberOfRaceVariants": 4,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/la-monte-et-seche-10757",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -181,7 +181,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "LA Mez Bain",
           "numberOfRaceVariants": 2,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/gravel-des-brasseurs-11986",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -194,7 +194,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Road Trip de Brocéliande ",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/road-trip-de-broceliande-13945",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -207,7 +207,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Bugey night racing serie",
           "numberOfRaceVariants": 3,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/bugey-night-racing-serie-9024",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -220,7 +220,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "La 6000D Trail de légende",
           "numberOfRaceVariants": 8,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/la-6000d-la-plagne-2092",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -233,7 +233,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Sugar Trail",
           "numberOfRaceVariants": 3,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/runthrough-trails-pila-15062",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -246,7 +246,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Trail du montagnon",
           "numberOfRaceVariants": 3,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/trail-du-montagnon-8150",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -259,7 +259,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Trail des Forts de la Vallée de l'Ubaye",
           "numberOfRaceVariants": 3,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/trail-des-forts-de-la-vallee-de-lubaye-17415",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -272,7 +272,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Enduro Series - Coupe de France Enduro VTT & VTTAE - Valmeinier",
           "numberOfRaceVariants": 0,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/enduro-series-coupe-de-france-enduro-vtt-and-vttae-valmeinier-10580",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -285,7 +285,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Trail de l'étendard",
           "numberOfRaceVariants": 4,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/trail-de-l-etendard-2134",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -298,7 +298,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Trail du Céou",
           "numberOfRaceVariants": 3,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/trail-du-ceou-2259",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -311,7 +311,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Les trail des lacs d'Orcières",
           "numberOfRaceVariants": 8,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/les-trail-des-lacs-dorcieres-2539",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -324,7 +324,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Loopsheim",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/loopsheim-17414",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -337,7 +337,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "STAGE ENTRAINEMENT EAU LIBRE ET TRIATHLON - Deauville",
           "numberOfRaceVariants": 0,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/stage-entrainement-eau-libre-et-triathlon-deauville-14089",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -350,7 +350,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Enduro des sables",
           "numberOfRaceVariants": 7,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/enduro-des-sables-2493",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -363,7 +363,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "La course des 2 ponts",
           "numberOfRaceVariants": 5,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/la-course-des-2-ponts-2445",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -376,7 +376,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Trail la Frison Roche",
           "numberOfRaceVariants": 5,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/trail-la-frison-roche-6692",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -389,7 +389,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Les foulées semi nocturne de la ville de st pierre",
           "numberOfRaceVariants": 2,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/les-foulees-semi-nocturne-de-la-ville-de-st-pierre-14131",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -402,7 +402,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Les boucles rubempréennes",
           "numberOfRaceVariants": 4,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/les-boucles-rubempreennes-5537",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -415,7 +415,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "La ronde cuquoise",
           "numberOfRaceVariants": 2,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/la-ronde-cuquoise-2456",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -428,7 +428,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Corrida de surbourg	",
           "numberOfRaceVariants": 4,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/corrida-de-surbourg-9165",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -441,7 +441,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Course nature des dunes",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/course-nature-des-dunes-12184",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -454,7 +454,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "La Course Des Sauveteurs En Mer",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/la-course-des-sauveteurs-en-mer-16647",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -467,7 +467,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Trail Des Fontaines De Velzic",
           "numberOfRaceVariants": 2,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/trail-des-fontaines-de-velzic-17238",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -480,7 +480,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Urban Trail Saint Esteve",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/urban-trail-saint-esteve-17565",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -493,7 +493,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Semi Nocturne De Ribes",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/semi-nocturne-de-ribes-16011",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -506,7 +506,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "La boucle nature de l'été",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/la-boucle-nature-de-l-ete-5556",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -519,7 +519,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Les foulées de la perle de la chalosse",
           "numberOfRaceVariants": 3,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/les-foulees-de-la-perle-de-la-chalosse-7697",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -532,7 +532,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Penvénan color ",
           "numberOfRaceVariants": 2,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/penvenan-color-8282",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -545,7 +545,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "La galopade andrésienne",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/la-galopade-andresienne-8480",
+          "registrationLink": "",
           "registrationStatus": "open",
         },
         {
@@ -558,7 +558,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Uncentparmois",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/uncentparmois-14486",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
         {
@@ -571,7 +571,7 @@ describe('#milesrepublic.listFutureEvents()', () => {
           "name": "Dodecaudax 200 Km Aout",
           "numberOfRaceVariants": 1,
           "place": "unknown",
-          "registrationLink": "https://fr.milesrepublic.com/event/dodecaudax-200-km-aout-14487",
+          "registrationLink": "",
           "registrationStatus": "unknown",
         },
       ]
