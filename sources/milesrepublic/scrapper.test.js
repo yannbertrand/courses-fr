@@ -1,7 +1,6 @@
 import { readFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import { afterEach, describe, expect, it, vi } from 'vitest';
-import { getBrowserPage } from '../../browser/browser.js';
 import { mockFetch } from '../utils/mock-fetch.js';
 import { listFutureEvents } from './scrapper.js';
 
@@ -22,8 +21,6 @@ describe('#milesrepublic.listFutureEvents()', () => {
         response: json,
       },
     ]);
-
-    const { browser } = await getBrowserPage();
 
     const list = await listFutureEvents(1);
     expect(list).toMatchInlineSnapshot(`
@@ -576,7 +573,5 @@ describe('#milesrepublic.listFutureEvents()', () => {
         },
       ]
     `);
-
-    await browser.close();
   });
 });
