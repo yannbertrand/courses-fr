@@ -5803,12 +5803,12 @@
     "departementNumber": 49,
     "eventType": "running",
     "numberOfRaceVariants": 2,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3142",
+    "registrationLink": "https://www.bougetonfneu.fr/",
     "registrationStatus": "open",
     "beginning": 1787961600000,
     "ending": 1787961600000,
     "name": "BOUGE TON F'NEU LE TRAIL",
-    "eventLink": "https://www.bougetonfneu.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3142"
   },
   {
     "place": "unknown",
@@ -5816,12 +5816,12 @@
     "departementNumber": 85,
     "eventType": "trail",
     "numberOfRaceVariants": 2,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3160",
+    "registrationLink": "https://facebook.com/events/s/-solidarun-2026-/1745195390228815/",
     "registrationStatus": "open",
     "beginning": 1787961600000,
     "ending": 1787961600000,
     "name": "SOLIDA’RUN 2026",
-    "eventLink": "https://facebook.com/events/s/-solidarun-2026-/1745195390228815/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3160"
   },
   {
     "place": "unknown",
@@ -6895,12 +6895,12 @@
     "departementNumber": 41,
     "eventType": "poursuite_sur_terre",
     "numberOfRaceVariants": 15,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3119",
+    "registrationLink": "https://sites.google.com/view/autopoursuitecentre/accueil",
     "registrationStatus": "open",
     "beginning": 1788048000000,
     "ending": 1788048000000,
     "name": ".AUTO-POURSUITE KART CROSS . CIRCUIT DE VAULIONS TEAM MARTINET COMPETITION",
-    "eventLink": "https://sites.google.com/view/autopoursuitecentre/accueil"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3119"
   },
   {
     "place": "unknown",
@@ -9391,12 +9391,12 @@
     "departementNumber": 85,
     "eventType": "running",
     "numberOfRaceVariants": 7,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3166",
+    "registrationLink": "https://dompierrecourseaventure.fr/",
     "registrationStatus": "open",
     "beginning": 1788566400000,
     "ending": 1788566400000,
     "name": "LA DOM'PIED'ROISE",
-    "eventLink": "https://dompierrecourseaventure.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3166"
   },
   {
     "place": "unknown",
@@ -10795,12 +10795,12 @@
     "departementNumber": 49,
     "eventType": "triathlon",
     "numberOfRaceVariants": 5,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3194",
+    "registrationLink": "https://sites.google.com/site/triathlonpouance/triathlon/accueil-du-triathlon?authuser=0",
     "registrationStatus": "open",
     "beginning": 1788652800000,
     "ending": 1788652800000,
     "name": "TRIATHLON DE POUANCE",
-    "eventLink": "https://sites.google.com/site/triathlonpouance/triathlon/accueil-du-triathlon?authuser=0"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3194"
   },
   {
     "place": "unknown",
@@ -10808,25 +10808,12 @@
     "departementNumber": 44,
     "eventType": "running",
     "numberOfRaceVariants": 4,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3176",
+    "registrationLink": "http://www.basse-goulaine.fr/",
     "registrationStatus": "open",
     "beginning": 1788652800000,
     "ending": 1788652800000,
     "name": "LES SENTIERS DE GOULAINE 2026",
-    "eventLink": "http://www.basse-goulaine.fr/"
-  },
-  {
-    "place": "unknown",
-    "city": "ECOUCHÉ LES VALLÉES",
-    "departementNumber": 61,
-    "eventType": "poursuite_sur_terre",
-    "numberOfRaceVariants": 38,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3224",
-    "registrationStatus": "open",
-    "beginning": 1788652800000,
-    "ending": 1788652800000,
-    "name": "POURSUITE SUR TERRE - TROISIEME ÉPREUVE DU TROPHÉE MAINE ANJOU ECOUCHE",
-    "eventLink": "https://www.facebook.com/groups/4155814168077047/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3176"
   },
   {
     "place": "unknown",
@@ -10839,7 +10826,20 @@
     "beginning": 1788652800000,
     "ending": 1788652800000,
     "name": "FAYE L'ABBESSE 6EME MANCHE TROPHEE POITOU CHARENTES VENDEE",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3208"
+  },
+  {
+    "place": "unknown",
+    "city": "ECOUCHÉ LES VALLÉES",
+    "departementNumber": 61,
+    "eventType": "poursuite_sur_terre",
+    "numberOfRaceVariants": 38,
+    "registrationLink": "https://www.facebook.com/groups/4155814168077047/",
+    "registrationStatus": "open",
+    "beginning": 1788652800000,
+    "ending": 1788652800000,
+    "name": "POURSUITE SUR TERRE - TROISIEME ÉPREUVE DU TROPHÉE MAINE ANJOU ECOUCHE",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3224"
   },
   {
     "place": "unknown",
@@ -14591,12 +14591,12 @@
     "departementNumber": 49,
     "eventType": "running",
     "numberOfRaceVariants": 3,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3097",
+    "registrationLink": "http://lesfouleesdecouflant.sportsregions.fr/",
     "registrationStatus": "closed",
     "beginning": 1789084800000,
     "ending": 1789084800000,
     "name": "LES FOULÉES D'ECOUFLANT",
-    "eventLink": "http://lesfouleesdecouflant.sportsregions.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3097"
   },
   {
     "place": "unknown",
@@ -15059,12 +15059,12 @@
     "departementNumber": 85,
     "eventType": "running",
     "numberOfRaceVariants": 8,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3191",
+    "registrationLink": "https://runinmouilleron.s2.yapla.com/fr/",
     "registrationStatus": "open",
     "beginning": 1789171200000,
     "ending": 1789171200000,
     "name": "COURSE AU JAMBON 2026",
-    "eventLink": "https://runinmouilleron.s2.yapla.com/fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3191"
   },
   {
     "place": "unknown",
@@ -16931,12 +16931,12 @@
     "departementNumber": 44,
     "eventType": "running",
     "numberOfRaceVariants": 7,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3123",
+    "registrationLink": "https://asbr-athle.fr/les-challenges-de-reze/",
     "registrationStatus": "open",
     "beginning": 1789257600000,
     "ending": 1789257600000,
     "name": "LES CHALLENGES DE REZÉ 2026",
-    "eventLink": "https://asbr-athle.fr/les-challenges-de-reze/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3123"
   },
   {
     "place": "unknown",
@@ -16944,12 +16944,12 @@
     "departementNumber": 53,
     "eventType": "running",
     "numberOfRaceVariants": 6,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3181",
+    "registrationLink": "https://lhuisseriejogging.wordpress.com/",
     "registrationStatus": "open",
     "beginning": 1789257600000,
     "ending": 1789257600000,
     "name": "L’HUISS’RUN",
-    "eventLink": "https://lhuisseriejogging.wordpress.com/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3181"
   },
   {
     "place": "unknown",
@@ -16957,12 +16957,12 @@
     "departementNumber": 72,
     "eventType": "triathlon",
     "numberOfRaceVariants": 8,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3201",
+    "registrationLink": "http://www.la-fleche-triathlon.fr/",
     "registrationStatus": "open",
     "beginning": 1789257600000,
     "ending": 1789257600000,
     "name": "CROSS TRIATHLON DE LA FLÈCHE",
-    "eventLink": "http://www.la-fleche-triathlon.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3201"
   },
   {
     "place": "unknown",
@@ -16975,7 +16975,7 @@
     "beginning": 1789257600000,
     "ending": 1789257600000,
     "name": "LES FOULEES EN OR",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3187"
   },
   {
     "place": "unknown",
@@ -16988,7 +16988,7 @@
     "beginning": 1789257600000,
     "ending": 1789257600000,
     "name": "TRAIL MONTAIGU VENDEE",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3168"
   },
   {
     "place": "unknown",
@@ -21070,7 +21070,7 @@
     "beginning": 1789776000000,
     "ending": 1789776000000,
     "name": "KABYLIE TRAIL",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3153"
   },
   {
     "place": "unknown",
@@ -21078,12 +21078,12 @@
     "departementNumber": 49,
     "eventType": "running",
     "numberOfRaceVariants": 5,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3103",
+    "registrationLink": "http://www.grammoirienne.fr/",
     "registrationStatus": "open",
     "beginning": 1789776000000,
     "ending": 1789776000000,
     "name": "LA GRAMMOIRIENNE 2026",
-    "eventLink": "http://www.grammoirienne.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3103"
   },
   {
     "place": "unknown",
@@ -23080,12 +23080,12 @@
     "departementNumber": 72,
     "eventType": "trail",
     "numberOfRaceVariants": 3,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3159",
+    "registrationLink": "https://www.vma72.fr/traildelantenne.html#anchor-top",
     "registrationStatus": "open",
     "beginning": 1789862400000,
     "ending": 1789862400000,
     "name": "TRAIL DE L'ANTENNE DE MAYET / ROTARY 21KM 12KM 5KM",
-    "eventLink": "https://www.vma72.fr/traildelantenne.html#anchor-top"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3159"
   },
   {
     "place": "unknown",
@@ -23098,7 +23098,7 @@
     "beginning": 1789862400000,
     "ending": 1789862400000,
     "name": "LE TRAIL “LA MAREUILLAISE”",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3161"
   },
   {
     "place": "unknown",
@@ -23106,12 +23106,12 @@
     "departementNumber": 49,
     "eventType": "running",
     "numberOfRaceVariants": 7,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3150",
+    "registrationLink": "https://athlelysvihiersois.sportsregions.fr/",
     "registrationStatus": "open",
     "beginning": 1789862400000,
     "ending": 1789862400000,
     "name": "TRAIL LYS HAUT LAYON",
-    "eventLink": "https://athlelysvihiersois.sportsregions.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3150"
   },
   {
     "place": "unknown",
@@ -23119,12 +23119,12 @@
     "departementNumber": 85,
     "eventType": "running",
     "numberOfRaceVariants": 8,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3154",
+    "registrationLink": "https://www.semimarathondenesmy.fr/",
     "registrationStatus": "open",
     "beginning": 1789862400000,
     "ending": 1789862400000,
     "name": "SEMI-MARATHON ET 10 KM DE NESMY",
-    "eventLink": "https://www.semimarathondenesmy.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3154"
   },
   {
     "place": "unknown",
@@ -23132,12 +23132,12 @@
     "departementNumber": 49,
     "eventType": "running",
     "numberOfRaceVariants": 8,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3193",
+    "registrationLink": "https://foulees-automne.jimdo.com/",
     "registrationStatus": "open",
     "beginning": 1789862400000,
     "ending": 1789862400000,
     "name": "LES FOULÉES D'AUTOMNE 2026",
-    "eventLink": "https://foulees-automne.jimdo.com/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3193"
   },
   {
     "place": "unknown",
@@ -27661,7 +27661,7 @@
     "beginning": 1790380800000,
     "ending": 1790380800000,
     "name": "LA PETITE GEMMOISE 2026",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3128"
   },
   {
     "place": "unknown",
@@ -27669,12 +27669,12 @@
     "departementNumber": 53,
     "eventType": "poursuite_sur_terre",
     "numberOfRaceVariants": 4,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3225",
+    "registrationLink": "https://www.facebook.com/groups/4155814168077047/",
     "registrationStatus": "not_open_yet",
     "beginning": 1790380800000,
     "ending": 1790467200000,
     "name": "POURSUITE SUR TERRE - QUATRIÈME ÉPREUVES DU TROPHÉE MAINE ANJOU ST GERMAIN",
-    "eventLink": "https://www.facebook.com/groups/4155814168077047/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3225"
   },
   {
     "place": "unknown",
@@ -27682,12 +27682,12 @@
     "departementNumber": 85,
     "eventType": "trail",
     "numberOfRaceVariants": 2,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3204",
+    "registrationLink": "https://facebook.com/events/s/journee-des-prefous/1503813831473914/",
     "registrationStatus": "open",
     "beginning": 1790380800000,
     "ending": 1790380800000,
     "name": "TRAIL DES PRÉFOUS",
-    "eventLink": "https://facebook.com/events/s/journee-des-prefous/1503813831473914/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3204"
   },
   {
     "place": "Village Viikings - Salle des 3 iles - Rue des Chaintres",
@@ -29364,7 +29364,7 @@
     "beginning": 1790467200000,
     "ending": 1790467200000,
     "name": "RANDONNÉE GUSTATIVE LA PETITE GEMMOISE 2026",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3129"
   },
   {
     "place": "unknown",
@@ -29377,7 +29377,7 @@
     "beginning": 1790467200000,
     "ending": 1790467200000,
     "name": "AUTO-POURSUITE KART CROSS CIRCUIT LA CHAPELLE VICOMTESSE CARITA",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3117"
   },
   {
     "place": "unknown",
@@ -29390,7 +29390,7 @@
     "beginning": 1790467200000,
     "ending": 1790467200000,
     "name": "BIATHLON RUN",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3174"
   },
   {
     "place": "unknown",
@@ -29398,12 +29398,12 @@
     "departementNumber": 92,
     "eventType": "running",
     "numberOfRaceVariants": 7,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3155",
+    "registrationLink": "https://www.viradeparcdesceaux.org/",
     "registrationStatus": "open",
     "beginning": 1790467200000,
     "ending": 1790467200000,
     "name": "COURSE DU SOUFFLE DE SCEAUX 2026",
-    "eventLink": "https://www.viradeparcdesceaux.org/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3155"
   },
   {
     "place": "unknown",
@@ -29411,12 +29411,12 @@
     "departementNumber": 85,
     "eventType": "running",
     "numberOfRaceVariants": 5,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3111",
+    "registrationLink": "https://www.espace-competition.com/www.cpndm.fr",
     "registrationStatus": "open",
     "beginning": 1790467200000,
     "ending": 1790467200000,
     "name": "LA MONTOISE",
-    "eventLink": "https://www.espace-competition.com/www.cpndm.fr"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3111"
   },
   {
     "place": "unknown",
@@ -29424,12 +29424,12 @@
     "departementNumber": 49,
     "eventType": "trail",
     "numberOfRaceVariants": 9,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3138",
+    "registrationLink": "https://courirenlayon.fr/",
     "registrationStatus": "open",
     "beginning": 1790467200000,
     "ending": 1790467200000,
     "name": "TRAILS DU LAYON",
-    "eventLink": "https://courirenlayon.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3138"
   },
   {
     "place": "unknown",
@@ -29442,7 +29442,7 @@
     "beginning": 1790467200000,
     "ending": 1790467200000,
     "name": "LES FOULÉES DU GRAON",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3169"
   },
   {
     "place": "unknown",
@@ -29455,7 +29455,7 @@
     "beginning": 1790467200000,
     "ending": 1790467200000,
     "name": "MELLERAN 8EME MANCHE TROPHEE POITOU CHARENTES VENDEE",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3226"
   },
   {
     "place": "Domaine national de Saint-Cloud",
@@ -35786,7 +35786,7 @@
     "beginning": 1791072000000,
     "ending": 1791072000000,
     "name": "COURSE D'ORIENTATAION 2026",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3198"
   },
   {
     "place": "unknown",
@@ -35794,12 +35794,12 @@
     "departementNumber": 85,
     "eventType": "trail",
     "numberOfRaceVariants": 3,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3136",
+    "registrationLink": "https://www.facebook.com/share/18N6fHYb9u/",
     "registrationStatus": "open",
     "beginning": 1791072000000,
     "ending": 1791072000000,
     "name": "TRAIL DE LA SOURCE",
-    "eventLink": "https://www.facebook.com/share/18N6fHYb9u/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3136"
   },
   {
     "place": "unknown",
@@ -40713,7 +40713,7 @@
     "beginning": 1791590400000,
     "ending": 1791590400000,
     "name": "CROSS DÉPARTEMENTAL DES SAPEURS-POMPIERS DE LA VENDÉE",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3210"
   },
   {
     "place": "unknown",
@@ -40721,12 +40721,12 @@
     "departementNumber": 49,
     "eventType": "trail",
     "numberOfRaceVariants": 2,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3195",
+    "registrationLink": "http://www.athletisme-esshautanjou.fr/",
     "registrationStatus": "open",
     "beginning": 1791590400000,
     "ending": 1791590400000,
     "name": "TRAIL URBAIN DE SEGRE",
-    "eventLink": "http://www.athletisme-esshautanjou.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3195"
   },
   {
     "place": "unknown",
@@ -47767,12 +47767,12 @@
     "departementNumber": 72,
     "eventType": "running",
     "numberOfRaceVariants": 2,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3107",
+    "registrationLink": "http://lesfouleesludoises.e-monsite.com/",
     "registrationStatus": "open",
     "beginning": 1792281600000,
     "ending": 1792281600000,
     "name": "LES FOULEES LUDOISES 2026 - 15EME EDITION",
-    "eventLink": "http://lesfouleesludoises.e-monsite.com/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3107"
   },
   {
     "place": "unknown",
@@ -47780,12 +47780,12 @@
     "departementNumber": 49,
     "eventType": "running",
     "numberOfRaceVariants": 2,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3200",
+    "registrationLink": "http://www.loire-authion.fr/course-nature-latitude/",
     "registrationStatus": "open",
     "beginning": 1792281600000,
     "ending": 1792281600000,
     "name": "LA’TITUDE ÉDITION 2026",
-    "eventLink": "http://www.loire-authion.fr/course-nature-latitude/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3200"
   },
   {
     "place": "unknown",
@@ -47793,12 +47793,12 @@
     "departementNumber": 49,
     "eventType": "running",
     "numberOfRaceVariants": 9,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3125",
+    "registrationLink": "https://lestracesdulouet.com/",
     "registrationStatus": "open",
     "beginning": 1792281600000,
     "ending": 1792281600000,
     "name": "LES TRACES DU LOUET",
-    "eventLink": "https://lestracesdulouet.com/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3125"
   },
   {
     "place": "unknown",
@@ -50575,12 +50575,12 @@
     "departementNumber": 49,
     "eventType": "running",
     "numberOfRaceVariants": 7,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3152",
+    "registrationLink": "https://la-linieroise.sportsregions.fr/",
     "registrationStatus": "closed",
     "beginning": 1792800000000,
     "ending": 1792800000000,
     "name": "13EME LINIÈROISE",
-    "eventLink": "https://la-linieroise.sportsregions.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3152"
   },
   {
     "place": "unknown",
@@ -51290,12 +51290,12 @@
     "departementNumber": 85,
     "eventType": "running",
     "numberOfRaceVariants": 5,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3216",
+    "registrationLink": "https://larochesuryon.asptt.com/",
     "registrationStatus": "open",
     "beginning": 1792886400000,
     "ending": 1792886400000,
     "name": "LES FOULÉES BOURGADINES",
-    "eventLink": "https://larochesuryon.asptt.com/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3216"
   },
   {
     "place": "unknown",
@@ -51303,12 +51303,12 @@
     "departementNumber": 53,
     "eventType": "trail",
     "numberOfRaceVariants": 9,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3219",
+    "registrationLink": "https://www.facebook.com/CraonNaturhallesTrail",
     "registrationStatus": "open",
     "beginning": 1792886400000,
     "ending": 1792886400000,
     "name": "CRAON NATUR'HALLES TRAIL 2026",
-    "eventLink": "https://www.facebook.com/CraonNaturhallesTrail"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3219"
   },
   {
     "place": "Salle Omnisports",
@@ -53929,12 +53929,12 @@
     "departementNumber": 49,
     "eventType": "running",
     "numberOfRaceVariants": 6,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3221",
+    "registrationLink": "http://www.castelrace.fr/",
     "registrationStatus": "not_open_yet",
     "beginning": 1793491200000,
     "ending": 1793491200000,
     "name": "CASTEL RACE",
-    "eventLink": "http://www.castelrace.fr/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3221"
   },
   {
     "place": "unknown",
@@ -57673,12 +57673,12 @@
     "departementNumber": 44,
     "eventType": "running",
     "numberOfRaceVariants": 3,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3122",
+    "registrationLink": "https://enl44athletisme.com/",
     "registrationStatus": "open",
     "beginning": 1794355200000,
     "ending": 1794355200000,
     "name": "TRAIL DE GUEMENE",
-    "eventLink": "https://enl44athletisme.com/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3122"
   },
   {
     "place": "unknown",
@@ -58991,7 +58991,7 @@
     "beginning": 1794700800000,
     "ending": 1794700800000,
     "name": "TRAIL DE LA GUYONNIERE",
-    "eventLink": null
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3215"
   },
   {
     "place": "unknown",
@@ -58999,12 +58999,12 @@
     "departementNumber": 44,
     "eventType": "running",
     "numberOfRaceVariants": 1,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3212",
+    "registrationLink": "https://www.escoueron-athletisme.com/",
     "registrationStatus": "open",
     "beginning": 1794700800000,
     "ending": 1794700800000,
     "name": "TRAIL DE L'ERDURIERE - 11 KMS -",
-    "eventLink": "https://www.escoueron-athletisme.com/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3212"
   },
   {
     "place": "unknown",
@@ -65096,12 +65096,12 @@
     "departementNumber": 85,
     "eventType": "trail",
     "numberOfRaceVariants": 6,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3222",
+    "registrationLink": "http://raidlandesaventure.e-monsite.com/",
     "registrationStatus": "open",
     "beginning": 1796515200000,
     "ending": 1796515200000,
     "name": "TRAIL DES MAINES",
-    "eventLink": "http://raidlandesaventure.e-monsite.com/"
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3222"
   },
   {
     "place": "unknown",
@@ -130677,19 +130677,6 @@
   },
   {
     "place": "unknown",
-    "city": "Ancelle",
-    "departementNumber": 5,
-    "eventType": "trail",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1811777400000,
-    "ending": 1811838600000,
-    "name": "Trails ancelle",
-    "eventLink": "https://fr.milesrepublic.com/event/"
-  },
-  {
-    "place": "unknown",
     "city": "Donnemarie-Dontilly",
     "departementNumber": 77,
     "eventType": "trail",
@@ -134070,19 +134057,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint-Laurent-de-Cognac",
-    "departementNumber": 16,
-    "eventType": "trail",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812319200000,
-    "ending": 1812353400000,
-    "name": "Trail des borderies",
-    "eventLink": "https://fr.milesrepublic.com/event/"
-  },
-  {
-    "place": "unknown",
     "city": "Mézangers",
     "departementNumber": 53,
     "eventType": "triathlon",
@@ -136602,19 +136576,6 @@
     "ending": 1812441600000,
     "name": "La Caussenarde Larzac",
     "eventLink": "https://fr.milesrepublic.com/event/la-caussenarde-larzac-13774"
-  },
-  {
-    "place": "unknown",
-    "city": "Bligny-sur-Ouche",
-    "departementNumber": 21,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 11,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812438000000,
-    "ending": 1812439800000,
-    "name": "Randonnées des Sources de l'Ouche",
-    "eventLink": "https://fr.milesrepublic.com/event/"
   },
   {
     "place": "unknown",
