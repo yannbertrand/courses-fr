@@ -55,16 +55,18 @@ jobs:
           const oldEvents = JSON.parse(await readFile('/tmp/events.old.json', 'utf8'));
           const newEvents = JSON.parse(await readFile('dist/events.json', 'utf8'));
 
-          const oldByEventLink = new Map(oldEvents.map((e) => [e.eventLink, JSON.stringify(e)]));
-          const newByEventLink = new Map(newEvents.map((e) => [e.eventLink, JSON.stringify(e)]));
+          const key = (e) => e.eventLink ?? e.registrationLink;
+
+          const oldByKey = new Map(oldEvents.map((e) => [key(e), JSON.stringify(e)]));
+          const newByKey = new Map(newEvents.map((e) => [key(e), JSON.stringify(e)]));
 
           let added = 0, removed = 0, modified = 0;
-          for (const [eventLink, json] of newByEventLink) {
-            if (!oldByEventLink.has(eventLink)) added++;
-            else if (oldByEventLink.get(eventLink) !== json) modified++;
+          for (const [k, json] of newByKey) {
+            if (!oldByKey.has(k)) added++;
+            else if (oldByKey.get(k) !== json) modified++;
           }
-          for (const eventLink of oldByEventLink.keys()) {
-            if (!newByEventLink.has(eventLink)) removed++;
+          for (const k of oldByKey.keys()) {
+            if (!newByKey.has(k)) removed++;
           }
 
           console.log(`commit-msg=📦️ Sync events.json (+${added} added, ~${modified} modified, -${removed} removed)`);
