@@ -80,10 +80,10 @@ export async function listFutureEvents(nbMois = 12, { page }) {
         ? parseInt(nbEpreuvesEl.innerText, 10)
         : null;
 
-      const siteWebEl = tr.querySelector('a[target="_blank"]');
-      const eventLink = siteWebEl ? siteWebEl.href : null;
+      const eventLink = link.href;
 
-      const registrationLink = link.href;
+      const siteWebEl = tr.querySelector('a[target="_blank"]');
+      const registrationLink = siteWebEl ? siteWebEl.href : eventLink;
 
       const btnEl = tr.querySelector('td.vert-align a');
       let registrationStatus;
