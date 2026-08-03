@@ -73242,6 +73242,19 @@
     "registrationStatus": "unknown"
   },
   {
+    "beginning": 1800777600000,
+    "ending": 1800795600000,
+    "city": "Tignes",
+    "departementNumber": "",
+    "eventType": "running",
+    "name": "Les courses du lac gelé",
+    "numberOfRaceVariants": 3,
+    "place": "unknown",
+    "eventLink": "https://fr.milesrepublic.com/event/les-courses-du-lac-gele-15128",
+    "registrationLink": "",
+    "registrationStatus": "open"
+  },
+  {
     "beginning": 1800779400000,
     "ending": 1800865800000,
     "city": "Paussac-et-Saint-Vivien",
@@ -73292,19 +73305,6 @@
     "eventLink": "https://fr.milesrepublic.com/event/trail-chantelle-sports-nature-776",
     "registrationLink": "",
     "registrationStatus": "unknown"
-  },
-  {
-    "beginning": 1800784800000,
-    "ending": 1800799200000,
-    "city": "Tignes",
-    "departementNumber": "",
-    "eventType": "running",
-    "name": "Les courses du lac gelé",
-    "numberOfRaceVariants": 3,
-    "place": "unknown",
-    "eventLink": "https://fr.milesrepublic.com/event/les-courses-du-lac-gele-15128",
-    "registrationLink": "",
-    "registrationStatus": "open"
   },
   {
     "beginning": 1800787800000,
