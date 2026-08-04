@@ -53210,6 +53210,19 @@
   },
   {
     "place": "unknown",
+    "city": "St gilles les bains",
+    "departementNumber": 97,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1793404800000,
+    "ending": 1793491200000,
+    "eventLink": "https://www.klikego.com/inscription/eden-rox-challenge-2026/course-a-pied-running/1699481084702-16",
+    "name": "EDEN ROX CHALLENGE"
+  },
+  {
+    "place": "unknown",
     "city": "Orgeres",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -61200,8 +61213,8 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/tro-maneguen-2026/running-course-a-pied/1481176811097-9",
-    "name": "Tro Maneguen"
+    "eventLink": "https://www.klikego.com/inscription/trail-tro-maneguen-2026/course-a-pied-running/1481176811097-9",
+    "name": "Trail Tro Maneguen"
   },
   {
     "place": "Salle de La Viauderie",
