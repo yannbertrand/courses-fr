@@ -17109,6 +17109,19 @@
   },
   {
     "place": "unknown",
+    "city": "Landeda",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1789257600000,
+    "ending": 1789257600000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-maree-2026/course-a-pied-running/1782507024143-1",
+    "name": "Trail de la grande marée"
+  },
+  {
+    "place": "unknown",
     "city": "Espagnac ste eulalie",
     "departementNumber": 46,
     "eventType": "unknown",
@@ -23190,19 +23203,6 @@
     "ending": 1789862400000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-saulnieroises-2026/running-course-a-pied/1622701227018-6",
     "name": "Les Foulées Saulnièroises"
-  },
-  {
-    "place": "unknown",
-    "city": "Coutances",
-    "departementNumber": 50,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789862400000,
-    "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/les-galopades-coutancaises-2026/running-course-a-pied/1776215424481-1",
-    "name": "Les galopades Coutancaises"
   },
   {
     "place": "carrière de La Clarté",
