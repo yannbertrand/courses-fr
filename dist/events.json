@@ -248,45 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "Courboin",
-    "departementNumber": 2,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1785794400000,
-    "ending": 1785794400000,
-    "name": "Octobre rose",
-    "eventLink": "https://fr.milesrepublic.com/event/octobre-rose-11383"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Maurice-près-Pionsat",
-    "departementNumber": 63,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1785794400000,
-    "ending": 1785794400000,
-    "name": "Randonnée découverte et sportive au nord ouest de la Combraille",
-    "eventLink": "https://fr.milesrepublic.com/event/randonnee-decouverte-et-sportive-au-nord-ouest-de-la-combraille-11598"
-  },
-  {
-    "place": "unknown",
-    "city": "Orleans",
-    "departementNumber": 45,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 14,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1785794400000,
-    "ending": 1785794400000,
-    "name": "Sfic - Sologne Sud Ouest Vers Chambord Et Cheverny",
-    "eventLink": "https://fr.milesrepublic.com/event/sfic-2025-sologne-sud-ouest-vers-chambord-et-cheverny-14474"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-seurin-sur-l'isle",
     "departementNumber": 33,
     "eventType": "cycling",
@@ -21238,7 +21199,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789776000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-terroir-saussignac-2026/course-a-pied-running/1735779952196-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-terroir-saussignac-2026/running-course-a-pied/1735779952196-3",
     "name": "TRAIL TERROIR SAUSSIGNAC"
   },
   {
@@ -23188,7 +23149,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789862400000,
     "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/course-nature-et-patrimoine-2026/course-a-pied-running/1780536716132-1",
+    "eventLink": "https://www.klikego.com/inscription/course-nature-et-patrimoine-2026/running-course-a-pied/1780536716132-1",
     "name": "Course nature et patrimoine"
   },
   {
@@ -61239,7 +61200,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/tro-maneguen-2026/course-a-pied-running/1481176811097-9",
+    "eventLink": "https://www.klikego.com/inscription/tro-maneguen-2026/running-course-a-pied/1481176811097-9",
     "name": "Tro Maneguen"
   },
   {
@@ -136849,6 +136810,45 @@
     "ending": 1812528000000,
     "name": "Trail de saint antoine",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-saint-antoine-11028"
+  },
+  {
+    "place": "unknown",
+    "city": "Apremont",
+    "departementNumber": 73,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812528000000,
+    "ending": 1812528000000,
+    "name": "Inseec running wine",
+    "eventLink": "https://fr.milesrepublic.com/event/inseec-running-wine-8493"
+  },
+  {
+    "place": "unknown",
+    "city": "Rives-en-Seine",
+    "departementNumber": 76,
+    "eventType": "walk",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812578400000,
+    "ending": 1812633300000,
+    "name": "Trail des 5 châteaux",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-5-chateaux-1945"
+  },
+  {
+    "place": "unknown",
+    "city": "Witry-lès-Reims",
+    "departementNumber": 51,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812578400000,
+    "ending": 1812578400000,
+    "name": "Corrida de Witry-lès-Reims",
+    "eventLink": "https://fr.milesrepublic.com/event/corrida-de-witry-les-reims-4494"
   },
   {
     "place": "unknown",
