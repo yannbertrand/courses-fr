@@ -243,8 +243,8 @@
     "registrationStatus": "unknown",
     "beginning": 1785369600000,
     "ending": 1791072000000,
-    "eventLink": "https://www.klikego.com/inscription/run-and-bike-2026/triathlon/1784171546742-1",
-    "name": "Run and bike"
+    "eventLink": "https://www.klikego.com/inscription/run-and-bike-de-st-fort-2026/triathlon/1784171546742-1",
+    "name": "Run and bike de St Fort"
   },
   {
     "place": "unknown",
@@ -11467,6 +11467,19 @@
   },
   {
     "place": "unknown",
+    "city": "Amiens",
+    "departementNumber": 80,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788676200000,
+    "ending": 1788678600000,
+    "name": "Cyclo La Chevron - Tour du Grand Amiens",
+    "eventLink": "https://fr.milesrepublic.com/event/cyclo-la-chevron-tour-du-grand-amiens-17929"
+  },
+  {
+    "place": "unknown",
     "city": "Castelnau Montratier",
     "departementNumber": 46,
     "eventType": "trail",
@@ -17564,6 +17577,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cléry-sur-Somme",
+    "departementNumber": 80,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789281000000,
+    "ending": 1789281000000,
+    "name": "La Rando du Bonhomme, cap sur le Canal",
+    "eventLink": "https://fr.milesrepublic.com/event/la-rando-du-bonhomme-cap-sur-le-canal-17930"
+  },
+  {
+    "place": "unknown",
     "city": "Saint Andre",
     "departementNumber": 6,
     "eventType": "running",
@@ -22829,6 +22855,19 @@
   },
   {
     "place": "unknown",
+    "city": "Septmonts",
+    "departementNumber": "",
+    "eventType": "cycling",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789855200000,
+    "ending": 1789855200000,
+    "name": "Balad'aisne",
+    "eventLink": "https://fr.milesrepublic.com/event/24-eme-balad-aisne-15008"
+  },
+  {
+    "place": "unknown",
     "city": "Chantemerle-lès-Grignan",
     "departementNumber": 26,
     "eventType": "walk",
@@ -25816,19 +25855,6 @@
     "ending": 1789941600000,
     "name": "Le Grand 8 Cellois",
     "eventLink": "https://fr.milesrepublic.com/event/le-grand-8-cellois-2025-15007"
-  },
-  {
-    "place": "unknown",
-    "city": "Septmonts",
-    "departementNumber": "",
-    "eventType": "cycling",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789941600000,
-    "ending": 1789941600000,
-    "name": "Balad'aisne",
-    "eventLink": "https://fr.milesrepublic.com/event/24-eme-balad-aisne-15008"
   },
   {
     "place": "unknown",
@@ -42571,8 +42597,8 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-solidaire-des-blesses-des-armees-octobre-2026/running-course-a-pied/1764111925312-3",
-    "name": "Trail solidaire des blessés des Armées - Octobre 2026"
+    "eventLink": "https://www.klikego.com/inscription/trail-solidaire-des-blesses-des-armees-2026/course-a-pied-running/1764111925312-3",
+    "name": "Trail solidaire des blessés des Armées"
   },
   {
     "place": "Le Halage Mayenne",
@@ -60568,6 +60594,19 @@
   },
   {
     "place": "unknown",
+    "city": "St jean sur vilaine",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795219200000,
+    "ending": 1795219200000,
+    "eventLink": "https://www.klikego.com/inscription/sjc-2026/course-a-pied-running/1784495683631-1",
+    "name": "SJC"
+  },
+  {
+    "place": "unknown",
     "city": "St denis",
     "departementNumber": 97,
     "eventType": "unknown",
@@ -63064,6 +63103,19 @@
   },
   {
     "place": "unknown",
+    "city": "Blaye les mines",
+    "departementNumber": 81,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795910400000,
+    "ending": 1795910400000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-gueules-noires-2026/course-a-pied-running/1481148611984-17",
+    "name": "TRAIL DES GUEULES NOIRES"
+  },
+  {
+    "place": "unknown",
     "city": "Loperhet",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -65178,7 +65230,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/intra-cap-2026/running-course-a-pied/1782243335916-1",
+    "eventLink": "https://www.klikego.com/inscription/intra-cap-2026/course-a-pied-running/1782243335916-1",
     "name": "Intra Cap"
   },
   {
@@ -69145,6 +69197,19 @@
     "ending": 1797721200000,
     "name": "La Gravel De Noel",
     "eventLink": "https://fr.milesrepublic.com/event/la-gravel-de-noel-14934"
+  },
+  {
+    "place": "unknown",
+    "city": "Spay",
+    "departementNumber": 72,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797724800000,
+    "ending": 1797724800000,
+    "eventLink": "https://www.klikego.com/inscription/cross-du-houssay-2026/course-a-pied-running/1701661159205-4",
+    "name": "Cross du Houssay"
   },
   {
     "place": "unknown",
@@ -87722,6 +87787,19 @@
     "ending": 1805702400000,
     "name": "Handisport - Championnats de France Snowboard - Carroz",
     "eventLink": "https://fr.milesrepublic.com/event/handisport-championnats-de-france-snowboard-carroz-13343"
+  },
+  {
+    "place": "unknown",
+    "city": "Ballan mire",
+    "departementNumber": 37,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805587200000,
+    "ending": 1805587200000,
+    "eventLink": "https://www.klikego.com/inscription/ekiden-de-touraine-2027/course-a-pied-running/1699681901237-4",
+    "name": "Ekiden de Touraine 2027"
   },
   {
     "place": "unknown",
@@ -136836,32 +136914,6 @@
     "ending": 1812492000000,
     "name": "Animathlon Rennes",
     "eventLink": "https://fr.milesrepublic.com/event/animathlon-rennes-12135"
-  },
-  {
-    "place": "unknown",
-    "city": "Auragne",
-    "departementNumber": 31,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812492000000,
-    "ending": 1812524400000,
-    "name": "Randonnée des clochers",
-    "eventLink": "https://fr.milesrepublic.com/event/randonnee-des-clochers-13899"
-  },
-  {
-    "place": "unknown",
-    "city": "Villers-Allerand",
-    "departementNumber": 51,
-    "eventType": "walk",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812520800000,
-    "ending": 1812528000000,
-    "name": "Trail par couple",
-    "eventLink": "https://fr.milesrepublic.com/event/course-par-couples-1633"
   },
   {
     "place": "unknown",
