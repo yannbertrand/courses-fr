@@ -248,19 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "Anglet",
-    "departementNumber": 64,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1785947400000,
-    "ending": 1785947400000,
-    "name": "PBS Sports",
-    "eventLink": "https://fr.milesrepublic.com/event/pop-bike-shop-17352"
-  },
-  {
-    "place": "unknown",
     "city": "Acy",
     "departementNumber": 2,
     "eventType": "running",
@@ -4182,7 +4169,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-o2-lair-2026/running-course-a-pied/1643237107171-2",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-o2-lair-2026/course-a-pied-running/1643237107171-2",
     "name": "Les foulées O2 l'air"
   },
   {
@@ -10848,7 +10835,7 @@
     "eventType": "poursuite_sur_terre",
     "numberOfRaceVariants": 17,
     "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3208",
-    "registrationStatus": "not_open_yet",
+    "registrationStatus": "open",
     "beginning": 1788652800000,
     "ending": 1788652800000,
     "name": "FAYE L'ABBESSE 6EME MANCHE TROPHEE POITOU CHARENTES VENDEE",
@@ -17005,6 +16992,19 @@
   },
   {
     "place": "unknown",
+    "city": "Pessac",
+    "departementNumber": 33,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1789257600000,
+    "ending": 1789257600000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-rotary-2026/course-a-pied-running/1784779041624-1",
+    "name": "Les foulées du Rotary"
+  },
+  {
+    "place": "unknown",
     "city": "AVRILLE",
     "departementNumber": 49,
     "eventType": "running",
@@ -17125,7 +17125,7 @@
     "city": "Landeda",
     "departementNumber": 29,
     "eventType": "unknown",
-    "numberOfRaceVariants": "unknown",
+    "numberOfRaceVariants": 1,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
@@ -22413,6 +22413,19 @@
   },
   {
     "place": "unknown",
+    "city": "Mazamet",
+    "departementNumber": 81,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789855200000,
+    "ending": 1789855200000,
+    "name": "Gravel La Mazamétaine",
+    "eventLink": "https://fr.milesrepublic.com/event/gravel-la-mazametaine-17943"
+  },
+  {
+    "place": "unknown",
     "city": "Istres",
     "departementNumber": 13,
     "eventType": "triathlon",
@@ -23216,19 +23229,6 @@
     "ending": 1789862400000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-du-cab-2026/running-course-a-pied/1636602079119-8",
     "name": "Les foulées du CAB 2026"
-  },
-  {
-    "place": "unknown",
-    "city": "Saintes",
-    "departementNumber": 17,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789862400000,
-    "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-patrimoine-vi-edition-2026/running-course-a-pied/1429810657817-3",
-    "name": "Les Foulées du Patrimoine - VI édition"
   },
   {
     "place": "Place Bougainville",
@@ -27220,6 +27220,19 @@
     "ending": 1790373600000,
     "name": "10km Linkebeek",
     "eventLink": "https://fr.milesrepublic.com/event/10km-linkebeek-17756"
+  },
+  {
+    "place": "unknown",
+    "city": "Font-Romeu-Odeillo-Via",
+    "departementNumber": 66,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790373600000,
+    "ending": 1790373600000,
+    "name": "66 Degrés Sud Pyrénées Catalanes Gravel Tour",
+    "eventLink": "https://fr.milesrepublic.com/event/66-degres-sud-pyrenees-catalanes-gravel-tour-17942"
   },
   {
     "place": "unknown",
@@ -33281,19 +33294,6 @@
   },
   {
     "place": "unknown",
-    "city": "Volvic",
-    "departementNumber": 63,
-    "eventType": "walk",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1790832600000,
-    "ending": 1790832600000,
-    "name": "La tatave",
-    "eventLink": "https://fr.milesrepublic.com/event/la-tatave-8686"
-  },
-  {
-    "place": "unknown",
     "city": "La Couture",
     "departementNumber": 62,
     "eventType": "walk",
@@ -36346,6 +36346,19 @@
     "ending": 1791104400000,
     "name": "Le trail de la passerelle",
     "eventLink": "https://fr.milesrepublic.com/event/le-trail-de-la-passerelle-3551"
+  },
+  {
+    "place": "unknown",
+    "city": "Volvic",
+    "departementNumber": 63,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791091800000,
+    "ending": 1791091800000,
+    "name": "La tatave",
+    "eventLink": "https://fr.milesrepublic.com/event/la-tatave-8686"
   },
   {
     "place": "unknown",
@@ -42225,6 +42238,19 @@
   },
   {
     "place": "unknown",
+    "city": "Trélissac",
+    "departementNumber": 24,
+    "eventType": "walk",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791669600000,
+    "ending": 1791669600000,
+    "name": "Trélissacois Gravel",
+    "eventLink": "https://fr.milesrepublic.com/event/trelissacois-gravel-17941"
+  },
+  {
+    "place": "unknown",
     "city": "Louhans",
     "departementNumber": 71,
     "eventType": "triathlon",
@@ -47818,7 +47844,7 @@
     "city": "Val-de-Virieu",
     "departementNumber": 38,
     "eventType": "trail",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1792274400000,
@@ -56078,7 +56104,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/running-course-a-pied/1629931133992-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/course-a-pied-running/1629931133992-7",
     "name": "Trail Sable et Forêt 2026"
   },
   {
@@ -127260,7 +127286,7 @@
     "place": "unknown",
     "city": "Le Havre",
     "departementNumber": 76,
-    "eventType": "trail",
+    "eventType": "running",
     "numberOfRaceVariants": 6,
     "registrationLink": "",
     "registrationStatus": "unknown",
@@ -136888,32 +136914,6 @@
     "ending": 1812439800000,
     "name": "Ronde Michel Sabiols",
     "eventLink": "https://fr.milesrepublic.com/event/ronde-michel-sabiols-1322"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Vulbas",
-    "departementNumber": 1,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812441600000,
-    "ending": 1812441600000,
-    "name": "Course nature 12 km Saint-Vulbas",
-    "eventLink": "https://fr.milesrepublic.com/event/course-nature-12-km-saint-vulbas-6674"
-  },
-  {
-    "place": "unknown",
-    "city": "Barby",
-    "departementNumber": 73,
-    "eventType": "other",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812441600000,
-    "ending": 1812441600000,
-    "name": "Journée Porte Ouvertes du Bataillon",
-    "eventLink": "https://fr.milesrepublic.com/event/journee-porte-ouvertes-du-bataillon-10484"
   },
   {
     "place": "unknown",
