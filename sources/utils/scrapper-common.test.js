@@ -6,6 +6,7 @@ import {
   finalizeEvents,
   normalizeEvent,
   parseLocation,
+  sortEvents,
 } from './scrapper-common.js';
 
 vi.mock('./event-type-finder.js', () => ({
@@ -149,6 +150,8 @@ describe('dedupeEvents', () => {
   });
 });
 
+const d = (n) => new Date(n).getTime();
+
 describe('finalizeEvents', () => {
   let logSpy;
 
@@ -160,73 +163,137 @@ describe('finalizeEvents', () => {
     vi.restoreAllMocks();
   });
 
-  const day = 24 * 60 * 60 * 1000;
-  const d = (n) => new Date(n).getTime();
+  it('log le nombre d’événements et l’URL', () => {
+    finalizeEvents('TEST', 'https://example.com', [
+      { beginning: d('2026-03-05') },
+    ]);
+    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
+    expect(output).toContain(
+      '[TEST] Trouvé 1 événements sur https://example.com',
+    );
+  });
 
-  it('trie les événements par date croissante et retourne le tableau', () => {
+  it('log la plage de dates quand il y a des événements', () => {
+    finalizeEvents('TEST', 'https://example.com', [
+      { beginning: d('2026-03-05') },
+      { beginning: d('2026-09-10') },
+    ]);
+    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
+    expect(output).toMatch(/\[TEST\]\s+Du .* au .*/);
+  });
+
+  it('ne log pas de plage quand la liste est vide', () => {
+    finalizeEvents('TEST', 'https://example.com', []);
+    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
+    expect(output).toContain('Trouvé 0 événements');
+    expect(output).not.toMatch(/Du .* au /);
+  });
+
+  it('log le nombre d’événements et l’URL', () => {
+    finalizeEvents('TEST', 'https://example.com', [
+      { beginning: d('2026-03-05') },
+    ]);
+    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
+    expect(output).toContain(
+      '[TEST] Trouvé 1 événements sur https://example.com',
+    );
+  });
+
+  it('log la plage de dates quand il y a des événements', () => {
+    finalizeEvents('TEST', 'https://example.com', [
+      { beginning: d('2026-03-05') },
+      { beginning: d('2026-09-10') },
+    ]);
+    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
+    expect(output).toMatch(/\[TEST\]\s+Du .* au .*/);
+  });
+
+  it('ne log pas de plage quand la liste est vide', () => {
+    finalizeEvents('TEST', 'https://example.com', []);
+    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
+    expect(output).toContain('Trouvé 0 événements');
+    expect(output).not.toMatch(/Du .* au /);
+  });
+});
+
+describe('sortEvents', () => {
+  it('trie par beginning croissant', () => {
     const events = [
-      { beginning: d('2026-09-10') },
-      { beginning: d('2026-03-05') },
-      { beginning: d('2026-06-15') },
+      {
+        name: 'B',
+        beginning: d('2026-08-02T10:00:00Z'),
+        ending: d('2026-08-02T11:00:00Z'),
+      },
+      {
+        name: 'A',
+        beginning: d('2026-08-01T10:00:00Z'),
+        ending: d('2026-08-01T11:00:00Z'),
+      },
     ];
-    const result = finalizeEvents('TEST', 'https://example.com', events);
-    expect(result.map((e) => e.beginning)).toEqual([
-      d('2026-03-05'),
-      d('2026-06-15'),
-      d('2026-09-10'),
+    expect(sortEvents(events).map((e) => e.name)).toEqual(['A', 'B']);
+  });
+
+  it('départage avec ending si beginning identique', () => {
+    const events = [
+      {
+        name: 'Long',
+        beginning: d('2026-08-01T10:00:00Z'),
+        ending: d('2026-08-01T15:00:00Z'),
+      },
+      {
+        name: 'Court',
+        beginning: d('2026-08-01T10:00:00Z'),
+        ending: d('2026-08-01T11:00:00Z'),
+      },
+    ];
+    expect(sortEvents(events).map((e) => e.name)).toEqual(['Court', 'Long']);
+  });
+
+  it('fallback sur name (alphabétique) si beginning et ending identiques', () => {
+    const events = [
+      {
+        name: 'Zèbre',
+        beginning: d('2026-08-01T10:00:00Z'),
+        ending: d('2026-08-01T11:00:00Z'),
+      },
+      {
+        name: 'Alpha',
+        beginning: d('2026-08-01T10:00:00Z'),
+        ending: d('2026-08-01T11:00:00Z'),
+      },
+      {
+        name: 'mango',
+        beginning: d('2026-08-01T10:00:00Z'),
+        ending: d('2026-08-01T11:00:00Z'),
+      },
+    ];
+    expect(sortEvents(events).map((e) => e.name)).toEqual([
+      'Alpha',
+      'mango',
+      'Zèbre',
     ]);
-    expect(result).toBe(events);
   });
 
-  it('log le nombre d’événements et l’URL', () => {
-    finalizeEvents('TEST', 'https://example.com', [
-      { beginning: d('2026-03-05') },
-    ]);
-    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
-    expect(output).toContain(
-      '[TEST] Trouvé 1 événements sur https://example.com',
-    );
+  it("ne mute pas le tableau d'entrée", () => {
+    const events = [
+      {
+        name: 'B',
+        beginning: d('2026-08-02T10:00:00Z'),
+        ending: d('2026-08-02T11:00:00Z'),
+      },
+      {
+        name: 'A',
+        beginning: d('2026-08-01T10:00:00Z'),
+        ending: d('2026-08-01T11:00:00Z'),
+      },
+    ];
+    const originalOrder = events.map((e) => e.name);
+    sortEvents(events);
+    expect(events.map((e) => e.name)).toEqual(originalOrder);
   });
 
-  it('log la plage de dates quand il y a des événements', () => {
-    finalizeEvents('TEST', 'https://example.com', [
-      { beginning: d('2026-03-05') },
-      { beginning: d('2026-09-10') },
-    ]);
-    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
-    expect(output).toMatch(/\[TEST\]\s+Du .* au .*/);
-  });
-
-  it('ne log pas de plage quand la liste est vide', () => {
-    finalizeEvents('TEST', 'https://example.com', []);
-    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
-    expect(output).toContain('Trouvé 0 événements');
-    expect(output).not.toMatch(/Du .* au /);
-  });
-
-  it('log le nombre d’événements et l’URL', () => {
-    finalizeEvents('TEST', 'https://example.com', [
-      { beginning: d('2026-03-05') },
-    ]);
-    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
-    expect(output).toContain(
-      '[TEST] Trouvé 1 événements sur https://example.com',
-    );
-  });
-
-  it('log la plage de dates quand il y a des événements', () => {
-    finalizeEvents('TEST', 'https://example.com', [
-      { beginning: d('2026-03-05') },
-      { beginning: d('2026-09-10') },
-    ]);
-    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
-    expect(output).toMatch(/\[TEST\]\s+Du .* au .*/);
-  });
-
-  it('ne log pas de plage quand la liste est vide', () => {
-    finalizeEvents('TEST', 'https://example.com', []);
-    const output = logSpy.mock.calls.map((c) => c.join(' ')).join('\n');
-    expect(output).toContain('Trouvé 0 événements');
-    expect(output).not.toMatch(/Du .* au /);
+  it("retourne un tableau vide si l'entrée est vide", () => {
+    expect(sortEvents([])).toEqual([]);
+    expect(sortEvents()).toEqual([]);
   });
 });
