@@ -2661,7 +2661,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786838400000,
     "ending": 1786838400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-queue-dane-2026/running-course-a-pied/1622684601155-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-queue-dane-2026/course-a-pied-running/1622684601155-6",
     "name": "Trail de Queue D'Ane 2026"
   },
   {
@@ -9696,6 +9696,19 @@
     "ending": 1788602400000,
     "name": "Backyard des Gaziers",
     "eventLink": "https://fr.milesrepublic.com/event/backyard-des-gaziers-17683"
+  },
+  {
+    "place": "unknown",
+    "city": "Les Angles",
+    "departementNumber": 66,
+    "eventType": "trail",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788602400000,
+    "ending": 1788602400000,
+    "name": "Les 24h d'Altitude",
+    "eventLink": "https://fr.milesrepublic.com/event/les-24h-daltitude-17936"
   },
   {
     "place": "unknown",
@@ -20645,19 +20658,6 @@
   },
   {
     "place": "unknown",
-    "city": "Ambert",
-    "departementNumber": 63,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789768800000,
-    "ending": 1789768800000,
-    "name": "Arverne Buse Bike Festival",
-    "eventLink": "https://fr.milesrepublic.com/event/arverne-buse-bike-festival-11671"
-  },
-  {
-    "place": "unknown",
     "city": "Moussan",
     "departementNumber": "",
     "eventType": "trail",
@@ -27405,6 +27405,19 @@
   },
   {
     "place": "unknown",
+    "city": "Argelès-sur-Mer",
+    "departementNumber": 66,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790373600000,
+    "ending": 1790373600000,
+    "name": "LES PYRÉNÉES CATALANES",
+    "eventLink": "https://fr.milesrepublic.com/event/les-pyrenees-catalanes-17938"
+  },
+  {
+    "place": "unknown",
     "city": "Liesse-Notre-Dame",
     "departementNumber": 2,
     "eventType": "other",
@@ -28653,6 +28666,19 @@
   },
   {
     "place": "unknown",
+    "city": "Péronnas",
+    "departementNumber": 1,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790460000000,
+    "ending": 1790460000000,
+    "name": "La Bisou",
+    "eventLink": "https://fr.milesrepublic.com/event/la-bisou-12006"
+  },
+  {
+    "place": "unknown",
     "city": "Saint-germain-en-cogles",
     "departementNumber": 35,
     "eventType": "cycling",
@@ -28731,6 +28757,19 @@
   },
   {
     "place": "unknown",
+    "city": "Brignais",
+    "departementNumber": 69,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790460000000,
+    "ending": 1790460000000,
+    "name": "La Henry Anglade",
+    "eventLink": "https://fr.milesrepublic.com/event/la-henry-anglade-11713"
+  },
+  {
+    "place": "unknown",
     "city": "Levallois-Perret",
     "departementNumber": 92,
     "eventType": "running",
@@ -28741,6 +28780,19 @@
     "ending": 1790460000000,
     "name": "La levalloisienne",
     "eventLink": "https://fr.milesrepublic.com/event/la-levalloisienne-7339"
+  },
+  {
+    "place": "unknown",
+    "city": "Damelevières",
+    "departementNumber": 54,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790460000000,
+    "ending": 1790460000000,
+    "name": "La Mirabelle Cyclo",
+    "eventLink": "https://fr.milesrepublic.com/event/la-mirabelle-cyclo-11701"
   },
   {
     "place": "unknown",
@@ -29586,6 +29638,19 @@
     "ending": 1790488800000,
     "name": "Tour du Béarn",
     "eventLink": "https://fr.milesrepublic.com/event/tour-du-bearn-5805"
+  },
+  {
+    "place": "unknown",
+    "city": "Dun le Palestel",
+    "departementNumber": 23,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790488800000,
+    "ending": 1790492400000,
+    "name": "Rando'cyclo l'Esprit Creuse",
+    "eventLink": "https://fr.milesrepublic.com/event/randocyclo-lesprit-creuse-17940"
   },
   {
     "place": "unknown",
@@ -31383,19 +31448,6 @@
   },
   {
     "place": "unknown",
-    "city": "Péronnas",
-    "departementNumber": 1,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1790546400000,
-    "ending": 1790546400000,
-    "name": "La Bisou",
-    "eventLink": "https://fr.milesrepublic.com/event/la-bisou-12006"
-  },
-  {
-    "place": "unknown",
     "city": "Égreville",
     "departementNumber": 77,
     "eventType": "cycling",
@@ -31422,19 +31474,6 @@
   },
   {
     "place": "unknown",
-    "city": "Brignais",
-    "departementNumber": 69,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1790546400000,
-    "ending": 1790546400000,
-    "name": "La Henry Anglade",
-    "eventLink": "https://fr.milesrepublic.com/event/la-henry-anglade-11713"
-  },
-  {
-    "place": "unknown",
     "city": "Taverny",
     "departementNumber": 95,
     "eventType": "cycling",
@@ -31458,19 +31497,6 @@
     "ending": 1790546400000,
     "name": "La Michel Bazire Tabernacienne Nesles",
     "eventLink": "https://fr.milesrepublic.com/event/la-michel-bazire-tabernacienne-nesles-15013"
-  },
-  {
-    "place": "unknown",
-    "city": "Damelevières",
-    "departementNumber": 54,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1790546400000,
-    "ending": 1790546400000,
-    "name": "La Mirabelle Cyclo",
-    "eventLink": "https://fr.milesrepublic.com/event/la-mirabelle-cyclo-11701"
   },
   {
     "place": "unknown",
@@ -33567,6 +33593,19 @@
   },
   {
     "place": "unknown",
+    "city": "Aix-en-Provence",
+    "departementNumber": 13,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790978400000,
+    "ending": 1790978400000,
+    "name": "Cézanne Cyclo Classic",
+    "eventLink": "https://fr.milesrepublic.com/event/cezanne-cyclo-classic-11720"
+  },
+  {
+    "place": "unknown",
     "city": "Bordeaux",
     "departementNumber": 33,
     "eventType": "running",
@@ -33720,6 +33759,19 @@
     "ending": 1790978400000,
     "name": "We Cyclopatrimoine",
     "eventLink": "https://fr.milesrepublic.com/event/we-cyclopatrimoine-14758"
+  },
+  {
+    "place": "unknown",
+    "city": "Ambert",
+    "departementNumber": 63,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790978400000,
+    "ending": 1791064800000,
+    "name": "Arverne Buse Bike Festival",
+    "eventLink": "https://fr.milesrepublic.com/event/arverne-buse-bike-festival-11671"
   },
   {
     "place": "unknown",
@@ -34747,19 +34799,6 @@
     "ending": 1791064800000,
     "name": "Balade D'Automne",
     "eventLink": "https://fr.milesrepublic.com/event/balade-d'automne-14766"
-  },
-  {
-    "place": "unknown",
-    "city": "Aix-en-Provence",
-    "departementNumber": 13,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791064800000,
-    "ending": 1791064800000,
-    "name": "Cézanne Cyclo Classic",
-    "eventLink": "https://fr.milesrepublic.com/event/cezanne-cyclo-classic-11720"
   },
   {
     "place": "unknown",
@@ -42108,19 +42147,6 @@
   },
   {
     "place": "unknown",
-    "city": "MONTBRISON",
-    "departementNumber": 42,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1791669600000,
-    "ending": 1791669600000,
-    "name": "Run and Bike de Montbrison",
-    "eventLink": "https://fr.milesrepublic.com/event/run-and-bike-de-montbrison-16933"
-  },
-  {
-    "place": "unknown",
     "city": "Perros-Guirec",
     "departementNumber": 22,
     "eventType": "triathlon",
@@ -44146,6 +44172,19 @@
     "ending": 1791710100000,
     "name": "Les foulées Nonantaises",
     "eventLink": "https://fr.milesrepublic.com/event/les-foulees-nonantaises-6325"
+  },
+  {
+    "place": "unknown",
+    "city": "MONTBRISON",
+    "departementNumber": 42,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791705600000,
+    "ending": 1791720000000,
+    "name": "Run and Bike de Montbrison",
+    "eventLink": "https://fr.milesrepublic.com/event/run-and-bike-de-montbrison-16933"
   },
   {
     "place": "unknown",
@@ -46242,6 +46281,19 @@
   },
   {
     "place": "unknown",
+    "city": "Allan",
+    "departementNumber": 26,
+    "eventType": "walk",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1792188000000,
+    "ending": 1792188000000,
+    "name": "Drôme Bike Festival",
+    "eventLink": "https://fr.milesrepublic.com/event/drome-bike-festival-12009"
+  },
+  {
+    "place": "unknown",
     "city": "Moineville",
     "departementNumber": 54,
     "eventType": "cycling",
@@ -46252,6 +46304,19 @@
     "ending": 1792188000000,
     "name": "La Nuit des Ragondins",
     "eventLink": "https://fr.milesrepublic.com/event/la-nuit-des-ragondins-12292"
+  },
+  {
+    "place": "unknown",
+    "city": "Mazan",
+    "departementNumber": 83,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1792188000000,
+    "ending": 1792188000000,
+    "name": "LA PROVENCE",
+    "eventLink": "https://fr.milesrepublic.com/event/la-provence-17935"
   },
   {
     "place": "unknown",
@@ -47357,19 +47422,6 @@
     "ending": 1792274400000,
     "name": "Cross Duathlon de la Bresse Triathlon Haute Vosges",
     "eventLink": "https://fr.milesrepublic.com/event/cross-duathlon-de-la-bresse-triathlon-haute-vosges-11192"
-  },
-  {
-    "place": "unknown",
-    "city": "Allan",
-    "departementNumber": 26,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 12,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792274400000,
-    "ending": 1792274400000,
-    "name": "Drôme Bike Festival",
-    "eventLink": "https://fr.milesrepublic.com/event/drome-bike-festival-12009"
   },
   {
     "place": "unknown",
@@ -51088,6 +51140,19 @@
     "ending": 1792879200000,
     "name": "La Dahu Lezatoise",
     "eventLink": "https://fr.milesrepublic.com/event/la-dahu-lezatoise-14857"
+  },
+  {
+    "place": "unknown",
+    "city": "La Ferté-Saint-Aubin",
+    "departementNumber": 45,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1792879200000,
+    "ending": 1792879200000,
+    "name": "La Fertrail des Portes de Sologne",
+    "eventLink": "https://fr.milesrepublic.com/event/la-fertrail-des-portes-de-sologne-17937"
   },
   {
     "place": "unknown",
@@ -135904,7 +135969,7 @@
   {
     "place": "unknown",
     "city": "Angers",
-    "departementNumber": 49,
+    "departementNumber": "",
     "eventType": "trail",
     "numberOfRaceVariants": 4,
     "registrationLink": "",
@@ -136849,71 +136914,6 @@
     "ending": 1812441600000,
     "name": "Journée Porte Ouvertes du Bataillon",
     "eventLink": "https://fr.milesrepublic.com/event/journee-porte-ouvertes-du-bataillon-10484"
-  },
-  {
-    "place": "unknown",
-    "city": "Clermont-Ferrand",
-    "departementNumber": 63,
-    "eventType": "walk",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812441600000,
-    "ending": 1812443400000,
-    "name": "Trail des enfants de clairfontaine",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-enfants-de-clairfontaine-11051"
-  },
-  {
-    "place": "unknown",
-    "city": "Fréville",
-    "departementNumber": 88,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812463200000,
-    "ending": 1812463200000,
-    "name": "La g'rando",
-    "eventLink": "https://fr.milesrepublic.com/event/la-grando-11366"
-  },
-  {
-    "place": "unknown",
-    "city": "Foissiat",
-    "departementNumber": 1,
-    "eventType": "other",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812492000000,
-    "ending": 1812492000000,
-    "name": "Le défi de Pentecôte",
-    "eventLink": "https://fr.milesrepublic.com/event/le-defi-de-pentecote-6645"
-  },
-  {
-    "place": "unknown",
-    "city": "Fleurines",
-    "departementNumber": 60,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812492000000,
-    "ending": 1812492000000,
-    "name": "Trail et run and bike",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-et-run-and-bike-8925"
-  },
-  {
-    "place": "unknown",
-    "city": "Plougourvest",
-    "departementNumber": 29,
-    "eventType": "walk",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812492000000,
-    "ending": 1812529800000,
-    "name": "Marche gourmande du Léon",
-    "eventLink": "https://fr.milesrepublic.com/event/marche-gourmande-du-leon-11399"
   },
   {
     "place": "unknown",
