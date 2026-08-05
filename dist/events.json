@@ -932,7 +932,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786233600000,
     "ending": 1786233600000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-des-langoustines-challenge-run-aventure-bro-an-oriant-2026/running-course-a-pied/1496620669711-8",
+    "eventLink": "https://www.klikego.com/inscription/foulees-des-langoustines-challenge-run-aventure-bro-an-oriant-2026/course-a-pied-running/1496620669711-8",
     "name": "FOULEES DES LANGOUSTINES - Challenge RUN AVENTURE BRO AN ORIANT 2026"
   },
   {
@@ -67832,6 +67832,19 @@
     "ending": 1797120000000,
     "eventLink": "https://www.klikego.com/inscription/15eme-edition-de-la-guignennaise-2026/running-course-a-pied/jceb_1377094807352-19",
     "name": "15ème édition de la Guignennaise"
+  },
+  {
+    "place": "unknown",
+    "city": "Graulhet",
+    "departementNumber": 81,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797120000000,
+    "ending": 1797120000000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins-cross-de-graulhet-athle--4-eme-edition-2026/course-a-pied-running/1724232492749-3",
+    "name": "TRAIL DES LUTINS /CROSS DE GRAULHET ATHLE  4 EME EDITION"
   },
   {
     "place": "unknown",
