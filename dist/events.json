@@ -248,32 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint-seurin-sur-l'isle",
-    "departementNumber": 33,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1785880800000,
-    "ending": 1785880800000,
-    "name": "Randonnee Du Criterium",
-    "eventLink": "https://fr.milesrepublic.com/event/randonnee-du-criterium-14493"
-  },
-  {
-    "place": "unknown",
-    "city": "Orleans",
-    "departementNumber": 45,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 13,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1785880800000,
-    "ending": 1785880800000,
-    "name": "Sfic - Sologne Sud Est Et Sancerrois",
-    "eventLink": "https://fr.milesrepublic.com/event/sfic-2025-sologne-sud-est-et-sancerrois-14980"
-  },
-  {
-    "place": "unknown",
     "city": "Anglet",
     "departementNumber": 64,
     "eventType": "cycling",
@@ -136862,6 +136836,32 @@
     "ending": 1812528900000,
     "name": "Nat'run lumbroise",
     "eventLink": "https://fr.milesrepublic.com/event/natrun-lumbroise-1831"
+  },
+  {
+    "place": "unknown",
+    "city": "Laval",
+    "departementNumber": 53,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812524400000,
+    "ending": 1812531600000,
+    "name": "La courcoolienne",
+    "eventLink": "https://fr.milesrepublic.com/event/la-courcoolienne-2020"
+  },
+  {
+    "place": "unknown",
+    "city": "Le Mont-Saint-Michel",
+    "departementNumber": "",
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812524400000,
+    "ending": 1812531600000,
+    "name": "Trail de St-Michel",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-st-michel-8687"
   },
   {
     "place": "unknown",
