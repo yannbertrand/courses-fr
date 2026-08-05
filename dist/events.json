@@ -42264,6 +42264,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cognac",
+    "departementNumber": 16,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1791676800000,
+    "ending": 1791676800000,
+    "eventLink": "https://www.klikego.com/inscription/5-et-10km-du-grand-cognac-2026/course-a-pied-running/1592339856511-3",
+    "name": "5 et 10KM du Grand Cognac"
+  },
+  {
+    "place": "unknown",
     "city": "Sartilly",
     "departementNumber": 50,
     "eventType": "unknown",
@@ -47786,19 +47799,6 @@
     "ending": 1792281600000,
     "name": "LES TRACES DU LOUET",
     "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3125"
-  },
-  {
-    "place": "unknown",
-    "city": "Brive la gaillarde",
-    "departementNumber": 19,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/brivekiden-2026/running-course-a-pied/1685048291264-4",
-    "name": "Briv'Ekiden 2026"
   },
   {
     "place": "MAIRIE - LA REMAUDIERE",
@@ -59133,7 +59133,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-st-nolff-24eme-edition-2026/running-marche-nordique/1568958907683-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-st-nolff-24eme-edition-2026/marche-nordique-running/1568958907683-7",
     "name": "Trail de St Nolff - 24ème édition"
   },
   {
@@ -93884,6 +93884,19 @@
     "ending": 1806844500000,
     "name": "Sentiers des vignes",
     "eventLink": "https://fr.milesrepublic.com/event/sentiers-des-vignes-4829"
+  },
+  {
+    "place": "unknown",
+    "city": "Beaulon",
+    "departementNumber": 3,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806840900000,
+    "ending": 1806847200000,
+    "name": "Les boucles de l'eaccd",
+    "eventLink": "https://fr.milesrepublic.com/event/les-boucles-de-l-eaccd-7443"
   },
   {
     "place": "unknown",
@@ -132679,6 +132692,19 @@
   },
   {
     "place": "unknown",
+    "city": "Peyrat-la-Nonière",
+    "departementNumber": 23,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812232800000,
+    "ending": 1812267000000,
+    "name": "Vélenduro Peyratois",
+    "eventLink": "https://fr.milesrepublic.com/event/velenduro-peyratois-15380"
+  },
+  {
+    "place": "unknown",
     "city": "Abbeville",
     "departementNumber": 80,
     "eventType": "unknown",
@@ -134392,6 +134418,19 @@
     "ending": 1812319200000,
     "name": "10km Du Château",
     "eventLink": "https://fr.milesrepublic.com/event/10km-du-chateau-17422"
+  },
+  {
+    "place": "unknown",
+    "city": "Die",
+    "departementNumber": 26,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812319200000,
+    "ending": 1812351600000,
+    "name": "Die -col du rousset",
+    "eventLink": "https://fr.milesrepublic.com/event/die-col-du-rousset-13703"
   },
   {
     "place": "unknown",
@@ -136823,45 +136862,6 @@
     "ending": 1812528000000,
     "name": "Trail par couple",
     "eventLink": "https://fr.milesrepublic.com/event/course-par-couples-1633"
-  },
-  {
-    "place": "unknown",
-    "city": "Lumbres",
-    "departementNumber": 62,
-    "eventType": "running",
-    "numberOfRaceVariants": 9,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812524400000,
-    "ending": 1812528900000,
-    "name": "Nat'run lumbroise",
-    "eventLink": "https://fr.milesrepublic.com/event/natrun-lumbroise-1831"
-  },
-  {
-    "place": "unknown",
-    "city": "Laval",
-    "departementNumber": 53,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812524400000,
-    "ending": 1812531600000,
-    "name": "La courcoolienne",
-    "eventLink": "https://fr.milesrepublic.com/event/la-courcoolienne-2020"
-  },
-  {
-    "place": "unknown",
-    "city": "Le Mont-Saint-Michel",
-    "departementNumber": "",
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812524400000,
-    "ending": 1812531600000,
-    "name": "Trail de St-Michel",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-de-st-michel-8687"
   },
   {
     "place": "unknown",
