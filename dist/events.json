@@ -22335,6 +22335,19 @@
   },
   {
     "place": "unknown",
+    "city": "Maule",
+    "departementNumber": 78,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789855200000,
+    "ending": 1789855200000,
+    "name": "L'enjambée de la mauldre",
+    "eventLink": "https://fr.milesrepublic.com/event/lenjambee-de-la-mauldre-10740"
+  },
+  {
+    "place": "unknown",
     "city": "Brié-et-Angonnes",
     "departementNumber": 38,
     "eventType": "cycling",
@@ -23294,19 +23307,6 @@
     "ending": 1789884000000,
     "name": "Flandres Charentaises Classic Cyclo",
     "eventLink": "https://fr.milesrepublic.com/event/flandres-charentaises-classic-cyclo-11681"
-  },
-  {
-    "place": "unknown",
-    "city": "Maule",
-    "departementNumber": 78,
-    "eventType": "walk",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1789884000000,
-    "ending": 1789888500000,
-    "name": "L'enjambée de la mauldre",
-    "eventLink": "https://fr.milesrepublic.com/event/lenjambee-de-la-mauldre-10740"
   },
   {
     "place": "unknown",
@@ -118964,19 +118964,6 @@
   },
   {
     "place": "unknown",
-    "city": "Liège",
-    "departementNumber": 99,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1810366200000,
-    "ending": 1810479600000,
-    "name": "Beer Lovers' Marathon",
-    "eventLink": "https://fr.milesrepublic.com/event/beer-lovers-marathon-13406"
-  },
-  {
-    "place": "unknown",
     "city": "Aix-en-Provence",
     "departementNumber": 13,
     "eventType": "trail",
@@ -119338,6 +119325,19 @@
     "ending": 1810452600000,
     "name": "Amicale S.P. Le Houga",
     "eventLink": "https://fr.milesrepublic.com/event/amicale-sp-le-houga-16510"
+  },
+  {
+    "place": "unknown",
+    "city": "Liège",
+    "departementNumber": 99,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1810452600000,
+    "ending": 1810452600000,
+    "name": "Beer Lovers' Marathon",
+    "eventLink": "https://fr.milesrepublic.com/event/beer-lovers-marathon-13406"
   },
   {
     "place": "unknown",
@@ -120423,7 +120423,7 @@
     "city": "Troyes",
     "departementNumber": 10,
     "eventType": "running",
-    "numberOfRaceVariants": 4,
+    "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1810537200000,
