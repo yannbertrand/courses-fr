@@ -55,19 +55,51 @@ jobs:
           const oldEvents = JSON.parse(await readFile('/tmp/events.old.json', 'utf8'));
           const newEvents = JSON.parse(await readFile('dist/events.json', 'utf8'));
 
-          const key = (e) => e.eventLink ?? e.registrationLink;
+          const linkKey = (e) => e.eventLink || e.registrationLink || null;
+          const normalize = (s) => (s ?? '').trim().toLowerCase();
+          const nameKey = (e) => `${normalize(e.name)}|${e.beginning}`;
+          const cityKey = (e) => `${normalize(e.city)}|${e.beginning}`;
 
-          const oldByKey = new Map(oldEvents.map((e) => [key(e), JSON.stringify(e)]));
-          const newByKey = new Map(newEvents.map((e) => [key(e), JSON.stringify(e)]));
+          const oldByLink = new Map(oldEvents.map((e) => [linkKey(e), e]).filter(([k]) => k));
+          const newByLink = new Map(newEvents.map((e) => [linkKey(e), e]).filter(([k]) => k));
 
-          let added = 0, removed = 0, modified = 0;
-          for (const [k, json] of newByKey) {
-            if (!oldByKey.has(k)) added++;
-            else if (oldByKey.get(k) !== json) modified++;
+          let added = 0, modified = 0;
+          const oldOrphans = [];
+          const newOrphans = [];
+
+          // Passe 1 : matching par lien
+          for (const [k, e] of newByLink) {
+            const old = oldByLink.get(k);
+            if (!old) newOrphans.push(e);
+            else if (JSON.stringify(old) !== JSON.stringify(e)) modified++;
           }
-          for (const k of oldByKey.keys()) {
-            if (!newByKey.has(k)) removed++;
+          for (const [k, e] of oldByLink) {
+            if (!newByLink.has(k)) oldOrphans.push(e);
           }
+
+          // Passes 2 et 3 : matching des orphelins par clé de secours
+          const matchOrphans = (keyFn) => {
+            const oldByKey = new Map();
+            for (const e of oldOrphans) {
+              if (e._matched) continue;
+              const k = keyFn(e);
+              if (!oldByKey.has(k)) oldByKey.set(k, e);
+            }
+            for (const e of newOrphans) {
+              if (e._matched) continue;
+              const old = oldByKey.get(keyFn(e));
+              if (old) {
+                old._matched = e._matched = true;
+                modified++;
+              }
+            }
+          };
+
+          matchOrphans(nameKey); // nom + date
+          matchOrphans(cityKey); // ville + date
+
+          added = newOrphans.filter((e) => !e._matched).length;
+          const removed = oldOrphans.filter((e) => !e._matched).length;
 
           console.log(`commit-msg=📦️ Sync events.json (+${added} added, ~${modified} modified, -${removed} removed)`);
           EOF
