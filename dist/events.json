@@ -9959,6 +9959,19 @@
   },
   {
     "place": "unknown",
+    "city": "Sallanches",
+    "departementNumber": 74,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "Haute-Savoie Mont-Blanc Classic",
+    "eventLink": "https://fr.milesrepublic.com/event/haute-savoie-mont-blanc-classic-17944"
+  },
+  {
+    "place": "unknown",
     "city": "Nœux-les-Mines",
     "departementNumber": 62,
     "eventType": "fun",
@@ -15120,19 +15133,6 @@
   },
   {
     "place": "unknown",
-    "city": "Pougues-les-Eaux",
-    "departementNumber": 58,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1789189200000,
-    "ending": 1789239600000,
-    "name": "Trail de Nuit",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-de-nuit-17909"
-  },
-  {
-    "place": "unknown",
     "city": "Auray",
     "departementNumber": 56,
     "eventType": "running",
@@ -16248,19 +16248,6 @@
     "ending": 1789250400000,
     "name": "Rando Des Crets Vtt Cyclo Marche",
     "eventLink": "https://fr.milesrepublic.com/event/rando-des-crets-vtt-cyclo-marche-14377"
-  },
-  {
-    "place": "unknown",
-    "city": "Flines-lez-Raches",
-    "departementNumber": 59,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1789250400000,
-    "ending": 1789250400000,
-    "name": "RANDO des RENARDS des SABLES de FLINES Lez RACHES",
-    "eventLink": "https://fr.milesrepublic.com/event/rando-nocturne-des-renards-des-sables-de-flines-lez-raches-17907"
   },
   {
     "place": "unknown",
@@ -51364,19 +51351,6 @@
   },
   {
     "place": "unknown",
-    "city": "Guéret",
-    "departementNumber": 23,
-    "eventType": "trail",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1792913400000,
-    "ending": 1792915200000,
-    "name": "Oxy'fer, les chemins de l'histoire",
-    "eventLink": "https://fr.milesrepublic.com/event/oxyfer-les-chemins-de-lhistoire-17932"
-  },
-  {
-    "place": "unknown",
     "city": "Noyelles-lès-Vermelles",
     "departementNumber": 62,
     "eventType": "running",
@@ -58358,19 +58332,6 @@
   },
   {
     "place": "unknown",
-    "city": "Paris",
-    "departementNumber": 75,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1794649800000,
-    "ending": 1794650400000,
-    "name": "Urgent Run Paris",
-    "eventLink": "https://fr.milesrepublic.com/event/urgent-run-paris-17820"
-  },
-  {
-    "place": "unknown",
     "city": "Orbey",
     "departementNumber": 68,
     "eventType": "trail",
@@ -64104,19 +64065,6 @@
   },
   {
     "place": "unknown",
-    "city": "Origny Sainte Benoite",
-    "departementNumber": 2,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1796407200000,
-    "ending": 1796407200000,
-    "name": "Corrida d'Origny",
-    "eventLink": "https://fr.milesrepublic.com/event/corrida-dorigny-17835"
-  },
-  {
-    "place": "unknown",
     "city": "La Riche",
     "departementNumber": 37,
     "eventType": "running",
@@ -64777,19 +64725,6 @@
     "ending": 1796511600000,
     "name": "Choco trail d’Hardricourt",
     "eventLink": "https://fr.milesrepublic.com/event/choco-trail-d-hardricourt-5909"
-  },
-  {
-    "place": "unknown",
-    "city": "Motteville",
-    "departementNumber": 76,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1796511600000,
-    "ending": 1796511600000,
-    "name": "Course Et Marche Pour L Espoir",
-    "eventLink": "https://fr.milesrepublic.com/event/course-et-marche-pour-l-espoir-17842"
   },
   {
     "place": "unknown",
@@ -66977,19 +66912,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint Trojan Les Bains",
-    "departementNumber": 17,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1797066000000,
-    "ending": 1797066000000,
-    "name": "Trail Du Père Noël",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-du-pere-noel-17845"
-  },
-  {
-    "place": "unknown",
     "city": "Poulx",
     "departementNumber": 30,
     "eventType": "running",
@@ -67351,19 +67273,6 @@
     "ending": 1797098400000,
     "name": "Corrida des Baudets",
     "eventLink": "https://fr.milesrepublic.com/event/corrida-des-baudets-17491"
-  },
-  {
-    "place": "unknown",
-    "city": "Chauny",
-    "departementNumber": 2,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1797098400000,
-    "ending": 1797098400000,
-    "name": "Corrida des Baudets",
-    "eventLink": "https://fr.milesrepublic.com/event/corrida-des-baudets-17849"
   },
   {
     "place": "unknown",
@@ -68898,19 +68807,6 @@
     "ending": 1797699600000,
     "name": "Corrida de Noël",
     "eventLink": "https://fr.milesrepublic.com/event/corrida-de-noel-6278"
-  },
-  {
-    "place": "unknown",
-    "city": "Le Boulou",
-    "departementNumber": 66,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1797699600000,
-    "ending": 1797699600000,
-    "name": "Les Foulées Du Père Noël",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-du-pere-noel-17855"
   },
   {
     "place": "unknown",
@@ -136891,6 +136787,19 @@
   },
   {
     "place": "unknown",
+    "city": "Vivonne",
+    "departementNumber": 86,
+    "eventType": "walk",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812524400000,
+    "ending": 1812524400000,
+    "name": "La ronde des deux sources",
+    "eventLink": "https://fr.milesrepublic.com/event/la-ronde-des-deux-sources-11315"
+  },
+  {
+    "place": "unknown",
     "city": "Lumbres",
     "departementNumber": 62,
     "eventType": "running",
@@ -136927,6 +136836,97 @@
     "ending": 1812531600000,
     "name": "Trail de St-Michel",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-st-michel-8687"
+  },
+  {
+    "place": "unknown",
+    "city": "Bois",
+    "departementNumber": 17,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812526200000,
+    "ending": 1812528000000,
+    "name": "Trail de saint antoine",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-saint-antoine-11028"
+  },
+  {
+    "place": "unknown",
+    "city": "Apremont",
+    "departementNumber": 73,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812528000000,
+    "ending": 1812528000000,
+    "name": "Inseec running wine",
+    "eventLink": "https://fr.milesrepublic.com/event/inseec-running-wine-8493"
+  },
+  {
+    "place": "unknown",
+    "city": "Witry-lès-Reims",
+    "departementNumber": 51,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812578400000,
+    "ending": 1812578400000,
+    "name": "Corrida de Witry-lès-Reims",
+    "eventLink": "https://fr.milesrepublic.com/event/corrida-de-witry-les-reims-4494"
+  },
+  {
+    "place": "unknown",
+    "city": "Lagny-sur-Marne",
+    "departementNumber": 77,
+    "eventType": "walk",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812578400000,
+    "ending": 1812578400000,
+    "name": "Lagny marche nordique ",
+    "eventLink": "https://fr.milesrepublic.com/event/lagny-marche-nordique-8229"
+  },
+  {
+    "place": "unknown",
+    "city": "Carros",
+    "departementNumber": 6,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812578400000,
+    "ending": 1812578400000,
+    "name": "Trail des balcons de Carros",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-balcons-de-carros-6589"
+  },
+  {
+    "place": "unknown",
+    "city": "Rives-en-Seine",
+    "departementNumber": 76,
+    "eventType": "walk",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812578400000,
+    "ending": 1812633300000,
+    "name": "Trail des 5 châteaux",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-5-chateaux-1945"
+  },
+  {
+    "place": "unknown",
+    "city": "Brignancourt",
+    "departementNumber": 95,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812578400000,
+    "ending": 1812664800000,
+    "name": "Ultra tour de brignancourt\t",
+    "eventLink": "https://fr.milesrepublic.com/event/ultra-tour-de-brignancourt-9094"
   },
   {
     "place": "unknown",
