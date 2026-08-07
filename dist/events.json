@@ -9200,7 +9200,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-la-tour-2026/running-course-a-pied/1693081209668-9",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-la-tour-2026/course-a-pied-running/1693081209668-9",
     "name": "Les Foulées de la Tour"
   },
   {
@@ -14829,7 +14829,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789171200000,
     "ending": 1789171200000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-nature-du-souffle-de-le-sourn-2026/running-course-a-pied/1783133122638-1",
+    "eventLink": "https://www.klikego.com/inscription/corrida-nature-du-souffle-de-le-sourn-2026/course-a-pied-running/1783133122638-1",
     "name": "CORRIDA NATURE DU SOUFFLE DE LE SOURN"
   },
   {
@@ -14946,7 +14946,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789171200000,
     "ending": 1789171200000,
-    "eventLink": "https://www.klikego.com/inscription/rando-pedestre-et-trail-des-vendanges-2026/running-course-a-pied/1693081209668-10",
+    "eventLink": "https://www.klikego.com/inscription/rando-pedestre-et-trail-des-vendanges-2026/course-a-pied-running/1693081209668-10",
     "name": "Rando Pédestre et Trail Des Vendanges"
   },
   {
@@ -53002,6 +53002,19 @@
   },
   {
     "place": "unknown",
+    "city": "Nœux-les-Mines",
+    "departementNumber": 62,
+    "eventType": "other",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1793386800000,
+    "ending": 1793471400000,
+    "name": "Alerte zombies",
+    "eventLink": "https://fr.milesrepublic.com/event/alerte-zombies-7498"
+  },
+  {
+    "place": "unknown",
     "city": "Jonchery-sur-Vesle",
     "departementNumber": 51,
     "eventType": "running",
@@ -53389,19 +53402,6 @@
     "ending": 1793469600000,
     "name": "Le noct'trail du calvaire",
     "eventLink": "https://fr.milesrepublic.com/event/le-noct-trail-du-calvaire-6219"
-  },
-  {
-    "place": "unknown",
-    "city": "Nœux-les-Mines",
-    "departementNumber": 62,
-    "eventType": "other",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1793462400000,
-    "ending": 1793471400000,
-    "name": "Alerte zombies",
-    "eventLink": "https://fr.milesrepublic.com/event/alerte-zombies-7498"
   },
   {
     "place": "unknown",
@@ -58977,7 +58977,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/running-course-a-pied/1725587953930-7",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/course-a-pied-running/1725587953930-7",
     "name": "Marathon Trail Pays de Brive"
   },
   {
@@ -65115,6 +65115,19 @@
     "ending": 1796515200000,
     "eventLink": "https://www.klikego.com/inscription/le-telethon-d-ille-2026/running-course-a-pied/1536087377908-8",
     "name": "Le TÉLETHON D' ILLE"
+  },
+  {
+    "place": "unknown",
+    "city": "Marans",
+    "departementNumber": 17,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1796515200000,
+    "ending": 1796515200000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-marandaises-2026/course-a-pied-running/1784920798420-1",
+    "name": "Les Foulées Marandaises"
   },
   {
     "place": "unknown",
