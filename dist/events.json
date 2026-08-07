@@ -4148,19 +4148,6 @@
   },
   {
     "place": "unknown",
-    "city": "Inzinzac Lochrist",
-    "departementNumber": 56,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1787466600000,
-    "ending": 1787470200000,
-    "name": "Trai La Montagnarde",
-    "eventLink": "https://fr.milesrepublic.com/event/trai-la-montagnarde-15927"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Girons",
     "departementNumber": 9,
     "eventType": "running",
@@ -4236,6 +4223,19 @@
     "ending": 1787471100000,
     "name": "Les foulées de chassiron",
     "eventLink": "https://fr.milesrepublic.com/event/les-foulees-de-chassiron-2556"
+  },
+  {
+    "place": "unknown",
+    "city": "Inzinzac Lochrist",
+    "departementNumber": 56,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1787468400000,
+    "ending": 1787472000000,
+    "name": "Trails de la montagne",
+    "eventLink": "https://fr.milesrepublic.com/event/trai-la-montagnarde-15927"
   },
   {
     "place": "unknown",
@@ -19475,19 +19475,6 @@
   },
   {
     "place": "unknown",
-    "city": "Soisy-sous-Montmorency",
-    "departementNumber": 95,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789372800000,
-    "ending": 1789372800000,
-    "name": "La boucle by Flytex",
-    "eventLink": "https://fr.milesrepublic.com/event/la-boucle-by-flytex-14167"
-  },
-  {
-    "place": "unknown",
     "city": "Franxault",
     "departementNumber": 21,
     "eventType": "fun",
@@ -22244,19 +22231,6 @@
   },
   {
     "place": "unknown",
-    "city": "Maule",
-    "departementNumber": 78,
-    "eventType": "trail",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1789855200000,
-    "ending": 1789855200000,
-    "name": "L'enjambée de la mauldre",
-    "eventLink": "https://fr.milesrepublic.com/event/lenjambee-de-la-mauldre-10740"
-  },
-  {
-    "place": "unknown",
     "city": "Brié-et-Angonnes",
     "departementNumber": 38,
     "eventType": "cycling",
@@ -23216,6 +23190,19 @@
     "ending": 1789884000000,
     "name": "Flandres Charentaises Classic Cyclo",
     "eventLink": "https://fr.milesrepublic.com/event/flandres-charentaises-classic-cyclo-11681"
+  },
+  {
+    "place": "unknown",
+    "city": "Maule",
+    "departementNumber": 78,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789884000000,
+    "ending": 1789887900000,
+    "name": "L'enjambée de la mauldre",
+    "eventLink": "https://fr.milesrepublic.com/event/lenjambee-de-la-mauldre-10740"
   },
   {
     "place": "unknown",
@@ -136875,6 +136862,19 @@
     "ending": 1812528000000,
     "name": "Inseec running wine",
     "eventLink": "https://fr.milesrepublic.com/event/inseec-running-wine-8493"
+  },
+  {
+    "place": "unknown",
+    "city": "Bourgueil",
+    "departementNumber": 37,
+    "eventType": "other",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812578400000,
+    "ending": 1812578400000,
+    "name": "Bourgueil Gravel Loire & VTT Pente et côtes",
+    "eventLink": "https://fr.milesrepublic.com/event/bourgueil-gravel-loire-vtt-pente-et-cotes-13723"
   },
   {
     "place": "unknown",
