@@ -404,19 +404,6 @@
   },
   {
     "place": "unknown",
-    "city": "Murles",
-    "departementNumber": 34,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786215600000,
-    "ending": 1786217400000,
-    "name": "Trail des étoiles filantes",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-etoiles-filantes-7047"
-  },
-  {
-    "place": "unknown",
     "city": "Neuilly-sur-seine",
     "departementNumber": 92,
     "eventType": "cycling",
@@ -5261,7 +5248,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/la-trez-bellec-2026/running-course-a-pied/1743540715773-3",
+    "eventLink": "https://www.klikego.com/inscription/la-trez-bellec-2026/course-a-pied-running/1743540715773-3",
     "name": "LA TREZ BELLEC"
   },
   {
@@ -136953,6 +136940,19 @@
     "ending": 1812823200000,
     "name": "Course de Scherwiller",
     "eventLink": "https://fr.milesrepublic.com/event/course-de-scherwiller-1307"
+  },
+  {
+    "place": "unknown",
+    "city": "Blois",
+    "departementNumber": 41,
+    "eventType": "running",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812787200000,
+    "ending": 1812787200000,
+    "name": "Festi'run Blois",
+    "eventLink": "https://fr.milesrepublic.com/event/festi-run-blois-14151"
   },
   {
     "place": "unknown",
