@@ -248,19 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "La tranche sur mer",
-    "departementNumber": 85,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786060800000,
-    "ending": 1786060800000,
-    "eventLink": "https://www.klikego.com/inscription/la-beach-run-tranchaise-2026/running-course-a-pied/1289363737972-23",
-    "name": "LA BEACH RUN TRANCHAISE"
-  },
-  {
-    "place": "unknown",
     "city": "Les Belleville",
     "departementNumber": 73,
     "eventType": "trail",
@@ -271,58 +258,6 @@
     "ending": 1786264200000,
     "name": "Val Tho Summit Games",
     "eventLink": "https://fr.milesrepublic.com/event/val-tho-summit-games-7355"
-  },
-  {
-    "place": "unknown",
-    "city": "Collobrières",
-    "departementNumber": 83,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786140000000,
-    "ending": 1786140000000,
-    "name": "La ronde des Bouscatiers",
-    "eventLink": "https://fr.milesrepublic.com/event/la-ronde-des-bouscatiers-2477"
-  },
-  {
-    "place": "unknown",
-    "city": "La Londe-les-Maures",
-    "departementNumber": 83,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786140000000,
-    "ending": 1786140000000,
-    "name": "Ravitaillement Col du Babaou",
-    "eventLink": "https://fr.milesrepublic.com/event/ravitaillement-col-du-babaou-11603"
-  },
-  {
-    "place": "unknown",
-    "city": "Orleans",
-    "departementNumber": 45,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 11,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786140000000,
-    "ending": 1786140000000,
-    "name": "Sfic - Petite Beauce Et Dunois",
-    "eventLink": "https://fr.milesrepublic.com/event/sfic-2025-petite-beauce-et-dunois-14984"
-  },
-  {
-    "place": "unknown",
-    "city": "Nevers",
-    "departementNumber": 58,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 10,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786140000000,
-    "ending": 1786140000000,
-    "name": "Triathlon de Nevers",
-    "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-nevers-9735"
   },
   {
     "place": "unknown",
@@ -6574,7 +6509,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
     "ending": 1788048000000,
-    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/running-course-a-pied/1767296761033-1",
+    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/course-a-pied-running/1767296761033-1",
     "name": "La Cro Magnon"
   },
   {
@@ -136904,6 +136839,19 @@
   },
   {
     "place": "unknown",
+    "city": "Nantes",
+    "departementNumber": 44,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812664800000,
+    "ending": 1812664800000,
+    "name": "Course des héros Nantes",
+    "eventLink": "https://fr.milesrepublic.com/event/course-des-heros-nantes-8312"
+  },
+  {
+    "place": "unknown",
     "city": "La Souterraine",
     "departementNumber": 23,
     "eventType": "running",
@@ -136930,6 +136878,32 @@
   },
   {
     "place": "unknown",
+    "city": "Gannat",
+    "departementNumber": 3,
+    "eventType": "fun",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812664800000,
+    "ending": 1812664800000,
+    "name": "Run and slide Gannat",
+    "eventLink": "https://fr.milesrepublic.com/event/run-and-slide-gannat-9253"
+  },
+  {
+    "place": "unknown",
+    "city": "Véria",
+    "departementNumber": 39,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812664800000,
+    "ending": 1812664800000,
+    "name": "Trail de la petite ruche",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-petite-ruche-7515"
+  },
+  {
+    "place": "unknown",
     "city": "Saint-Michel-de-Lapujade",
     "departementNumber": 16,
     "eventType": "trail",
@@ -136940,6 +136914,19 @@
     "ending": 1812664800000,
     "name": "Trail urbain nature de Saint-Michel",
     "eventLink": "https://fr.milesrepublic.com/event/trail-urbain-nature-de-saint-michel-3019"
+  },
+  {
+    "place": "unknown",
+    "city": "Lyon",
+    "departementNumber": 69,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812695400000,
+    "ending": 1812695400000,
+    "name": "Course des Héros Lyon",
+    "eventLink": "https://fr.milesrepublic.com/event/course-des-heros-lyon-13096"
   },
   {
     "place": "unknown",
