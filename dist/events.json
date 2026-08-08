@@ -365,19 +365,6 @@
   },
   {
     "place": "unknown",
-    "city": "Larrau",
-    "departementNumber": 64,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786165200000,
-    "ending": 1786165200000,
-    "name": "Müga trail",
-    "eventLink": "https://fr.milesrepublic.com/event/muga-trail-14017"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Flour",
     "departementNumber": 15,
     "eventType": "cycling",
@@ -127879,6 +127866,19 @@
     "ending": 1811749500000,
     "name": "Course des lavoirs",
     "eventLink": "https://fr.milesrepublic.com/event/course-des-lavoirs-1433"
+  },
+  {
+    "place": "unknown",
+    "city": "Soisy-sous-Montmorency",
+    "departementNumber": 95,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811664000000,
+    "ending": 1811750400000,
+    "name": "La boucle by Flytex",
+    "eventLink": "https://fr.milesrepublic.com/event/la-boucle-by-flytex-14167"
   },
   {
     "place": "unknown",
