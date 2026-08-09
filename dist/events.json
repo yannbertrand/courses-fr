@@ -378,19 +378,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint Denis",
-    "departementNumber": 74,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786244400000,
-    "ending": 1786244400000,
-    "name": "Les Foulées De La Corniche",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-de-la-corniche-16654"
-  },
-  {
-    "place": "unknown",
     "city": "Montclar",
     "departementNumber": 4,
     "eventType": "trail",
@@ -6335,7 +6322,7 @@
     "city": "Papenoo",
     "departementNumber": 98,
     "eventType": "unknown",
-    "numberOfRaceVariants": 5,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
@@ -136888,6 +136875,19 @@
     "ending": 1812825000000,
     "name": "Trail des sarrasins",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-sarrasins-1749"
+  },
+  {
+    "place": "unknown",
+    "city": "Noyal-sur-Vilaine",
+    "departementNumber": 35,
+    "eventType": "running",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812817800000,
+    "ending": 1812821400000,
+    "name": "Relais run'in noyal",
+    "eventLink": "https://fr.milesrepublic.com/event/relais-runin-noyal-10966"
   },
   {
     "place": "unknown",
