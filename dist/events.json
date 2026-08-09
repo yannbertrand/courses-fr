@@ -313,32 +313,6 @@
   },
   {
     "place": "unknown",
-    "city": "Chassignolles",
-    "departementNumber": 43,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786260600000,
-    "ending": 1786267800000,
-    "name": "La ronde de Chassignolles",
-    "eventLink": "https://fr.milesrepublic.com/event/la-ronde-de-chassignolles-2562"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Vaast-la-Hougue",
-    "departementNumber": 50,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786269600000,
-    "ending": 1786269600000,
-    "name": "La course du run, les traversées de Tatihou",
-    "eventLink": "https://fr.milesrepublic.com/event/la-course-du-run-les-traversees-de-tatihou-2528"
-  },
-  {
-    "place": "unknown",
     "city": "Turckheim",
     "departementNumber": 68,
     "eventType": "trail",
@@ -136865,6 +136839,19 @@
   },
   {
     "place": "unknown",
+    "city": "Wettolsheim",
+    "departementNumber": 68,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812837600000,
+    "name": "Run'in night trail",
+    "eventLink": "https://fr.milesrepublic.com/event/runin-night-trail-5370"
+  },
+  {
+    "place": "unknown",
     "city": "Cipières",
     "departementNumber": 6,
     "eventType": "trail",
@@ -136875,6 +136862,19 @@
     "ending": 1812862800000,
     "name": "Esclapa l'œil trail",
     "eventLink": "https://fr.milesrepublic.com/event/esclapa-loeil-trail-1626"
+  },
+  {
+    "place": "unknown",
+    "city": "Réauville",
+    "departementNumber": 26,
+    "eventType": "walk",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812869100000,
+    "name": "Trail des nounours",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-nounours-7407"
   },
   {
     "place": "unknown",
