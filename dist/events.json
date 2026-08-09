@@ -313,32 +313,6 @@
   },
   {
     "place": "unknown",
-    "city": "Savigny-sous-Faye",
-    "departementNumber": 86,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786294800000,
-    "ending": 1786294800000,
-    "name": "La ruée savignoise",
-    "eventLink": "https://fr.milesrepublic.com/event/la-ruee-savignoise-11501"
-  },
-  {
-    "place": "unknown",
-    "city": "Navarrenx",
-    "departementNumber": 64,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786294800000,
-    "ending": 1786295100000,
-    "name": "Trail des remparts Navarrenx",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-remparts-navarrenx-8398"
-  },
-  {
-    "place": "unknown",
     "city": "Cucq",
     "departementNumber": 62,
     "eventType": "cycling",
@@ -52416,7 +52390,7 @@
     "eventLink": "https://fr.milesrepublic.com/event/trail-pousse-citrouilles-15261"
   },
   {
-    "place": "Ecole du Gotha",
+    "place": "Salle Arc en ciel, Avenue du Mortier",
     "city": "Saint-Géréon",
     "departementNumber": 44,
     "eventType": "course_a_pied",
@@ -122031,19 +122005,6 @@
     "eventLink": "https://fr.milesrepublic.com/event/uttn-ultra-trail-tour-de-nancy-6287"
   },
   {
-    "place": "Parvis du Complexe sportif du Gotha, 56 Rue des Maîtres, 44150 Saint-Géréon",
-    "city": "Saint-Géréon",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1811030400000,
-    "ending": 1811030400000,
-    "name": "GO'Trail 2027 - 11ème édition",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3453/go-trail-2027-11eme-edition-saint-gereon"
-  },
-  {
     "place": "Site des Chateliers",
     "city": "Mayenne",
     "departementNumber": 53,
@@ -126839,6 +126800,19 @@
     "ending": 1811635200000,
     "name": "2Eme Edition du « Trail de la vallée du Havre »",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3473/2eme-edition-du-trail-de-la-vallee-du-havre-couffe"
+  },
+  {
+    "place": "Parvis du Complexe sportif du Gotha, 56 Rue des Maîtres, 44150 Saint-Géréon",
+    "city": "Saint-Géréon",
+    "departementNumber": 44,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1811635200000,
+    "ending": 1811635200000,
+    "name": "GO'Trail 2027 - 11ème édition",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3453/go-trail-2027-11eme-edition-saint-gereon"
   },
   {
     "place": "unknown",
@@ -136849,6 +136823,32 @@
     "ending": 1812869100000,
     "name": "Trail des nounours",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-nounours-7407"
+  },
+  {
+    "place": "unknown",
+    "city": "Fourmies",
+    "departementNumber": 59,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812880800000,
+    "name": "Triathlon des Moines",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-des-moines-10406"
+  },
+  {
+    "place": "unknown",
+    "city": "La Javie",
+    "departementNumber": 4,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812888900000,
+    "name": "Triathlon des Ferréols",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-des-ferreols-10132"
   },
   {
     "place": "unknown",
