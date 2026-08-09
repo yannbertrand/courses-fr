@@ -248,16 +248,16 @@
   },
   {
     "place": "unknown",
-    "city": "Saint-Flour",
-    "departementNumber": 15,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 4,
+    "city": "Loguivy plougras",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786168800000,
-    "ending": 1786291200000,
-    "name": "Étape Sanfloraine",
-    "eventLink": "https://fr.milesrepublic.com/event/etape-sanfloraine-11606"
+    "registrationStatus": "unknown",
+    "beginning": 1786147200000,
+    "ending": 1787961600000,
+    "eventLink": "https://www.klikego.com/inscription/trail-du-saint-emilion-2026/course-a-pied-running/1785113626517-1",
+    "name": "Trail du Saint-Emilion"
   },
   {
     "place": "BRAS DE GRENELLE - PARIS 15 VAUGIRARD (75)",
@@ -310,32 +310,6 @@
     "ending": 1786233600000,
     "name": "Les Foulées Micheloises 2026",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3422/les-foulees-micheloises-2026-saint-michel-chef-chef"
-  },
-  {
-    "place": "unknown",
-    "city": "Turckheim",
-    "departementNumber": 68,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786291200000,
-    "ending": 1786291200000,
-    "name": "Run'in fav",
-    "eventLink": "https://fr.milesrepublic.com/event/runin-fav-2241"
-  },
-  {
-    "place": "unknown",
-    "city": "Cambo-les-Bains",
-    "departementNumber": 64,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786293000000,
-    "ending": 1786293000000,
-    "name": "Bike & run Cambo",
-    "eventLink": "https://fr.milesrepublic.com/event/bike-and-run-cambo-11452"
   },
   {
     "place": "unknown",
@@ -15986,7 +15960,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-chartraines-2026/running-course-a-pied/1370930390313-20",
+    "eventLink": "https://www.klikego.com/inscription/foulees-chartraines-2026/course-a-pied-running/1370930390313-20",
     "name": "Foulées Chartraines 2026"
   },
   {
@@ -33047,6 +33021,19 @@
   },
   {
     "place": "unknown",
+    "city": "Yzeure",
+    "departementNumber": 3,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1790985600000,
+    "ending": 1790985600000,
+    "eventLink": "https://www.klikego.com/inscription/vetathlon-des-ozieres-2026/triathlon/1642211260262-11",
+    "name": "Vétathlon des Ozières"
+  },
+  {
+    "place": "unknown",
     "city": "Nivillac",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -45745,19 +45732,6 @@
     "ending": 1792281600000,
     "eventLink": "https://www.klikego.com/inscription/neveztell-trail-2026/running-course-a-pied/1350372166564-11",
     "name": "NEVEZTELL TRAIL 2026"
-  },
-  {
-    "place": "unknown",
-    "city": "Cleguer",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 8,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/tvs-trails-de-la-vallee-du-scorff-2026-cleguer/running-course-a-pied/1630289706957-10",
-    "name": "TVS - Trails de la Vallée du Scorff 2026 - Cléguer"
   },
   {
     "place": "unknown",
@@ -77619,7 +77593,7 @@
     "registrationStatus": "unknown",
     "beginning": 1803081600000,
     "ending": 1803081600000,
-    "eventLink": "https://www.klikego.com/inscription/albatrail--11eme-edition-2027/running-course-a-pied/1445993762707-13",
+    "eventLink": "https://www.klikego.com/inscription/albatrail--11eme-edition-2027/course-a-pied-running/1445993762707-13",
     "name": "AlbaTrail  - 11ème édition"
   },
   {
@@ -136888,6 +136862,45 @@
     "ending": 1812902400000,
     "name": "Trail des côteaux",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-coteaux-2003"
+  },
+  {
+    "place": "unknown",
+    "city": "Lusignan-Petit",
+    "departementNumber": 47,
+    "eventType": "trail",
+    "numberOfRaceVariants": 9,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812902400000,
+    "name": "Trail des coteaux",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-coteaux-10068"
+  },
+  {
+    "place": "unknown",
+    "city": "Basse-Ham",
+    "departementNumber": 57,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 9,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812924000000,
+    "name": "Mosel'Man",
+    "eventLink": "https://fr.milesrepublic.com/event/trityc-triathlon-de-thionville-10074"
+  },
+  {
+    "place": "unknown",
+    "city": "Passy",
+    "departementNumber": 74,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812924000000,
+    "name": "Triathlon international du Mont-Blanc",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-international-du-mont-blanc-9533"
   },
   {
     "place": "unknown",
