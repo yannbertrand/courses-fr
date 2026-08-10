@@ -248,19 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "Cervione",
-    "departementNumber": "2B",
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786370400000,
-    "ending": 1786375800000,
-    "name": "Trail a Cerviuninca",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-a-cerviuninca-9751"
-  },
-  {
-    "place": "unknown",
     "city": "L'Île-Rousse",
     "departementNumber": "",
     "eventType": "running",
@@ -7893,7 +7880,7 @@
   {
     "place": "unknown",
     "city": "Languidic",
-    "departementNumber": 56,
+    "departementNumber": "",
     "eventType": "running",
     "numberOfRaceVariants": 2,
     "registrationLink": "",
@@ -25897,19 +25884,6 @@
   },
   {
     "place": "unknown",
-    "city": "Loudenvielle",
-    "departementNumber": 65,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1790330400000,
-    "ending": 1790330400000,
-    "name": "Backyard Loudenvielle",
-    "eventLink": "https://fr.milesrepublic.com/event/backyard-loudenvielle-17267"
-  },
-  {
-    "place": "unknown",
     "city": "Nice",
     "departementNumber": 6,
     "eventType": "trail",
@@ -29625,6 +29599,19 @@
     "ending": 1790496000000,
     "name": "10 Km Université Paris Cité",
     "eventLink": "https://fr.milesrepublic.com/event/10-km-universite-paris-cite-17439"
+  },
+  {
+    "place": "unknown",
+    "city": "Mons",
+    "departementNumber": 99,
+    "eventType": "fun",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790496000000,
+    "ending": 1790496000000,
+    "name": "Color Fun Run",
+    "eventLink": "https://fr.milesrepublic.com/event/color-fun-run-17949"
   },
   {
     "place": "unknown",
@@ -33603,6 +33590,19 @@
     "ending": 1791064800000,
     "name": "Circuit des remparts 10 km panoramique de Laon",
     "eventLink": "https://fr.milesrepublic.com/event/circuit-des-remparts-10-km-panoramique-de-laon-3595"
+  },
+  {
+    "place": "unknown",
+    "city": "Marseille",
+    "departementNumber": 13,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791064800000,
+    "ending": 1791064800000,
+    "name": "Course contre le cancer",
+    "eventLink": "https://fr.milesrepublic.com/event/course-contre-le-cancer-17950"
   },
   {
     "place": "unknown",
@@ -39638,6 +39638,19 @@
   },
   {
     "place": "unknown",
+    "city": "Matignon",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1791590400000,
+    "ending": 1791590400000,
+    "eventLink": "https://www.klikego.com/inscription/le-kermithon-2026/course-a-pied-running/1781317796893-1",
+    "name": "Le Kermithon 2026"
+  },
+  {
+    "place": "unknown",
     "city": "Reguiny",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -45472,19 +45485,6 @@
     "ending": 1792281600000,
     "eventLink": "https://www.klikego.com/inscription/marche-et-course-nature-a-la-roche-courbon-2026/running-course-a-pied-marche-nordique/1626284998762-7",
     "name": "Marche et Course Nature à La Roche Courbon 2026"
-  },
-  {
-    "place": "unknown",
-    "city": "Nouvoitou",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 10,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/neveztell-trail-2026/running-course-a-pied/1350372166564-11",
-    "name": "NEVEZTELL TRAIL 2026"
   },
   {
     "place": "unknown",
@@ -53935,6 +53935,19 @@
     "ending": 1793867400000,
     "name": "La course des z'héros",
     "eventLink": "https://fr.milesrepublic.com/event/la-course-des-zheros-716"
+  },
+  {
+    "place": "unknown",
+    "city": "Loudenvielle",
+    "departementNumber": 65,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1793919600000,
+    "ending": 1793919600000,
+    "name": "Backyard Loudenvielle",
+    "eventLink": "https://fr.milesrepublic.com/event/backyard-loudenvielle-17267"
   },
   {
     "place": "unknown",
@@ -136589,19 +136602,6 @@
     "ending": 1812837600000,
     "name": "Aquakids Vosges du Nord",
     "eventLink": "https://fr.milesrepublic.com/event/aquakids-vosges-du-nord-11013"
-  },
-  {
-    "place": "unknown",
-    "city": "Cheffois",
-    "departementNumber": 85,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812837600000,
-    "ending": 1812837600000,
-    "name": "Les Foulées Cheffoisiennes",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-cheffoisiennes-16617"
   },
   {
     "place": "unknown",
