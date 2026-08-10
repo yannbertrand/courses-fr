@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Courses en France</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.19.0/themes/reset-min.css"
+      integrity="sha256-ZFIW2nI3ZIuMFVoMQBZOjzhdjxfheCmTm/Ajq31ZhNM="
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.19.0/themes/satellite-min.css"
+      integrity="sha256-Drougb/kAlb+Uix9kbxwMYUNmI64VZvMmvCZEInsVJ0="
+      crossorigin="anonymous"
+    />
+    <style>
+      * {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .event {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Courses en France</h1>
+    <aside id="searchbox"></aside>
+    <main id="hits"></main>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/algoliasearch@5.56.0/dist/lite/builds/browser.umd.js"
+      integrity="sha256-FJAyZG3HT2S1oTZ1r2kwy0SBe/MC5MWzteI2GpIsKG0="
+      crossorigin="anonymous"
+    ></script>
+    <script src=" https://cdn.jsdelivr.net/npm/instantsearch.js@4.109.0/dist/instantsearch.production.min.js"></script>
+    <script>
+      const { liteClient: algoliasearch } = window['algoliasearch/lite'];
+      const instantsearch = window['instantsearch'];
+
+      const appID = '2139MZM0UK';
+      const apiKey = 'ee95655c40322a7c7be6a8992d93ac74';
+      const indexName = 'courses-fr-index';
+
+      const searchClient = algoliasearch(appID, apiKey);
+
+      const search = instantsearch({
+        indexName,
+        searchClient,
+      });
+
+      search.addWidgets([
+        instantsearch.widgets.searchBox({
+          container: '#searchbox',
+        }),
+
+        instantsearch.widgets.hits({
+          container: '#hits',
+          cssClasses: { item: 'event' },
+          templates: {
+            item(hit, { html, components }) {
+              return html`
+                <h2>
+                  <a href="${hit.eventLink}">
+                    ${components.Highlight({ attribute: 'name', hit })}
+                  </a>
+                </h2>
+                <p>
+                  ${hit.city}${hit.departementNumber
+                    ? ` (${hit.departementNumber})`
+                    : ''}
+                </p>
+                <p>
+                  ${new Date(hit.beginning).toLocaleDateString(
+                    'fr',
+                  )} - ${new Date(hit.ending).toLocaleDateString('fr')}
+                </p>
+              `;
+            },
+          },
+        }),
+      ]);
+
+      search.start();
+    </script>
+  </body>
+</html>
