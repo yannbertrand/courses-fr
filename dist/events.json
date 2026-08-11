@@ -8129,7 +8129,7 @@
     "city": "Languidic",
     "departementNumber": 56,
     "eventType": "unknown",
-    "numberOfRaceVariants": 1,
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
@@ -26183,6 +26183,19 @@
   },
   {
     "place": "unknown",
+    "city": "Saint-Nazaire",
+    "departementNumber": 44,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790373600000,
+    "ending": 1790373600000,
+    "name": "SwimRun des 20 Plages Saint Nazaire",
+    "eventLink": "https://fr.milesrepublic.com/event/swimrun-des-20-plages-saint-nazaire-9593"
+  },
+  {
+    "place": "unknown",
     "city": "LA TESTE-DE-BUCH",
     "departementNumber": 33,
     "eventType": "triathlon",
@@ -34074,19 +34087,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint-Nazaire",
-    "departementNumber": 44,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791064800000,
-    "ending": 1791064800000,
-    "name": "SwimRun des 20 Plages Saint Nazaire",
-    "eventLink": "https://fr.milesrepublic.com/event/swimrun-des-20-plages-saint-nazaire-9593"
-  },
-  {
-    "place": "unknown",
     "city": "Montbrison",
     "departementNumber": 42,
     "eventType": "running",
@@ -41185,6 +41185,19 @@
   },
   {
     "place": "unknown",
+    "city": "Grand fougeray",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1791676800000,
+    "ending": 1791676800000,
+    "eventLink": "https://www.klikego.com/inscription/la-boucle-du-feu-2026/course-a-pied-running/1779817536081-1",
+    "name": "La boucle du feu"
+  },
+  {
+    "place": "unknown",
     "city": "Brest",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -45420,19 +45433,6 @@
     "ending": 1792281600000,
     "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2026/running-course-a-pied/1284761384288-44",
     "name": "Marathon Vert Rennes Groupe Interaction"
-  },
-  {
-    "place": "unknown",
-    "city": "St porchaire",
-    "departementNumber": 17,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 8,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/marche-et-course-nature-a-la-roche-courbon-2026/running-course-a-pied-marche-nordique/1626284998762-7",
-    "name": "Marche et Course Nature à La Roche Courbon 2026"
   },
   {
     "place": "unknown",
@@ -54773,12 +54773,12 @@
     "city": "Plogastel st germain",
     "departementNumber": 29,
     "eventType": "unknown",
-    "numberOfRaceVariants": 5,
+    "numberOfRaceVariants": 6,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -117256,7 +117256,7 @@
     "registrationStatus": "unknown",
     "beginning": 1810277100000,
     "ending": 1810284300000,
-    "name": "Foulées de Domloup",
+    "name": "Les Foulées de Domloup",
     "eventLink": "https://fr.milesrepublic.com/event/foulees-de-domloup-1536"
   },
   {
@@ -121169,7 +121169,7 @@
     "registrationStatus": "unknown",
     "beginning": 1810850400000,
     "ending": 1810850400000,
-    "name": "Triathlon Sois Fier De Toi TSFDT",
+    "name": "Triathlon Sois Fier De Toi",
     "eventLink": "https://fr.milesrepublic.com/event/triathlon-sois-fier-de-toi-tsfdt-13286"
   },
   {
