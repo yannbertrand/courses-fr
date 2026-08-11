@@ -248,19 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "Florac-Trois-Rivières",
-    "departementNumber": 48,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786433400000,
-    "ending": 1786433400000,
-    "name": "Course du tour du Dolmen",
-    "eventLink": "https://fr.milesrepublic.com/event/course-du-tour-du-dolmen-12096"
-  },
-  {
-    "place": "unknown",
     "city": "Dax",
     "departementNumber": 40,
     "eventType": "running",
@@ -8264,7 +8251,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-urbain-de-chateaubourg-2026/running-course-a-pied/jceb_1353799516527-12",
+    "eventLink": "https://www.klikego.com/inscription/trail-urbain-de-chateaubourg-2026/course-a-pied-running/jceb_1353799516527-12",
     "name": "Trail Urbain de Châteaubourg"
   },
   {
@@ -39607,7 +39594,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791590400000,
     "ending": 1791590400000,
-    "eventLink": "https://www.klikego.com/inscription/le-10karnag-2026/running-course-a-pied/1780969009331-1",
+    "eventLink": "https://www.klikego.com/inscription/le-10karnag-2026/course-a-pied-running/1780969009331-1",
     "name": "Le 10K'arnag"
   },
   {
@@ -45524,6 +45511,19 @@
     "ending": 1792222200000,
     "name": "Courir pour un regard",
     "eventLink": "https://fr.milesrepublic.com/event/courir-pour-un-regard-3437"
+  },
+  {
+    "place": "unknown",
+    "city": "Amiens",
+    "departementNumber": 80,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1792220400000,
+    "ending": 1792221300000,
+    "name": "Decathlonienne Amiens",
+    "eventLink": "https://fr.milesrepublic.com/event/decathlonienne-amiens-17948"
   },
   {
     "place": "unknown",
@@ -52173,7 +52173,7 @@
     "city": "St gilles les bains",
     "departementNumber": 97,
     "eventType": "unknown",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
