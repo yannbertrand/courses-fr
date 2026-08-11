@@ -235,19 +235,6 @@
   },
   {
     "place": "unknown",
-    "city": "Loguivy plougras",
-    "departementNumber": 22,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786147200000,
-    "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-saint-emilion-2026/course-a-pied-running/1785113626517-1",
-    "name": "Trail du Saint-Emilion"
-  },
-  {
-    "place": "unknown",
     "city": "Dax",
     "departementNumber": 40,
     "eventType": "running",
@@ -2934,7 +2921,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/la-ronde-des-phares-2026/running-course-a-pied/1717106660656-3",
+    "eventLink": "https://www.klikego.com/inscription/la-ronde-des-phares-2026/course-a-pied-running/1717106660656-3",
     "name": "La Ronde des Phares 2026"
   },
   {
@@ -5227,6 +5214,19 @@
   },
   {
     "place": "unknown",
+    "city": "Allinges",
+    "departementNumber": 74,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788040800000,
+    "ending": 1788040800000,
+    "name": "La Chablaisiennne",
+    "eventLink": "https://fr.milesrepublic.com/event/la-chablaisiennne-11642"
+  },
+  {
+    "place": "unknown",
     "city": "Wittenheim",
     "departementNumber": 68,
     "eventType": "running",
@@ -5731,6 +5731,19 @@
     "ending": 1788048000000,
     "name": "Trail du Pont Noyer",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3335/trail-du-pont-noyer-couffe"
+  },
+  {
+    "place": "unknown",
+    "city": "Loguivy plougras",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788048000000,
+    "ending": 1788048000000,
+    "eventLink": "https://www.klikego.com/inscription/trail-du-saint-emilion-2026/course-a-pied-running/1785113626517-1",
+    "name": "Trail du Saint-Emilion"
   },
   {
     "place": "unknown",
@@ -6709,32 +6722,6 @@
   },
   {
     "place": "unknown",
-    "city": "Allinges",
-    "departementNumber": 74,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788127200000,
-    "ending": 1788127200000,
-    "name": "La Chablaisiennne",
-    "eventLink": "https://fr.milesrepublic.com/event/la-chablaisiennne-11642"
-  },
-  {
-    "place": "unknown",
-    "city": "Sciez",
-    "departementNumber": 74,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788127200000,
-    "ending": 1788127200000,
-    "name": "La Chablaisiennne",
-    "eventLink": "https://fr.milesrepublic.com/event/la-chablaisiennne-14550"
-  },
-  {
-    "place": "unknown",
     "city": "Charnay-les-macon",
     "departementNumber": 71,
     "eventType": "cycling",
@@ -7616,19 +7603,6 @@
     "ending": 1788386400000,
     "name": "Illies run",
     "eventLink": "https://fr.milesrepublic.com/event/illies-run-8462"
-  },
-  {
-    "place": "unknown",
-    "city": "Lillebonne",
-    "departementNumber": 76,
-    "eventType": "walk",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788386400000,
-    "ending": 1788386400000,
-    "name": "La fournaise",
-    "eventLink": "https://fr.milesrepublic.com/event/la-fournaise-9468"
   },
   {
     "place": "unknown",
@@ -8994,6 +8968,19 @@
     "ending": 1788645600000,
     "name": "La Cyclo Du Bonbis",
     "eventLink": "https://fr.milesrepublic.com/event/la-cyclo-du-bonbis-14375"
+  },
+  {
+    "place": "unknown",
+    "city": "Lillebonne",
+    "departementNumber": 76,
+    "eventType": "walk",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "La fournaise",
+    "eventLink": "https://fr.milesrepublic.com/event/la-fournaise-9468"
   },
   {
     "place": "unknown",
@@ -54304,7 +54291,7 @@
     "place": "unknown",
     "city": "Bourgoin-Jallieu",
     "departementNumber": 38,
-    "eventType": "trail",
+    "eventType": "walk",
     "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "open",
@@ -61829,7 +61816,7 @@
   },
   {
     "place": "unknown",
-    "city": "La Couronne Carro",
+    "city": "Martigues",
     "departementNumber": 13,
     "eventType": "running",
     "numberOfRaceVariants": 2,
@@ -61837,7 +61824,7 @@
     "registrationStatus": "open",
     "beginning": 1795906800000,
     "ending": 1795906800000,
-    "name": "Course Nature La Couronne",
+    "name": "Courses Nature À La Couronne",
     "eventLink": "https://fr.milesrepublic.com/event/course-nature-la-couronne-17475"
   },
   {
@@ -136576,6 +136563,19 @@
     "ending": 1812837600000,
     "name": "Aquakids Vosges du Nord",
     "eventLink": "https://fr.milesrepublic.com/event/aquakids-vosges-du-nord-11013"
+  },
+  {
+    "place": "unknown",
+    "city": "BEAUVAIS",
+    "departementNumber": 60,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812837600000,
+    "name": "Aquathlon de Beauvais",
+    "eventLink": "https://fr.milesrepublic.com/event/aquathlon-de-beauvais-17151"
   },
   {
     "place": "unknown",
