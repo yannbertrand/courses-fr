@@ -20,15 +20,34 @@
       * {
         font-family: Arial, Helvetica, sans-serif;
       }
-      .event {
+      .page {
+        display: flex;
+        gap: 16px;
+      }
+      #refinement-list {
+      }
+      .content {
+        flex: 1 1 auto;
+      }
+      .content .event {
         display: block;
       }
     </style>
   </head>
   <body>
     <h1>Courses en France</h1>
-    <aside id="searchbox"></aside>
-    <main id="hits"></main>
+    <div class="page">
+      <aside id="refinement-list">
+        <div id="type"></div>
+        <div id="departement"></div>
+        <div id="mois"></div>
+        <div id="jour"></div>
+      </aside>
+      <div class="content">
+        <div id="searchbox"></div>
+        <main id="hits"></main>
+      </div>
+    </div>
 
     <script
       src="https://cdn.jsdelivr.net/npm/algoliasearch@5.56.0/dist/lite/builds/browser.umd.js"
@@ -38,7 +57,7 @@
     <script src=" https://cdn.jsdelivr.net/npm/instantsearch.js@4.109.0/dist/instantsearch.production.min.js"></script>
     <script>
       const { liteClient: algoliasearch } = window['algoliasearch/lite'];
-      const instantsearch = window['instantsearch'];
+      const instantsearch = window.instantsearch;
 
       const appID = '2139MZM0UK';
       const apiKey = 'ee95655c40322a7c7be6a8992d93ac74';
@@ -49,9 +68,57 @@
       const search = instantsearch({
         indexName,
         searchClient,
+        routing: {
+          router: instantsearch.routers.history(),
+          stateMapping: instantsearch.stateMappings.simple(),
+        },
       });
 
+      const typeRefinementList = instantsearch.widgets.panel({
+        templates: {
+          header: 'Type',
+        },
+      })(instantsearch.widgets.refinementList);
+
+      const departementRefinementList = instantsearch.widgets.panel({
+        templates: {
+          header: 'Département',
+        },
+      })(instantsearch.widgets.refinementList);
+
+      const monthRefinementList = instantsearch.widgets.panel({
+        templates: {
+          header: 'Mois',
+        },
+      })(instantsearch.widgets.refinementList);
+
+      const dayRefinementList = instantsearch.widgets.panel({
+        templates: {
+          header: 'Jour',
+        },
+      })(instantsearch.widgets.refinementList);
+
       search.addWidgets([
+        typeRefinementList({
+          container: '#type',
+          attribute: 'eventType',
+        }),
+
+        departementRefinementList({
+          container: '#departement',
+          attribute: 'departementNumber',
+        }),
+
+        monthRefinementList({
+          container: '#mois',
+          attribute: 'beginningMonth',
+        }),
+
+        dayRefinementList({
+          container: '#jour',
+          attribute: 'beginningDayOfWeek',
+        }),
+
         instantsearch.widgets.searchBox({
           container: '#searchbox',
         }),
