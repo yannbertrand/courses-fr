@@ -248,32 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "L'Île-Rousse",
-    "departementNumber": "",
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786399200000,
-    "ending": 1786399200000,
-    "name": "Course a Paolina",
-    "eventLink": "https://fr.milesrepublic.com/event/course-a-paolina-152"
-  },
-  {
-    "place": "unknown",
-    "city": "Mauriac",
-    "departementNumber": 15,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786399200000,
-    "ending": 1786399200000,
-    "name": "La Vigeannoise",
-    "eventLink": "https://fr.milesrepublic.com/event/la-vigeannoise-11609"
-  },
-  {
-    "place": "unknown",
     "city": "Florac-Trois-Rivières",
     "departementNumber": 48,
     "eventType": "trail",
@@ -136605,6 +136579,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cheffois",
+    "departementNumber": 85,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812837600000,
+    "name": "Les Foulées Cheffoisiennes",
+    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-cheffoisiennes-16617"
+  },
+  {
+    "place": "unknown",
     "city": "Jouy-le-Moutier",
     "departementNumber": 95,
     "eventType": "trail",
@@ -136667,6 +136654,19 @@
     "ending": 1812837600000,
     "name": "Run'in night trail",
     "eventLink": "https://fr.milesrepublic.com/event/runin-night-trail-5370"
+  },
+  {
+    "place": "unknown",
+    "city": "TOUTAINVILLE",
+    "departementNumber": 27,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812837600000,
+    "ending": 1812837600000,
+    "name": "Swim Run Game",
+    "eventLink": "https://fr.milesrepublic.com/event/swim-run-game-16878"
   },
   {
     "place": "unknown",
