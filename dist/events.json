@@ -10076,6 +10076,19 @@
   },
   {
     "place": "unknown",
+    "city": "Wamin",
+    "departementNumber": "",
+    "eventType": "cycling",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788674400000,
+    "ending": 1788678000000,
+    "name": "La Cycl'Abeille",
+    "eventLink": "https://fr.milesrepublic.com/event/la-cyclabeille-17933"
+  },
+  {
+    "place": "unknown",
     "city": "Livron Sur Drome",
     "departementNumber": 26,
     "eventType": "trail",
@@ -16066,19 +16079,6 @@
     "ending": 1789279200000,
     "name": "Trail du Hérou ",
     "eventLink": "https://fr.milesrepublic.com/event/trail-du-herou-13377"
-  },
-  {
-    "place": "unknown",
-    "city": "Wamin",
-    "departementNumber": 59,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1789279200000,
-    "ending": 1789282800000,
-    "name": "La Cycl'Abeille",
-    "eventLink": "https://fr.milesrepublic.com/event/la-cyclabeille-17933"
   },
   {
     "place": "unknown",
@@ -22244,6 +22244,19 @@
   },
   {
     "place": "unknown",
+    "city": "Les Deserts",
+    "departementNumber": 73,
+    "eventType": "trail",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789884000000,
+    "ending": 1789896600000,
+    "name": "Aix to peak trail",
+    "eventLink": "https://fr.milesrepublic.com/event/les-montees-du-revard-9167"
+  },
+  {
+    "place": "unknown",
     "city": "Aix Les Bains",
     "departementNumber": 73,
     "eventType": "trail",
@@ -24737,19 +24750,6 @@
     "ending": 1789974000000,
     "name": "La Quitte ou Double",
     "eventLink": "https://fr.milesrepublic.com/event/la-quitte-ou-double-13025"
-  },
-  {
-    "place": "unknown",
-    "city": "Les Deserts",
-    "departementNumber": 73,
-    "eventType": "running",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789970400000,
-    "ending": 1789982100000,
-    "name": "Les montées du Revard",
-    "eventLink": "https://fr.milesrepublic.com/event/les-montees-du-revard-9167"
   },
   {
     "place": "unknown",
@@ -33372,8 +33372,8 @@
   },
   {
     "place": "unknown",
-    "city": "Brissac Loire Aubance",
-    "departementNumber": 49,
+    "city": "Brissac-Loire-Aubance",
+    "departementNumber": "",
     "eventType": "trail",
     "numberOfRaceVariants": 2,
     "registrationLink": "",
@@ -36372,19 +36372,6 @@
     "ending": 1791119400000,
     "name": "Corrida de Villejuif",
     "eventLink": "https://fr.milesrepublic.com/event/corrida-de-villejuif-17280"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint Georges Sur Loire",
-    "departementNumber": 49,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1791100800000,
-    "ending": 1791134100000,
-    "name": "Anjou'r & Nuit",
-    "eventLink": "https://fr.milesrepublic.com/event/anjour-nuit-16762"
   },
   {
     "place": "unknown",
@@ -41149,7 +41136,7 @@
     "city": "Grand fougeray",
     "departementNumber": 35,
     "eventType": "unknown",
-    "numberOfRaceVariants": 1,
+    "numberOfRaceVariants": "unknown",
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
@@ -74720,7 +74707,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801958400000,
     "ending": 1801958400000,
-    "eventLink": "https://www.klikego.com/inscription/10km-des-champs-elysees-fulfil-2027/running-course-a-pied/1665608501151-7",
+    "eventLink": "https://www.klikego.com/inscription/10km-des-champs-elysees-fulfil-2027/course-a-pied-running/1665608501151-7",
     "name": "10km des Champs-Elysées Fulfil"
   },
   {
@@ -92192,7 +92179,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806710400000,
-    "eventLink": "https://www.klikego.com/inscription/100km-n07-marathon-semi-marathon-de-crevin-et-la-crevinoise-2027/running-course-a-pied/1516494105802-20",
+    "eventLink": "https://www.klikego.com/inscription/100km-n07-marathon-semi-marathon-de-crevin-et-la-crevinoise-2027/course-a-pied-running/1516494105802-20",
     "name": "100km N°07, Marathon, Semi-Marathon de Crevin et La Crevinoise"
   },
   {
@@ -109409,19 +109396,6 @@
   },
   {
     "place": "unknown",
-    "city": "Eschentzwiller",
-    "departementNumber": 68,
-    "eventType": "running",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1809158400000,
-    "ending": 1809158400000,
-    "name": "Backyard Xperience",
-    "eventLink": "https://fr.milesrepublic.com/event/backyard-xperience-17181"
-  },
-  {
-    "place": "unknown",
     "city": "Bilhères",
     "departementNumber": 64,
     "eventType": "trail",
@@ -109614,6 +109588,19 @@
     "ending": 1809162000000,
     "name": "Les 5 Et 10Kms Du Noyonnais",
     "eventLink": "https://fr.milesrepublic.com/event/les-5-et-10kms-du-noyonnais-17204"
+  },
+  {
+    "place": "unknown",
+    "city": "Eschentzwiller",
+    "departementNumber": 68,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1809158400000,
+    "ending": 1809174600000,
+    "name": "Backyard Xperience",
+    "eventLink": "https://fr.milesrepublic.com/event/backyard-xperience-17181"
   },
   {
     "place": "unknown",
@@ -113670,6 +113657,19 @@
     "ending": 1809797400000,
     "name": "Dour Urban Trail",
     "eventLink": "https://fr.milesrepublic.com/event/dour-urban-trail-13128"
+  },
+  {
+    "place": "unknown",
+    "city": "Noyelles-sur-Escaut",
+    "departementNumber": 59,
+    "eventType": "fun",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1809813600000,
+    "ending": 1809813600000,
+    "name": "Color Run by LBDC",
+    "eventLink": "https://fr.milesrepublic.com/event/color-run-by-lbdc-17954"
   },
   {
     "place": "unknown",
