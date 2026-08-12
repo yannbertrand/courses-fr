@@ -7723,19 +7723,6 @@
   },
   {
     "place": "unknown",
-    "city": "Marboz",
-    "departementNumber": 1,
-    "eventType": "running",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788541200000,
-    "ending": 1788555600000,
-    "name": "Course nature de Marboz",
-    "eventLink": "https://fr.milesrepublic.com/event/course-nature-de-marboz-7455"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Romain-au-Mont-d'Or",
     "departementNumber": 69,
     "eventType": "trail",
@@ -7743,7 +7730,7 @@
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1788546600000,
-    "ending": 1788633000000,
+    "ending": 1788546600000,
     "name": "La nuit des cabornes",
     "eventLink": "https://fr.milesrepublic.com/event/la-nuit-des-cabornes-2899"
   },
@@ -10287,11 +10274,11 @@
     "city": "Brignais",
     "departementNumber": 69,
     "eventType": "trail",
-    "numberOfRaceVariants": 6,
+    "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1788676200000,
-    "ending": 1788687000000,
+    "ending": 1788686100000,
     "name": "Trail des Tard-Venus",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-tard-venus-2941"
   },
@@ -26677,6 +26664,19 @@
   },
   {
     "place": "unknown",
+    "city": "Attignat",
+    "departementNumber": 1,
+    "eventType": "running",
+    "numberOfRaceVariants": 8,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790424000000,
+    "ending": 1790433600000,
+    "name": "Les foulées du château",
+    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-du-chateau-2819"
+  },
+  {
+    "place": "unknown",
     "city": "Rupt-aux-Nonains",
     "departementNumber": "",
     "eventType": "other",
@@ -26765,19 +26765,6 @@
     "ending": 1790449200000,
     "name": "Yes We Run",
     "eventLink": "https://fr.milesrepublic.com/event/yes-we-run-9462"
-  },
-  {
-    "place": "unknown",
-    "city": "Attignat",
-    "departementNumber": 1,
-    "eventType": "running",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1790428500000,
-    "ending": 1790433000000,
-    "name": "Les foulées du château",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-du-chateau-2819"
   },
   {
     "place": "unknown",
@@ -33375,11 +33362,11 @@
     "city": "Brissac-Loire-Aubance",
     "departementNumber": "",
     "eventType": "trail",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1791047700000,
-    "ending": 1791048600000,
+    "ending": 1791100800000,
     "name": "Anjou'r & Nuit",
     "eventLink": "https://fr.milesrepublic.com/event/anjour-nuit-17780"
   },
@@ -39560,6 +39547,19 @@
   },
   {
     "place": "unknown",
+    "city": "Crevin",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1791590400000,
+    "ending": 1791590400000,
+    "eventLink": "https://www.klikego.com/inscription/marches-rose-crevin-2026/marche-nordique-running/1516494105802-21",
+    "name": "Marches Rose CREVIN"
+  },
+  {
+    "place": "unknown",
     "city": "Caen",
     "departementNumber": 14,
     "eventType": "unknown",
@@ -45371,19 +45371,6 @@
   },
   {
     "place": "unknown",
-    "city": "Rennes",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2026/running-course-a-pied/1284761384288-44",
-    "name": "Marathon Vert Rennes Groupe Interaction"
-  },
-  {
-    "place": "unknown",
     "city": "Dompierre-les-Ormes",
     "departementNumber": 71,
     "eventType": "trail",
@@ -49729,11 +49716,11 @@
     "city": "Saint-Offenge",
     "departementNumber": 73,
     "eventType": "trail",
-    "numberOfRaceVariants": 9,
+    "numberOfRaceVariants": 5,
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1792861200000,
-    "ending": 1792922400000,
+    "ending": 1792924200000,
     "name": "St Off en trail",
     "eventLink": "https://fr.milesrepublic.com/event/st-off-en-trail-3659"
   },
@@ -54718,6 +54705,19 @@
   },
   {
     "place": "unknown",
+    "city": "Montagrier",
+    "departementNumber": 24,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794096000000,
+    "ending": 1794096000000,
+    "eventLink": "https://www.klikego.com/inscription/le-montagrier-trail-2026/course-a-pied-running/1663705635944-5",
+    "name": "Le Montagrier Trail 2026"
+  },
+  {
+    "place": "unknown",
     "city": "Plogastel st germain",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -58670,6 +58670,19 @@
   },
   {
     "place": "unknown",
+    "city": "Grignon",
+    "departementNumber": 21,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1794735000000,
+    "ending": 1794736200000,
+    "name": "Trail de Grignon",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-grignon-11514"
+  },
+  {
+    "place": "unknown",
     "city": "Thonon-les-Bains",
     "departementNumber": 74,
     "eventType": "walk",
@@ -58888,19 +58901,6 @@
     "ending": 1794823200000,
     "name": "Trail des caboués",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-caboues-5838"
-  },
-  {
-    "place": "unknown",
-    "city": "Grignon",
-    "departementNumber": 21,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794814200000,
-    "ending": 1794827700000,
-    "name": "Trail de Grignon",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-de-grignon-11514"
   },
   {
     "place": "unknown",
@@ -89402,6 +89402,19 @@
   },
   {
     "place": "unknown",
+    "city": "Trégunc",
+    "departementNumber": 29,
+    "eventType": "trail",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806233400000,
+    "ending": 1806241500000,
+    "name": "La trace",
+    "eventLink": "https://fr.milesrepublic.com/event/la-trace-6040"
+  },
+  {
+    "place": "unknown",
     "city": "Ecouen",
     "departementNumber": 95,
     "eventType": "running",
@@ -92688,19 +92701,6 @@
     "ending": 1806843900000,
     "name": "La tournée des cuviers",
     "eventLink": "https://fr.milesrepublic.com/event/la-tournee-des-cuviers-4718"
-  },
-  {
-    "place": "unknown",
-    "city": "Trégunc",
-    "departementNumber": 29,
-    "eventType": "trail",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806838200000,
-    "ending": 1806846300000,
-    "name": "La trace",
-    "eventLink": "https://fr.milesrepublic.com/event/la-trace-6040"
   },
   {
     "place": "unknown",
@@ -136849,6 +136849,19 @@
     "ending": 1812949200000,
     "name": "Les trails de la factrice",
     "eventLink": "https://fr.milesrepublic.com/event/les-trails-de-la-factrice-7022"
+  },
+  {
+    "place": "unknown",
+    "city": "Domfront en Poiraie",
+    "departementNumber": 61,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812859200000,
+    "ending": 1812974400000,
+    "name": "Ultra Raid VTT 360 KM",
+    "eventLink": "https://fr.milesrepublic.com/event/ultra-raid-vtt-360-km-15349"
   },
   {
     "place": "unknown",
