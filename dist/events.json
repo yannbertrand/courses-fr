@@ -235,45 +235,6 @@
   },
   {
     "place": "unknown",
-    "city": "Dax",
-    "departementNumber": 40,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786517100000,
-    "ending": 1786517100000,
-    "name": "Feriascapade",
-    "eventLink": "https://fr.milesrepublic.com/event/feriascapade-2378"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Péray",
-    "departementNumber": 7,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786518000000,
-    "ending": 1786518000000,
-    "name": "Les 100 miles de France",
-    "eventLink": "https://fr.milesrepublic.com/event/les-100-miles-de-france-8637"
-  },
-  {
-    "place": "unknown",
-    "city": "Chalencon",
-    "departementNumber": 7,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786519800000,
-    "ending": 1786522500000,
-    "name": "Trail de l'oppidum",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-de-loppidum-2424"
-  },
-  {
-    "place": "unknown",
     "city": "Crossac",
     "departementNumber": 44,
     "eventType": "walk",
@@ -20996,6 +20957,19 @@
   },
   {
     "place": "unknown",
+    "city": "Chambéry",
+    "departementNumber": 73,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789855200000,
+    "ending": 1789855200000,
+    "name": "10 km de la Foire de Savoie",
+    "eventLink": "https://fr.milesrepublic.com/event/10-km-de-la-foire-de-savoie-5575"
+  },
+  {
+    "place": "unknown",
     "city": "Moret-loing-et-orvanne",
     "departementNumber": 77,
     "eventType": "cycling",
@@ -24932,19 +24906,6 @@
     "ending": 1789977600000,
     "name": "Foulées du Caillou qui Bique",
     "eventLink": "https://fr.milesrepublic.com/event/foulees-du-caillou-qui-bique-13130"
-  },
-  {
-    "place": "unknown",
-    "city": "Chambéry",
-    "departementNumber": 73,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789979400000,
-    "ending": 1789979400000,
-    "name": "10 km de la Foire de Savoie",
-    "eventLink": "https://fr.milesrepublic.com/event/10-km-de-la-foire-de-savoie-5575"
   },
   {
     "place": "unknown",
@@ -118015,19 +117976,6 @@
   },
   {
     "place": "unknown",
-    "city": "Passy",
-    "departementNumber": 74,
-    "eventType": "trail",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1810447200000,
-    "ending": 1810447200000,
-    "name": "La Douze Mont-Blanc Passy",
-    "eventLink": "https://fr.milesrepublic.com/event/la-douze-mont-blanc-passy-15368"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Agrève",
     "departementNumber": 7,
     "eventType": "trail",
@@ -121249,6 +121197,19 @@
     "ending": 1811030400000,
     "eventLink": "https://www.klikego.com/inscription/les-defis-raoul-ii-2027/running-marche-nordique/1460747035471-11",
     "name": "LES DÉFIS RAOUL II"
+  },
+  {
+    "place": "unknown",
+    "city": "Passy",
+    "departementNumber": 74,
+    "eventType": "trail",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1810965600000,
+    "ending": 1810965600000,
+    "name": "La Douze Mont-Blanc Passy",
+    "eventLink": "https://fr.milesrepublic.com/event/la-douze-mont-blanc-passy-15368"
   },
   {
     "place": "unknown",
@@ -136241,6 +136202,19 @@
   },
   {
     "place": "unknown",
+    "city": "Les Portes-en-Ré",
+    "departementNumber": 17,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1812790800000,
+    "ending": 1812877200000,
+    "name": "T24 Ile de Ré",
+    "eventLink": "https://fr.milesrepublic.com/event/t24-ile-de-re-9458"
+  },
+  {
+    "place": "unknown",
     "city": "Le Puy",
     "departementNumber": 43,
     "eventType": "trail",
@@ -136849,6 +136823,32 @@
     "ending": 1812924000000,
     "name": "Triathlon international du Mont-Blanc",
     "eventLink": "https://fr.milesrepublic.com/event/triathlon-international-du-mont-blanc-9533"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint Louis",
+    "departementNumber": 74,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812844800000,
+    "ending": 1812844800000,
+    "name": "Trail Fah'ame",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-fahame-16618"
+  },
+  {
+    "place": "unknown",
+    "city": "Roquebrun",
+    "departementNumber": 34,
+    "eventType": "running",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812855600000,
+    "ending": 1812949200000,
+    "name": "Les trails de la factrice",
+    "eventLink": "https://fr.milesrepublic.com/event/les-trails-de-la-factrice-7022"
   },
   {
     "place": "unknown",
