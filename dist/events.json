@@ -1361,7 +1361,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786838400000,
     "ending": 1786838400000,
-    "eventLink": "https://www.klikego.com/inscription/larvor-saintpolitaine-2026/running-course-a-pied/1671003953876-6",
+    "eventLink": "https://www.klikego.com/inscription/larvor-saintpolitaine-2026/course-a-pied-running/1671003953876-6",
     "name": "L'Arvor Saintpolitaine"
   },
   {
@@ -4559,7 +4559,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-saint-philibert-2026/running-course-a-pied/1566127531880-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-saint-philibert-2026/course-a-pied-running/1566127531880-5",
     "name": "TRAIL DE SAINT-PHILIBERT"
   },
   {
@@ -46603,6 +46603,19 @@
     "ending": 1792281600000,
     "name": "LES TRACES DU LOUET",
     "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3125"
+  },
+  {
+    "place": "Complexe sportif - rue de Langförden",
+    "city": "Le Cellier",
+    "departementNumber": 44,
+    "eventType": "marche",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1792281600000,
+    "ending": 1792281600000,
+    "name": "Marche Octobre Rose",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3515/marche-octobre-rose-le-cellier"
   },
   {
     "place": "Complexe sportif du Buisson de la GROLLE",
