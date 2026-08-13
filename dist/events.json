@@ -235,19 +235,6 @@
   },
   {
     "place": "unknown",
-    "city": "Bourg-Saint-Maurice",
-    "departementNumber": 73,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786606200000,
-    "ending": 1786620600000,
-    "name": "Trail des Arcs",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-arcs-11269"
-  },
-  {
-    "place": "unknown",
     "city": "Auzat",
     "departementNumber": 9,
     "eventType": "trail",
@@ -258,19 +245,6 @@
     "ending": 1786831200000,
     "name": "Challenge du Montcalm",
     "eventLink": "https://fr.milesrepublic.com/event/challenge-du-montcalm-5565"
-  },
-  {
-    "place": "unknown",
-    "city": "Annecy",
-    "departementNumber": 74,
-    "eventType": "other",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786613400000,
-    "ending": 1786613400000,
-    "name": "Stage entrainement eau libre et triathlon - Lac d'Annecy",
-    "eventLink": "https://fr.milesrepublic.com/event/stage-entrainement-eau-libre-et-triathlon-lac-dannecy-11612"
   },
   {
     "place": "unknown",
@@ -1374,7 +1348,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786838400000,
     "ending": 1786838400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-mont-gargan-2026/running-course-a-pied/1746145028683-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-mont-gargan-2026/course-a-pied-running/1746145028683-2",
     "name": "Trail du Mont Gargan 2026"
   },
   {
@@ -39503,7 +39477,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791590400000,
     "ending": 1791590400000,
-    "eventLink": "https://www.klikego.com/inscription/le-kermithon-2026/running-course-a-pied/1781317796893-1",
+    "eventLink": "https://www.klikego.com/inscription/le-kermithon-2026/course-a-pied-running/1781317796893-1",
     "name": "Le Kermithon 2026"
   },
   {
@@ -54700,7 +54674,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -56065,7 +56039,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794268800000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/semi-marathon-10km-5km-et-defi-de-plouguin-2026/running-course-a-pied/1633737828041-6",
+    "eventLink": "https://www.klikego.com/inscription/semi-marathon-10km-5km-et-defi-de-plouguin-2026/course-a-pied-running/1633737828041-6",
     "name": "Semi-marathon, 10km 5km et defi de Plouguin"
   },
   {
@@ -57989,7 +57963,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/vetathlon-de-fleurigne-2026/running-course-a-pied/1595120233931-8",
+    "eventLink": "https://www.klikego.com/inscription/vetathlon-de-fleurigne-2026/course-a-pied-running/1595120233931-8",
     "name": "VETATHLON DE FLEURIGNE"
   },
   {
@@ -61369,7 +61343,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/noz-trail-des-lutins-2026/running-course-a-pied/1663438530698-5",
+    "eventLink": "https://www.klikego.com/inscription/noz-trail-des-lutins-2026/course-a-pied-running/1663438530698-5",
     "name": "Noz Trail des Lutins 2026"
   },
   {
@@ -66439,7 +66413,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/15eme-edition-de-la-guignennaise-2026/running-course-a-pied/jceb_1377094807352-19",
+    "eventLink": "https://www.klikego.com/inscription/15eme-edition-de-la-guignennaise-2026/course-a-pied-running/jceb_1377094807352-19",
     "name": "15ème édition de la Guignennaise"
   },
   {
@@ -67973,7 +67947,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/tlj5-trail-entre-landes-et-justice-2026/running-course-a-pied/1645087368296-7",
+    "eventLink": "https://www.klikego.com/inscription/tlj5-trail-entre-landes-et-justice-2026/course-a-pied-running/1645087368296-7",
     "name": "TLJ#5 - Trail Entre Landes et Justice"
   },
   {
@@ -69013,7 +68987,7 @@
     "registrationStatus": "unknown",
     "beginning": 1798588800000,
     "ending": 1798588800000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-dinannaise-2026/running-course-a-pied/1399449568138-22",
+    "eventLink": "https://www.klikego.com/inscription/corrida-dinannaise-2026/course-a-pied-running/1399449568138-22",
     "name": "CORRIDA DINANNAISE"
   },
   {
@@ -96799,19 +96773,6 @@
   },
   {
     "place": "unknown",
-    "city": "Angres",
-    "departementNumber": 62,
-    "eventType": "walk",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1807445700000,
-    "ending": 1807452000000,
-    "name": "Trail du chardon",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-du-chardon-6791"
-  },
-  {
-    "place": "unknown",
     "city": "Marchesieux",
     "departementNumber": 50,
     "eventType": "running",
@@ -100631,6 +100592,19 @@
     "ending": 1807941600000,
     "name": "Les 10 km d'Avaux",
     "eventLink": "https://fr.milesrepublic.com/event/les-10-km-davaux-6080"
+  },
+  {
+    "place": "unknown",
+    "city": "Angres",
+    "departementNumber": 62,
+    "eventType": "trail",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1807964100000,
+    "ending": 1807970400000,
+    "name": "Trail du chardon",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-du-chardon-6791"
   },
   {
     "place": "unknown",
@@ -136862,6 +136836,32 @@
     "ending": 1812871800000,
     "name": "Trail du lac d'Oô",
     "eventLink": "https://fr.milesrepublic.com/event/trail-du-lac-doo-7771"
+  },
+  {
+    "place": "unknown",
+    "city": "Lyon",
+    "departementNumber": 69,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812868200000,
+    "ending": 1812871800000,
+    "name": "Les Foulées de la MJC",
+    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-de-la-mjc-16547"
+  },
+  {
+    "place": "unknown",
+    "city": "La Bruffiere",
+    "departementNumber": 85,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812869100000,
+    "ending": 1812872700000,
+    "name": "Trail De La Mozelle",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-mozelle-16619"
   },
   {
     "place": "unknown",
