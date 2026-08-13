@@ -248,19 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint-Gervais-les-Bains",
-    "departementNumber": 74,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786640400000,
-    "ending": 1786640400000,
-    "name": "Cross relais nocturne Saint-Gervais",
-    "eventLink": "https://fr.milesrepublic.com/event/cross-relais-nocturne-saint-gervais-7549"
-  },
-  {
-    "place": "unknown",
     "city": "L'Alpe d'Huez",
     "departementNumber": 38,
     "eventType": "trail",
@@ -698,7 +685,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786752000000,
     "ending": 1786752000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-forges-ychoux-2026/running-course-a-pied/1741387871041-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-forges-ychoux-2026/course-a-pied-running/1741387871041-2",
     "name": "Trail des Forges Ychoux"
   },
   {
@@ -19899,7 +19886,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-trail-de-pons-2026/running-course-a-pied/1676018194759-7",
+    "eventLink": "https://www.klikego.com/inscription/ultra-trail-de-pons-2026/course-a-pied-running/1676018194759-7",
     "name": "Ultra Trail de Pons 2026"
   },
   {
@@ -28507,6 +28494,19 @@
     "ending": 1790494200000,
     "name": "Garo'run",
     "eventLink": "https://fr.milesrepublic.com/event/garorun-7599"
+  },
+  {
+    "place": "unknown",
+    "city": "Saclas",
+    "departementNumber": 91,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790491500000,
+    "ending": 1790494200000,
+    "name": "Les boucles de la Juine",
+    "eventLink": "https://fr.milesrepublic.com/event/les-boucles-de-la-juine-17956"
   },
   {
     "place": "unknown",
