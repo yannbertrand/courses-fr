@@ -4468,7 +4468,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-gourmandes-2026/running-course-a-pied/1545792733497-8",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-gourmandes-2026/course-a-pied-running/1545792733497-8",
     "name": "Les Foulées Gourmandes"
   },
   {
@@ -5547,7 +5547,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
     "ending": 1788048000000,
-    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/running-course-a-pied/1767296761033-1",
+    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/course-a-pied-running/1767296761033-1",
     "name": "La Cro Magnon"
   },
   {
@@ -8147,7 +8147,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-urbain-de-chateaubourg-2026/running-course-a-pied/jceb_1353799516527-12",
+    "eventLink": "https://www.klikego.com/inscription/trail-urbain-de-chateaubourg-2026/course-a-pied-running/jceb_1353799516527-12",
     "name": "Trail Urbain de Châteaubourg"
   },
   {
@@ -15682,7 +15682,7 @@
     "city": "REZÉ",
     "departementNumber": 44,
     "eventType": "running",
-    "numberOfRaceVariants": 7,
+    "numberOfRaceVariants": 8,
     "registrationLink": "https://asbr-athle.fr/les-challenges-de-reze/",
     "registrationStatus": "open",
     "beginning": 1789257600000,
@@ -72086,19 +72086,6 @@
   },
   {
     "place": "unknown",
-    "city": "Tignes",
-    "departementNumber": "",
-    "eventType": "running",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1800777600000,
-    "ending": 1800799200000,
-    "name": "Les courses du lac gelé",
-    "eventLink": "https://fr.milesrepublic.com/event/les-courses-du-lac-gele-15128"
-  },
-  {
-    "place": "unknown",
     "city": "Paussac-et-Saint-Vivien",
     "departementNumber": 24,
     "eventType": "trail",
@@ -73279,6 +73266,19 @@
     "ending": 1801245660000,
     "name": "La Verte à l'envers",
     "eventLink": "https://fr.milesrepublic.com/event/verte-a-lenvers-10642"
+  },
+  {
+    "place": "unknown",
+    "city": "Tignes",
+    "departementNumber": "",
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1801296000000,
+    "ending": 1801317600000,
+    "name": "Les courses du lac gelé",
+    "eventLink": "https://fr.milesrepublic.com/event/les-courses-du-lac-gele-15128"
   },
   {
     "place": "unknown",
