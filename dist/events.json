@@ -235,32 +235,6 @@
   },
   {
     "place": "unknown",
-    "city": "Crossac",
-    "departementNumber": 44,
-    "eventType": "walk",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786572000000,
-    "ending": 1786572000000,
-    "name": " Randos crêpes Crossac",
-    "eventLink": "https://fr.milesrepublic.com/event/-randos-crepes-crossac-11562"
-  },
-  {
-    "place": "unknown",
-    "city": "Mirande",
-    "departementNumber": 32,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786572000000,
-    "ending": 1786572000000,
-    "name": "Les 10 km de Mirande",
-    "eventLink": "https://fr.milesrepublic.com/event/les-10-km-de-mirande-2594"
-  },
-  {
-    "place": "unknown",
     "city": "Bourg-Saint-Maurice",
     "departementNumber": 73,
     "eventType": "trail",
@@ -711,7 +685,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786752000000,
     "ending": 1786752000000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-saugettes-2026/course-a-pied-running/1433108543142-21",
+    "eventLink": "https://www.klikego.com/inscription/foulees-saugettes-2026/running-course-a-pied/1433108543142-21",
     "name": "Foulées Saugettes 2026"
   },
   {
@@ -750,7 +724,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786752000000,
     "ending": 1786752000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-forges-ychoux-2026/course-a-pied-running/1741387871041-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-forges-ychoux-2026/running-course-a-pied/1741387871041-2",
     "name": "Trail des Forges Ychoux"
   },
   {
@@ -1361,7 +1335,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786838400000,
     "ending": 1786838400000,
-    "eventLink": "https://www.klikego.com/inscription/larvor-saintpolitaine-2026/course-a-pied-running/1671003953876-6",
+    "eventLink": "https://www.klikego.com/inscription/larvor-saintpolitaine-2026/running-course-a-pied/1671003953876-6",
     "name": "L'Arvor Saintpolitaine"
   },
   {
@@ -1387,7 +1361,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786838400000,
     "ending": 1786838400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-queue-dane-2026/course-a-pied-running/1622684601155-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-queue-dane-2026/running-course-a-pied/1622684601155-6",
     "name": "Trail de Queue D'Ane 2026"
   },
   {
@@ -2882,7 +2856,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/la-ronde-des-phares-2026/course-a-pied-running/1717106660656-3",
+    "eventLink": "https://www.klikego.com/inscription/la-ronde-des-phares-2026/running-course-a-pied/1717106660656-3",
     "name": "La Ronde des Phares 2026"
   },
   {
@@ -2908,7 +2882,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-o2-lair-2026/course-a-pied-running/1643237107171-2",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-o2-lair-2026/running-course-a-pied/1643237107171-2",
     "name": "Les foulées O2 l'air"
   },
   {
@@ -4455,7 +4429,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/la-trez-bellec-2026/course-a-pied-running/1743540715773-3",
+    "eventLink": "https://www.klikego.com/inscription/la-trez-bellec-2026/running-course-a-pied/1743540715773-3",
     "name": "LA TREZ BELLEC"
   },
   {
@@ -4520,7 +4494,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/plouftrail-de-la-maxi-gouet-2026/course-a-pied-running/1719017557913-3",
+    "eventLink": "https://www.klikego.com/inscription/plouftrail-de-la-maxi-gouet-2026/running-course-a-pied/1719017557913-3",
     "name": "Plouf'trail de la Maxi Gouët"
   },
   {
@@ -4559,7 +4533,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-saint-philibert-2026/course-a-pied-running/1566127531880-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-saint-philibert-2026/running-course-a-pied/1566127531880-5",
     "name": "TRAIL DE SAINT-PHILIBERT"
   },
   {
@@ -5573,7 +5547,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
     "ending": 1788048000000,
-    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/course-a-pied-running/1767296761033-1",
+    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/running-course-a-pied/1767296761033-1",
     "name": "La Cro Magnon"
   },
   {
@@ -5703,7 +5677,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
     "ending": 1788048000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-saint-emilion-2026/course-a-pied-running/1785113626517-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-saint-emilion-2026/running-course-a-pied/1785113626517-1",
     "name": "Trail du Saint-Emilion"
   },
   {
@@ -8082,7 +8056,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/les-courses-de-la-fete-des-pommiers-2026/course-a-pied-running/1784765700612-1",
+    "eventLink": "https://www.klikego.com/inscription/les-courses-de-la-fete-des-pommiers-2026/running-course-a-pied/1784765700612-1",
     "name": "Les courses de la fête des pommiers"
   },
   {
@@ -8095,7 +8069,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-la-tour-2026/course-a-pied-running/1693081209668-9",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-la-tour-2026/running-course-a-pied/1693081209668-9",
     "name": "Les Foulées de la Tour"
   },
   {
@@ -8173,7 +8147,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-urbain-de-chateaubourg-2026/course-a-pied-running/jceb_1353799516527-12",
+    "eventLink": "https://www.klikego.com/inscription/trail-urbain-de-chateaubourg-2026/running-course-a-pied/jceb_1353799516527-12",
     "name": "Trail Urbain de Châteaubourg"
   },
   {
@@ -9499,7 +9473,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/10km-hexagone-trocadero-2026/course-a-pied-running/1724195398568-2",
+    "eventLink": "https://www.klikego.com/inscription/10km-hexagone-trocadero-2026/running-course-a-pied/1724195398568-2",
     "name": "10km Hexagone Trocadéro"
   },
   {
@@ -9694,7 +9668,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/les-10-km-de-lavenir-edition-2026/course-a-pied-running/1717803804391-3",
+    "eventLink": "https://www.klikego.com/inscription/les-10-km-de-lavenir-edition-2026/running-course-a-pied/1717803804391-3",
     "name": "Les 10 km de l'Avenir - Edition 2026"
   },
   {
@@ -9733,7 +9707,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-la-foret-de-breviande-2026/course-a-pied-running/1430291346020-13",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-la-foret-de-breviande-2026/running-course-a-pied/1430291346020-13",
     "name": "Les Foulées de la Forêt de Bréviande"
   },
   {
@@ -9837,7 +9811,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/sur-les-traces-des-moulins-de-ploneour-2026/course-a-pied-running/1706220220437-5",
+    "eventLink": "https://www.klikego.com/inscription/sur-les-traces-des-moulins-de-ploneour-2026/running-course-a-pied/1706220220437-5",
     "name": "Sur les Traces Des Moulins de Plonéour"
   },
   {
@@ -13750,7 +13724,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789171200000,
     "ending": 1789171200000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-nature-du-souffle-de-le-sourn-2026/course-a-pied-running/1783133122638-1",
+    "eventLink": "https://www.klikego.com/inscription/corrida-nature-du-souffle-de-le-sourn-2026/running-course-a-pied/1783133122638-1",
     "name": "CORRIDA NATURE DU SOUFFLE DE LE SOURN"
   },
   {
@@ -13867,7 +13841,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789171200000,
     "ending": 1789171200000,
-    "eventLink": "https://www.klikego.com/inscription/rando-pedestre-et-trail-des-vendanges-2026/course-a-pied-running/1693081209668-10",
+    "eventLink": "https://www.klikego.com/inscription/rando-pedestre-et-trail-des-vendanges-2026/running-course-a-pied/1693081209668-10",
     "name": "Rando Pédestre et Trail Des Vendanges"
   },
   {
@@ -15609,7 +15583,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-chartraines-2026/course-a-pied-running/1370930390313-20",
+    "eventLink": "https://www.klikego.com/inscription/foulees-chartraines-2026/running-course-a-pied/1370930390313-20",
     "name": "Foulées Chartraines 2026"
   },
   {
@@ -15726,7 +15700,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-rotary-2026/course-a-pied-running/1784779041624-1",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-rotary-2026/running-course-a-pied/1784779041624-1",
     "name": "Les foulées du Rotary"
   },
   {
@@ -15765,7 +15739,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-lindoises--vaincre-ensemble-la-sclerose-en-plaques-2026/course-a-pied-running/1271467163297-22",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-lindoises--vaincre-ensemble-la-sclerose-en-plaques-2026/running-course-a-pied/1271467163297-22",
     "name": "Les Foulées Lindoises : vaincre ensemble la sclérose en plaques"
   },
   {
@@ -15856,7 +15830,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-maree-2026/course-a-pied-running/1782507024143-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-maree-2026/running-course-a-pied/1782507024143-1",
     "name": "Trail de la grande marée"
   },
   {
@@ -19769,7 +19743,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789776000000,
-    "eventLink": "https://www.klikego.com/inscription/le-relais-des-diables-3-2026/course-a-pied-running/1701314030073-5",
+    "eventLink": "https://www.klikego.com/inscription/le-relais-des-diables-3-2026/running-course-a-pied/1701314030073-5",
     "name": "Le Relais Des Diables #3"
   },
   {
@@ -32574,7 +32548,7 @@
     "registrationStatus": "unknown",
     "beginning": 1790985600000,
     "ending": 1790985600000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-des-raids-dingues-2026/course-a-pied-running/1710963845135-3",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-des-raids-dingues-2026/running-course-a-pied/1710963845135-3",
     "name": "Les Foulées des Raids Dingues 2026"
   },
   {
@@ -34953,7 +34927,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791072000000,
     "ending": 1791072000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-urbain-redon-2026/course-a-pied-running/1470620036420-12",
+    "eventLink": "https://www.klikego.com/inscription/trail-urbain-redon-2026/running-course-a-pied/1470620036420-12",
     "name": "Trail Urbain - Redon"
   },
   {
@@ -39516,7 +39490,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791590400000,
     "ending": 1791590400000,
-    "eventLink": "https://www.klikego.com/inscription/le-10karnag-2026/course-a-pied-running/1780969009331-1",
+    "eventLink": "https://www.klikego.com/inscription/le-10karnag-2026/running-course-a-pied/1780969009331-1",
     "name": "Le 10K'arnag"
   },
   {
@@ -39529,7 +39503,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791590400000,
     "ending": 1791590400000,
-    "eventLink": "https://www.klikego.com/inscription/le-kermithon-2026/course-a-pied-running/1781317796893-1",
+    "eventLink": "https://www.klikego.com/inscription/le-kermithon-2026/running-course-a-pied/1781317796893-1",
     "name": "Le Kermithon 2026"
   },
   {
@@ -39555,7 +39529,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791590400000,
     "ending": 1791590400000,
-    "eventLink": "https://www.klikego.com/inscription/marches-rose-crevin-2026/marche-nordique-running/1516494105802-21",
+    "eventLink": "https://www.klikego.com/inscription/marches-rose-crevin-2026/running-marche-nordique/1516494105802-21",
     "name": "Marches Rose CREVIN"
   },
   {
@@ -39581,7 +39555,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791590400000,
     "ending": 1791590400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-coatloch-2026/course-a-pied-running/1499387438265-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-coatloch-2026/running-course-a-pied/1499387438265-15",
     "name": "Trail de Coatloc'h"
   },
   {
@@ -41050,7 +41024,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/5-et-10km-du-grand-cognac-2026/course-a-pied-running/1592339856511-3",
+    "eventLink": "https://www.klikego.com/inscription/5-et-10km-du-grand-cognac-2026/running-course-a-pied/1592339856511-3",
     "name": "5 et 10KM du Grand Cognac"
   },
   {
@@ -41089,7 +41063,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/courir-sante-courses-2026/course-a-pied-running/1751678518318-2",
+    "eventLink": "https://www.klikego.com/inscription/courir-sante-courses-2026/running-course-a-pied/1751678518318-2",
     "name": "COURIR SANTE COURSES"
   },
   {
@@ -41141,7 +41115,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/la-boucle-du-feu-2026/course-a-pied-running/1779817536081-1",
+    "eventLink": "https://www.klikego.com/inscription/la-boucle-du-feu-2026/running-course-a-pied/1779817536081-1",
     "name": "La boucle du feu"
   },
   {
@@ -41206,7 +41180,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-des-vergers-2026/course-a-pied-running/1627977046833-6",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-des-vergers-2026/running-course-a-pied/1627977046833-6",
     "name": "LES FOULEES DES VERGERS"
   },
   {
@@ -41297,7 +41271,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-patate-2026/course-a-pied-running/1471882210911-12",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-patate-2026/running-course-a-pied/1471882210911-12",
     "name": "TRAIL DE LA PATATE"
   },
   {
@@ -41388,7 +41362,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-solidaire-des-blesses-des-armees-2026/course-a-pied-running/1764111925312-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-solidaire-des-blesses-des-armees-2026/running-course-a-pied/1764111925312-3",
     "name": "Trail solidaire des blessés des Armées"
   },
   {
@@ -44963,7 +44937,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792108800000,
     "ending": 1792108800000,
-    "eventLink": "https://www.klikego.com/inscription/chouette-trail-des-chemins-creux-2026/course-a-pied-running/1562355785279-8",
+    "eventLink": "https://www.klikego.com/inscription/chouette-trail-des-chemins-creux-2026/running-course-a-pied/1562355785279-8",
     "name": "Chouette Trail des Chemins Creux"
   },
   {
@@ -52113,7 +52087,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793491200000,
-    "eventLink": "https://www.klikego.com/inscription/eden-rox-challenge-2026/course-a-pied-running/1699481084702-16",
+    "eventLink": "https://www.klikego.com/inscription/eden-rox-challenge-2026/running-course-a-pied/1699481084702-16",
     "name": "EDEN ROX CHALLENGE"
   },
   {
@@ -54011,7 +53985,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-baie-de-quiberon-2026/course-a-pied-running/1681847174164-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-baie-de-quiberon-2026/running-course-a-pied/1681847174164-4",
     "name": "Trail de la Baie de Quiberon"
   },
   {
@@ -54674,7 +54648,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/biathlon-de-loust-courir-viser-se-depasser-2026/course-a-pied-running/1745401144984-3",
+    "eventLink": "https://www.klikego.com/inscription/biathlon-de-loust-courir-viser-se-depasser-2026/running-course-a-pied/1745401144984-3",
     "name": "Biathlon de l'Oust: Courir, viser, se dépasser"
   },
   {
@@ -54718,19 +54692,6 @@
   },
   {
     "place": "unknown",
-    "city": "Montagrier",
-    "departementNumber": 24,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794096000000,
-    "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/le-montagrier-trail-2026/course-a-pied-running/1663705635944-5",
-    "name": "Le Montagrier Trail 2026"
-  },
-  {
-    "place": "unknown",
     "city": "Plogastel st germain",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -54739,7 +54700,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -54804,7 +54765,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/course-a-pied-running/1629931133992-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/running-course-a-pied/1629931133992-7",
     "name": "Trail Sable et Forêt 2026"
   },
   {
@@ -57924,7 +57885,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/course-a-pied-running/1725587953930-7",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/running-course-a-pied/1725587953930-7",
     "name": "Marathon Trail Pays de Brive"
   },
   {
@@ -57989,7 +57950,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-st-nolff-24eme-edition-2026/marche-nordique-running/1568958907683-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-st-nolff-24eme-edition-2026/running-marche-nordique/1568958907683-7",
     "name": "Trail de St Nolff - 24ème édition"
   },
   {
@@ -59432,7 +59393,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/sjc-2026/course-a-pied-running/1784495683631-1",
+    "eventLink": "https://www.klikego.com/inscription/sjc-2026/running-course-a-pied/1784495683631-1",
     "name": "SJC"
   },
   {
@@ -60147,7 +60108,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-tro-maneguen-2026/course-a-pied-running/1481176811097-9",
+    "eventLink": "https://www.klikego.com/inscription/trail-tro-maneguen-2026/running-course-a-pied/1481176811097-9",
     "name": "Trail Tro Maneguen"
   },
   {
@@ -61941,7 +61902,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795910400000,
     "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-gueules-noires-2026/course-a-pied-running/1481148611984-17",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-gueules-noires-2026/running-course-a-pied/1481148611984-17",
     "name": "TRAIL DES GUEULES NOIRES"
   },
   {
@@ -64021,7 +63982,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/intra-cap-2026/course-a-pied-running/1782243335916-1",
+    "eventLink": "https://www.klikego.com/inscription/intra-cap-2026/running-course-a-pied/1782243335916-1",
     "name": "Intra Cap"
   },
   {
@@ -64073,7 +64034,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-marandaises-2026/course-a-pied-running/1784920798420-1",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-marandaises-2026/running-course-a-pied/1784920798420-1",
     "name": "Les Foulées Marandaises"
   },
   {
@@ -66491,7 +66452,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins-cross-de-graulhet-athle--4-eme-edition-2026/course-a-pied-running/1724232492749-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins-cross-de-graulhet-athle--4-eme-edition-2026/running-course-a-pied/1724232492749-3",
     "name": "TRAIL DES LUTINS /CROSS DE GRAULHET ATHLE  4 EME EDITION"
   },
   {
@@ -67999,7 +67960,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/cross-du-houssay-2026/course-a-pied-running/1701661159205-4",
+    "eventLink": "https://www.klikego.com/inscription/cross-du-houssay-2026/running-course-a-pied/1701661159205-4",
     "name": "Cross du Houssay"
   },
   {
@@ -69858,7 +69819,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799539200000,
     "ending": 1799539200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/course-a-pied-running/1691113218274-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/running-course-a-pied/1691113218274-6",
     "name": "TRAIL HIVERNAL LES MATHES - LA PALMYRE 2027"
   },
   {
@@ -74720,7 +74681,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801958400000,
     "ending": 1801958400000,
-    "eventLink": "https://www.klikego.com/inscription/10km-des-champs-elysees-fulfil-2027/course-a-pied-running/1665608501151-7",
+    "eventLink": "https://www.klikego.com/inscription/10km-des-champs-elysees-fulfil-2027/running-course-a-pied/1665608501151-7",
     "name": "10km des Champs-Elysées Fulfil"
   },
   {
@@ -77281,7 +77242,7 @@
     "registrationStatus": "unknown",
     "beginning": 1803081600000,
     "ending": 1803081600000,
-    "eventLink": "https://www.klikego.com/inscription/albatrail--11eme-edition-2027/course-a-pied-running/1445993762707-13",
+    "eventLink": "https://www.klikego.com/inscription/albatrail--11eme-edition-2027/running-course-a-pied/1445993762707-13",
     "name": "AlbaTrail  - 11ème édition"
   },
   {
@@ -86589,7 +86550,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/ekiden-de-touraine-2027/course-a-pied-running/1699681901237-4",
+    "eventLink": "https://www.klikego.com/inscription/ekiden-de-touraine-2027/running-course-a-pied/1699681901237-4",
     "name": "Ekiden de Touraine 2027"
   },
   {
@@ -92205,7 +92166,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806710400000,
-    "eventLink": "https://www.klikego.com/inscription/100km-n07-marathon-semi-marathon-de-crevin-et-la-crevinoise-2027/course-a-pied-running/1516494105802-20",
+    "eventLink": "https://www.klikego.com/inscription/100km-n07-marathon-semi-marathon-de-crevin-et-la-crevinoise-2027/running-course-a-pied/1516494105802-20",
     "name": "100km N°07, Marathon, Semi-Marathon de Crevin et La Crevinoise"
   },
   {
@@ -92244,7 +92205,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-des-sables-dolonne-2027/course-a-pied-running/1780429129786-1",
+    "eventLink": "https://www.klikego.com/inscription/marathon-des-sables-dolonne-2027/running-course-a-pied/1780429129786-1",
     "name": "Marathon des Sables D'Olonne"
   },
   {
@@ -136875,6 +136836,32 @@
     "ending": 1812974400000,
     "name": "Ultra Raid VTT 360 KM",
     "eventLink": "https://fr.milesrepublic.com/event/ultra-raid-vtt-360-km-15349"
+  },
+  {
+    "place": "unknown",
+    "city": "Montgailhard",
+    "departementNumber": 9,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812862800000,
+    "ending": 1812873600000,
+    "name": "Trail de Montgailhard",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-montgailhard-5311"
+  },
+  {
+    "place": "unknown",
+    "city": "Oô",
+    "departementNumber": 31,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812863700000,
+    "ending": 1812871800000,
+    "name": "Trail du lac d'Oô",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-du-lac-doo-7771"
   },
   {
     "place": "unknown",
