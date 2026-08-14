@@ -274,19 +274,6 @@
   },
   {
     "place": "unknown",
-    "city": "Rocroi",
-    "departementNumber": 8,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786712400000,
-    "ending": 1786712400000,
-    "name": "Corrida de Rocroi",
-    "eventLink": "https://fr.milesrepublic.com/event/corrida-de-rocroi-8333"
-  },
-  {
-    "place": "unknown",
     "city": "Courchevel",
     "departementNumber": 73,
     "eventType": "cycling",
@@ -5495,7 +5482,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
     "ending": 1788048000000,
-    "eventLink": "https://www.klikego.com/inscription/le-gouruntrail-2026/running-course-a-pied/1638121706046-6",
+    "eventLink": "https://www.klikego.com/inscription/le-gouruntrail-2026/course-a-pied-running/1638121706046-6",
     "name": "Le Gouruntrail"
   },
   {
@@ -19665,7 +19652,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789776000000,
-    "eventLink": "https://www.klikego.com/inscription/le-relais-des-diables-3-2026/running-course-a-pied/1701314030073-5",
+    "eventLink": "https://www.klikego.com/inscription/le-relais-des-diables-3-2026/course-a-pied-running/1701314030073-5",
     "name": "Le Relais Des Diables #3"
   },
   {
@@ -32654,6 +32641,19 @@
     "ending": 1791072000000,
     "eventLink": "https://www.klikego.com/inscription/stage-trail-2026/running-course-a-pied/1740448624284-4",
     "name": "Stage trail"
+  },
+  {
+    "place": "Espace Henri Royer, rue Michel Vielle",
+    "city": "Sablé-sur-Sarthe",
+    "departementNumber": 72,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790985600000,
+    "ending": 1791072000000,
+    "name": "Triathlon de Sablé",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3328/triathlon-de-sable-sable-sur-sarthe"
   },
   {
     "place": "unknown",
@@ -136836,6 +136836,19 @@
     "ending": 1812870000000,
     "name": "La Decathlonienne Villeneuve-lès-Béziers",
     "eventLink": "https://fr.milesrepublic.com/event/la-decathlonienne-capsud-beziers-15692"
+  },
+  {
+    "place": "unknown",
+    "city": "Chambon Sur Lac",
+    "departementNumber": 63,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812870000000,
+    "ending": 1812870000000,
+    "name": "Les Volcaniques D'auvergne - Le Raid",
+    "eventLink": "https://fr.milesrepublic.com/event/les-volcaniques-dauvergne-le-raid-16549"
   },
   {
     "place": "unknown",
