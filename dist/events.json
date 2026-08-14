@@ -365,19 +365,6 @@
   },
   {
     "place": "unknown",
-    "city": "Launstroff",
-    "departementNumber": 57,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786725000000,
-    "ending": 1786726800000,
-    "name": "Menhirs de l'Europe - Steine an der Grenze",
-    "eventLink": "https://fr.milesrepublic.com/event/course-des-menhirs-de-leurope-8415"
-  },
-  {
-    "place": "unknown",
     "city": "Sainte-Marie",
     "departementNumber": 66,
     "eventType": "running",
@@ -388,6 +375,19 @@
     "ending": 1786728000000,
     "name": "La marinade",
     "eventLink": "https://fr.milesrepublic.com/event/la-marinade-2490"
+  },
+  {
+    "place": "unknown",
+    "city": "Launstroff",
+    "departementNumber": 57,
+    "eventType": "walk",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1786726800000,
+    "ending": 1786730400000,
+    "name": "Menhirs de l'Europe - Steine an der Grenze",
+    "eventLink": "https://fr.milesrepublic.com/event/course-des-menhirs-de-leurope-8415"
   },
   {
     "place": "unknown",
@@ -1314,7 +1314,7 @@
   },
   {
     "place": "unknown",
-    "city": "St martin de fressengeas",
+    "city": "St romain et st clement",
     "departementNumber": 24,
     "eventType": "unknown",
     "numberOfRaceVariants": 4,
@@ -1322,7 +1322,7 @@
     "registrationStatus": "unknown",
     "beginning": 1786838400000,
     "ending": 1786838400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-queue-dane-2026/running-course-a-pied/1622684601155-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-queue-dane-2026/course-a-pied-running/1622684601155-6",
     "name": "Trail de Queue D'Ane 2026"
   },
   {
@@ -28494,19 +28494,6 @@
     "ending": 1790494200000,
     "name": "Garo'run",
     "eventLink": "https://fr.milesrepublic.com/event/garorun-7599"
-  },
-  {
-    "place": "unknown",
-    "city": "Saclas",
-    "departementNumber": 91,
-    "eventType": "running",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1790491500000,
-    "ending": 1790494200000,
-    "name": "Les boucles de la Juine",
-    "eventLink": "https://fr.milesrepublic.com/event/les-boucles-de-la-juine-17956"
   },
   {
     "place": "unknown",
@@ -136862,6 +136849,19 @@
     "ending": 1812872700000,
     "name": "Trail De La Mozelle",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-mozelle-16619"
+  },
+  {
+    "place": "unknown",
+    "city": "Le Bourg-d'Oisans",
+    "departementNumber": 38,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812870000000,
+    "ending": 1812952800000,
+    "name": "Défi des 3 Villards en Oisans",
+    "eventLink": "https://fr.milesrepublic.com/event/defi-des-3-villards-en-oisans-1835"
   },
   {
     "place": "unknown",
