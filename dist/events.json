@@ -300,19 +300,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint-Jean-Pied-de-Port",
-    "departementNumber": 64,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786725000000,
-    "ending": 1786725000000,
-    "name": "Garazi'd laktik",
-    "eventLink": "https://fr.milesrepublic.com/event/garazid-laktik-9820"
-  },
-  {
-    "place": "unknown",
     "city": "Sainte-Marie",
     "departementNumber": 66,
     "eventType": "running",
@@ -1571,6 +1558,19 @@
     "ending": 1787004000000,
     "name": "Sud Raid Adventure Race",
     "eventLink": "https://fr.milesrepublic.com/event/sud-raid-adventure-race-12662"
+  },
+  {
+    "place": "unknown",
+    "city": "Barraux",
+    "departementNumber": 38,
+    "eventType": "trail",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1786917600000,
+    "ending": 1788681600000,
+    "name": "Barr’O Trail",
+    "eventLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965"
   },
   {
     "place": "unknown",
@@ -9358,19 +9358,6 @@
     "ending": 1788721200000,
     "name": "Trophée T2C Les Muletiers",
     "eventLink": "https://fr.milesrepublic.com/event/trophee-t2c-les-muletiers-2924"
-  },
-  {
-    "place": "unknown",
-    "city": "Barraux",
-    "departementNumber": 38,
-    "eventType": "trail",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788645660000,
-    "ending": 1788681600000,
-    "name": "Barr’O Trail",
-    "eventLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965"
   },
   {
     "place": "unknown",
@@ -32366,7 +32353,7 @@
     "registrationStatus": "unknown",
     "beginning": 1790985600000,
     "ending": 1790985600000,
-    "eventLink": "https://www.klikego.com/inscription/100km-marathon-et-semi-marathon-du-val-de-somme-2026/running-course-a-pied/1603054434896-35",
+    "eventLink": "https://www.klikego.com/inscription/100km-marathon-et-semi-marathon-du-val-de-somme-2026/course-a-pied-running/1603054434896-35",
     "name": "100km, Marathon et Semi-Marathon du Val de Somme"
   },
   {
@@ -33382,6 +33369,19 @@
     "ending": 1791064800000,
     "name": "Balade D'Automne",
     "eventLink": "https://fr.milesrepublic.com/event/balade-d'automne-14766"
+  },
+  {
+    "place": "unknown",
+    "city": "Lille",
+    "departementNumber": 59,
+    "eventType": "walk",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791064800000,
+    "ending": 1791064800000,
+    "name": "Challenge du ruban rose",
+    "eventLink": "https://fr.milesrepublic.com/event/challenge-du-ruban-rose-9955"
   },
   {
     "place": "unknown",
@@ -36489,19 +36489,6 @@
     "ending": 1791151200000,
     "name": "Cezanne Cyclo Classic",
     "eventLink": "https://fr.milesrepublic.com/event/cezanne-cyclo-classic-14958"
-  },
-  {
-    "place": "unknown",
-    "city": "Lille",
-    "departementNumber": 59,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791151200000,
-    "ending": 1791151200000,
-    "name": "Challenge du ruban rose",
-    "eventLink": "https://fr.milesrepublic.com/event/challenge-du-ruban-rose-9955"
   },
   {
     "place": "unknown",
@@ -45472,6 +45459,19 @@
     "ending": 1792227600000,
     "name": "Salomon Ecotrail Paris Automne",
     "eventLink": "https://fr.milesrepublic.com/event/salomon-ecotrail-paris-automne-17161"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Maximin",
+    "departementNumber": 60,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1792224000000,
+    "ending": 1792224000000,
+    "name": "Decathlonienne Saint-Maximin",
+    "eventLink": "https://fr.milesrepublic.com/event/decathlon-saint-maximin-2026-17945"
   },
   {
     "place": "unknown",
@@ -69754,7 +69754,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799539200000,
     "ending": 1799539200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/running-course-a-pied/1691113218274-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/course-a-pied-running/1691113218274-6",
     "name": "TRAIL HIVERNAL LES MATHES - LA PALMYRE 2027"
   },
   {
