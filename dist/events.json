@@ -274,45 +274,6 @@
   },
   {
     "place": "unknown",
-    "city": "Annecy",
-    "departementNumber": 74,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786683600000,
-    "ending": 1786686300000,
-    "name": "Les Géants Ultra Cycling Race",
-    "eventLink": "https://fr.milesrepublic.com/event/les-geants-ultra-cycling-race-11574"
-  },
-  {
-    "place": "unknown",
-    "city": "Bagnères-de-Luchon",
-    "departementNumber": 31,
-    "eventType": "trail",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786690800000,
-    "ending": 1786691100000,
-    "name": "Caminada Gormanda",
-    "eventLink": "https://fr.milesrepublic.com/event/caminada-gormanda-15098"
-  },
-  {
-    "place": "unknown",
-    "city": "Langrune-sur-Mer",
-    "departementNumber": 14,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786692600000,
-    "ending": 1786692900000,
-    "name": "La littorale juno",
-    "eventLink": "https://fr.milesrepublic.com/event/la-littorale-juno-14041"
-  },
-  {
-    "place": "unknown",
     "city": "Rocroi",
     "departementNumber": 8,
     "eventType": "running",
@@ -15739,7 +15700,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/rando-ouest-france-a-jugon-les-lacs-2026/running-course-a-pied/1769563890763-1",
+    "eventLink": "https://www.klikego.com/inscription/rando-ouest-france-a-jugon-les-lacs-2026/course-a-pied-running/1769563890763-1",
     "name": "Rando Ouest-France à Jugon-Les-Lacs"
   },
   {
@@ -32540,6 +32501,19 @@
   },
   {
     "place": "unknown",
+    "city": "COMBRÉE",
+    "departementNumber": 49,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "https://www.instagram.com/courselatraverzee?igsh=MXQ0amI0YzZuYnB2Zg==",
+    "registrationStatus": "open",
+    "beginning": 1790985600000,
+    "ending": 1790985600000,
+    "name": "TRAIL & CANICROSS - LA TRAVERZÉE",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3177"
+  },
+  {
+    "place": "unknown",
     "city": "Quessoy",
     "departementNumber": 22,
     "eventType": "unknown",
@@ -45280,6 +45254,19 @@
   },
   {
     "place": "unknown",
+    "city": "Bayac",
+    "departementNumber": 24,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1792195200000,
+    "ending": 1792281600000,
+    "eventLink": "https://www.klikego.com/inscription/bayac-trail-2026/course-a-pied-running/1683058154395-4",
+    "name": "Bayac Trail 2026"
+  },
+  {
+    "place": "unknown",
     "city": "Bohal",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -45290,19 +45277,6 @@
     "ending": 1792281600000,
     "eventLink": "https://www.klikego.com/inscription/le-dernier-homme-debout-bretagne-2026/running-course-a-pied/1639627357579-8",
     "name": "Le Dernier Homme Debout - Bretagne"
-  },
-  {
-    "place": "unknown",
-    "city": "Plescop",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/les-marcels-a-plescop-2026/running-course-a-pied/1562274731072-7",
-    "name": "Les Marcels à Plescop 2026"
   },
   {
     "place": "unknown",
@@ -61382,7 +61356,7 @@
     "registrationStatus": "open",
     "beginning": 1795851000000,
     "ending": 1795851000000,
-    "name": "Urban Trail de Sallaumines",
+    "name": "Santé, Prêts ? Bougez !",
     "eventLink": "https://fr.milesrepublic.com/event/urban-trail-de-sallaumines-17704"
   },
   {
@@ -136852,6 +136826,32 @@
   },
   {
     "place": "unknown",
+    "city": "Villeneuve-lès-Béziers",
+    "departementNumber": 34,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812870000000,
+    "ending": 1812870000000,
+    "name": "La Decathlonienne Villeneuve-lès-Béziers",
+    "eventLink": "https://fr.milesrepublic.com/event/la-decathlonienne-capsud-beziers-15692"
+  },
+  {
+    "place": "unknown",
+    "city": "Chabeuil",
+    "departementNumber": 26,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812870000000,
+    "ending": 1812906000000,
+    "name": "The Tarmac Race",
+    "eventLink": "https://fr.milesrepublic.com/event/the-tarmac-race-15698"
+  },
+  {
+    "place": "unknown",
     "city": "Le Bourg-d'Oisans",
     "departementNumber": 38,
     "eventType": "trail",
@@ -136862,6 +136862,19 @@
     "ending": 1812952800000,
     "name": "Défi des 3 Villards en Oisans",
     "eventLink": "https://fr.milesrepublic.com/event/defi-des-3-villards-en-oisans-1835"
+  },
+  {
+    "place": "unknown",
+    "city": "La Queue-en-Brie",
+    "departementNumber": 94,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812870000000,
+    "ending": 1812956400000,
+    "name": "Hybrid Arena",
+    "eventLink": "https://fr.milesrepublic.com/event/hybrid-arena-13934"
   },
   {
     "place": "unknown",
