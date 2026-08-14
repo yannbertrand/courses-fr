@@ -287,58 +287,6 @@
   },
   {
     "place": "unknown",
-    "city": "Vairé",
-    "departementNumber": 85,
-    "eventType": "walk",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786719600000,
-    "ending": 1786726800000,
-    "name": "La sympathique",
-    "eventLink": "https://fr.milesrepublic.com/event/la-sympathique-2386"
-  },
-  {
-    "place": "unknown",
-    "city": "Sainte-Marie",
-    "departementNumber": 66,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786726800000,
-    "ending": 1786728000000,
-    "name": "La marinade",
-    "eventLink": "https://fr.milesrepublic.com/event/la-marinade-2490"
-  },
-  {
-    "place": "unknown",
-    "city": "Launstroff",
-    "departementNumber": 57,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786726800000,
-    "ending": 1786730400000,
-    "name": "Menhirs de l'Europe - Steine an der Grenze",
-    "eventLink": "https://fr.milesrepublic.com/event/course-des-menhirs-de-leurope-8415"
-  },
-  {
-    "place": "unknown",
-    "city": "Hattstatt",
-    "departementNumber": 68,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786728600000,
-    "ending": 1786729500000,
-    "name": "Le trail du hatschbourg\t",
-    "eventLink": "https://fr.milesrepublic.com/event/le-trail-du-hatschbourg-9175"
-  },
-  {
-    "place": "unknown",
     "city": "L'alpe D’huez",
     "departementNumber": 38,
     "eventType": "running",
@@ -349,6 +297,19 @@
     "ending": 1786863600000,
     "name": "Challenge Des Cimes D'huez",
     "eventLink": "https://fr.milesrepublic.com/event/challenge-des-cimes-dhuez-17709"
+  },
+  {
+    "place": "unknown",
+    "city": "Barraux",
+    "departementNumber": 38,
+    "eventType": "trail",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1786737600000,
+    "ending": 1788681600000,
+    "name": "Barr’O Trail",
+    "eventLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965"
   },
   {
     "place": "unknown",
@@ -1558,19 +1519,6 @@
     "ending": 1787004000000,
     "name": "Sud Raid Adventure Race",
     "eventLink": "https://fr.milesrepublic.com/event/sud-raid-adventure-race-12662"
-  },
-  {
-    "place": "unknown",
-    "city": "Barraux",
-    "departementNumber": 38,
-    "eventType": "trail",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786917600000,
-    "ending": 1788681600000,
-    "name": "Barr’O Trail",
-    "eventLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965"
   },
   {
     "place": "unknown",
@@ -15752,7 +15700,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-mines-by-tremuson-2026/running-course-a-pied/1536801639945-9",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-mines-by-tremuson-2026/course-a-pied-running/1536801639945-9",
     "name": "TRAIL DES MINES by Trémuson 2026"
   },
   {
@@ -136888,6 +136836,58 @@
     "ending": 1812956400000,
     "name": "Hybrid Arena",
     "eventLink": "https://fr.milesrepublic.com/event/hybrid-arena-13934"
+  },
+  {
+    "place": "unknown",
+    "city": "Thouars",
+    "departementNumber": 79,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812870600000,
+    "ending": 1812871800000,
+    "name": "Run'IN Sothogam",
+    "eventLink": "https://fr.milesrepublic.com/event/run-in-sothogam-14135"
+  },
+  {
+    "place": "unknown",
+    "city": "Guichen",
+    "departementNumber": 35,
+    "eventType": "trail",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812870900000,
+    "ending": 1812959100000,
+    "name": "Trail du boël",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-du-boel-1951"
+  },
+  {
+    "place": "unknown",
+    "city": "Azay Sur Cher",
+    "departementNumber": 37,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812873600000,
+    "ending": 1812873600000,
+    "name": "Les Foulées Azéennes",
+    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-azeennes-16566"
+  },
+  {
+    "place": "unknown",
+    "city": "Laval",
+    "departementNumber": 53,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812873600000,
+    "ending": 1812884400000,
+    "name": "HCM Trail",
+    "eventLink": "https://fr.milesrepublic.com/event/hcm-trail-15618"
   },
   {
     "place": "unknown",
