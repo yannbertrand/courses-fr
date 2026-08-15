@@ -443,19 +443,6 @@
   },
   {
     "place": "unknown",
-    "city": "Munster",
-    "departementNumber": 88,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786766400000,
-    "ending": 1786766400000,
-    "name": "La Grande Bifurkade",
-    "eventLink": "https://fr.milesrepublic.com/event/la-grande-bifurkade-17275"
-  },
-  {
-    "place": "unknown",
     "city": "Chilly",
     "departementNumber": 74,
     "eventType": "running",
@@ -136888,6 +136875,19 @@
     "ending": 1812895200000,
     "name": "Trail de la Hasel",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-hasel-1969"
+  },
+  {
+    "place": "unknown",
+    "city": "Gaillac",
+    "departementNumber": 81,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812889800000,
+    "ending": 1812897900000,
+    "name": "Trail du Vignoble Gaillacois",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-du-vignoble-gaillacois-17028"
   },
   {
     "place": "unknown",
