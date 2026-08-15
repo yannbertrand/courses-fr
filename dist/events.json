@@ -443,6 +443,19 @@
   },
   {
     "place": "unknown",
+    "city": "Port La Nouvelle",
+    "departementNumber": 11,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1786773600000,
+    "ending": 1786809600000,
+    "name": "Traversée de Port La Nouvelle",
+    "eventLink": "https://fr.milesrepublic.com/event/traversee-de-port-la-nouvelle-17958"
+  },
+  {
+    "place": "unknown",
     "city": "Saint-Brevin-les-Pins",
     "departementNumber": 44,
     "eventType": "walk",
@@ -453,32 +466,6 @@
     "ending": 1786799700000,
     "name": "Foulées des dunes",
     "eventLink": "https://fr.milesrepublic.com/event/foulees-des-dunes-2418"
-  },
-  {
-    "place": "unknown",
-    "city": "Médis",
-    "departementNumber": 17,
-    "eventType": "running",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786777200000,
-    "ending": 1786784400000,
-    "name": "Foulées médisaises",
-    "eventLink": "https://fr.milesrepublic.com/event/foulees-medisaises-2459"
-  },
-  {
-    "place": "unknown",
-    "city": "Paimpol",
-    "departementNumber": 22,
-    "eventType": "running",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786777200000,
-    "ending": 1786795200000,
-    "name": "Ronde de kérity",
-    "eventLink": "https://fr.milesrepublic.com/event/ronde-de-kerity-2398"
   },
   {
     "place": "unknown",
@@ -505,19 +492,6 @@
     "ending": 1786863600000,
     "name": "Trail alpin du Grand Bec",
     "eventLink": "https://fr.milesrepublic.com/event/trail-alpin-du-grand-bec-5528"
-  },
-  {
-    "place": "unknown",
-    "city": "Void-Vacon",
-    "departementNumber": 55,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786780800000,
-    "ending": 1786795200000,
-    "name": "Clm cycliste vidusien",
-    "eventLink": "https://fr.milesrepublic.com/event/clm-cycliste-vidusien-11855"
   },
   {
     "place": "unknown",
@@ -33957,6 +33931,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cayenne",
+    "departementNumber": 97,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1791072000000,
+    "ending": 1791072000000,
+    "eventLink": "https://www.klikego.com/inscription/cross-ceperou-2026-de-la-ville-de-cayenne-4eme-edition/course-a-pied-running/1762877839458-3",
+    "name": "CROSS CEPEROU 2026 DE LA VILLE DE CAYENNE - 4EME EDITION"
+  },
+  {
+    "place": "unknown",
     "city": "Coueron",
     "departementNumber": 44,
     "eventType": "unknown",
@@ -44783,19 +44770,6 @@
     "ending": 1792281600000,
     "eventLink": "https://www.klikego.com/inscription/bayac-trail-2026/course-a-pied-running/1683058154395-4",
     "name": "Bayac Trail 2026"
-  },
-  {
-    "place": "unknown",
-    "city": "Bohal",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/le-dernier-homme-debout-bretagne-2026/running-course-a-pied/1639627357579-8",
-    "name": "Le Dernier Homme Debout - Bretagne"
   },
   {
     "place": "unknown",
@@ -136875,6 +136849,32 @@
     "ending": 1812898800000,
     "name": "Semi Barathon de la Pévèle",
     "eventLink": "https://fr.milesrepublic.com/event/semi-barathon-de-la-pevele-13270"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint Saens",
+    "departementNumber": 76,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812898800000,
+    "ending": 1812900000000,
+    "name": "La Furieuse D'eawy",
+    "eventLink": "https://fr.milesrepublic.com/event/la-furieuse-deawy-16134"
+  },
+  {
+    "place": "unknown",
+    "city": "Combleux",
+    "departementNumber": 45,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812898800000,
+    "ending": 1812900600000,
+    "name": "Les kilomètres du coeur",
+    "eventLink": "https://fr.milesrepublic.com/event/les-kilometres-du-coeur-13827"
   },
   {
     "place": "unknown",
