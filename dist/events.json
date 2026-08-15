@@ -300,32 +300,6 @@
   },
   {
     "place": "unknown",
-    "city": "Puget-Ville",
-    "departementNumber": 83,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786744800000,
-    "ending": 1786813200000,
-    "name": "10km de puget ville",
-    "eventLink": "https://fr.milesrepublic.com/event/10km-de-puget-ville-11030"
-  },
-  {
-    "place": "unknown",
-    "city": "Louhossoa",
-    "departementNumber": 64,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786744800000,
-    "ending": 1786820400000,
-    "name": "Adarreko lasterketa",
-    "eventLink": "https://fr.milesrepublic.com/event/adarreko-lasterketa-2435"
-  },
-  {
-    "place": "unknown",
     "city": "Ste marie du mont",
     "departementNumber": 50,
     "eventType": "unknown",
@@ -456,19 +430,6 @@
   },
   {
     "place": "unknown",
-    "city": "Rodès",
-    "departementNumber": 66,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786804200000,
-    "ending": 1786813200000,
-    "name": "La remontada",
-    "eventLink": "https://fr.milesrepublic.com/event/la-remontada-12208"
-  },
-  {
-    "place": "unknown",
     "city": "Deux Rivières",
     "departementNumber": 89,
     "eventType": "trail",
@@ -479,45 +440,6 @@
     "ending": 1786883400000,
     "name": "Trail d'Accolay",
     "eventLink": "https://fr.milesrepublic.com/event/trail-daccolay-2385"
-  },
-  {
-    "place": "unknown",
-    "city": "Montcy Notre Dame",
-    "departementNumber": 8,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786813200000,
-    "ending": 1786813200000,
-    "name": "Corrida de Montcy-Notre-Dame",
-    "eventLink": "https://fr.milesrepublic.com/event/corrida-de-montcy-notre-dame-17712"
-  },
-  {
-    "place": "unknown",
-    "city": "Seilhac",
-    "departementNumber": 19,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786813200000,
-    "ending": 1786813200000,
-    "name": "Seilhac Summer Run",
-    "eventLink": "https://fr.milesrepublic.com/event/seilhac-summer-run-17562"
-  },
-  {
-    "place": "unknown",
-    "city": "Dampniat",
-    "departementNumber": 19,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786816800000,
-    "ending": 1786816800000,
-    "name": "Les foulées dampniacoises",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-dampniacoises-2574"
   },
   {
     "place": "unknown",
@@ -1608,7 +1530,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787356800000,
     "ending": 1787356800000,
-    "eventLink": "https://www.klikego.com/inscription/montee-du-phare-deckmuhl-2026/running-course-a-pied/1685770871621-4",
+    "eventLink": "https://www.klikego.com/inscription/montee-du-phare-deckmuhl-2026/course-a-pied-running/1685770871621-4",
     "name": "Montée du Phare d'Eckmühl"
   },
   {
@@ -65102,6 +65024,19 @@
     "ending": 1797094800000,
     "name": "Trail Nocturne Du Haut Bugey",
     "eventLink": "https://fr.milesrepublic.com/event/nocturne-de-la-praille-4197"
+  },
+  {
+    "place": "unknown",
+    "city": "La bazouge des alleux",
+    "departementNumber": 53,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797033600000,
+    "ending": 1797033600000,
+    "eventLink": "https://www.klikego.com/inscription/la-chouette-alleuzienne-2026/course-a-pied-running/1620089763293-6",
+    "name": "La Chouette Alleuzienne 2026"
   },
   {
     "place": "Complexe sportif Tourlandry",
@@ -136849,6 +136784,84 @@
     "ending": 1812902400000,
     "name": "Course nature du Loc'h",
     "eventLink": "https://fr.milesrepublic.com/event/course-nature-du-loc-h-1948"
+  },
+  {
+    "place": "unknown",
+    "city": "Cattenom",
+    "departementNumber": 57,
+    "eventType": "fun",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "COLOR RUN Estivales de Cattenom",
+    "eventLink": "https://fr.milesrepublic.com/event/color-run-estivales-de-cattenom-17335"
+  },
+  {
+    "place": "unknown",
+    "city": "Chauffailles",
+    "departementNumber": 71,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "Grimpette de dun",
+    "eventLink": "https://fr.milesrepublic.com/event/grimpette-de-dun-13829"
+  },
+  {
+    "place": "unknown",
+    "city": "Mont-Saint-Père",
+    "departementNumber": 2,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "Mont-Saint-trail",
+    "eventLink": "https://fr.milesrepublic.com/event/mont-saint-trail-7652"
+  },
+  {
+    "place": "unknown",
+    "city": "Flayat",
+    "departementNumber": 23,
+    "eventType": "trail",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "Trail de l'etoile",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-letoile-11082"
+  },
+  {
+    "place": "unknown",
+    "city": "Sérignan-du-Comtat",
+    "departementNumber": 84,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812903300000,
+    "name": "Foulée Jean-Henri Fabre",
+    "eventLink": "https://fr.milesrepublic.com/event/foulee-jean-henri-fabre-2186"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Armel",
+    "departementNumber": 56,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812904200000,
+    "name": "Entre terre et golfe",
+    "eventLink": "https://fr.milesrepublic.com/event/entre-terre-et-golf-6038"
   },
   {
     "place": "unknown",
