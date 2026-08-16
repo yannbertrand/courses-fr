@@ -1686,7 +1686,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-des-etoiles-de-la-baie-2026/running-course-a-pied/1661660197943-8",
+    "eventLink": "https://www.klikego.com/inscription/marathon-des-etoiles-de-la-baie-2026/course-a-pied-running/1661660197943-8",
     "name": "MARATHON DES ÉTOILES DE LA BAIE"
   },
   {
@@ -14327,6 +14327,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cleguer",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1789257600000,
+    "ending": 1789257600000,
+    "eventLink": "https://www.klikego.com/inscription/color-race-cleguer-2026/course-a-pied-running/1785741813977-1",
+    "name": "Color Race Cléguer"
+  },
+  {
+    "place": "unknown",
     "city": "LA FLÈCHE",
     "departementNumber": 72,
     "eventType": "triathlon",
@@ -20681,19 +20694,6 @@
     "ending": 1789862400000,
     "name": "LES FOULÉES D'AUTOMNE 2026",
     "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3193"
-  },
-  {
-    "place": "unknown",
-    "city": "Lissac sur couze",
-    "departementNumber": 19,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789862400000,
-    "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-cab-2026/running-course-a-pied/1636602079119-8",
-    "name": "Les foulées du CAB 2026"
   },
   {
     "place": "Place Bougainville",
@@ -112698,6 +112698,19 @@
   },
   {
     "place": "unknown",
+    "city": "Abbeville",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1809820800000,
+    "ending": 1809820800000,
+    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/course-a-pied-running/1674875346003-5",
+    "name": "Mémorial Bruno Willecoq"
+  },
+  {
+    "place": "unknown",
     "city": "Saint-Martin-en-Haut",
     "departementNumber": 69,
     "eventType": "trail",
@@ -130440,19 +130453,6 @@
     "ending": 1812492000000,
     "name": "Défi Féminin Bike and Run Dolce Via Ardèche",
     "eventLink": "https://fr.milesrepublic.com/event/defi-feminin-bike-and-run-dolce-via-ardeche-11238"
-  },
-  {
-    "place": "unknown",
-    "city": "Abbeville",
-    "departementNumber": 80,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812240000000,
-    "ending": 1812240000000,
-    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/running-course-a-pied/1674875346003-5",
-    "name": "Mémorial Bruno Willecoq"
   },
   {
     "place": "unknown",
