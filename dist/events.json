@@ -339,32 +339,6 @@
   },
   {
     "place": "unknown",
-    "city": "Cuxac-Cabardès",
-    "departementNumber": 11,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786863600000,
-    "ending": 1786895100000,
-    "name": "Foulées en montagne noire",
-    "eventLink": "https://fr.milesrepublic.com/event/foulees-en-montagne-noire-2500"
-  },
-  {
-    "place": "unknown",
-    "city": "Luzoir",
-    "departementNumber": 2,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786887000000,
-    "ending": 1786887000000,
-    "name": "Grand prix pédestre des baillots",
-    "eventLink": "https://fr.milesrepublic.com/event/grand-prix-pedestre-des-baillots-2563"
-  },
-  {
-    "place": "unknown",
     "city": "Rezza",
     "departementNumber": "2A",
     "eventType": "trail",
@@ -1699,7 +1673,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-o2-lair-2026/running-course-a-pied/1643237107171-2",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-o2-lair-2026/course-a-pied-running/1643237107171-2",
     "name": "Les foulées O2 l'air"
   },
   {
@@ -1790,7 +1764,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/trails-de-la-montagne-2026/running-course-a-pied/1776796331243-2",
+    "eventLink": "https://www.klikego.com/inscription/trails-de-la-montagne-2026/course-a-pied-running/1776796331243-2",
     "name": "Trails de la montagne"
   },
   {
@@ -3233,7 +3207,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/la-biskoulenn-2026/running-course-a-pied/1647992854676-5",
+    "eventLink": "https://www.klikego.com/inscription/la-biskoulenn-2026/course-a-pied-running/1647992854676-5",
     "name": "La Biskoulenn"
   },
   {
@@ -44040,7 +44014,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/running-course-a-pied/1472342761951-11",
+    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/course-a-pied-running/1472342761951-11",
     "name": "Kastell Trail de PLOMELIN"
   },
   {
@@ -102662,6 +102636,19 @@
   },
   {
     "place": "unknown",
+    "city": "Plourivo",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1808438400000,
+    "ending": 1808611200000,
+    "eventLink": "https://www.klikego.com/inscription/boucle-infinie-o2-lair-2027/course-a-pied-running/1643237107171-3",
+    "name": "Boucle infinie O2 L'air"
+  },
+  {
+    "place": "unknown",
     "city": "Val-d'Isère",
     "departementNumber": 73,
     "eventType": "other",
@@ -136761,6 +136748,19 @@
   },
   {
     "place": "unknown",
+    "city": "Laval",
+    "departementNumber": 53,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 10,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Triathlon de Laval",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-laval-11033"
+  },
+  {
+    "place": "unknown",
     "city": "Le Châtelet-en-Brie",
     "departementNumber": 77,
     "eventType": "running",
@@ -136810,6 +136810,19 @@
     "ending": 1812965400000,
     "name": "Milafrangan Gaindi",
     "eventLink": "https://fr.milesrepublic.com/event/milafrangan-gaindi-2040"
+  },
+  {
+    "place": "unknown",
+    "city": "Lacrouzette",
+    "departementNumber": 81,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812985200000,
+    "name": "Lapeyro'trail",
+    "eventLink": "https://fr.milesrepublic.com/event/lapeyrotrail-11268"
   },
   {
     "place": "unknown",
