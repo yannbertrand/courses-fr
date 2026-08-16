@@ -274,19 +274,6 @@
   },
   {
     "place": "unknown",
-    "city": "Deux Rivières",
-    "departementNumber": 89,
-    "eventType": "trail",
-    "numberOfRaceVariants": 10,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786806000000,
-    "ending": 1786883400000,
-    "name": "Trail d'Accolay",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-daccolay-2385"
-  },
-  {
-    "place": "unknown",
     "city": "St pol de leon",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -339,19 +326,6 @@
   },
   {
     "place": "unknown",
-    "city": "Albiez Montrond",
-    "departementNumber": 73,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786858200000,
-    "ending": 1786879800000,
-    "name": "Trail des Aiguilles d'Arves",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-aiguilles-darves-17048"
-  },
-  {
-    "place": "unknown",
     "city": "Les Deux Alpes",
     "departementNumber": 38,
     "eventType": "trail",
@@ -375,19 +349,6 @@
     "ending": 1786895100000,
     "name": "Foulées en montagne noire",
     "eventLink": "https://fr.milesrepublic.com/event/foulees-en-montagne-noire-2500"
-  },
-  {
-    "place": "unknown",
-    "city": "Remiremont",
-    "departementNumber": 88,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786873200000,
-    "ending": 1786873200000,
-    "name": "Rando FDJ Remiremont Tour de France Femmes avec Zwift",
-    "eventLink": "https://fr.milesrepublic.com/event/rando-fdj-remiremont-tour-de-france-femmes-avec-zwift-11576"
   },
   {
     "place": "unknown",
@@ -1733,7 +1694,7 @@
     "city": "Plourivo",
     "departementNumber": 22,
     "eventType": "unknown",
-    "numberOfRaceVariants": 3,
+    "numberOfRaceVariants": 5,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
@@ -136735,6 +136696,19 @@
   },
   {
     "place": "unknown",
+    "city": "Contrexéville",
+    "departementNumber": 88,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 8,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Cross Triathlon de Contrexéville",
+    "eventLink": "https://fr.milesrepublic.com/event/cross-triathlon-de-contrexeville-10788"
+  },
+  {
+    "place": "unknown",
     "city": "Sancerre",
     "departementNumber": 18,
     "eventType": "trail",
@@ -136771,6 +136745,32 @@
     "ending": 1812924000000,
     "name": "Triathlon d'Epinal",
     "eventLink": "https://fr.milesrepublic.com/event/triathlon-depinal-10306"
+  },
+  {
+    "place": "unknown",
+    "city": "Doucier",
+    "departementNumber": 39,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Triathlon de Chalain",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-chalain-10401"
+  },
+  {
+    "place": "unknown",
+    "city": "Le Châtelet-en-Brie",
+    "departementNumber": 77,
+    "eventType": "running",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812956400000,
+    "name": "Les foulées châtelaines",
+    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-chatelaines-10983"
   },
   {
     "place": "unknown",
