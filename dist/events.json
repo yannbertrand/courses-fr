@@ -235,32 +235,6 @@
   },
   {
     "place": "unknown",
-    "city": "L'Alpe d'Huez",
-    "departementNumber": 38,
-    "eventType": "trail",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786644000000,
-    "ending": 1786950000000,
-    "name": "Challenge Cecile Narcy",
-    "eventLink": "https://fr.milesrepublic.com/event/challenge-cecile-narcy-6688"
-  },
-  {
-    "place": "unknown",
-    "city": "Barraux",
-    "departementNumber": 38,
-    "eventType": "trail",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1786737600000,
-    "ending": 1788681600000,
-    "name": "Barr’O Trail",
-    "eventLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965"
-  },
-  {
-    "place": "unknown",
     "city": "Troyes",
     "departementNumber": 10,
     "eventType": "unknown",
@@ -313,19 +287,6 @@
   },
   {
     "place": "unknown",
-    "city": "Dour",
-    "departementNumber": 99,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786951800000,
-    "ending": 1786955400000,
-    "name": "Jogging de Wihéries",
-    "eventLink": "https://fr.milesrepublic.com/event/jogging-de-wiheries-13126"
-  },
-  {
-    "place": "unknown",
     "city": "Les Allues",
     "departementNumber": 73,
     "eventType": "cycling",
@@ -336,32 +297,6 @@
     "ending": 1787038200000,
     "name": "Échappée du Col de la Loze",
     "eventLink": "https://fr.milesrepublic.com/event/echappee-du-col-de-la-loze-11619"
-  },
-  {
-    "place": "unknown",
-    "city": "Madranges",
-    "departementNumber": 19,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786953600000,
-    "ending": 1786954200000,
-    "name": "Foulées de madranges",
-    "eventLink": "https://fr.milesrepublic.com/event/foulees-de-madranges-2499"
-  },
-  {
-    "place": "unknown",
-    "city": "Champagnole",
-    "departementNumber": 39,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786956000000,
-    "ending": 1786956000000,
-    "name": "Rando FDJ Champagnole Tour de France Femmes",
-    "eventLink": "https://fr.milesrepublic.com/event/rando-fdj-champagnole-tour-de-france-femmes-11579"
   },
   {
     "place": "unknown",
@@ -8084,6 +8019,19 @@
     "ending": 1788721200000,
     "name": "Trophée T2C Les Muletiers",
     "eventLink": "https://fr.milesrepublic.com/event/trophee-t2c-les-muletiers-2924"
+  },
+  {
+    "place": "unknown",
+    "city": "Barraux",
+    "departementNumber": 38,
+    "eventType": "trail",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788645660000,
+    "ending": 1788687000000,
+    "name": "Barr’O Trail",
+    "eventLink": "https://fr.milesrepublic.com/event/barr-o-trail-13965"
   },
   {
     "place": "unknown",
@@ -136566,6 +136514,19 @@
   },
   {
     "place": "unknown",
+    "city": "Puget-sur-Argens",
+    "departementNumber": 83,
+    "eventType": "running",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Esterel hybrid race",
+    "eventLink": "https://fr.milesrepublic.com/event/esterel-hybrid-race-14134"
+  },
+  {
+    "place": "unknown",
     "city": "Luxeuil-les-Bains",
     "departementNumber": 70,
     "eventType": "cycling",
@@ -136602,6 +136563,32 @@
     "ending": 1812924000000,
     "name": "L'ardéchoise",
     "eventLink": "https://fr.milesrepublic.com/event/l-ardechoise-13776"
+  },
+  {
+    "place": "unknown",
+    "city": "Moissy-Cramayel",
+    "departementNumber": 77,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "La Moisséenne",
+    "eventLink": "https://fr.milesrepublic.com/event/la-30eme-moisseenne-14028"
+  },
+  {
+    "place": "unknown",
+    "city": "Betton",
+    "departementNumber": 35,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "The family color run",
+    "eventLink": "https://fr.milesrepublic.com/event/the-family-color-run-14067"
   },
   {
     "place": "unknown",
@@ -136667,6 +136654,19 @@
     "ending": 1812924000000,
     "name": "Triathlon de Laval",
     "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-laval-11033"
+  },
+  {
+    "place": "unknown",
+    "city": "Anneville-Ambourville",
+    "departementNumber": 76,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Triathlon des Carrières",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-des-carrieres-14091"
   },
   {
     "place": "unknown",
