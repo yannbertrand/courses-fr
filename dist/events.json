@@ -300,19 +300,6 @@
   },
   {
     "place": "unknown",
-    "city": "Vieil-Moutier",
-    "departementNumber": 62,
-    "eventType": "running",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786960800000,
-    "ending": 1786982400000,
-    "name": "La vétumonastérienne",
-    "eventLink": "https://fr.milesrepublic.com/event/la-vetumonasterienne-1461"
-  },
-  {
-    "place": "unknown",
     "city": "Avermes",
     "departementNumber": 3,
     "eventType": "cycling",
@@ -11402,19 +11389,6 @@
   },
   {
     "place": "unknown",
-    "city": "Ploubezre",
-    "departementNumber": 22,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788849000000,
-    "ending": 1788849000000,
-    "name": "La André Paugam",
-    "eventLink": "https://fr.milesrepublic.com/event/la-andre-paugam-11787"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Gély-du-Fesc",
     "departementNumber": 34,
     "eventType": "running",
@@ -14727,6 +14701,19 @@
     "ending": 1789281000000,
     "name": "Grand CH'TI Tour",
     "eventLink": "https://fr.milesrepublic.com/event/grand-ch-ti-tour-13085"
+  },
+  {
+    "place": "unknown",
+    "city": "Ploubezre",
+    "departementNumber": 22,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789281000000,
+    "ending": 1789281000000,
+    "name": "La André Paugam",
+    "eventLink": "https://fr.milesrepublic.com/event/la-andre-paugam-11787"
   },
   {
     "place": "unknown",
@@ -18391,7 +18378,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789776000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-terroir-saussignac-2026/running-course-a-pied/1735779952196-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-terroir-saussignac-2026/course-a-pied-running/1735779952196-3",
     "name": "TRAIL TERROIR SAUSSIGNAC"
   },
   {
@@ -40122,7 +40109,7 @@
     "city": "Preaux",
     "departementNumber": 76,
     "eventType": "trail",
-    "numberOfRaceVariants": 4,
+    "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1791698400000,
@@ -50691,7 +50678,7 @@
     "city": "St gilles les bains",
     "departementNumber": 97,
     "eventType": "unknown",
-    "numberOfRaceVariants": 4,
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
@@ -59515,19 +59502,6 @@
   },
   {
     "place": "unknown",
-    "city": "Levens",
-    "departementNumber": 6,
-    "eventType": "walk",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795388400000,
-    "ending": 1795388400000,
-    "name": "Trail du soleil Levens",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-du-soleil-levens-4065"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Just-en-Chaussée",
     "departementNumber": 60,
     "eventType": "walk",
@@ -60435,6 +60409,19 @@
     "ending": 1795906800000,
     "name": "Trail de senlis",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-senlis-7420"
+  },
+  {
+    "place": "unknown",
+    "city": "Levens",
+    "departementNumber": 6,
+    "eventType": "trail",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1795906800000,
+    "ending": 1795906800000,
+    "name": "Trail du soleil Levens",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-du-soleil-levens-4065"
   },
   {
     "place": "unknown",
@@ -66558,6 +66545,19 @@
     "ending": 1797721200000,
     "name": "Course solidaire rousson",
     "eventLink": "https://fr.milesrepublic.com/event/course-solidaire-rousson-11174"
+  },
+  {
+    "place": "unknown",
+    "city": "Venette",
+    "departementNumber": 60,
+    "eventType": "running",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1797721200000,
+    "ending": 1797721200000,
+    "name": "Cross des Titans",
+    "eventLink": "https://fr.milesrepublic.com/event/cross-des-titans-17959"
   },
   {
     "place": "unknown",
@@ -88012,7 +88012,7 @@
   {
     "place": "unknown",
     "city": "Trégunc",
-    "departementNumber": 29,
+    "departementNumber": "",
     "eventType": "trail",
     "numberOfRaceVariants": 6,
     "registrationLink": "",
@@ -135643,6 +135643,19 @@
   },
   {
     "place": "unknown",
+    "city": "Saint-Pierre-du-Perray",
+    "departementNumber": 91,
+    "eventType": "walk",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1812871800000,
+    "ending": 1812878100000,
+    "name": "10 km marche nordique St Pierre asce athletisme",
+    "eventLink": "https://fr.milesrepublic.com/event/10-km-marche-nordique-st-pierre-asce-athletisme-7554"
+  },
+  {
+    "place": "unknown",
     "city": "Le Pizou",
     "departementNumber": 24,
     "eventType": "running",
@@ -136511,19 +136524,6 @@
     "ending": 1812924000000,
     "name": "Cross Triathlon de Contrexéville",
     "eventLink": "https://fr.milesrepublic.com/event/cross-triathlon-de-contrexeville-10788"
-  },
-  {
-    "place": "unknown",
-    "city": "Puget-sur-Argens",
-    "departementNumber": 83,
-    "eventType": "running",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812924000000,
-    "ending": 1812924000000,
-    "name": "Esterel hybrid race",
-    "eventLink": "https://fr.milesrepublic.com/event/esterel-hybrid-race-14134"
   },
   {
     "place": "unknown",
