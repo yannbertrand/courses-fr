@@ -300,19 +300,6 @@
   },
   {
     "place": "unknown",
-    "city": "Bayonne",
-    "departementNumber": 64,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786957200000,
-    "ending": 1786957200000,
-    "name": "Traversée de Bayonne à la nage",
-    "eventLink": "https://fr.milesrepublic.com/event/traversee-de-bayonne-a-la-nage-14084"
-  },
-  {
-    "place": "unknown",
     "city": "Vieil-Moutier",
     "departementNumber": 62,
     "eventType": "running",
@@ -14205,8 +14192,8 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/lehpadomalinois-courses-chronometrees-11kms-et-5kms-et-randonnee-gourmande-----------------1-tee-shirt-offert-aux-100-premiers-coureurs-inscrits-2026/running-course-a-pied/1706583036205-5",
-    "name": "L'EHPAD'OMALINOIS - Courses Chronométrées 11kms et 5kms et Randonnée Gourmande                 1 TEE-SHIRT OFFERT AUX 100 PREMIERS COUREURS INSCRITS"
+    "eventLink": "https://www.klikego.com/inscription/lehpadomalinois-11kms-et-5kms-et-randonnee-gourmande-2026/course-a-pied-running/1706583036205-5",
+    "name": "L'EHPAD'OMALINOIS - 11kms et 5kms et Randonnée Gourmande"
   },
   {
     "place": "unknown",
@@ -18482,7 +18469,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-rodo-2026-la-dixieme--trail-et-concerts/running-course-a-pied/1556931201530-8",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-rodo-2026-la-dixieme--trail-et-concerts/course-a-pied-running/1556931201530-8",
     "name": "Trail du Rodo - 2026 - La Dixième : Trail et concerts"
   },
   {
@@ -58023,12 +58010,12 @@
     "city": "St jean sur vilaine",
     "departementNumber": 35,
     "eventType": "unknown",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/sjc-2026/running-course-a-pied/1784495683631-1",
+    "eventLink": "https://www.klikego.com/inscription/sjc-2026/course-a-pied-running/1784495683631-1",
     "name": "SJC"
   },
   {
@@ -60537,7 +60524,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795910400000,
     "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-gueules-noires-2026/running-course-a-pied/1481148611984-17",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-gueules-noires-2026/course-a-pied-running/1481148611984-17",
     "name": "TRAIL DES GUEULES NOIRES"
   },
   {
@@ -94833,6 +94820,19 @@
     "ending": 1807221600000,
     "name": "Trail du roc des mates",
     "eventLink": "https://fr.milesrepublic.com/event/trail-du-roc-des-mates-6981"
+  },
+  {
+    "place": "unknown",
+    "city": "Fréjus",
+    "departementNumber": "",
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1807221600000,
+    "ending": 1807394400000,
+    "name": "Frejus Backyard",
+    "eventLink": "https://fr.milesrepublic.com/event/frejus-backyard-17955"
   },
   {
     "place": "unknown",
