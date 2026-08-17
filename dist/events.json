@@ -6522,7 +6522,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/49eme-foulees-chateaulinoises-2026/running-course-a-pied/1496025007232-14",
+    "eventLink": "https://www.klikego.com/inscription/49eme-foulees-chateaulinoises-2026/course-a-pied-running/1496025007232-14",
     "name": "49ème Foulées Châteaulinoises"
   },
   {
@@ -11722,7 +11722,7 @@
     "registrationStatus": "open",
     "beginning": 1789077900000,
     "ending": 1789301100000,
-    "name": "Triathlon de Dinard Côte d'Emeraude",
+    "name": "Triathlon Swimrun de Dinard Côte d'Emeraude",
     "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-dinard-cote-demeraude-9695"
   },
   {
@@ -18365,7 +18365,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789776000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-lassouraille-2026/running-course-a-pied/1479886996157-42",
+    "eventLink": "https://www.klikego.com/inscription/trail-lassouraille-2026/course-a-pied-running/1479886996157-42",
     "name": "TRAIL LASSOURAILLE"
   },
   {
@@ -136810,5 +136810,18 @@
     "ending": 1814054400000,
     "eventLink": "https://www.klikego.com/inscription/t24-breizh-2027/triathlon/1603485341795-22",
     "name": "T24 BREIZH 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Plougastel daoulas",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1816387200000,
+    "ending": 1816387200000,
+    "eventLink": "https://www.klikego.com/inscription/le-grand-roseau-2027/course-a-pied-running/1669420255564-5",
+    "name": "Le Grand Roseau"
   }
 ]
