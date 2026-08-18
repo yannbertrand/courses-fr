@@ -261,71 +261,6 @@
   },
   {
     "place": "unknown",
-    "city": "Villers-sur-Port",
-    "departementNumber": 70,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786950000000,
-    "ending": 1787036400000,
-    "name": "Randonnée de Franois",
-    "eventLink": "https://fr.milesrepublic.com/event/randonnee-de-franois-14187"
-  },
-  {
-    "place": "unknown",
-    "city": "Les Allues",
-    "departementNumber": 73,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786951800000,
-    "ending": 1787038200000,
-    "name": "Échappée du Col de la Loze",
-    "eventLink": "https://fr.milesrepublic.com/event/echappee-du-col-de-la-loze-11619"
-  },
-  {
-    "place": "unknown",
-    "city": "Carspach",
-    "departementNumber": 68,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 9,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787004000000,
-    "ending": 1787038200000,
-    "name": "Duathlons by triat'academy",
-    "eventLink": "https://fr.milesrepublic.com/event/duathlons-by-triatacademy-9731"
-  },
-  {
-    "place": "unknown",
-    "city": "Argelès-sur-Mer",
-    "departementNumber": 66,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787029200000,
-    "ending": 1787029200000,
-    "name": "Mar I Munts Août 2024",
-    "eventLink": "https://fr.milesrepublic.com/event/mar-i-munts-aout-2024-11623"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Hilaire-du-Harcouët",
-    "departementNumber": 50,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787032800000,
-    "ending": 1787034600000,
-    "name": "Cyclo Déchancé Optique",
-    "eventLink": "https://fr.milesrepublic.com/event/cyclo-dechance-optique-11621"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Pol-de-Léon",
     "departementNumber": 29,
     "eventType": "trail",
@@ -2645,7 +2580,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 5,
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1787931000000,
     "ending": 1787934600000,
     "name": "Les foulées de la Saint-Jean",
@@ -20359,6 +20294,19 @@
   },
   {
     "place": "unknown",
+    "city": "Gavray",
+    "departementNumber": 50,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1789862400000,
+    "ending": 1789862400000,
+    "eventLink": "https://www.klikego.com/inscription/le-trail-de-la-lande-2026/course-a-pied-running/1785870974112-1",
+    "name": "Le Trail de la Lande"
+  },
+  {
+    "place": "unknown",
     "city": "Pluvigner",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -20369,19 +20317,6 @@
     "ending": 1789862400000,
     "eventLink": "https://www.klikego.com/inscription/les-bosses-de-lanvaux-2026/running-course-a-pied-marche-nordique/1710408734324-3",
     "name": "Les bosses de Lanvaux"
-  },
-  {
-    "place": "unknown",
-    "city": "Concarneau",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789862400000,
-    "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-bleues-2026/running-course-a-pied/1470269509816-11",
-    "name": "Les Foulées Bleues 2026"
   },
   {
     "place": "unknown",
@@ -33107,7 +33042,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791072000000,
     "ending": 1791072000000,
-    "eventLink": "https://www.klikego.com/inscription/lenvolee-de-beauval-2026/running-course-a-pied/1739396511935-2",
+    "eventLink": "https://www.klikego.com/inscription/lenvolee-de-beauval-2026/course-a-pied-running/1739396511935-2",
     "name": "L’ENVOLÉE DE BEAUVAL"
   },
   {
@@ -59874,7 +59809,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/biathlon-de-damgan-2026/running-course-a-pied/1758350054749-2",
+    "eventLink": "https://www.klikego.com/inscription/biathlon-de-damgan-2026/course-a-pied-running/1758350054749-2",
     "name": "Biathlon de Damgan 2026"
   },
   {
@@ -63181,6 +63116,19 @@
   },
   {
     "place": "unknown",
+    "city": "Chalon-sur-Saône",
+    "departementNumber": 71,
+    "eventType": "running",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1796565600000,
+    "ending": 1796576400000,
+    "name": "Corrida pédestre de Chalon sur Saône",
+    "eventLink": "https://fr.milesrepublic.com/event/corrida-pedestre-de-chalon-sur-saone-4037"
+  },
+  {
+    "place": "unknown",
     "city": "Grandchamp-des-Fontaines",
     "departementNumber": 44,
     "eventType": "running",
@@ -63191,19 +63139,6 @@
     "ending": 1796634000000,
     "name": "Kilomètres solidaires grandchamp des fontaines",
     "eventLink": "https://fr.milesrepublic.com/event/kilometres-solidaires-grandchamp-des-fontaines-15212"
-  },
-  {
-    "place": "unknown",
-    "city": "Chalon-sur-Saône",
-    "departementNumber": 71,
-    "eventType": "running",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1796567400000,
-    "ending": 1796574600000,
-    "name": "Corrida pédestre de Chalon sur Saône",
-    "eventLink": "https://fr.milesrepublic.com/event/corrida-pedestre-de-chalon-sur-saone-4037"
   },
   {
     "place": "unknown",
@@ -136462,6 +136397,19 @@
   },
   {
     "place": "unknown",
+    "city": "ANNEVILLE-AMBOURVILLE",
+    "departementNumber": 76,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Aquathlon des Carrières",
+    "eventLink": "https://fr.milesrepublic.com/event/aquathlon-des-carrieres-16882"
+  },
+  {
+    "place": "unknown",
     "city": "Contrexéville",
     "departementNumber": 88,
     "eventType": "triathlon",
@@ -136472,6 +136420,19 @@
     "ending": 1812924000000,
     "name": "Cross Triathlon de Contrexéville",
     "eventLink": "https://fr.milesrepublic.com/event/cross-triathlon-de-contrexeville-10788"
+  },
+  {
+    "place": "unknown",
+    "city": "LONGUENESSE",
+    "departementNumber": 62,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Douzathlon",
+    "eventLink": "https://fr.milesrepublic.com/event/douzathlon-16881"
   },
   {
     "place": "unknown",
@@ -136563,6 +136524,19 @@
     "ending": 1812924000000,
     "name": "Randonnee Sacracus",
     "eventLink": "https://fr.milesrepublic.com/event/randonnee-sacracus-14235"
+  },
+  {
+    "place": "unknown",
+    "city": "BESANÇON",
+    "departementNumber": 25,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "SwimRun Grandes Heures Nature",
+    "eventLink": "https://fr.milesrepublic.com/event/swimrun-grandes-heures-nature-16879"
   },
   {
     "place": "unknown",
@@ -136667,6 +136641,32 @@
     "ending": 1812924000000,
     "name": "Triathlon des Carrières",
     "eventLink": "https://fr.milesrepublic.com/event/triathlon-des-carrieres-14091"
+  },
+  {
+    "place": "unknown",
+    "city": "PEYRAT-LE-CHÂTEAU",
+    "departementNumber": 987,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Triathlon des Millevaches",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-des-millevaches-16880"
+  },
+  {
+    "place": "unknown",
+    "city": "PASSY",
+    "departementNumber": 74,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Triathlon du Pays du Mont Blanc",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-du-pays-du-mont-blanc-16877"
   },
   {
     "place": "unknown",
