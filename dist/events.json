@@ -3344,7 +3344,7 @@
     "place": "unknown",
     "city": "Saint-Pandelon",
     "departementNumber": 40,
-    "eventType": "walk",
+    "eventType": "running",
     "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "open",
@@ -8700,7 +8700,7 @@
     "place": "unknown",
     "city": "Langeac",
     "departementNumber": 43,
-    "eventType": "walk",
+    "eventType": "trail",
     "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "open",
@@ -9844,7 +9844,7 @@
     "place": "unknown",
     "city": "Saint-Simon",
     "departementNumber": 15,
-    "eventType": "walk",
+    "eventType": "trail",
     "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "open",
@@ -18123,6 +18123,19 @@
   },
   {
     "place": "unknown",
+    "city": "Boussu",
+    "departementNumber": 99,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789749000000,
+    "ending": 1789750800000,
+    "name": "Sarazen Trophy",
+    "eventLink": "https://fr.milesrepublic.com/event/sarazen-trophy-13129"
+  },
+  {
+    "place": "unknown",
     "city": "Montbrun Lauragais",
     "departementNumber": 31,
     "eventType": "trail",
@@ -19758,19 +19771,6 @@
     "ending": 1789835400000,
     "name": "Urban Trail Arras",
     "eventLink": "https://fr.milesrepublic.com/event/urban-trail-arras-17168"
-  },
-  {
-    "place": "unknown",
-    "city": "Boussu",
-    "departementNumber": 99,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789835400000,
-    "ending": 1789837200000,
-    "name": "Sarazen Trophy",
-    "eventLink": "https://fr.milesrepublic.com/event/sarazen-trophy-13129"
   },
   {
     "place": "unknown",
@@ -25585,6 +25585,19 @@
   },
   {
     "place": "unknown",
+    "city": "Auzet",
+    "departementNumber": 4,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790425800000,
+    "ending": 1790427600000,
+    "name": "Fangestrail",
+    "eventLink": "https://fr.milesrepublic.com/event/fangestrail-18017"
+  },
+  {
+    "place": "unknown",
     "city": "Pas-en-Artois",
     "departementNumber": "",
     "eventType": "walk",
@@ -27889,7 +27902,7 @@
     "city": "Saint-Martin-d'Hères",
     "departementNumber": 38,
     "eventType": "running",
-    "numberOfRaceVariants": 4,
+    "numberOfRaceVariants": 5,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1790492400000,
@@ -40153,7 +40166,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/la-boucle-du-feu-2026/running-course-a-pied/1779817536081-1",
+    "eventLink": "https://www.klikego.com/inscription/la-boucle-du-feu-2026/course-a-pied-running/1779817536081-1",
     "name": "La boucle du feu"
   },
   {
@@ -136810,19 +136823,6 @@
     "ending": 1812956400000,
     "name": "La comblorane",
     "eventLink": "https://fr.milesrepublic.com/event/la-comblorane-5378"
-  },
-  {
-    "place": "unknown",
-    "city": "Bandol",
-    "departementNumber": 83,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812906000000,
-    "ending": 1812918600000,
-    "name": "Salomon Bandol classic",
-    "eventLink": "https://fr.milesrepublic.com/event/salomon-bandol-classic-1698"
   },
   {
     "place": "unknown",
