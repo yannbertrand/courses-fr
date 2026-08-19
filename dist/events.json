@@ -6007,19 +6007,6 @@
   },
   {
     "place": "unknown",
-    "city": "Tamerville",
-    "departementNumber": 50,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788386400000,
-    "ending": 1788386400000,
-    "name": "Tam'rando",
-    "eventLink": "https://fr.milesrepublic.com/event/tamrando-9192"
-  },
-  {
-    "place": "unknown",
     "city": "Habarcq",
     "departementNumber": 62,
     "eventType": "running",
@@ -8077,20 +8064,7 @@
     "city": "Bodilis",
     "departementNumber": 29,
     "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788652800000,
-    "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/la-bodilisienne-gravel-2026/cyclo/vtt/1785782372565-1",
-    "name": "La Bodilisienne Gravel 2026"
-  },
-  {
-    "place": "unknown",
-    "city": "Bodilis",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
@@ -9059,6 +9033,19 @@
     "ending": 1788681600000,
     "name": "Les rondes charolaises",
     "eventLink": "https://fr.milesrepublic.com/event/les-rondes-charolaises-2790"
+  },
+  {
+    "place": "unknown",
+    "city": "Tamerville",
+    "departementNumber": 50,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788678000000,
+    "ending": 1788681600000,
+    "name": "Tam'rando",
+    "eventLink": "https://fr.milesrepublic.com/event/tamrando-9192"
   },
   {
     "place": "unknown",
@@ -13703,6 +13690,19 @@
   },
   {
     "place": "unknown",
+    "city": "Le Pradet",
+    "departementNumber": 83,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789250400000,
+    "ending": 1789250400000,
+    "name": "La foulée pradétane",
+    "eventLink": "https://fr.milesrepublic.com/event/la-foulee-pradetane-6355"
+  },
+  {
+    "place": "unknown",
     "city": "Paris",
     "departementNumber": 75,
     "eventType": "running",
@@ -13752,6 +13752,19 @@
     "ending": 1789250400000,
     "name": "Le Gravel du D-Day",
     "eventLink": "https://fr.milesrepublic.com/event/le-gravel-du-d-day-11751"
+  },
+  {
+    "place": "unknown",
+    "city": "Florensac",
+    "departementNumber": 34,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789250400000,
+    "ending": 1789250400000,
+    "name": "Le relais des vignobles",
+    "eventLink": "https://fr.milesrepublic.com/event/le-relais-des-vignobles-8484"
   },
   {
     "place": "unknown",
@@ -14465,7 +14478,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-lindoises--vaincre-ensemble-la-sclerose-en-plaques-2026/running-course-a-pied/1271467163297-22",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-lindoises--vaincre-ensemble-la-sclerose-en-plaques-2026/course-a-pied-running/1271467163297-22",
     "name": "Les Foulées Lindoises : vaincre ensemble la sclérose en plaques"
   },
   {
@@ -14990,6 +15003,19 @@
   },
   {
     "place": "unknown",
+    "city": "Le Thoronet",
+    "departementNumber": 83,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789281000000,
+    "ending": 1789285500000,
+    "name": "La thoronéenne",
+    "eventLink": "https://fr.milesrepublic.com/event/la-thoroneenne-6381"
+  },
+  {
+    "place": "unknown",
     "city": "Bois d'Arcy",
     "departementNumber": 78,
     "eventType": "trail",
@@ -15273,6 +15299,19 @@
     "ending": 1789286400000,
     "name": "Les Amaz'eaunes",
     "eventLink": "https://fr.milesrepublic.com/event/les-amazeaunes-2026-16059"
+  },
+  {
+    "place": "unknown",
+    "city": "Jausiers",
+    "departementNumber": 4,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789282800000,
+    "ending": 1789286400000,
+    "name": "Trail de la bonette",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-bonette-11419"
   },
   {
     "place": "unknown",
@@ -16511,19 +16550,6 @@
   },
   {
     "place": "unknown",
-    "city": "Florensac",
-    "departementNumber": 34,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789336800000,
-    "ending": 1789336800000,
-    "name": "Le relais des vignobles",
-    "eventLink": "https://fr.milesrepublic.com/event/le-relais-des-vignobles-8484"
-  },
-  {
-    "place": "unknown",
     "city": "Gueret",
     "departementNumber": 23,
     "eventType": "cycling",
@@ -16940,19 +16966,6 @@
   },
   {
     "place": "unknown",
-    "city": "Le Thoronet",
-    "departementNumber": 83,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789336800000,
-    "ending": 1789371000000,
-    "name": "La thoronéenne",
-    "eventLink": "https://fr.milesrepublic.com/event/la-thoroneenne-6381"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Maixent-l'École",
     "departementNumber": 79,
     "eventType": "running",
@@ -17070,19 +17083,6 @@
   },
   {
     "place": "unknown",
-    "city": "Jausiers",
-    "departementNumber": 4,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789369200000,
-    "ending": 1789372800000,
-    "name": "Trail de la bonette",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-bonette-11419"
-  },
-  {
-    "place": "unknown",
     "city": "Liège",
     "departementNumber": 99,
     "eventType": "other",
@@ -17093,19 +17093,6 @@
     "ending": 1789371000000,
     "name": "Raid de Liège",
     "eventLink": "https://fr.milesrepublic.com/event/raid-de-liege-13032"
-  },
-  {
-    "place": "unknown",
-    "city": "Le Pradet",
-    "departementNumber": 83,
-    "eventType": "walk",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789371000000,
-    "ending": 1789372800000,
-    "name": "La foulée pradétane",
-    "eventLink": "https://fr.milesrepublic.com/event/la-foulee-pradetane-6355"
   },
   {
     "place": "unknown",
@@ -18172,6 +18159,19 @@
     "ending": 1789768800000,
     "name": "Course de la corniche vendéenne",
     "eventLink": "https://fr.milesrepublic.com/event/course-de-la-corniche-vendeenne-2748"
+  },
+  {
+    "place": "unknown",
+    "city": "Brignoles",
+    "departementNumber": 83,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789768800000,
+    "ending": 1789768800000,
+    "name": "Course de la Pistole",
+    "eventLink": "https://fr.milesrepublic.com/event/course-de-la-pistole-3031"
   },
   {
     "place": "unknown",
@@ -19566,6 +19566,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cornillon-Confoux",
+    "departementNumber": 13,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789830000000,
+    "ending": 1789830000000,
+    "name": "Ronde pédestre de Cornillon-Confoux",
+    "eventLink": "https://fr.milesrepublic.com/event/ronde-pedestre-de-cornillon-confoux-3022"
+  },
+  {
+    "place": "unknown",
     "city": "Gageac Et Rouillac",
     "departementNumber": 24,
     "eventType": "trail",
@@ -19706,6 +19719,19 @@
     "ending": 1789889400000,
     "name": "La ronde de Crussol",
     "eventLink": "https://fr.milesrepublic.com/event/la-ronde-de-crussol-2717"
+  },
+  {
+    "place": "unknown",
+    "city": "Vic-Fezensac",
+    "departementNumber": 32,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789835400000,
+    "ending": 1789835400000,
+    "name": "Galop'in Vic",
+    "eventLink": "https://fr.milesrepublic.com/event/galopin-vic-9869"
   },
   {
     "place": "unknown",
@@ -19862,19 +19888,6 @@
     "ending": 1789855200000,
     "name": "Concentration Fin d'Été",
     "eventLink": "https://fr.milesrepublic.com/event/concentration-fin-dete-11916"
-  },
-  {
-    "place": "unknown",
-    "city": "Brignoles",
-    "departementNumber": 83,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789855200000,
-    "ending": 1789855200000,
-    "name": "Course de la Pistole",
-    "eventLink": "https://fr.milesrepublic.com/event/course-de-la-pistole-3031"
   },
   {
     "place": "unknown",
@@ -20333,19 +20346,6 @@
   },
   {
     "place": "unknown",
-    "city": "Cornillon-Confoux",
-    "departementNumber": 13,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789855200000,
-    "ending": 1789855200000,
-    "name": "Ronde pédestre de Cornillon-Confoux",
-    "eventLink": "https://fr.milesrepublic.com/event/ronde-pedestre-de-cornillon-confoux-3022"
-  },
-  {
-    "place": "unknown",
     "city": "Spay",
     "departementNumber": 72,
     "eventType": "triathlon",
@@ -20733,6 +20733,19 @@
     "ending": 1789862400000,
     "name": "LE TRAIL “LA MAREUILLAISE”",
     "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3161"
+  },
+  {
+    "place": "unknown",
+    "city": "Gavray",
+    "departementNumber": 50,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1789862400000,
+    "ending": 1789862400000,
+    "eventLink": "https://www.klikego.com/inscription/le-trail-de-la-lande-2026/course-a-pied-running/1785870974112-1",
+    "name": "Le Trail de la Lande"
   },
   {
     "place": "unknown",
@@ -21841,6 +21854,19 @@
   },
   {
     "place": "unknown",
+    "city": "Séméac",
+    "departementNumber": 65,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789889400000,
+    "ending": 1789889400000,
+    "name": "La séméacaise",
+    "eventLink": "https://fr.milesrepublic.com/event/la-semeacaise-9832"
+  },
+  {
+    "place": "unknown",
     "city": "Lans",
     "departementNumber": 71,
     "eventType": "fun",
@@ -22296,6 +22322,19 @@
   },
   {
     "place": "unknown",
+    "city": "Balaruc-les-Bains",
+    "departementNumber": 34,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789891200000,
+    "ending": 1789893000000,
+    "name": "Hippo'Run de Balaruc",
+    "eventLink": "https://fr.milesrepublic.com/event/hippo-run-de-balaruc-13690"
+  },
+  {
+    "place": "unknown",
     "city": "Coutances",
     "departementNumber": 50,
     "eventType": "running",
@@ -22501,19 +22540,6 @@
     "ending": 1789918200000,
     "name": "Icio'trail",
     "eventLink": "https://fr.milesrepublic.com/event/icio-trail-2957"
-  },
-  {
-    "place": "unknown",
-    "city": "Vic-Fezensac",
-    "departementNumber": 32,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789921800000,
-    "ending": 1789921800000,
-    "name": "Galop'in Vic",
-    "eventLink": "https://fr.milesrepublic.com/event/galopin-vic-9869"
   },
   {
     "place": "unknown",
@@ -22878,19 +22904,6 @@
     "ending": 1789941600000,
     "name": "La Schwalmala",
     "eventLink": "https://fr.milesrepublic.com/event/la-schwalmala-14622"
-  },
-  {
-    "place": "unknown",
-    "city": "Séméac",
-    "departementNumber": 65,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789941600000,
-    "ending": 1789941600000,
-    "name": "La séméacaise",
-    "eventLink": "https://fr.milesrepublic.com/event/la-semeacaise-9832"
   },
   {
     "place": "unknown",
@@ -23632,19 +23645,6 @@
     "ending": 1789978500000,
     "name": "Sing’uliennoise",
     "eventLink": "https://fr.milesrepublic.com/event/sing-uliennoise-15070"
-  },
-  {
-    "place": "unknown",
-    "city": "Balaruc-les-Bains",
-    "departementNumber": 34,
-    "eventType": "running",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789974900000,
-    "ending": 1789979400000,
-    "name": "Hippo'Run de Balaruc",
-    "eventLink": "https://fr.milesrepublic.com/event/hippo-run-de-balaruc-13690"
   },
   {
     "place": "unknown",
@@ -24651,7 +24651,7 @@
     "place": "unknown",
     "city": "Quaregnon",
     "departementNumber": 99,
-    "eventType": "walk",
+    "eventType": "running",
     "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "open",
@@ -26284,6 +26284,19 @@
     "ending": 1790460000000,
     "name": "La Chatelaine By Run'in Rennes",
     "eventLink": "https://fr.milesrepublic.com/event/la-chatelaine-by-runin-rennes-17994"
+  },
+  {
+    "place": "unknown",
+    "city": "Prévessin-Moëns",
+    "departementNumber": 1,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790460000000,
+    "ending": 1790460000000,
+    "name": "La Course du Chateau",
+    "eventLink": "https://fr.milesrepublic.com/event/la-course-du-chateau-15195"
   },
   {
     "place": "unknown",
@@ -29079,19 +29092,6 @@
     "ending": 1790546400000,
     "name": "La Bocage Gâtinais",
     "eventLink": "https://fr.milesrepublic.com/event/la-bocage-gatinais-11716"
-  },
-  {
-    "place": "unknown",
-    "city": "Prévessin-Moëns",
-    "departementNumber": 1,
-    "eventType": "running",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1790546400000,
-    "ending": 1790546400000,
-    "name": "La Course du Chateau",
-    "eventLink": "https://fr.milesrepublic.com/event/la-course-du-chateau-15195"
   },
   {
     "place": "unknown",
@@ -44196,7 +44196,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/running-course-a-pied/1472342761951-11",
+    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/course-a-pied-running/1472342761951-11",
     "name": "Kastell Trail de PLOMELIN"
   },
   {
@@ -44224,6 +44224,19 @@
     "ending": 1792195200000,
     "eventLink": "https://www.klikego.com/inscription/la-voie-rose-2026/running-course-a-pied/1663704579848-5",
     "name": "La voie Rose 2026"
+  },
+  {
+    "place": "unknown",
+    "city": "St pierre des landes",
+    "departementNumber": 53,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1792195200000,
+    "ending": 1792195200000,
+    "eventLink": "https://www.klikego.com/inscription/les-automnales-2026/course-a-pied-running/1557899388074-6",
+    "name": "Les Automnales"
   },
   {
     "place": "Complexe sportif - rue de Langförden",
@@ -44315,19 +44328,6 @@
     "ending": 1792281600000,
     "eventLink": "https://www.klikego.com/inscription/albi-24h-6h--100km-2026/running-course-a-pied/1384568432549-16",
     "name": "ALBI 24H - 6H -100Km"
-  },
-  {
-    "place": "unknown",
-    "city": "Bayac",
-    "departementNumber": 24,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/bayac-trail-2026/running-course-a-pied/1683058154395-4",
-    "name": "Bayac Trail 2026"
   },
   {
     "place": "unknown",
@@ -51767,6 +51767,19 @@
   },
   {
     "place": "unknown",
+    "city": "St berthevin",
+    "departementNumber": 53,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1793491200000,
+    "ending": 1793491200000,
+    "eventLink": "https://www.klikego.com/inscription/courses-nature-de-coupeau-2026/course-a-pied-running/1692753042601-4",
+    "name": "Courses Nature de Coupeau"
+  },
+  {
+    "place": "unknown",
     "city": "Savenay",
     "departementNumber": 44,
     "eventType": "unknown",
@@ -56915,6 +56928,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cerbere",
+    "departementNumber": 66,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794700800000,
+    "ending": 1794700800000,
+    "eventLink": "https://www.klikego.com/inscription/iv-querroig-trail-2026/course-a-pied-running/1785898519308-1",
+    "name": "IV QUERROIG TRAIL"
+  },
+  {
+    "place": "unknown",
     "city": "St jean d angely",
     "departementNumber": 17,
     "eventType": "unknown",
@@ -58444,7 +58470,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/sjc-2026/running-course-a-pied/1784495683631-1",
+    "eventLink": "https://www.klikego.com/inscription/sjc-2026/course-a-pied-running/1784495683631-1",
     "name": "SJC"
   },
   {
@@ -69821,6 +69847,19 @@
     "ending": 1800117600000,
     "name": "Les lumières de la muzelle",
     "eventLink": "https://fr.milesrepublic.com/event/les-lumieres-de-la-muzelle-10896"
+  },
+  {
+    "place": "unknown",
+    "city": "Commana",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800057600000,
+    "ending": 1800057600000,
+    "eventLink": "https://www.klikego.com/inscription/snow-trail-by-utma-2027/course-a-pied-running/1748916984787-3",
+    "name": "Snow Trail by UTMA"
   },
   {
     "place": "unknown",
