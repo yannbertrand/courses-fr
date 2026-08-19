@@ -9714,7 +9714,7 @@
     "place": "unknown",
     "city": "Saint-Avold",
     "departementNumber": 57,
-    "eventType": "walk",
+    "eventType": "running",
     "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "open",
@@ -14706,7 +14706,7 @@
     "place": "unknown",
     "city": "Varsberg",
     "departementNumber": 57,
-    "eventType": "trail",
+    "eventType": "walk",
     "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "open",
@@ -51153,6 +51153,19 @@
     "ending": 1793435400000,
     "name": "Trail panoramic de l'albanais",
     "eventLink": "https://fr.milesrepublic.com/event/trail-panoramic-de-lalbanais-7219"
+  },
+  {
+    "place": "unknown",
+    "city": "Malataverne",
+    "departementNumber": 26,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1793433600000,
+    "ending": 1793440800000,
+    "name": "Malata'run",
+    "eventLink": "https://fr.milesrepublic.com/event/malatarun-18018"
   },
   {
     "place": "unknown",
@@ -125295,6 +125308,19 @@
   },
   {
     "place": "unknown",
+    "city": "Enghien-les-Bains",
+    "departementNumber": 95,
+    "eventType": "running",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811628000000,
+    "ending": 1811628000000,
+    "name": "La Boucle Festival",
+    "eventLink": "https://fr.milesrepublic.com/event/la-boucle-festival-17965"
+  },
+  {
+    "place": "unknown",
     "city": "",
     "departementNumber": 50,
     "eventType": "running",
@@ -136774,19 +136800,6 @@
   },
   {
     "place": "unknown",
-    "city": "Cahors",
-    "departementNumber": 46,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812906000000,
-    "ending": 1812906000000,
-    "name": "Ekiden de Rodez-Aveyron",
-    "eventLink": "https://fr.milesrepublic.com/event/ekiden-de-rodez-aveyron-5326"
-  },
-  {
-    "place": "unknown",
     "city": "Bandol",
     "departementNumber": 83,
     "eventType": "running",
@@ -136797,19 +136810,6 @@
     "ending": 1812918600000,
     "name": "Salomon Bandol classic",
     "eventLink": "https://fr.milesrepublic.com/event/salomon-bandol-classic-1698"
-  },
-  {
-    "place": "unknown",
-    "city": "Lille",
-    "departementNumber": 59,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812907800000,
-    "ending": 1812913200000,
-    "name": "Course de la citadelle",
-    "eventLink": "https://fr.milesrepublic.com/event/course-de-la-citadelle-1241"
   },
   {
     "place": "unknown",
