@@ -287,32 +287,6 @@
   },
   {
     "place": "unknown",
-    "city": "Haguenau",
-    "departementNumber": 67,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1787244300000,
-    "ending": 1787245500000,
-    "name": "Relais du houblon",
-    "eventLink": "https://fr.milesrepublic.com/event/relais-du-houblon-5535"
-  },
-  {
-    "place": "unknown",
-    "city": "Sainte-Reine-de-Bretagne",
-    "departementNumber": 44,
-    "eventType": "walk",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787245200000,
-    "ending": 1787245200000,
-    "name": " Randos crêpes Sainte Reine de Bretagne",
-    "eventLink": "https://fr.milesrepublic.com/event/-randos-crepes-sainte-reine-de-bretagne-11563"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Pantaléon",
     "departementNumber": 84,
     "eventType": "running",
@@ -594,7 +568,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787356800000,
     "ending": 1787356800000,
-    "eventLink": "https://www.klikego.com/inscription/montee-du-phare-deckmuhl-2026/running-course-a-pied/1685770871621-4",
+    "eventLink": "https://www.klikego.com/inscription/montee-du-phare-deckmuhl-2026/course-a-pied-running/1685770871621-4",
     "name": "Montée du Phare d'Eckmühl"
   },
   {
@@ -7978,7 +7952,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/larmor-trail-santec-2026/running-course-a-pied/1623204318528-6",
+    "eventLink": "https://www.klikego.com/inscription/larmor-trail-santec-2026/course-a-pied-running/1623204318528-6",
     "name": "L'Armor Trail Santec"
   },
   {
@@ -136784,6 +136758,32 @@
     "ending": 1812902400000,
     "name": "Course nature du Loc'h",
     "eventLink": "https://fr.milesrepublic.com/event/course-nature-du-loc-h-1948"
+  },
+  {
+    "place": "unknown",
+    "city": "Cattenom",
+    "departementNumber": 57,
+    "eventType": "fun",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "COLOR RUN Estivales de Cattenom",
+    "eventLink": "https://fr.milesrepublic.com/event/color-run-estivales-de-cattenom-17335"
+  },
+  {
+    "place": "unknown",
+    "city": "Chauffailles",
+    "departementNumber": 71,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "Grimpette de dun",
+    "eventLink": "https://fr.milesrepublic.com/event/grimpette-de-dun-13829"
   },
   {
     "place": "unknown",
