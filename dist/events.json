@@ -261,97 +261,6 @@
   },
   {
     "place": "unknown",
-    "city": "Castelnaudary",
-    "departementNumber": 11,
-    "eventType": "walk",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1787153400000,
-    "ending": 1787162400000,
-    "name": "La ronde du cassoulet",
-    "eventLink": "https://fr.milesrepublic.com/event/la-ronde-du-cassoulet-2561"
-  },
-  {
-    "place": "unknown",
-    "city": "Sougraigne",
-    "departementNumber": 11,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1787176800000,
-    "ending": 1787176800000,
-    "name": "Aude Gravel Camp",
-    "eventLink": "https://fr.milesrepublic.com/event/aude-gravel-camp-17532"
-  },
-  {
-    "place": "unknown",
-    "city": "Autrans-meaudre En Vercors",
-    "departementNumber": 38,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787176800000,
-    "ending": 1787176800000,
-    "name": "Criterium Regional",
-    "eventLink": "https://fr.milesrepublic.com/event/criterium-regional-14512"
-  },
-  {
-    "place": "unknown",
-    "city": "Autrans-meaudre En Vercors",
-    "departementNumber": 38,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787176800000,
-    "ending": 1787176800000,
-    "name": "Education Routière",
-    "eventLink": "https://fr.milesrepublic.com/event/education-routiere-14511"
-  },
-  {
-    "place": "unknown",
-    "city": "Argiusta-Moriccio",
-    "departementNumber": "2A",
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787176800000,
-    "ending": 1787176800000,
-    "name": "I tre salti",
-    "eventLink": "https://fr.milesrepublic.com/event/i-tre-salti-2598"
-  },
-  {
-    "place": "unknown",
-    "city": "Le Castellet",
-    "departementNumber": 83,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787176800000,
-    "ending": 1787176800000,
-    "name": "Sunset Bike du 20 Août",
-    "eventLink": "https://fr.milesrepublic.com/event/sunset-bike-du-20-aout-11582"
-  },
-  {
-    "place": "unknown",
-    "city": "Venaco",
-    "departementNumber": "2B",
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787176800000,
-    "ending": 1787176800000,
-    "name": "Trail di u monte cardu",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-di-u-monte-cardu-2570"
-  },
-  {
-    "place": "unknown",
     "city": "Vielle-Aure",
     "departementNumber": 65,
     "eventType": "trail",
@@ -1192,7 +1101,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-de-madranges-2026/course-a-pied-running/1748553146887-2",
+    "eventLink": "https://www.klikego.com/inscription/foulees-de-madranges-2026/running-course-a-pied/1748553146887-2",
     "name": "Foulées de Madranges 2026"
   },
   {
@@ -1218,7 +1127,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/la-ronde-des-phares-2026/course-a-pied-running/1717106660656-3",
+    "eventLink": "https://www.klikego.com/inscription/la-ronde-des-phares-2026/running-course-a-pied/1717106660656-3",
     "name": "La Ronde des Phares 2026"
   },
   {
@@ -2830,7 +2739,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/le-trail-dannesse-2026/course-a-pied-running/1654544826542-4",
+    "eventLink": "https://www.klikego.com/inscription/le-trail-dannesse-2026/running-course-a-pied/1654544826542-4",
     "name": "LE TRAIL D'ANNESSE 2026"
   },
   {
@@ -3987,7 +3896,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
     "ending": 1788048000000,
-    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/course-a-pied-running/1767296761033-1",
+    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/running-course-a-pied/1767296761033-1",
     "name": "La Cro Magnon"
   },
   {
@@ -6470,7 +6379,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/la-course-au-homard-2026/course-a-pied-running/1781750639650-1",
+    "eventLink": "https://www.klikego.com/inscription/la-course-au-homard-2026/running-course-a-pied/1781750639650-1",
     "name": "La course au homard"
   },
   {
@@ -8160,8 +8069,21 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/la-stellantis-run-2026/course-a-pied-running/1780688895761-1",
+    "eventLink": "https://www.klikego.com/inscription/la-stellantis-run-2026/running-course-a-pied/1780688895761-1",
     "name": "La Stellantis Run"
+  },
+  {
+    "place": "unknown",
+    "city": "Varennes",
+    "departementNumber": 24,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788652800000,
+    "ending": 1788652800000,
+    "eventLink": "https://www.klikego.com/inscription/la-varennoise-12eme-edition-vtt-et-pedestre-2026/cyclo/vtt/1766957409759-2",
+    "name": "La Varennoise 12ème édition VTT et Pédestre"
   },
   {
     "place": "unknown",
@@ -8368,7 +8290,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-croquants-2026/course-a-pied-running/1551850936519-8",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-croquants-2026/running-course-a-pied/1551850936519-8",
     "name": "Trail des Croquants"
   },
   {
@@ -11810,7 +11732,7 @@
     "eventType": "running",
     "numberOfRaceVariants": 3,
     "registrationLink": "http://lesfouleesdecouflant.sportsregions.fr/",
-    "registrationStatus": "closed",
+    "registrationStatus": "open",
     "beginning": 1789084800000,
     "ending": 1789084800000,
     "name": "LES FOULÉES D'ECOUFLANT",
@@ -14530,7 +14452,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-lindoises--vaincre-ensemble-la-sclerose-en-plaques-2026/course-a-pied-running/1271467163297-22",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-lindoises--vaincre-ensemble-la-sclerose-en-plaques-2026/running-course-a-pied/1271467163297-22",
     "name": "Les Foulées Lindoises : vaincre ensemble la sclérose en plaques"
   },
   {
@@ -14634,7 +14556,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-cele-2026/course-a-pied-running/1704691207419-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-cele-2026/running-course-a-pied/1704691207419-3",
     "name": "Trail de la Vallée du Célé"
   },
   {
@@ -18664,7 +18586,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789776000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-terroir-saussignac-2026/course-a-pied-running/1735779952196-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-terroir-saussignac-2026/running-course-a-pied/1735779952196-3",
     "name": "TRAIL TERROIR SAUSSIGNAC"
   },
   {
@@ -18692,6 +18614,19 @@
     "ending": 1789776000000,
     "eventLink": "https://www.klikego.com/inscription/trail-urbain-de-saint-denis-2026/running-course-a-pied/1699481084702-14",
     "name": "TRAIL URBAIN DE SAINT DENIS"
+  },
+  {
+    "place": "unknown",
+    "city": "St onen la chapelle",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1789776000000,
+    "ending": 1789776000000,
+    "eventLink": "https://www.klikego.com/inscription/trail-urbain-sto-2026/running-course-a-pied/1785990869433-1",
+    "name": "Trail Urbain St'O"
   },
   {
     "place": "unknown",
@@ -20783,7 +20718,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789862400000,
     "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/course-solidaire-lpc-35-au-profit-des-personnes-sourdes-et-malentendantes-2026/course-a-pied-running/1754683222021-2",
+    "eventLink": "https://www.klikego.com/inscription/course-solidaire-lpc-35-au-profit-des-personnes-sourdes-et-malentendantes-2026/running-course-a-pied/1754683222021-2",
     "name": "Course solidaire LPC 35 au profit des personnes sourdes et malentendantes."
   },
   {
@@ -20798,32 +20733,6 @@
     "ending": 1789862400000,
     "eventLink": "https://www.klikego.com/inscription/enquete-biologique--sauvez-la-vanille-bourbon-2026/running-course-a-pied/1783625839314-2",
     "name": "Enquête biologique : sauvez la vanille Bourbon"
-  },
-  {
-    "place": "unknown",
-    "city": "Grenoble",
-    "departementNumber": 38,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789862400000,
-    "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/la-grenobloie-2026/running-course-a-pied/1596572198219-4",
-    "name": "LA Grenobloie"
-  },
-  {
-    "place": "unknown",
-    "city": "Plourin",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789862400000,
-    "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/la-plou--run-trail-2026/running-course-a-pied/1772005500555-1",
-    "name": "La Plou  ́run trail"
   },
   {
     "place": "carrière de La Clarté",
@@ -33640,7 +33549,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791072000000,
     "ending": 1791072000000,
-    "eventLink": "https://www.klikego.com/inscription/lenvolee-de-beauval-2026/course-a-pied-running/1739396511935-2",
+    "eventLink": "https://www.klikego.com/inscription/lenvolee-de-beauval-2026/running-course-a-pied/1739396511935-2",
     "name": "L’ENVOLÉE DE BEAUVAL"
   },
   {
@@ -33874,7 +33783,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791072000000,
     "ending": 1791072000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-passerelle-2026/course-a-pied-running/1519162765807-16",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-passerelle-2026/running-course-a-pied/1519162765807-16",
     "name": "Trail de la Passerelle"
   },
   {
@@ -35345,6 +35254,19 @@
     "ending": 1791100800000,
     "name": "Trail de la Tomme de Savoie",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-tomme-de-savoie-15529"
+  },
+  {
+    "place": "unknown",
+    "city": "Aubiet",
+    "departementNumber": 32,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791100800000,
+    "ending": 1791101700000,
+    "name": "Le Promenons-Nous",
+    "eventLink": "https://fr.milesrepublic.com/event/le-promenons-nous-18031"
   },
   {
     "place": "unknown",
@@ -40192,7 +40114,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/la-boucle-du-feu-2026/course-a-pied-running/1779817536081-1",
+    "eventLink": "https://www.klikego.com/inscription/la-boucle-du-feu-2026/running-course-a-pied/1779817536081-1",
     "name": "La boucle du feu"
   },
   {
@@ -44274,7 +44196,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/course-a-pied-running/1472342761951-11",
+    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/running-course-a-pied/1472342761951-11",
     "name": "Kastell Trail de PLOMELIN"
   },
   {
@@ -44313,7 +44235,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/les-automnales-2026/course-a-pied-running/1557899388074-6",
+    "eventLink": "https://www.klikego.com/inscription/les-automnales-2026/running-course-a-pied/1557899388074-6",
     "name": "Les Automnales"
   },
   {
@@ -48387,6 +48309,19 @@
   },
   {
     "place": "unknown",
+    "city": "Authie",
+    "departementNumber": 14,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1792792800000,
+    "ending": 1792792800000,
+    "name": "Quebecoise",
+    "eventLink": "https://fr.milesrepublic.com/event/quebecoise-18032"
+  },
+  {
+    "place": "unknown",
     "city": "Hangest En Santerre",
     "departementNumber": 80,
     "eventType": "trail",
@@ -51177,7 +51112,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793491200000,
-    "eventLink": "https://www.klikego.com/inscription/eden-rox-challenge-2026/course-a-pied-running/1699481084702-16",
+    "eventLink": "https://www.klikego.com/inscription/eden-rox-challenge-2026/running-course-a-pied/1699481084702-16",
     "name": "EDEN ROX CHALLENGE"
   },
   {
@@ -51866,7 +51801,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793491200000,
     "ending": 1793491200000,
-    "eventLink": "https://www.klikego.com/inscription/courses-nature-de-coupeau-2026/course-a-pied-running/1692753042601-4",
+    "eventLink": "https://www.klikego.com/inscription/courses-nature-de-coupeau-2026/running-course-a-pied/1692753042601-4",
     "name": "Courses Nature de Coupeau"
   },
   {
@@ -53816,7 +53751,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/le-montagrier-trail-2026/course-a-pied-running/1663705635944-5",
+    "eventLink": "https://www.klikego.com/inscription/le-montagrier-trail-2026/running-course-a-pied/1663705635944-5",
     "name": "Le Montagrier Trail 2026"
   },
   {
@@ -57040,7 +56975,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/iv-querroig-trail-2026/course-a-pied-running/1785898519308-1",
+    "eventLink": "https://www.klikego.com/inscription/iv-querroig-trail-2026/running-course-a-pied/1785898519308-1",
     "name": "IV QUERROIG TRAIL"
   },
   {
@@ -57053,7 +56988,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/les-4h-trail-de-st-jean-d-angely-2026/course-a-pied-running/1737708670167-2",
+    "eventLink": "https://www.klikego.com/inscription/les-4h-trail-de-st-jean-d-angely-2026/running-course-a-pied/1737708670167-2",
     "name": "Les 4H Trail de St Jean d Angély"
   },
   {
@@ -58405,7 +58340,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795132800000,
     "ending": 1795132800000,
-    "eventLink": "https://www.klikego.com/inscription/la-quevert-luisante-2026/course-a-pied-running/1473738832444-11",
+    "eventLink": "https://www.klikego.com/inscription/la-quevert-luisante-2026/running-course-a-pied/1473738832444-11",
     "name": "LA QUEVERT LUISANTE"
   },
   {
@@ -58574,8 +58509,8 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/sjc-2026/course-a-pied-running/1784495683631-1",
-    "name": "SJC"
+    "eventLink": "https://www.klikego.com/inscription/saint-jean-sur-le-coeur-2026/running-course-a-pied/1784495683631-1",
+    "name": "Saint Jean sur le Coeur"
   },
   {
     "place": "Salle de la Viauderie",
@@ -59250,7 +59185,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/thpb-2026--trail-du-haut-pays-bigouden/course-a-pied-running/1692072843111-5",
+    "eventLink": "https://www.klikego.com/inscription/thpb-2026--trail-du-haut-pays-bigouden/running-course-a-pied/1692072843111-5",
     "name": "THPB 2026 – Trail du Haut Pays Bigouden"
   },
   {
@@ -60524,7 +60459,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/biathlon-de-damgan-2026/course-a-pied-running/1758350054749-2",
+    "eventLink": "https://www.klikego.com/inscription/biathlon-de-damgan-2026/running-course-a-pied/1758350054749-2",
     "name": "Biathlon de Damgan 2026"
   },
   {
@@ -69052,7 +68987,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799539200000,
     "ending": 1799539200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/course-a-pied-running/1691113218274-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/running-course-a-pied/1691113218274-6",
     "name": "TRAIL HIVERNAL LES MATHES - LA PALMYRE 2027"
   },
   {
@@ -69988,7 +69923,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800057600000,
-    "eventLink": "https://www.klikego.com/inscription/snow-trail-by-utma-2027/course-a-pied-running/1748916984787-3",
+    "eventLink": "https://www.klikego.com/inscription/snow-trail-by-utma-2027/running-course-a-pied/1748916984787-3",
     "name": "Snow Trail by UTMA"
   },
   {
@@ -136093,7 +136028,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812844800000,
     "ending": 1812844800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-aqueducs-2027/course-a-pied-running/1785975002608-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-aqueducs-2027/running-course-a-pied/1785975002608-1",
     "name": "TRAIL DES AQUEDUCS"
   },
   {
@@ -136810,6 +136745,71 @@
     "ending": 1812902400000,
     "name": "Course nature du Loc'h",
     "eventLink": "https://fr.milesrepublic.com/event/course-nature-du-loc-h-1948"
+  },
+  {
+    "place": "unknown",
+    "city": "Chauffailles",
+    "departementNumber": 71,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "Grimpette de dun",
+    "eventLink": "https://fr.milesrepublic.com/event/grimpette-de-dun-13829"
+  },
+  {
+    "place": "unknown",
+    "city": "Mont-Saint-Père",
+    "departementNumber": 2,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "Mont-Saint-trail",
+    "eventLink": "https://fr.milesrepublic.com/event/mont-saint-trail-7652"
+  },
+  {
+    "place": "unknown",
+    "city": "Flayat",
+    "departementNumber": 23,
+    "eventType": "trail",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "Trail de l'etoile",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-letoile-11082"
+  },
+  {
+    "place": "unknown",
+    "city": "Sérignan-du-Comtat",
+    "departementNumber": 84,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812903300000,
+    "name": "Foulée Jean-Henri Fabre",
+    "eventLink": "https://fr.milesrepublic.com/event/foulee-jean-henri-fabre-2186"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Armel",
+    "departementNumber": 56,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812904200000,
+    "name": "Entre terre et golfe",
+    "eventLink": "https://fr.milesrepublic.com/event/entre-terre-et-golf-6038"
   },
   {
     "place": "unknown",
