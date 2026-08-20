@@ -581,7 +581,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787356800000,
     "ending": 1787356800000,
-    "eventLink": "https://www.klikego.com/inscription/la-viree-au-domaine-de-nounours-2026/running-course-a-pied/1433965577672-14",
+    "eventLink": "https://www.klikego.com/inscription/la-viree-au-domaine-de-nounours-2026/course-a-pied-running/1433965577672-14",
     "name": "La Virée au Domaine de Nounours"
   },
   {
@@ -11701,6 +11701,19 @@
   },
   {
     "place": "unknown",
+    "city": "Saint-Lunaire",
+    "departementNumber": 35,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 11,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789077600000,
+    "ending": 1789077600000,
+    "name": "Triathlon Swimrun de Dinard Côte d'Emeraude",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-dinard-cote-demeraude-9695"
+  },
+  {
+    "place": "unknown",
     "city": "Montigny-le-Bretonneux",
     "departementNumber": 78,
     "eventType": "cycling",
@@ -11711,19 +11724,6 @@
     "ending": 1789250400000,
     "name": "Rando Raid Des Renards 3R Nocturne",
     "eventLink": "https://fr.milesrepublic.com/event/rando-raid-des-renards-3r-nocturne-11794"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Lunaire",
-    "departementNumber": 35,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 11,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1789077900000,
-    "ending": 1789301100000,
-    "name": "Triathlon Swimrun de Dinard Côte d'Emeraude",
-    "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-dinard-cote-demeraude-9695"
   },
   {
     "place": "unknown",
@@ -11756,7 +11756,7 @@
     "city": "Venejan",
     "departementNumber": 30,
     "eventType": "running",
-    "numberOfRaceVariants": 0,
+    "numberOfRaceVariants": 1,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1789120800000,
@@ -11945,6 +11945,19 @@
     "ending": 1789164000000,
     "name": "Hyrox by ADN",
     "eventLink": "https://fr.milesrepublic.com/event/hyrox-by-adn-17663"
+  },
+  {
+    "place": "unknown",
+    "city": "Lacoste",
+    "departementNumber": 34,
+    "eventType": "fun",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1789164000000,
+    "ending": 1789164000000,
+    "name": "Hyrox Challenge Du Village By Adn",
+    "eventLink": "https://fr.milesrepublic.com/event/hyrox-challenge-du-village-by-adn-18033"
   },
   {
     "place": "unknown",
@@ -24545,19 +24558,6 @@
   },
   {
     "place": "unknown",
-    "city": "Nîmes",
-    "departementNumber": 30,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1790287200000,
-    "ending": 1790287200000,
-    "name": "La nocturne de Nîmes",
-    "eventLink": "https://fr.milesrepublic.com/event/la-nocturne-de-nimes-3572"
-  },
-  {
-    "place": "unknown",
     "city": "Roquebrune-Cap-Martin",
     "departementNumber": 6,
     "eventType": "running",
@@ -30967,6 +30967,19 @@
   },
   {
     "place": "unknown",
+    "city": "Nîmes",
+    "departementNumber": 30,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790892000000,
+    "ending": 1790892000000,
+    "name": "La nocturne de Nîmes",
+    "eventLink": "https://fr.milesrepublic.com/event/la-nocturne-de-nimes-3572"
+  },
+  {
+    "place": "unknown",
     "city": "Gillonnay",
     "departementNumber": 38,
     "eventType": "cycling",
@@ -31172,6 +31185,19 @@
     "ending": 1790978400000,
     "name": "Cézanne Cyclo Classic",
     "eventLink": "https://fr.milesrepublic.com/event/cezanne-cyclo-classic-11720"
+  },
+  {
+    "place": "unknown",
+    "city": "Collobrières",
+    "departementNumber": 83,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790978400000,
+    "ending": 1790978400000,
+    "name": "Course de la châtaigne",
+    "eventLink": "https://fr.milesrepublic.com/event/course-de-la-chataigne-3620"
   },
   {
     "place": "unknown",
@@ -31822,6 +31848,19 @@
     "ending": 1791097500000,
     "name": "La radicagirl",
     "eventLink": "https://fr.milesrepublic.com/event/la-radicagirl-7421"
+  },
+  {
+    "place": "unknown",
+    "city": "La Londe-les-Maures",
+    "departementNumber": 83,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791012600000,
+    "ending": 1791012600000,
+    "name": "Courir pour elles",
+    "eventLink": "https://fr.milesrepublic.com/event/courir-pour-elles-14101"
   },
   {
     "place": "unknown",
@@ -32771,6 +32810,19 @@
     "ending": 1791064800000,
     "name": "Les falaises de Rognac",
     "eventLink": "https://fr.milesrepublic.com/event/les-falaises-de-rognac-3559"
+  },
+  {
+    "place": "unknown",
+    "city": "Bourg-Achard",
+    "departementNumber": 27,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791064800000,
+    "ending": 1791064800000,
+    "name": "Les foulées roses",
+    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-roses-3560"
   },
   {
     "place": "unknown",
@@ -34698,6 +34750,19 @@
   },
   {
     "place": "unknown",
+    "city": "Gémenos",
+    "departementNumber": 13,
+    "eventType": "trail",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791097200000,
+    "ending": 1791104400000,
+    "name": "Gemnature run",
+    "eventLink": "https://fr.milesrepublic.com/event/gemnature-run-11398"
+  },
+  {
+    "place": "unknown",
     "city": "Haubourdin",
     "departementNumber": 59,
     "eventType": "running",
@@ -34903,19 +34968,6 @@
     "ending": 1791108000000,
     "name": "La Mansonnienne",
     "eventLink": "https://fr.milesrepublic.com/event/la-mansonnienne-7336"
-  },
-  {
-    "place": "unknown",
-    "city": "La Londe-les-Maures",
-    "departementNumber": 83,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791099000000,
-    "ending": 1791099000000,
-    "name": "Courir pour elles",
-    "eventLink": "https://fr.milesrepublic.com/event/courir-pour-elles-14101"
   },
   {
     "place": "unknown",
@@ -35218,6 +35270,19 @@
   },
   {
     "place": "unknown",
+    "city": "Barentin",
+    "departementNumber": 76,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791100800000,
+    "ending": 1791100800000,
+    "name": "La barentinoise",
+    "eventLink": "https://fr.milesrepublic.com/event/la-barentinoise-6313"
+  },
+  {
+    "place": "unknown",
     "city": "Prayssac",
     "departementNumber": 46,
     "eventType": "running",
@@ -35228,6 +35293,19 @@
     "ending": 1791100800000,
     "name": "La Prayssacoise",
     "eventLink": "https://fr.milesrepublic.com/event/la-prayssacoise-17787"
+  },
+  {
+    "place": "unknown",
+    "city": "La Neuville-Chant-d'Oisel",
+    "departementNumber": 76,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791100800000,
+    "ending": 1791100800000,
+    "name": "La reinette",
+    "eventLink": "https://fr.milesrepublic.com/event/la-reinette-3519"
   },
   {
     "place": "unknown",
@@ -35462,19 +35540,6 @@
     "ending": 1791119400000,
     "name": "Swim Run Bask",
     "eventLink": "https://fr.milesrepublic.com/event/swim-run-bask-10825"
-  },
-  {
-    "place": "unknown",
-    "city": "Collobrières",
-    "departementNumber": 83,
-    "eventType": "trail",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791126000000,
-    "ending": 1791126900000,
-    "name": "Course de la châtaigne",
-    "eventLink": "https://fr.milesrepublic.com/event/course-de-la-chataigne-3620"
   },
   {
     "place": "unknown",
@@ -35842,19 +35907,6 @@
   },
   {
     "place": "unknown",
-    "city": "Barentin",
-    "departementNumber": 76,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791151200000,
-    "ending": 1791151200000,
-    "name": "La barentinoise",
-    "eventLink": "https://fr.milesrepublic.com/event/la-barentinoise-6313"
-  },
-  {
-    "place": "unknown",
     "city": "Sanary-sur-Mer",
     "departementNumber": 83,
     "eventType": "running",
@@ -35969,19 +36021,6 @@
     "ending": 1791151200000,
     "name": "La pontivyenne",
     "eventLink": "https://fr.milesrepublic.com/event/la-pontivyenne-5147"
-  },
-  {
-    "place": "unknown",
-    "city": "La Neuville-Chant-d'Oisel",
-    "departementNumber": 76,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791151200000,
-    "ending": 1791151200000,
-    "name": "La reinette",
-    "eventLink": "https://fr.milesrepublic.com/event/la-reinette-3519"
   },
   {
     "place": "unknown",
@@ -36112,19 +36151,6 @@
     "ending": 1791151200000,
     "name": "Les foulée roses",
     "eventLink": "https://fr.milesrepublic.com/event/les-foulee-roses-8650"
-  },
-  {
-    "place": "unknown",
-    "city": "Bourg-Achard",
-    "departementNumber": 27,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791151200000,
-    "ending": 1791151200000,
-    "name": "Les foulées roses",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-roses-3560"
   },
   {
     "place": "unknown",
@@ -36671,19 +36697,6 @@
     "ending": 1791188100000,
     "name": "Boot'in Challans",
     "eventLink": "https://fr.milesrepublic.com/event/bootin-challans-3302"
-  },
-  {
-    "place": "unknown",
-    "city": "Gémenos",
-    "departementNumber": 13,
-    "eventType": "trail",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791183600000,
-    "ending": 1791190800000,
-    "name": "Gemnature run",
-    "eventLink": "https://fr.milesrepublic.com/event/gemnature-run-11398"
   },
   {
     "place": "unknown",
@@ -38325,19 +38338,6 @@
   },
   {
     "place": "unknown",
-    "city": "Roquebrune-sur-Argens",
-    "departementNumber": 83,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1791583200000,
-    "ending": 1791669600000,
-    "name": "Roc trail",
-    "eventLink": "https://fr.milesrepublic.com/event/roc-trail-9302"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Gervais-la-Forêt",
     "departementNumber": 41,
     "eventType": "trail",
@@ -39612,6 +39612,19 @@
   },
   {
     "place": "unknown",
+    "city": "Villefranche-de-rouergue",
+    "departementNumber": 12,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791669600000,
+    "ending": 1791669600000,
+    "name": "La Villefranchoise",
+    "eventLink": "https://fr.milesrepublic.com/event/la-villefranchoise-15024"
+  },
+  {
+    "place": "unknown",
     "city": "Verdaches",
     "departementNumber": 4,
     "eventType": "trail",
@@ -39830,6 +39843,19 @@
     "ending": 1791669600000,
     "name": "Randonnée Vins et Champignons",
     "eventLink": "https://fr.milesrepublic.com/event/randonnee-vins-et-champignons-12097"
+  },
+  {
+    "place": "unknown",
+    "city": "Roquebrune-sur-Argens",
+    "departementNumber": 83,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791669600000,
+    "ending": 1791669600000,
+    "name": "Roc trail",
+    "eventLink": "https://fr.milesrepublic.com/event/roc-trail-9302"
   },
   {
     "place": "unknown",
@@ -41884,19 +41910,6 @@
     "ending": 1791705600000,
     "name": "La Joucassienne Rose",
     "eventLink": "https://fr.milesrepublic.com/event/la-joucassienne-rose-16243"
-  },
-  {
-    "place": "unknown",
-    "city": "Villefranche-de-rouergue",
-    "departementNumber": 12,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1791705600000,
-    "ending": 1791705600000,
-    "name": "La Villefranchoise",
-    "eventLink": "https://fr.milesrepublic.com/event/la-villefranchoise-15024"
   },
   {
     "place": "unknown",
@@ -44552,19 +44565,6 @@
   },
   {
     "place": "unknown",
-    "city": "Bayac",
-    "departementNumber": 24,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1792224000000,
-    "ending": 1792310400000,
-    "name": "Trails bayac",
-    "eventLink": "https://fr.milesrepublic.com/event/trails-bayac-10331"
-  },
-  {
-    "place": "unknown",
     "city": "Paris",
     "departementNumber": 75,
     "eventType": "cycling",
@@ -46122,6 +46122,19 @@
     "ending": 1792307400000,
     "name": "Miroir des eaux",
     "eventLink": "https://fr.milesrepublic.com/event/miroir-des-eaux-2895"
+  },
+  {
+    "place": "unknown",
+    "city": "Bayac",
+    "departementNumber": 24,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1792306800000,
+    "ending": 1792307400000,
+    "name": "Trails bayac",
+    "eventLink": "https://fr.milesrepublic.com/event/trails-bayac-10331"
   },
   {
     "place": "unknown",
@@ -49050,19 +49063,6 @@
   },
   {
     "place": "unknown",
-    "city": "Le Fousseret",
-    "departementNumber": 31,
-    "eventType": "running",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1792879200000,
-    "ending": 1792879200000,
-    "name": "Trail des fouss",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-fouss-11087"
-  },
-  {
-    "place": "unknown",
     "city": "Radon",
     "departementNumber": 61,
     "eventType": "trail",
@@ -49463,6 +49463,19 @@
     "ending": 1792918800000,
     "name": "Le Nabeillou Trail",
     "eventLink": "https://fr.milesrepublic.com/event/le-nabeillou-trail-17455"
+  },
+  {
+    "place": "unknown",
+    "city": "Le Fousseret",
+    "departementNumber": 31,
+    "eventType": "other",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1792915200000,
+    "ending": 1792918800000,
+    "name": "Trail des fouss",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-fouss-11087"
   },
   {
     "place": "unknown",
@@ -53184,19 +53197,6 @@
   },
   {
     "place": "unknown",
-    "city": "Tauxigny-Saint-Bauld",
-    "departementNumber": 37,
-    "eventType": "trail",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1794049200000,
-    "ending": 1794130200000,
-    "name": "Even trail",
-    "eventLink": "https://fr.milesrepublic.com/event/even-trail-8482"
-  },
-  {
-    "place": "unknown",
     "city": "Arles-sur-Tech",
     "departementNumber": 66,
     "eventType": "trail",
@@ -53389,6 +53389,19 @@
     "ending": 1794075300000,
     "name": "Tourn'en nocturne",
     "eventLink": "https://fr.milesrepublic.com/event/tourn-en-nocturne-3717"
+  },
+  {
+    "place": "unknown",
+    "city": "Tauxigny-Saint-Bauld",
+    "departementNumber": 37,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1794074400000,
+    "ending": 1794126600000,
+    "name": "Even trail",
+    "eventLink": "https://fr.milesrepublic.com/event/even-trail-8482"
   },
   {
     "place": "unknown",
@@ -55701,7 +55714,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-tro-bro-melrant-le-ttbm-11eme-edition---2026/running-course-a-pied/1469331681857-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-tro-bro-melrant-le-ttbm-11eme-edition---2026/course-a-pied-running/1469331681857-14",
     "name": "Trail Tro Bro Melrant - Le TTBM - 11ème édition -"
   },
   {
@@ -60409,6 +60422,19 @@
     "ending": 1795802400000,
     "name": "Les foulées pirisiennes",
     "eventLink": "https://fr.milesrepublic.com/event/les-foulees-pirisiennes-9331"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Pierre-des-Corps",
+    "departementNumber": 37,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1795802400000,
+    "ending": 1795806000000,
+    "name": "Corrida de Saint-Pierre-des-Corps",
+    "eventLink": "https://fr.milesrepublic.com/event/corrida-de-saint-pierre-des-corps-4022"
   },
   {
     "place": "unknown",
@@ -66558,19 +66584,6 @@
     "ending": 1797619500000,
     "name": "Corrida des Gaziers",
     "eventLink": "https://fr.milesrepublic.com/event/corrida-des-gaziers-17314"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Pierre-des-Corps",
-    "departementNumber": 37,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1797616800000,
-    "ending": 1797620400000,
-    "name": "Corrida de Saint-Pierre-des-Corps",
-    "eventLink": "https://fr.milesrepublic.com/event/corrida-de-saint-pierre-des-corps-4022"
   },
   {
     "place": "unknown",
@@ -136771,19 +136784,6 @@
     "ending": 1812902400000,
     "name": "Course nature du Loc'h",
     "eventLink": "https://fr.milesrepublic.com/event/course-nature-du-loc-h-1948"
-  },
-  {
-    "place": "unknown",
-    "city": "Chauffailles",
-    "departementNumber": 71,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812902400000,
-    "ending": 1812902400000,
-    "name": "Grimpette de dun",
-    "eventLink": "https://fr.milesrepublic.com/event/grimpette-de-dun-13829"
   },
   {
     "place": "unknown",
