@@ -287,45 +287,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint-Pantaléon",
-    "departementNumber": 84,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787263200000,
-    "ending": 1787263200000,
-    "name": "Le pantarelais",
-    "eventLink": "https://fr.milesrepublic.com/event/le-pantarelais-8418"
-  },
-  {
-    "place": "unknown",
-    "city": "Faumont",
-    "departementNumber": 59,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1787263200000,
-    "ending": 1787263200000,
-    "name": "Nocturne VTT",
-    "eventLink": "https://fr.milesrepublic.com/event/nocturne-vtt-11627"
-  },
-  {
-    "place": "unknown",
-    "city": "SAINT-NAZAIRE-EN-ROYANS",
-    "departementNumber": 26,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1787263200000,
-    "ending": 1787263200000,
-    "name": "VercorsMan",
-    "eventLink": "https://fr.milesrepublic.com/event/vercorsman-16900"
-  },
-  {
-    "place": "unknown",
     "city": "Mimizan",
     "departementNumber": 40,
     "eventType": "running",
@@ -53142,6 +53103,19 @@
     "ending": 1794060000000,
     "name": "Tour du Mont Genezet",
     "eventLink": "https://fr.milesrepublic.com/event/tour-du-mont-genezet-3836"
+  },
+  {
+    "place": "unknown",
+    "city": "Aussonne",
+    "departementNumber": 31,
+    "eventType": "running",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1794042000000,
+    "ending": 1794043800000,
+    "name": "L'aussonnaise",
+    "eventLink": "https://fr.milesrepublic.com/event/laussonnaise-18034"
   },
   {
     "place": "unknown",
@@ -136787,6 +136761,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cherbourg En Cotentin",
+    "departementNumber": 50,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812902400000,
+    "ending": 1812902400000,
+    "name": "La Monquentinoise",
+    "eventLink": "https://fr.milesrepublic.com/event/la-monquentinoise-17381"
+  },
+  {
+    "place": "unknown",
     "city": "Mont-Saint-Père",
     "departementNumber": 2,
     "eventType": "trail",
@@ -136888,6 +136875,19 @@
     "ending": 1812956400000,
     "name": "La bottine & la moustache de Nevers",
     "eventLink": "https://fr.milesrepublic.com/event/la-bottinela-moustache-de-nevers-1931"
+  },
+  {
+    "place": "unknown",
+    "city": "Combloux",
+    "departementNumber": 74,
+    "eventType": "trail",
+    "numberOfRaceVariants": 9,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812904200000,
+    "ending": 1812956400000,
+    "name": "La comblorane",
+    "eventLink": "https://fr.milesrepublic.com/event/la-comblorane-5378"
   },
   {
     "place": "unknown",
