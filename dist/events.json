@@ -8160,7 +8160,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-gestel-2026/running-course-a-pied/1470777014151-8",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-gestel-2026/course-a-pied-running/1470777014151-8",
     "name": "Trail de Gestel"
   },
   {
@@ -14478,7 +14478,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-blues-la-cheze-2026/running-course-a-pied/1469219528906-12",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-blues-la-cheze-2026/course-a-pied-running/1469219528906-12",
     "name": "Trail du Blues-La Chèze"
   },
   {
@@ -37610,19 +37610,6 @@
   },
   {
     "place": "unknown",
-    "city": "Matignon",
-    "departementNumber": 22,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1791442800000,
-    "ending": 1791448200000,
-    "name": "Le kermithon",
-    "eventLink": "https://fr.milesrepublic.com/event/le-kermithon-8680"
-  },
-  {
-    "place": "unknown",
     "city": "Sauvessanges",
     "departementNumber": 63,
     "eventType": "trail",
@@ -38608,6 +38595,19 @@
     "ending": 1791615900000,
     "name": "La tollevastaise",
     "eventLink": "https://fr.milesrepublic.com/event/la-tollevastaise-5793"
+  },
+  {
+    "place": "unknown",
+    "city": "Matignon",
+    "departementNumber": 22,
+    "eventType": "walk",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1791615600000,
+    "ending": 1791621000000,
+    "name": "Le kermithon",
+    "eventLink": "https://fr.milesrepublic.com/event/le-kermithon-8680"
   },
   {
     "place": "unknown",
@@ -68883,7 +68883,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799539200000,
     "ending": 1799539200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/running-course-a-pied/1691113218274-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/course-a-pied-running/1691113218274-6",
     "name": "TRAIL HIVERNAL LES MATHES - LA PALMYRE 2027"
   },
   {
@@ -79623,19 +79623,6 @@
     "ending": 1803987000000,
     "name": "Criterium Souvenir Raymond Giovanangeli",
     "eventLink": "https://fr.milesrepublic.com/event/criterium-souvenir-raymond-giovanangeli-13020"
-  },
-  {
-    "place": "unknown",
-    "city": "Bainville-sur-Madon",
-    "departementNumber": 54,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1804024800000,
-    "ending": 1804024800000,
-    "name": "Light on trail",
-    "eventLink": "https://fr.milesrepublic.com/event/light-on-trail-7622"
   },
   {
     "place": "unknown",
@@ -91492,6 +91479,19 @@
     "ending": 1806796800000,
     "eventLink": "https://www.klikego.com/inscription/ar-meilhou-glaz-trail-kemper-2027/running-course-a-pied/1470183506201-13",
     "name": "Ar Meilhou Glaz Trail - Kemper"
+  },
+  {
+    "place": "unknown",
+    "city": "Pierre-Percée",
+    "departementNumber": "",
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806802200000,
+    "ending": 1806823800000,
+    "name": "Light on trail",
+    "eventLink": "https://fr.milesrepublic.com/event/light-on-trail-7622"
   },
   {
     "place": "unknown",
