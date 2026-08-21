@@ -313,19 +313,6 @@
   },
   {
     "place": "unknown",
-    "city": "Liginiac",
-    "departementNumber": 19,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1787328000000,
-    "ending": 1787328000000,
-    "name": "Kilomètre (Presque) Vertical",
-    "eventLink": "https://fr.milesrepublic.com/event/kilometre-presque-vertical-17966"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Martin-de-Seignanx",
     "departementNumber": 40,
     "eventType": "running",
@@ -3222,19 +3209,6 @@
     "ending": 1788075000000,
     "name": "Full Moon Infinity Decathlon Village",
     "eventLink": "https://fr.milesrepublic.com/event/full-moon-infinity-decathlon-village-17719"
-  },
-  {
-    "place": "unknown",
-    "city": "Bouc Bel Air",
-    "departementNumber": 13,
-    "eventType": "running",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788028200000,
-    "ending": 1788040800000,
-    "name": "Full Moon Infinity Decathlon Village",
-    "eventLink": "https://fr.milesrepublic.com/event/full-moon-infinity-decathlon-village-18006"
   },
   {
     "place": "unknown",
@@ -6550,19 +6524,6 @@
     "ending": 1788591600000,
     "name": "Handival ",
     "eventLink": "https://fr.milesrepublic.com/event/handival-14065"
-  },
-  {
-    "place": "unknown",
-    "city": "Vimoutiers",
-    "departementNumber": 61,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788591600000,
-    "ending": 1788595200000,
-    "name": "Les 30 Ans De L'union Des Producteurs De Lait Aop",
-    "eventLink": "https://fr.milesrepublic.com/event/les-30-ans-de-lunion-des-producteurs-de-lait-aop-18020"
   },
   {
     "place": "unknown",
@@ -12541,8 +12502,8 @@
     "registrationStatus": "open",
     "beginning": 1789194600000,
     "ending": 1789194600000,
-    "name": "Impérial Trail",
-    "eventLink": "https://fr.milesrepublic.com/event/imperial-trail-18011"
+    "name": "Impérial trail",
+    "eventLink": "https://fr.milesrepublic.com/event/imperial-trail-2741"
   },
   {
     "place": "unknown",
@@ -13297,19 +13258,6 @@
     "ending": 1789236000000,
     "name": "Nuit Du Cross",
     "eventLink": "https://fr.milesrepublic.com/event/nuit-du-cross-17828"
-  },
-  {
-    "place": "unknown",
-    "city": "Sainte Colombe",
-    "departementNumber": 25,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1789227600000,
-    "ending": 1789236000000,
-    "name": "Nuit Du Cross",
-    "eventLink": "https://fr.milesrepublic.com/event/nuit-du-cross-17978"
   },
   {
     "place": "unknown",
@@ -15429,19 +15377,6 @@
     "ending": 1789299000000,
     "name": "J3 Biatrail Challenge",
     "eventLink": "https://fr.milesrepublic.com/event/j3-biatrail-challenge-17577"
-  },
-  {
-    "place": "unknown",
-    "city": "Montargis",
-    "departementNumber": 45,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1789282800000,
-    "ending": 1789299000000,
-    "name": "J3 Biatrail Challenge",
-    "eventLink": "https://fr.milesrepublic.com/event/j3-biatrail-challenge-17980"
   },
   {
     "place": "unknown",
@@ -20928,19 +20863,6 @@
     "ending": 1789891200000,
     "name": "La Saint So Course",
     "eventLink": "https://fr.milesrepublic.com/event/la-saint-so-course-17432"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint Sorlin En Bugey",
-    "departementNumber": 1,
-    "eventType": "running",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1789884000000,
-    "ending": 1789891200000,
-    "name": "La Saint So Course",
-    "eventLink": "https://fr.milesrepublic.com/event/la-saint-so-course-17988"
   },
   {
     "place": "unknown",
@@ -27792,19 +27714,6 @@
     "ending": 1790498700000,
     "name": "Riom Run Express",
     "eventLink": "https://fr.milesrepublic.com/event/riom-run-express-17576"
-  },
-  {
-    "place": "unknown",
-    "city": "Riom",
-    "departementNumber": 63,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1790492400000,
-    "ending": 1790498700000,
-    "name": "Riom Run Express",
-    "eventLink": "https://fr.milesrepublic.com/event/riom-run-express-17995"
   },
   {
     "place": "unknown",
@@ -136878,6 +136787,19 @@
   },
   {
     "place": "unknown",
+    "city": "Saint Laurent En Caux",
+    "departementNumber": 76,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812904200000,
+    "ending": 1812904200000,
+    "name": "Color Run St Laurent En Caux",
+    "eventLink": "https://fr.milesrepublic.com/event/color-run-st-laurent-en-caux-17484"
+  },
+  {
+    "place": "unknown",
     "city": "Combloux",
     "departementNumber": 74,
     "eventType": "trail",
@@ -136888,6 +136810,84 @@
     "ending": 1812956400000,
     "name": "La comblorane",
     "eventLink": "https://fr.milesrepublic.com/event/la-comblorane-5378"
+  },
+  {
+    "place": "unknown",
+    "city": "Cahors",
+    "departementNumber": 46,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812906000000,
+    "ending": 1812906000000,
+    "name": "Ekiden de Rodez-Aveyron",
+    "eventLink": "https://fr.milesrepublic.com/event/ekiden-de-rodez-aveyron-5326"
+  },
+  {
+    "place": "unknown",
+    "city": "Bandol",
+    "departementNumber": 83,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812906000000,
+    "ending": 1812918600000,
+    "name": "Salomon Bandol classic",
+    "eventLink": "https://fr.milesrepublic.com/event/salomon-bandol-classic-1698"
+  },
+  {
+    "place": "unknown",
+    "city": "Lille",
+    "departementNumber": 59,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812907800000,
+    "ending": 1812913200000,
+    "name": "Course de la citadelle",
+    "eventLink": "https://fr.milesrepublic.com/event/course-de-la-citadelle-1241"
+  },
+  {
+    "place": "unknown",
+    "city": "Labastide-Saint-Pierre",
+    "departementNumber": 82,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812909600000,
+    "ending": 1812909600000,
+    "name": "Corrida la bastidienne",
+    "eventLink": "https://fr.milesrepublic.com/event/corrida-la-bastidienne-2057"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint Victurnien",
+    "departementNumber": 987,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812909600000,
+    "ending": 1812909600000,
+    "name": "Trail de Saint-Victurnien",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-saint-victurnien-16598"
+  },
+  {
+    "place": "unknown",
+    "city": "Nedde",
+    "departementNumber": 987,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812909600000,
+    "ending": 1812909600000,
+    "name": "Trail urbain des ponticauds",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-urbain-des-ponticauds-13815"
   },
   {
     "place": "unknown",
