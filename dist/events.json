@@ -273,6 +273,19 @@
     "eventLink": "https://fr.milesrepublic.com/event/le-belier-trail-rando-16012"
   },
   {
+    "place": "Stade",
+    "city": "La Pommeraye",
+    "departementNumber": 49,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1787356800000,
+    "ending": 1787356800000,
+    "name": "Défis Trail des Moulins",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3513/defis-trail-des-moulins-la-pommeraye"
+  },
+  {
     "place": "unknown",
     "city": "Le cambout",
     "departementNumber": 22,
@@ -401,19 +414,6 @@
     "ending": 1787468400000,
     "name": "Trail de l'énergie",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-lenergie-2618"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Martin-la-Pallu",
-    "departementNumber": 86,
-    "eventType": "running",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1787418000000,
-    "ending": 1787418900000,
-    "name": "Foulees de saint martin la pallu",
-    "eventLink": "https://fr.milesrepublic.com/event/foulees-de-saint-martin-la-pallu-10421"
   },
   {
     "place": "unknown",
@@ -55902,9 +55902,9 @@
   {
     "place": "unknown",
     "city": "Bormes-les-Mimosas",
-    "departementNumber": 83,
+    "departementNumber": "",
     "eventType": "trail",
-    "numberOfRaceVariants": 3,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1794646800000,
@@ -136680,6 +136680,19 @@
     "ending": 1812924000000,
     "name": "Cross Triathlon de Contrexéville",
     "eventLink": "https://fr.milesrepublic.com/event/cross-triathlon-de-contrexeville-10788"
+  },
+  {
+    "place": "unknown",
+    "city": "Luxeuil-les-Bains",
+    "departementNumber": 70,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Grand Huit Luxeuil Vosges du Sud",
+    "eventLink": "https://fr.milesrepublic.com/event/grand-huit-luxeuil-vosges-du-sud-13777"
   },
   {
     "place": "unknown",
