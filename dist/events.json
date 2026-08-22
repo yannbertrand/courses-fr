@@ -880,7 +880,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787443200000,
     "ending": 1787443200000,
-    "eventLink": "https://www.klikego.com/inscription/trails-de-la-montagne-2026/running-course-a-pied/1776796331243-2",
+    "eventLink": "https://www.klikego.com/inscription/trails-de-la-montagne-2026/course-a-pied-running/1776796331243-2",
     "name": "Trails de la montagne"
   },
   {
@@ -34001,7 +34001,7 @@
     "eventType": "running",
     "numberOfRaceVariants": 7,
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1791095400000,
     "ending": 1791111000000,
     "name": "Le Run'Tour Noeuxois",
@@ -43525,6 +43525,19 @@
   },
   {
     "place": "unknown",
+    "city": "Change",
+    "departementNumber": 53,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1792108800000,
+    "ending": 1792108800000,
+    "eventLink": "https://www.klikego.com/inscription/campus-trail-seconde-edition-2026/course-a-pied-running/1786232035961-1",
+    "name": "CAMPUS TRAIL - SECONDE ÉDITION"
+  },
+  {
+    "place": "unknown",
     "city": "Coulaines",
     "departementNumber": 72,
     "eventType": "unknown",
@@ -43912,19 +43925,6 @@
     "ending": 1792195200000,
     "eventLink": "https://www.klikego.com/inscription/treg-ludik-trail-by-night-fever-tlt-2026/running-course-a-pied/1779162779782-1",
     "name": "Trég Ludik Trail By Night Fever (TLT)"
-  },
-  {
-    "place": "unknown",
-    "city": "Roura /Montsinery",
-    "departementNumber": 97,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-trail-nancibo-65km-trail-14km-nancibo-2026/running-course-a-pied/1479886996157-35",
-    "name": "ULTRA TRAIL NANCIBO 65KM TRAIL 14KM NANCIBO"
   },
   {
     "place": "unknown",
@@ -60147,7 +60147,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/noz-trail-des-lutins-2026/running-course-a-pied/1663438530698-5",
+    "eventLink": "https://www.klikego.com/inscription/noz-trail-des-lutins-2026/course-a-pied-running/1663438530698-5",
     "name": "Noz Trail des Lutins 2026"
   },
   {
