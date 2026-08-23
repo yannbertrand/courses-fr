@@ -5274,7 +5274,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-bois-riou-2026/running-course-a-pied/1780645915872-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-bois-riou-2026/course-a-pied-running/1780645915872-1",
     "name": "Trail de la vallée du Bois Riou"
   },
   {
@@ -59265,6 +59265,19 @@
     "ending": 1795882500000,
     "name": "Trail de la croix labbé",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-croix-labbe-7269"
+  },
+  {
+    "place": "unknown",
+    "city": "Le roc st andre",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795824000000,
+    "ending": 1795824000000,
+    "eventLink": "https://www.klikego.com/inscription/36eme-foulees-roxedoises-2026/course-a-pied-running/1472272385711-10",
+    "name": "36ème Foulées Roxédoises"
   },
   {
     "place": "unknown",
@@ -129663,6 +129676,19 @@
   },
   {
     "place": "unknown",
+    "city": "Juzet-d'Izaut",
+    "departementNumber": 31,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812261600000,
+    "ending": 1812267900000,
+    "name": "Trail du Cagire",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-du-cagire-5270"
+  },
+  {
+    "place": "unknown",
     "city": "Léguevin",
     "departementNumber": 31,
     "eventType": "trail",
@@ -131584,19 +131610,6 @@
     "ending": 1812354300000,
     "name": "Trail d'Auray",
     "eventLink": "https://fr.milesrepublic.com/event/trail-d-auray-1981"
-  },
-  {
-    "place": "unknown",
-    "city": "Juzet-d'Izaut",
-    "departementNumber": 31,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812348000000,
-    "ending": 1812354300000,
-    "name": "Trail du Cagire",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-du-cagire-5270"
   },
   {
     "place": "unknown",
