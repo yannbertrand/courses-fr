@@ -261,19 +261,6 @@
   },
   {
     "place": "unknown",
-    "city": "Pleubian",
-    "departementNumber": 22,
-    "eventType": "trail",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787436000000,
-    "ending": 1787497800000,
-    "name": "Trail de l'algue",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-de-lalgue-7286"
-  },
-  {
-    "place": "unknown",
     "city": "Orcières",
     "departementNumber": 5,
     "eventType": "cycling",
@@ -440,58 +427,6 @@
     "ending": 1787443200000,
     "eventLink": "https://www.klikego.com/inscription/trails-de-la-montagne-2026/course-a-pied-running/1776796331243-2",
     "name": "Trails de la montagne"
-  },
-  {
-    "place": "unknown",
-    "city": "Les Velluire-sur-Vendée",
-    "departementNumber": 85,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787491800000,
-    "ending": 1787491800000,
-    "name": "Trans'vellotine",
-    "eventLink": "https://fr.milesrepublic.com/event/transvellotine-11479"
-  },
-  {
-    "place": "unknown",
-    "city": "Plouay",
-    "departementNumber": 56,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787500800000,
-    "ending": 1787500800000,
-    "name": "Color run Plouay",
-    "eventLink": "https://fr.milesrepublic.com/event/color-run-15146"
-  },
-  {
-    "place": "unknown",
-    "city": "Le Cambout",
-    "departementNumber": 22,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787500800000,
-    "ending": 1787502600000,
-    "name": "Virée au domaine des nounours",
-    "eventLink": "https://fr.milesrepublic.com/event/viree-au-domaine-des-nounours-2558"
-  },
-  {
-    "place": "unknown",
-    "city": "Macaye",
-    "departementNumber": 64,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787502600000,
-    "ending": 1787502600000,
-    "name": "La course des bergers",
-    "eventLink": "https://fr.milesrepublic.com/event/la-course-des-bergers-8468"
   },
   {
     "place": "unknown",
@@ -6886,7 +6821,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/la-santez-helen-la-course-nature-de-la-ria-detel-2026/running-course-a-pied/1485655279941-15",
+    "eventLink": "https://www.klikego.com/inscription/la-santez-helen-la-course-nature-de-la-ria-detel-2026/course-a-pied-running/1485655279941-15",
     "name": "La Santez Helen La course nature de la ria d'Etel"
   },
   {
@@ -17252,6 +17187,19 @@
   },
   {
     "place": "unknown",
+    "city": "Chisseaux",
+    "departementNumber": 37,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1789776000000,
+    "ending": 1789776000000,
+    "eventLink": "https://www.klikego.com/inscription/grav3x-gravel--brunch-2026/cyclo/vtt/1764279242578-2",
+    "name": "Grav3X - Gravel & Brunch"
+  },
+  {
+    "place": "unknown",
     "city": "Baud",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -19524,19 +19472,6 @@
     "ending": 1789862400000,
     "eventLink": "https://www.klikego.com/inscription/course-solidaire-lpc-35-au-profit-des-personnes-sourdes-et-malentendantes-2026/running-course-a-pied/1754683222021-2",
     "name": "Course solidaire LPC 35 au profit des personnes sourdes et malentendantes."
-  },
-  {
-    "place": "unknown",
-    "city": "St benoit",
-    "departementNumber": 97,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789862400000,
-    "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/enquete-biologique--sauvez-la-vanille-bourbon-2026/running-course-a-pied/1783625839314-2",
-    "name": "Enquête biologique : sauvez la vanille Bourbon"
   },
   {
     "place": "carrière de La Clarté",
@@ -136696,6 +136631,19 @@
   },
   {
     "place": "unknown",
+    "city": "Verfeuil",
+    "departementNumber": 86,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812954600000,
+    "ending": 1812955500000,
+    "name": "Trail de Verfeuil",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-verfeuil-17469"
+  },
+  {
+    "place": "unknown",
     "city": "Saint-Restitut",
     "departementNumber": 26,
     "eventType": "trail",
@@ -136849,6 +136797,58 @@
     "ending": 1813046400000,
     "name": "Bortis trail",
     "eventLink": "https://fr.milesrepublic.com/event/bortis-trail-6401"
+  },
+  {
+    "place": "unknown",
+    "city": "Paris",
+    "departementNumber": 75,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812955500000,
+    "ending": 1812964500000,
+    "name": "Les foulées du 12ème",
+    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-du-12eme-1755"
+  },
+  {
+    "place": "unknown",
+    "city": "Dormans",
+    "departementNumber": 51,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812956400000,
+    "ending": 1812958200000,
+    "name": "Trail des coqs",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-coqs-1167"
+  },
+  {
+    "place": "unknown",
+    "city": "Villiers-au-Bouin",
+    "departementNumber": 37,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812956400000,
+    "ending": 1812959400000,
+    "name": "La fardilliere course nature",
+    "eventLink": "https://fr.milesrepublic.com/event/la-fardilliere-course-nature-1661"
+  },
+  {
+    "place": "unknown",
+    "city": "Reims",
+    "departementNumber": 51,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812956400000,
+    "ending": 1812997800000,
+    "name": "La foulée des sacres",
+    "eventLink": "https://fr.milesrepublic.com/event/la-foulee-des-sacres-1332"
   },
   {
     "place": "unknown",
