@@ -248,19 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "Trélissac",
-    "departementNumber": 24,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 8,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787522400000,
-    "ending": 1787576400000,
-    "name": "Triathlon de Trélissac",
-    "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-trelissac-9773"
-  },
-  {
-    "place": "unknown",
     "city": "Dole",
     "departementNumber": 39,
     "eventType": "cycling",
@@ -284,19 +271,6 @@
     "ending": 1788082200000,
     "name": "UTMB Ultra-trail du Mont-Blanc",
     "eventLink": "https://fr.milesrepublic.com/event/utmb-ultra-trail-du-mont-blanc-5573"
-  },
-  {
-    "place": "unknown",
-    "city": "Bassussarry",
-    "departementNumber": 64,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787558400000,
-    "ending": 1787562000000,
-    "name": "Basusarriko itzulia",
-    "eventLink": "https://fr.milesrepublic.com/event/basusarriko-itzulia-8397"
   },
   {
     "place": "unknown",
@@ -745,7 +719,7 @@
     "city": "Les Belleville",
     "departementNumber": 73,
     "eventType": "trail",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 1,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1787900400000,
@@ -2180,7 +2154,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
     "ending": 1788048000000,
-    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/running-course-a-pied/1767296761033-1",
+    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/course-a-pied-running/1767296761033-1",
     "name": "La Cro Magnon"
   },
   {
@@ -6132,7 +6106,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/10km-hexagone-trocadero-2026/running-course-a-pied/1724195398568-2",
+    "eventLink": "https://www.klikego.com/inscription/10km-hexagone-trocadero-2026/course-a-pied-running/1724195398568-2",
     "name": "10km Hexagone Trocadéro"
   },
   {
@@ -29459,6 +29433,19 @@
   },
   {
     "place": "unknown",
+    "city": "Jumièges",
+    "departementNumber": 76,
+    "eventType": "trail",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1790978400000,
+    "ending": 1790978400000,
+    "name": "Trail du Loup Vert",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-du-loup-vert-18039"
+  },
+  {
+    "place": "unknown",
     "city": "Arcachon",
     "departementNumber": 33,
     "eventType": "triathlon",
@@ -36596,6 +36583,19 @@
   },
   {
     "place": "unknown",
+    "city": "Pau",
+    "departementNumber": 64,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1791590400000,
+    "ending": 1791590400000,
+    "eventLink": "https://www.klikego.com/inscription/athletisme--equipathle-tour-automnale-2026/course-a-pied-running/1763322240822-3",
+    "name": "ATHLÉTISME : ÉQUIP’ATHLÉ TOUR AUTOMNALE 2026"
+  },
+  {
+    "place": "unknown",
     "city": "Smarves",
     "departementNumber": 86,
     "eventType": "unknown",
@@ -42573,19 +42573,6 @@
     "ending": 1792195200000,
     "eventLink": "https://www.klikego.com/inscription/trail-urbain-lamballe-armor-2026/running-course-a-pied/1692757829346-7",
     "name": "Trail Urbain Lamballe Armor"
-  },
-  {
-    "place": "unknown",
-    "city": "Treglonou",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/treg-ludik-trail-by-night-fever-tlt-2026/running-course-a-pied/1779162779782-1",
-    "name": "Trég Ludik Trail By Night Fever (TLT)"
   },
   {
     "place": "unknown",
@@ -52066,6 +52053,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cabourg",
+    "departementNumber": 14,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794096000000,
+    "ending": 1794096000000,
+    "eventLink": "https://www.klikego.com/inscription/la-sweet-home-nordic-2026/running-marche-nordique/1513463752760-21",
+    "name": "La Sweet Home Nordic"
+  },
+  {
+    "place": "unknown",
     "city": "Montagrier",
     "departementNumber": 24,
     "eventType": "unknown",
@@ -53938,6 +53938,19 @@
   },
   {
     "place": "unknown",
+    "city": "Amiens",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794355200000,
+    "ending": 1794355200000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-bleues-decathlon-2026/course-a-pied-running/1770759786057-2",
+    "name": "Les Foulées Bleues Decathlon"
+  },
+  {
+    "place": "unknown",
     "city": "GUÉMENÉ-PENFAO",
     "departementNumber": 44,
     "eventType": "running",
@@ -54507,6 +54520,19 @@
     "ending": 1794614400000,
     "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/running-course-a-pied/1422474798785-15",
     "name": "GREGAM NOZ TRAIL"
+  },
+  {
+    "place": "unknown",
+    "city": "Loudeac",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794614400000,
+    "ending": 1794614400000,
+    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-lespoir-2026/course-a-pied-running/1469576389713-11",
+    "name": "La Corrida De L'Espoir"
   },
   {
     "place": "unknown",
@@ -111393,7 +111419,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809820800000,
     "ending": 1809820800000,
-    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/running-course-a-pied/1674875346003-5",
+    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/course-a-pied-running/1674875346003-5",
     "name": "Mémorial Bruno Willecoq"
   },
   {
@@ -136654,6 +136680,19 @@
     "ending": 1812970800000,
     "name": "Semi & relais de la 12-14",
     "eventLink": "https://fr.milesrepublic.com/event/semirelais-de-la-12-14-1898"
+  },
+  {
+    "place": "unknown",
+    "city": "Le Mené",
+    "departementNumber": 22,
+    "eventType": "other",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812956400000,
+    "ending": 1812971700000,
+    "name": "Fan Raid Le Mené",
+    "eventLink": "https://fr.milesrepublic.com/event/fan-raid-le-mene-11012"
   },
   {
     "place": "unknown",
