@@ -693,7 +693,7 @@
     "city": "Les Belleville",
     "departementNumber": 73,
     "eventType": "trail",
-    "numberOfRaceVariants": 1,
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1787900400000,
@@ -10474,7 +10474,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789171200000,
     "ending": 1789171200000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-nature-du-souffle-de-le-sourn-2026/running-course-a-pied/1783133122638-1",
+    "eventLink": "https://www.klikego.com/inscription/corrida-nature-du-souffle-de-le-sourn-2026/course-a-pied-running/1783133122638-1",
     "name": "CORRIDA NATURE DU SOUFFLE DE LE SOURN"
   },
   {
@@ -38411,7 +38411,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-bruzoises-2026/running-course-a-pied/1493697833382-10",
+    "eventLink": "https://www.klikego.com/inscription/foulees-bruzoises-2026/course-a-pied-running/1493697833382-10",
     "name": "Foulées Bruzoises"
   },
   {
@@ -63308,6 +63308,19 @@
     "ending": 1797033600000,
     "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-de-malemort-2026/course-a-pied-running/1623202731927-5",
     "name": "Corrida de Noël de malemort 2026"
+  },
+  {
+    "place": "unknown",
+    "city": "Perros guirec",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797033600000,
+    "ending": 1797033600000,
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-perros-guirec-2026/course-a-pied-running/1779142645617-1",
+    "name": "Corrida de Perros Guirec"
   },
   {
     "place": "unknown",
