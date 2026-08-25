@@ -248,84 +248,6 @@
   },
   {
     "place": "unknown",
-    "city": "Solaure en Diois",
-    "departementNumber": 26,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787608800000,
-    "ending": 1787641200000,
-    "name": "Test Elogica",
-    "eventLink": "https://fr.milesrepublic.com/event/test-elogica-11214"
-  },
-  {
-    "place": "unknown",
-    "city": "Manosque",
-    "departementNumber": 4,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787634000000,
-    "ending": 1787634000000,
-    "name": "Challenge Montagne de Lure",
-    "eventLink": "https://fr.milesrepublic.com/event/challenge-montagne-de-lure-11647"
-  },
-  {
-    "place": "unknown",
-    "city": "Bourg-Saint-Andéol",
-    "departementNumber": 7,
-    "eventType": "walk",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787634000000,
-    "ending": 1787634000000,
-    "name": "Dona Vierna",
-    "eventLink": "https://fr.milesrepublic.com/event/dona-vierna-11637"
-  },
-  {
-    "place": "unknown",
-    "city": "Rang-du-Fliers",
-    "departementNumber": 62,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787634000000,
-    "ending": 1787634000000,
-    "name": "La Randonnée de l'Orée du Bois",
-    "eventLink": "https://fr.milesrepublic.com/event/la-randonnee-de-loree-du-bois-11638"
-  },
-  {
-    "place": "unknown",
-    "city": "Pré-en-Pail-Saint-Samson",
-    "departementNumber": 53,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787635800000,
-    "ending": 1787635800000,
-    "name": "Randonnée Alain SAVARY",
-    "eventLink": "https://fr.milesrepublic.com/event/randonnee-alain-savary-11639"
-  },
-  {
-    "place": "unknown",
-    "city": "Merfy",
-    "departementNumber": 51,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787635800000,
-    "ending": 1787635800000,
-    "name": "Roc Asa",
-    "eventLink": "https://fr.milesrepublic.com/event/roc-asa-11646"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Léger-de-Peyre",
     "departementNumber": 48,
     "eventType": "running",
@@ -2076,7 +1998,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
     "ending": 1788048000000,
-    "eventLink": "https://www.klikego.com/inscription/raid-bol-deau-2026/running-course-a-pied/1717782997203-3",
+    "eventLink": "https://www.klikego.com/inscription/raid-bol-deau-2026/course-a-pied-running/1717782997203-3",
     "name": "RAID BOL D'EAU 2026"
   },
   {
@@ -6257,12 +6179,12 @@
     "city": "ECOUCHÉ LES VALLÉES",
     "departementNumber": 61,
     "eventType": "poursuite_sur_terre",
-    "numberOfRaceVariants": 38,
+    "numberOfRaceVariants": 19,
     "registrationLink": "https://www.facebook.com/groups/4155814168077047/",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "name": "POURSUITE SUR TERRE - TROISIEME ÉPREUVE DU TROPHÉE MAINE ANJOU ECOUCHE",
+    "name": "POURSUITE SUR TERRE - ANNULEE TROISIEME ÉPREUVE DU TROPHÉE MAINE ANJOU ECOUCHE",
     "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3224"
   },
   {
@@ -7203,6 +7125,19 @@
   },
   {
     "place": "unknown",
+    "city": "Thionville",
+    "departementNumber": "",
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788678000000,
+    "ending": 1788681900000,
+    "name": "L'Escapade de Volkrange",
+    "eventLink": "https://fr.milesrepublic.com/event/lescapade-12215"
+  },
+  {
+    "place": "unknown",
     "city": "Chaudeney-sur-Moselle",
     "departementNumber": 54,
     "eventType": "running",
@@ -7733,19 +7668,6 @@
     "ending": 1788680100000,
     "name": "Foulées de Villebrumier",
     "eventLink": "https://fr.milesrepublic.com/event/foulees-de-villebrumier-3126"
-  },
-  {
-    "place": "unknown",
-    "city": "Thionville",
-    "departementNumber": "",
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788680700000,
-    "ending": 1788681900000,
-    "name": "L'Escapade de Volkrange",
-    "eventLink": "https://fr.milesrepublic.com/event/lescapade-12215"
   },
   {
     "place": "unknown",
@@ -23188,7 +23110,7 @@
     "registrationStatus": "not_open_yet",
     "beginning": 1790380800000,
     "ending": 1790467200000,
-    "name": "POURSUITE SUR TERRE - QUATRIÈME ÉPREUVES DU TROPHÉE MAINE ANJOU ST GERMAIN",
+    "name": "POURSUITE SUR TERRE - TROISIÈME ÉPREUVES DU TROPHÉE MAINE ANJOU ST GERMAIN",
     "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3225"
   },
   {
@@ -31664,7 +31586,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791072000000,
     "ending": 1791072000000,
-    "eventLink": "https://www.klikego.com/inscription/je-cours-ou-je-marche-contre-le-cancer-2026/running-course-a-pied/1431588642946-10",
+    "eventLink": "https://www.klikego.com/inscription/je-cours-ou-je-marche-contre-le-cancer-2026/course-a-pied-running/1431588642946-10",
     "name": "Je cours ou je marche contre le cancer"
   },
   {
@@ -51978,7 +51900,7 @@
     "city": "Brech",
     "departementNumber": 56,
     "eventType": "unknown",
-    "numberOfRaceVariants": "unknown",
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
@@ -61434,7 +61356,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/intra-cap-2026/running-course-a-pied/1782243335916-1",
+    "eventLink": "https://www.klikego.com/inscription/intra-cap-2026/course-a-pied-running/1782243335916-1",
     "name": "Intra Cap"
   },
   {
@@ -136410,6 +136332,19 @@
   },
   {
     "place": "unknown",
+    "city": "ANNEVILLE-AMBOURVILLE",
+    "departementNumber": 76,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Aquathlon des Carrières",
+    "eventLink": "https://fr.milesrepublic.com/event/aquathlon-des-carrieres-16882"
+  },
+  {
+    "place": "unknown",
     "city": "Contrexéville",
     "departementNumber": 88,
     "eventType": "triathlon",
@@ -136420,6 +136355,19 @@
     "ending": 1812924000000,
     "name": "Cross Triathlon de Contrexéville",
     "eventLink": "https://fr.milesrepublic.com/event/cross-triathlon-de-contrexeville-10788"
+  },
+  {
+    "place": "unknown",
+    "city": "LONGUENESSE",
+    "departementNumber": 62,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Douzathlon",
+    "eventLink": "https://fr.milesrepublic.com/event/douzathlon-16881"
   },
   {
     "place": "unknown",
@@ -136446,6 +136394,19 @@
     "ending": 1812924000000,
     "name": "Grand Huit Luxeuil Vosges du Sud",
     "eventLink": "https://fr.milesrepublic.com/event/grand-huit-luxeuil-vosges-du-sud-13777"
+  },
+  {
+    "place": "unknown",
+    "city": "LA TERRASSE",
+    "departementNumber": 38,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Green Triathlon du Grésivaudan",
+    "eventLink": "https://fr.milesrepublic.com/event/green-triathlon-du-gresivaudan-17320"
   },
   {
     "place": "unknown",
@@ -136631,6 +136592,19 @@
   },
   {
     "place": "unknown",
+    "city": "PEYRAT-LE-CHÂTEAU",
+    "departementNumber": 987,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812924000000,
+    "name": "Triathlon des Millevaches",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-des-millevaches-16880"
+  },
+  {
+    "place": "unknown",
     "city": "PASSY",
     "departementNumber": 74,
     "eventType": "triathlon",
@@ -136667,6 +136641,19 @@
     "ending": 1812956400000,
     "name": "Trail de piegros",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-piegros-13683"
+  },
+  {
+    "place": "unknown",
+    "city": "Strasbourg",
+    "departementNumber": 67,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812924000000,
+    "ending": 1812958200000,
+    "name": "Trail Urbain",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-urbain-17222"
   },
   {
     "place": "unknown",
@@ -136771,6 +136758,19 @@
     "ending": 1813010400000,
     "name": "Bar-sur-Aube Chemins Blancs Cycling Race",
     "eventLink": "https://fr.milesrepublic.com/event/bar-sur-aube-chemins-blancs-cycling-race-12578"
+  },
+  {
+    "place": "unknown",
+    "city": "Durfort",
+    "departementNumber": 81,
+    "eventType": "trail",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812945600000,
+    "ending": 1812960000000,
+    "name": "Desperado trail",
+    "eventLink": "https://fr.milesrepublic.com/event/desperado-trail-1789"
   },
   {
     "place": "unknown",
