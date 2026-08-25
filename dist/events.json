@@ -6119,7 +6119,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/les-boucles-de-saint-thonan-challenge-de-lelorn-2026/running-course-a-pied/1561498121416-12",
+    "eventLink": "https://www.klikego.com/inscription/les-boucles-de-saint-thonan-challenge-de-lelorn-2026/course-a-pied-running/1561498121416-12",
     "name": "Les Boucles de Saint-Thonan - Challenge de l'Elorn"
   },
   {
@@ -55056,6 +55056,19 @@
   },
   {
     "place": "unknown",
+    "city": "Lèves",
+    "departementNumber": 28,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1794697200000,
+    "ending": 1794697200000,
+    "name": "Run & Bike de Lèves",
+    "eventLink": "https://fr.milesrepublic.com/event/run-bike-de-leves-15152"
+  },
+  {
+    "place": "unknown",
     "city": "BOUGUENAIS",
     "departementNumber": 44,
     "eventType": "triathlon",
@@ -64507,19 +64520,6 @@
   },
   {
     "place": "unknown",
-    "city": "Lèves",
-    "departementNumber": 28,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1797202800000,
-    "ending": 1797202800000,
-    "name": "Run & Bike de Lèves",
-    "eventLink": "https://fr.milesrepublic.com/event/run-bike-de-leves-15152"
-  },
-  {
-    "place": "unknown",
     "city": "Anglet",
     "departementNumber": 64,
     "eventType": "running",
@@ -65438,7 +65438,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/tlj5-trail-entre-landes-et-justice-2026/running-course-a-pied/1645087368296-7",
+    "eventLink": "https://www.klikego.com/inscription/tlj5-trail-entre-landes-et-justice-2026/course-a-pied-running/1645087368296-7",
     "name": "TLJ#5 - Trail Entre Landes et Justice"
   },
   {
@@ -94911,6 +94911,19 @@
     "ending": 1807401600000,
     "eventLink": "https://www.klikego.com/inscription/course-nature-aventuroueil-2027/running-course-a-pied/1783149989640-1",
     "name": "Course Nature Aventuroueil"
+  },
+  {
+    "place": "unknown",
+    "city": "Airaines",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807401600000,
+    "ending": 1807401600000,
+    "eventLink": "https://www.klikego.com/inscription/le-trail-des-zikos-2027/course-a-pied-running/1782196315082-1",
+    "name": "Le Trail des Zikos"
   },
   {
     "place": "unknown",
