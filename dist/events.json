@@ -1881,7 +1881,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788048000000,
     "ending": 1788048000000,
-    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/running-course-a-pied/1767296761033-1",
+    "eventLink": "https://www.klikego.com/inscription/la-cro-magnon-2026/course-a-pied-running/1767296761033-1",
     "name": "La Cro Magnon"
   },
   {
@@ -4364,7 +4364,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-pontivy-2026/running-course-a-pied/1718231947073-2",
+    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-pontivy-2026/course-a-pied-running/1718231947073-2",
     "name": "La corrida de Pontivy"
   },
   {
@@ -29420,6 +29420,19 @@
   },
   {
     "place": "unknown",
+    "city": "Airaines",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1790985600000,
+    "ending": 1790985600000,
+    "eventLink": "https://www.klikego.com/inscription/corri-trail-2026/course-a-pied-running/1691453543675-4",
+    "name": "Corri-Trail"
+  },
+  {
+    "place": "unknown",
     "city": "Albi",
     "departementNumber": 81,
     "eventType": "unknown",
@@ -42352,19 +42365,6 @@
     "ending": 1792195200000,
     "eventLink": "https://www.klikego.com/inscription/trail-des-galochous-2026/running-course-a-pied/1783405064803-1",
     "name": "Trail des Galochous"
-  },
-  {
-    "place": "unknown",
-    "city": "Lamballe",
-    "departementNumber": 22,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-urbain-lamballe-armor-2026/running-course-a-pied/1692757829346-7",
-    "name": "Trail Urbain Lamballe Armor"
   },
   {
     "place": "unknown",
@@ -90632,7 +90632,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806710400000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-trail-de-lile-doleron-2027/running-course-a-pied/1695760050266-4",
+    "eventLink": "https://www.klikego.com/inscription/ultra-trail-de-lile-doleron-2027/course-a-pied-running/1695760050266-4",
     "name": "Ultra Trail de l'île d'Oléron"
   },
   {
@@ -124395,6 +124395,19 @@
     "ending": 1811753100000,
     "name": "Le Havre urban trail",
     "eventLink": "https://fr.milesrepublic.com/event/le-havre-urban-trail-5419"
+  },
+  {
+    "place": "unknown",
+    "city": "Weiswampach",
+    "departementNumber": 0,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811548800000,
+    "ending": 1811635200000,
+    "eventLink": "https://www.klikego.com/inscription/t24-luxembourg-2027/triathlon/1603485341796-1",
+    "name": "T24 LUXEMBOURG 2027"
   },
   {
     "place": "unknown",
