@@ -724,7 +724,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/le-trail-dannesse-2026/running-course-a-pied/1654544826542-4",
+    "eventLink": "https://www.klikego.com/inscription/le-trail-dannesse-2026/course-a-pied-running/1654544826542-4",
     "name": "LE TRAIL D'ANNESSE 2026"
   },
   {
@@ -3693,19 +3693,6 @@
   },
   {
     "place": "unknown",
-    "city": "Verberie",
-    "departementNumber": 60,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788242400000,
-    "ending": 1788242400000,
-    "name": "Randonnée Sautriaute",
-    "eventLink": "https://fr.milesrepublic.com/event/randonnee-sautriaute-11734"
-  },
-  {
-    "place": "unknown",
     "city": "Lestelle-Bétharram",
     "departementNumber": 64,
     "eventType": "trail",
@@ -5448,6 +5435,19 @@
   },
   {
     "place": "unknown",
+    "city": "Verberie",
+    "departementNumber": 60,
+    "eventType": "walk",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "Randonnée Sautriaute",
+    "eventLink": "https://fr.milesrepublic.com/event/randonnee-sautriaute-11734"
+  },
+  {
+    "place": "unknown",
     "city": "Croissy-sur-seine",
     "departementNumber": 78,
     "eventType": "cycling",
@@ -6223,7 +6223,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/sur-les-traces-des-moulins-de-ploneour-2026/running-course-a-pied/1706220220437-5",
+    "eventLink": "https://www.klikego.com/inscription/sur-les-traces-des-moulins-de-ploneour-2026/course-a-pied-running/1706220220437-5",
     "name": "Sur les Traces Des Moulins de Plonéour"
   },
   {
@@ -31612,7 +31612,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791072000000,
     "ending": 1791072000000,
-    "eventLink": "https://www.klikego.com/inscription/lenvolee-de-beauval-2026/running-course-a-pied/1739396511935-2",
+    "eventLink": "https://www.klikego.com/inscription/lenvolee-de-beauval-2026/course-a-pied-running/1739396511935-2",
     "name": "L’ENVOLÉE DE BEAUVAL"
   },
   {
@@ -42436,11 +42436,11 @@
     "city": "Amiens",
     "departementNumber": 80,
     "eventType": "running",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 1,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1792220400000,
-    "ending": 1792221300000,
+    "ending": 1792220400000,
     "name": "Decathlonienne Amiens",
     "eventLink": "https://fr.milesrepublic.com/event/decathlonienne-amiens-17948"
   },
@@ -53751,7 +53751,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-bleues-decathlon-2026/running-course-a-pied/1770759786057-2",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-bleues-decathlon-2026/course-a-pied-running/1770759786057-2",
     "name": "Les Foulées Bleues Decathlon"
   },
   {
@@ -53805,6 +53805,19 @@
     "ending": 1794355200000,
     "eventLink": "https://www.klikego.com/inscription/trail-tro-bro-melrant-le-ttbm-11eme-edition---2026/running-course-a-pied/1469331681857-14",
     "name": "Trail Tro Bro Melrant - Le TTBM - 11ème édition -"
+  },
+  {
+    "place": "unknown",
+    "city": "Broons",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794355200000,
+    "ending": 1794355200000,
+    "eventLink": "https://www.klikego.com/inscription/vetathlon-de-broons-2026/triathlon/1566979159728-7",
+    "name": "vetathlon de Broons 2026"
   },
   {
     "place": "unknown",
@@ -58654,6 +58667,19 @@
     "ending": 1795824000000,
     "eventLink": "https://www.klikego.com/inscription/biathlon-de-damgan-2026/running-course-a-pied/1758350054749-2",
     "name": "Biathlon de Damgan 2026"
+  },
+  {
+    "place": "unknown",
+    "city": "MARTIGNÉ BRIAND",
+    "departementNumber": 49,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "http://www.crapahute-clair-de-lune.fr/",
+    "registrationStatus": "not_open_yet",
+    "beginning": 1795824000000,
+    "ending": 1795824000000,
+    "name": "CRAPAHUTE AU CLAIR DE LUNE",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3231"
   },
   {
     "place": "unknown",
@@ -78911,6 +78937,19 @@
   },
   {
     "place": "unknown",
+    "city": "Dannemarie Sur Crete",
+    "departementNumber": 25,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1804408200000,
+    "ending": 1804408200000,
+    "name": "Trail Des Cretes",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-cretes-15467"
+  },
+  {
+    "place": "unknown",
     "city": "Caen",
     "departementNumber": 14,
     "eventType": "trail",
@@ -80133,19 +80172,6 @@
   },
   {
     "place": "unknown",
-    "city": "Veyras",
-    "departementNumber": 7,
-    "eventType": "trail",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1804492800000,
-    "ending": 1804496400000,
-    "name": "Trail de la pierre plantée",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-pierre-plantee-4381"
-  },
-  {
-    "place": "unknown",
     "city": "Évreux",
     "departementNumber": 27,
     "eventType": "walk",
@@ -80208,19 +80234,6 @@
     "ending": 1804493700000,
     "name": "Trail des côtes de Cournon",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-cotes-de-cournon-1170"
-  },
-  {
-    "place": "unknown",
-    "city": "Talcy",
-    "departementNumber": 41,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1804493700000,
-    "ending": 1804495800000,
-    "name": "Course de talcy",
-    "eventLink": "https://fr.milesrepublic.com/event/course-de-talcy-13179"
   },
   {
     "place": "unknown",
@@ -80549,19 +80562,6 @@
   },
   {
     "place": "unknown",
-    "city": "Douarnenez",
-    "departementNumber": 29,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1804496400000,
-    "ending": 1804498200000,
-    "name": "Dz urban trail",
-    "eventLink": "https://fr.milesrepublic.com/event/dz-urban-trail-13281"
-  },
-  {
-    "place": "unknown",
     "city": "Chabeuil",
     "departementNumber": 26,
     "eventType": "running",
@@ -80663,19 +80663,6 @@
     "ending": 1804500000000,
     "name": "Course solidaire féminine",
     "eventLink": "https://fr.milesrepublic.com/event/course-solidaire-feminine-1132"
-  },
-  {
-    "place": "unknown",
-    "city": "Merville Franceville Plage",
-    "departementNumber": 14,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1804510800000,
-    "ending": 1804511700000,
-    "name": "Foulées De La Batterie De Merville",
-    "eventLink": "https://fr.milesrepublic.com/event/foulees-de-la-batterie-de-merville-15768"
   },
   {
     "place": "unknown",
@@ -81157,19 +81144,6 @@
     "ending": 1804582800000,
     "name": "Cours'son nature",
     "eventLink": "https://fr.milesrepublic.com/event/cours-son-nature-1104"
-  },
-  {
-    "place": "unknown",
-    "city": "Harcy",
-    "departementNumber": 8,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1804579200000,
-    "ending": 1804582800000,
-    "name": "Harcy-trail",
-    "eventLink": "https://fr.milesrepublic.com/event/harcy-trail-8856"
   },
   {
     "place": "unknown",
@@ -81797,6 +81771,19 @@
   },
   {
     "place": "unknown",
+    "city": "Vieux",
+    "departementNumber": 14,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1804942800000,
+    "ending": 1804950000000,
+    "name": "Viducatrail",
+    "eventLink": "https://fr.milesrepublic.com/event/viducatrail-8698"
+  },
+  {
+    "place": "unknown",
     "city": "Fondettes",
     "departementNumber": 37,
     "eventType": "walk",
@@ -81862,6 +81849,19 @@
   },
   {
     "place": "unknown",
+    "city": "Nesles-la-Vallée",
+    "departementNumber": 95,
+    "eventType": "trail",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1804978800000,
+    "ending": 1804978800000,
+    "name": "Nesles la foulée",
+    "eventLink": "https://fr.milesrepublic.com/event/nesles-la-foulee-4776"
+  },
+  {
+    "place": "unknown",
     "city": "Paris",
     "departementNumber": 75,
     "eventType": "running",
@@ -81898,6 +81898,19 @@
     "ending": 1804978800000,
     "name": "Trail du petit ballon",
     "eventLink": "https://fr.milesrepublic.com/event/trail-du-petit-ballon-et-circuit-des-grands-crus-1084"
+  },
+  {
+    "place": "unknown",
+    "city": "Fouesnant",
+    "departementNumber": 29,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1804978800000,
+    "ending": 1805014800000,
+    "name": "La mouss'terlinoise",
+    "eventLink": "https://fr.milesrepublic.com/event/la-mouss-terlinoise-4340"
   },
   {
     "place": "unknown",
@@ -81966,6 +81979,32 @@
   },
   {
     "place": "unknown",
+    "city": "Talcy",
+    "departementNumber": 41,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805009400000,
+    "ending": 1805013000000,
+    "name": "Course de talcy",
+    "eventLink": "https://fr.milesrepublic.com/event/course-de-talcy-13179"
+  },
+  {
+    "place": "unknown",
+    "city": "Veyras",
+    "departementNumber": 7,
+    "eventType": "trail",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805009400000,
+    "ending": 1805014800000,
+    "name": "Trail de la pierre plantée",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-pierre-plantee-4381"
+  },
+  {
+    "place": "unknown",
     "city": "Avon",
     "departementNumber": 77,
     "eventType": "walk",
@@ -81992,6 +82031,32 @@
   },
   {
     "place": "unknown",
+    "city": "Lampaul Guimiliau",
+    "departementNumber": 29,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805011200000,
+    "ending": 1805013000000,
+    "name": "Trail Vilin",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-vilin-15453"
+  },
+  {
+    "place": "unknown",
+    "city": "Harcy",
+    "departementNumber": 8,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805011200000,
+    "ending": 1805014800000,
+    "name": "Harcy-trail",
+    "eventLink": "https://fr.milesrepublic.com/event/harcy-trail-8856"
+  },
+  {
+    "place": "unknown",
     "city": "L'Étang-la-Ville",
     "departementNumber": "",
     "eventType": "trail",
@@ -82002,6 +82067,19 @@
     "ending": 1805016600000,
     "name": "Trail Bleu",
     "eventLink": "https://fr.milesrepublic.com/event/trail-bleu-17896"
+  },
+  {
+    "place": "unknown",
+    "city": "Peyrolles-en-Provence",
+    "departementNumber": 13,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805013000000,
+    "ending": 1805016600000,
+    "name": "La gambade du Loubatas",
+    "eventLink": "https://fr.milesrepublic.com/event/la-gambade-du-loubatas-4205"
   },
   {
     "place": "unknown",
@@ -82044,6 +82122,32 @@
   },
   {
     "place": "unknown",
+    "city": "Ifs",
+    "departementNumber": 14,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805014800000,
+    "ending": 1805014800000,
+    "name": "Run à pat'2",
+    "eventLink": "https://fr.milesrepublic.com/event/run-a-pat2-10926"
+  },
+  {
+    "place": "unknown",
+    "city": "Douarnenez",
+    "departementNumber": 29,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805014800000,
+    "ending": 1805016600000,
+    "name": "Dz urban trail",
+    "eventLink": "https://fr.milesrepublic.com/event/dz-urban-trail-13281"
+  },
+  {
+    "place": "unknown",
     "city": "Monistrol-sur-Loire",
     "departementNumber": 43,
     "eventType": "trail",
@@ -82070,6 +82174,19 @@
   },
   {
     "place": "unknown",
+    "city": "Merville Franceville Plage",
+    "departementNumber": 14,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805029200000,
+    "ending": 1805030100000,
+    "name": "Foulées De La Batterie De Merville",
+    "eventLink": "https://fr.milesrepublic.com/event/foulees-de-la-batterie-de-merville-15768"
+  },
+  {
+    "place": "unknown",
     "city": "Wuenheim",
     "departementNumber": 68,
     "eventType": "trail",
@@ -82080,19 +82197,6 @@
     "ending": 1805031000000,
     "name": "Trail du vieil Armand & la printanière",
     "eventLink": "https://fr.milesrepublic.com/event/trail-du-vieil-armand-and-la-printaniere-1593"
-  },
-  {
-    "place": "unknown",
-    "city": "Vieux",
-    "departementNumber": 14,
-    "eventType": "walk",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1805029200000,
-    "ending": 1805036400000,
-    "name": "Viducatrail",
-    "eventLink": "https://fr.milesrepublic.com/event/viducatrail-8698"
   },
   {
     "place": "unknown",
@@ -82616,19 +82720,6 @@
   },
   {
     "place": "unknown",
-    "city": "Lampaul Guimiliau",
-    "departementNumber": 29,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1805097600000,
-    "ending": 1805099400000,
-    "name": "Trail Vilin",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-vilin-15453"
-  },
-  {
-    "place": "unknown",
     "city": "Lencloître",
     "departementNumber": 86,
     "eventType": "trail",
@@ -82678,19 +82769,6 @@
     "ending": 1805099400000,
     "name": "Elle Run Luxembourg",
     "eventLink": "https://fr.milesrepublic.com/event/elle-run-luxembourg-15305"
-  },
-  {
-    "place": "unknown",
-    "city": "Dannemarie Sur Crete",
-    "departementNumber": 25,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1805099400000,
-    "ending": 1805099400000,
-    "name": "Trail Des Cretes",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-cretes-15467"
   },
   {
     "place": "unknown",
@@ -82782,19 +82860,6 @@
     "ending": 1805101200000,
     "name": "Jogging de l'AP Saint-Martin",
     "eventLink": "https://fr.milesrepublic.com/event/jogging-de-lap-saint-martin-17023"
-  },
-  {
-    "place": "unknown",
-    "city": "Ifs",
-    "departementNumber": 14,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1805101200000,
-    "ending": 1805101200000,
-    "name": "Run à pat'2",
-    "eventLink": "https://fr.milesrepublic.com/event/run-a-pat2-10926"
   },
   {
     "place": "unknown",
@@ -84098,6 +84163,19 @@
   },
   {
     "place": "unknown",
+    "city": "Eymouthiers",
+    "departementNumber": 16,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805527800000,
+    "ending": 1805527800000,
+    "name": "Stage formation trail running",
+    "eventLink": "https://fr.milesrepublic.com/event/stage-formation-trail-running-12176"
+  },
+  {
+    "place": "unknown",
     "city": "Givry",
     "departementNumber": 71,
     "eventType": "running",
@@ -84121,6 +84199,32 @@
     "ending": 1805535000000,
     "name": "La Course Des Deux Clochers",
     "eventLink": "https://fr.milesrepublic.com/event/la-course-des-deux-clochers-15981"
+  },
+  {
+    "place": "unknown",
+    "city": "Vierzon",
+    "departementNumber": 18,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805551200000,
+    "ending": 1805551200000,
+    "name": "Foulees De Saint Martin",
+    "eventLink": "https://fr.milesrepublic.com/event/foulees-de-saint-martin-16279"
+  },
+  {
+    "place": "unknown",
+    "city": "Evry Courcouronnes",
+    "departementNumber": 91,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805553000000,
+    "ending": 1805553000000,
+    "name": "Ectu (Evry Courcouronnes Trail Urbain)",
+    "eventLink": "https://fr.milesrepublic.com/event/ectu-evry-courcouronnes-trail-urbain-15847"
   },
   {
     "place": "unknown",
@@ -84163,6 +84267,19 @@
   },
   {
     "place": "unknown",
+    "city": "Vannes",
+    "departementNumber": 56,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805565600000,
+    "ending": 1805625000000,
+    "name": "Vannes urban trail",
+    "eventLink": "https://fr.milesrepublic.com/event/vannes-urban-trail-10724"
+  },
+  {
+    "place": "unknown",
     "city": "Argentan",
     "departementNumber": 61,
     "eventType": "running",
@@ -84199,6 +84316,19 @@
     "ending": 1805583600000,
     "name": "Raid Icam",
     "eventLink": "https://fr.milesrepublic.com/event/raid-icam-10928"
+  },
+  {
+    "place": "unknown",
+    "city": "Chaumont-sur-Tharonne",
+    "departementNumber": 41,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805583600000,
+    "ending": 1805583600000,
+    "name": "Semi marathon des hauts de bruyere",
+    "eventLink": "https://fr.milesrepublic.com/event/semi-marathon-des-hauts-de-bruyere-13109"
   },
   {
     "place": "unknown",
@@ -84358,6 +84488,19 @@
   },
   {
     "place": "unknown",
+    "city": "Roquevaire",
+    "departementNumber": 13,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805608800000,
+    "ending": 1805616000000,
+    "name": "Grand trail du Garlaban",
+    "eventLink": "https://fr.milesrepublic.com/event/grand-trail-du-garlaban-4222"
+  },
+  {
+    "place": "unknown",
     "city": "Radon",
     "departementNumber": 61,
     "eventType": "trail",
@@ -84397,16 +84540,29 @@
   },
   {
     "place": "unknown",
-    "city": "Eymouthiers",
-    "departementNumber": 16,
+    "city": "Cazères",
+    "departementNumber": 31,
     "eventType": "trail",
-    "numberOfRaceVariants": 0,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
-    "registrationStatus": "unknown",
+    "registrationStatus": "open",
+    "beginning": 1805613300000,
+    "ending": 1805619900000,
+    "name": "Irreduc'trail de Cazères",
+    "eventLink": "https://fr.milesrepublic.com/event/irreduc-trail-de-cazeres-3053"
+  },
+  {
+    "place": "unknown",
+    "city": "Chatuzange-le-Goubet",
+    "departementNumber": 26,
+    "eventType": "trail",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "open",
     "beginning": 1805614200000,
-    "ending": 1805614200000,
-    "name": "Stage formation trail running",
-    "eventLink": "https://fr.milesrepublic.com/event/stage-formation-trail-running-12176"
+    "ending": 1805619600000,
+    "name": "Les chemins de Chatu",
+    "eventLink": "https://fr.milesrepublic.com/event/les-chemins-de-chatu-4365"
   },
   {
     "place": "unknown",
@@ -84693,6 +84849,19 @@
     "ending": 1805652000000,
     "name": "The cheptain trail",
     "eventLink": "https://fr.milesrepublic.com/event/the-cheptain-trail-4420"
+  },
+  {
+    "place": "unknown",
+    "city": "Quimper",
+    "departementNumber": 29,
+    "eventType": "running",
+    "numberOfRaceVariants": 11,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805634900000,
+    "ending": 1805635800000,
+    "name": "Semi-marathon Locronan-Plogonnec-Quimper",
+    "eventLink": "https://fr.milesrepublic.com/event/semi-marathon-locronan-plogonnec-quimper-4509"
   },
   {
     "place": "unknown",
@@ -85018,19 +85187,6 @@
     "ending": 1805670000000,
     "name": "Liévin Triathlon et Aquathlon Indoor Festival",
     "eventLink": "https://fr.milesrepublic.com/event/lievin-triathlon-et-aquathlon-indoor-festival-10248"
-  },
-  {
-    "place": "unknown",
-    "city": "Nesles-la-Vallée",
-    "departementNumber": 95,
-    "eventType": "trail",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1805670000000,
-    "ending": 1805670000000,
-    "name": "Nesles la foulée",
-    "eventLink": "https://fr.milesrepublic.com/event/nesles-la-foulee-4776"
   },
   {
     "place": "unknown",
@@ -85684,19 +85840,6 @@
   },
   {
     "place": "unknown",
-    "city": "Chaumont-sur-Tharonne",
-    "departementNumber": 41,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1805705100000,
-    "ending": 1805705100000,
-    "name": "Semi marathon des hauts de bruyere",
-    "eventLink": "https://fr.milesrepublic.com/event/semi-marathon-des-hauts-de-bruyere-13109"
-  },
-  {
-    "place": "unknown",
     "city": "Vannes",
     "departementNumber": 56,
     "eventType": "running",
@@ -85749,19 +85892,6 @@
   },
   {
     "place": "unknown",
-    "city": "Fouesnant",
-    "departementNumber": 29,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1805706000000,
-    "ending": 1805706000000,
-    "name": "La mouss'terlinoise",
-    "eventLink": "https://fr.milesrepublic.com/event/la-mouss-terlinoise-4340"
-  },
-  {
-    "place": "unknown",
     "city": "Compeyre",
     "departementNumber": 12,
     "eventType": "other",
@@ -85785,19 +85915,6 @@
     "ending": 1805706000000,
     "name": "Trail de la Liez",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-liez-4935"
-  },
-  {
-    "place": "unknown",
-    "city": "Peyrolles-en-Provence",
-    "departementNumber": 13,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1805706000000,
-    "ending": 1805707800000,
-    "name": "La gambade du Loubatas",
-    "eventLink": "https://fr.milesrepublic.com/event/la-gambade-du-loubatas-4205"
   },
   {
     "place": "unknown",
@@ -86058,19 +86175,6 @@
     "ending": 1805756400000,
     "name": "GFNY Cannes",
     "eventLink": "https://fr.milesrepublic.com/event/gfny-cannes-13044"
-  },
-  {
-    "place": "unknown",
-    "city": "Cazères",
-    "departementNumber": 31,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1805756400000,
-    "ending": 1805756400000,
-    "name": "Irreduc'trail de Cazères",
-    "eventLink": "https://fr.milesrepublic.com/event/irreduc-trail-de-cazeres-3053"
   },
   {
     "place": "unknown",
@@ -86529,6 +86633,19 @@
   },
   {
     "place": "unknown",
+    "city": "Brest",
+    "departementNumber": 29,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806015600000,
+    "ending": 1806188400000,
+    "name": "Brest urban trail",
+    "eventLink": "https://fr.milesrepublic.com/event/brest-urban-trail-239"
+  },
+  {
+    "place": "unknown",
     "city": "Butry-sur-Oise",
     "departementNumber": 95,
     "eventType": "trail",
@@ -86578,6 +86695,19 @@
     "ending": 1806053400000,
     "name": "Les foulées d'Autheuil en Valois",
     "eventLink": "https://fr.milesrepublic.com/event/les-foulees-dautheuil-en-valois-6788"
+  },
+  {
+    "place": "unknown",
+    "city": "Lille",
+    "departementNumber": 59,
+    "eventType": "trail",
+    "numberOfRaceVariants": 8,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806084900000,
+    "ending": 1806316200000,
+    "name": "Défi Trails Lillois",
+    "eventLink": "https://fr.milesrepublic.com/event/defi-trails-lillois-4584"
   },
   {
     "place": "unknown",
@@ -86633,16 +86763,16 @@
   },
   {
     "place": "unknown",
-    "city": "Jablines",
-    "departementNumber": 77,
+    "city": "Luynes",
+    "departementNumber": 37,
     "eventType": "trail",
-    "numberOfRaceVariants": 1,
+    "numberOfRaceVariants": 3,
     "registrationLink": "",
-    "registrationStatus": "unknown",
+    "registrationStatus": "open",
     "beginning": 1806163200000,
     "ending": 1806163200000,
-    "name": "Backyard Jablines ",
-    "eventLink": "https://fr.milesrepublic.com/event/backyard-jablines-15196"
+    "name": "Infiny'flamme Trail",
+    "eventLink": "https://fr.milesrepublic.com/event/infinyflamme-trail-16278"
   },
   {
     "place": "unknown",
@@ -86669,19 +86799,6 @@
     "ending": 1806174000000,
     "name": "Ame minuit trail",
     "eventLink": "https://fr.milesrepublic.com/event/ame-minuit-trail-4567"
-  },
-  {
-    "place": "unknown",
-    "city": "Lille",
-    "departementNumber": 59,
-    "eventType": "trail",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806172200000,
-    "ending": 1806314400000,
-    "name": "Défi Trails Lillois",
-    "eventLink": "https://fr.milesrepublic.com/event/defi-trails-lillois-4584"
   },
   {
     "place": "unknown",
@@ -86776,19 +86893,6 @@
   },
   {
     "place": "unknown",
-    "city": "Evry Courcouronnes",
-    "departementNumber": 91,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806188400000,
-    "ending": 1806244200000,
-    "name": "Ectu (Evry Courcouronnes Trail Urbain)",
-    "eventLink": "https://fr.milesrepublic.com/event/ectu-evry-courcouronnes-trail-urbain-15847"
-  },
-  {
-    "place": "unknown",
     "city": "Anthy-sur-Léman",
     "departementNumber": 74,
     "eventType": "trail",
@@ -86867,6 +86971,19 @@
   },
   {
     "place": "unknown",
+    "city": "Jouy-en-Josas",
+    "departementNumber": 78,
+    "eventType": "walk",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806215400000,
+    "ending": 1806220800000,
+    "name": "Trail du josas",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-du-josas-2913"
+  },
+  {
+    "place": "unknown",
     "city": "Seyssel",
     "departementNumber": 74,
     "eventType": "trail",
@@ -86929,6 +87046,19 @@
     "ending": 1806222600000,
     "name": "Trail De La Flora",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-flora-15471"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Christophe",
+    "departementNumber": 73,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806219000000,
+    "ending": 1806219600000,
+    "name": "Trail des grottes",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-grottes-9121"
   },
   {
     "place": "unknown",
@@ -87842,19 +87972,6 @@
   },
   {
     "place": "unknown",
-    "city": "Roquevaire",
-    "departementNumber": 13,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806296400000,
-    "ending": 1806321600000,
-    "name": "Grand trail du Garlaban",
-    "eventLink": "https://fr.milesrepublic.com/event/grand-trail-du-garlaban-4222"
-  },
-  {
-    "place": "unknown",
     "city": "Louviers",
     "departementNumber": 27,
     "eventType": "trail",
@@ -88089,19 +88206,6 @@
   },
   {
     "place": "unknown",
-    "city": "Chatuzange-le-Goubet",
-    "departementNumber": 26,
-    "eventType": "trail",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806301800000,
-    "ending": 1806307200000,
-    "name": "Les chemins de Chatu",
-    "eventLink": "https://fr.milesrepublic.com/event/les-chemins-de-chatu-4365"
-  },
-  {
-    "place": "unknown",
     "city": "Aiguefonde",
     "departementNumber": 81,
     "eventType": "walk",
@@ -88125,19 +88229,6 @@
     "ending": 1806308100000,
     "name": "La Chava'run",
     "eventLink": "https://fr.milesrepublic.com/event/la-chavarun-15512"
-  },
-  {
-    "place": "unknown",
-    "city": "Jouy-en-Josas",
-    "departementNumber": 78,
-    "eventType": "walk",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806301800000,
-    "ending": 1806308100000,
-    "name": "Trail du josas",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-du-josas-2913"
   },
   {
     "place": "unknown",
@@ -88401,19 +88492,6 @@
   },
   {
     "place": "unknown",
-    "city": "Saint-Christophe",
-    "departementNumber": 73,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806303600000,
-    "ending": 1806306300000,
-    "name": "Trail des grottes",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-grottes-9121"
-  },
-  {
-    "place": "unknown",
     "city": "Trentels",
     "departementNumber": 47,
     "eventType": "trail",
@@ -88528,6 +88606,19 @@
     "ending": 1806313200000,
     "name": "Ronde des aulnes",
     "eventLink": "https://fr.milesrepublic.com/event/ronde-des-aulnes-4438"
+  },
+  {
+    "place": "unknown",
+    "city": "Contres",
+    "departementNumber": 41,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806303600000,
+    "ending": 1806313500000,
+    "name": "Les foulées controises",
+    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-controises-4867"
   },
   {
     "place": "unknown",
@@ -89295,19 +89386,6 @@
     "ending": 1806323400000,
     "name": "10 km de Thouars",
     "eventLink": "https://fr.milesrepublic.com/event/10-km-de-thouars-4398"
-  },
-  {
-    "place": "unknown",
-    "city": "Quimper",
-    "departementNumber": 29,
-    "eventType": "running",
-    "numberOfRaceVariants": 11,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806318000000,
-    "ending": 1806323400000,
-    "name": "Semi-marathon Locronan-Plogonnec-Quimper",
-    "eventLink": "https://fr.milesrepublic.com/event/semi-marathon-locronan-plogonnec-quimper-4509"
   },
   {
     "place": "unknown",
@@ -90663,6 +90741,19 @@
   },
   {
     "place": "unknown",
+    "city": "Mantes-la-Jolie",
+    "departementNumber": 78,
+    "eventType": "trail",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806724800000,
+    "ending": 1806751800000,
+    "name": "La diagonale des Yvelines",
+    "eventLink": "https://fr.milesrepublic.com/event/la-diagonale-des-yvelines-5372"
+  },
+  {
+    "place": "unknown",
     "city": "Cheverny",
     "departementNumber": 41,
     "eventType": "running",
@@ -90676,6 +90767,19 @@
   },
   {
     "place": "unknown",
+    "city": "Condé-sur-Noireau",
+    "departementNumber": 14,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806737400000,
+    "ending": 1806753600000,
+    "name": "Trail des collines normandes",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-collines-normandes-1114"
+  },
+  {
+    "place": "unknown",
     "city": "Gouda",
     "departementNumber": 99,
     "eventType": "cycling",
@@ -90686,6 +90790,19 @@
     "ending": 1806739200000,
     "name": "Bordeline700",
     "eventLink": "https://fr.milesrepublic.com/event/bordeline700-15257"
+  },
+  {
+    "place": "unknown",
+    "city": "Jablines",
+    "departementNumber": 77,
+    "eventType": "trail",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806764400000,
+    "ending": 1806764400000,
+    "name": "Backyard Jablines ",
+    "eventLink": "https://fr.milesrepublic.com/event/backyard-jablines-15196"
   },
   {
     "place": "unknown",
@@ -91232,19 +91349,6 @@
     "ending": 1806910200000,
     "name": "La fiacraise",
     "eventLink": "https://fr.milesrepublic.com/event/la-fiacraise-8297"
-  },
-  {
-    "place": "unknown",
-    "city": "Luynes",
-    "departementNumber": 37,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806850800000,
-    "ending": 1806850800000,
-    "name": "Infiny'flamme Trail",
-    "eventLink": "https://fr.milesrepublic.com/event/infinyflamme-trail-16278"
   },
   {
     "place": "unknown",
@@ -92496,19 +92600,6 @@
   },
   {
     "place": "unknown",
-    "city": "Vannes",
-    "departementNumber": 56,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806910200000,
-    "ending": 1806919200000,
-    "name": "Vannes urban trail",
-    "eventLink": "https://fr.milesrepublic.com/event/vannes-urban-trail-10724"
-  },
-  {
-    "place": "unknown",
     "city": "Méribel",
     "departementNumber": 73,
     "eventType": "running",
@@ -93559,19 +93650,6 @@
     "ending": 1807002900000,
     "name": "La marcellinoise",
     "eventLink": "https://fr.milesrepublic.com/event/la-marcellinoise-6116"
-  },
-  {
-    "place": "unknown",
-    "city": "Contres",
-    "departementNumber": 41,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806994800000,
-    "ending": 1807003800000,
-    "name": "Les foulées controises",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-controises-4867"
   },
   {
     "place": "unknown",
@@ -95083,19 +95161,6 @@
   },
   {
     "place": "unknown",
-    "city": "Condé-sur-Noireau",
-    "departementNumber": 14,
-    "eventType": "trail",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1807428600000,
-    "ending": 1807444800000,
-    "name": "Trail des collines normandes",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-collines-normandes-1114"
-  },
-  {
-    "place": "unknown",
     "city": "La Chapelle Neuve",
     "departementNumber": 56,
     "eventType": "trail",
@@ -95314,19 +95379,6 @@
     "ending": 1807516800000,
     "name": "Trail des Terrasses du  Lodévois",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-terrasses-du-lodevois-6070"
-  },
-  {
-    "place": "unknown",
-    "city": "Vierzon",
-    "departementNumber": 18,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1807448400000,
-    "ending": 1807448400000,
-    "name": "Foulees De Saint Martin",
-    "eventLink": "https://fr.milesrepublic.com/event/foulees-de-saint-martin-16279"
   },
   {
     "place": "unknown",
@@ -99256,19 +99308,6 @@
   },
   {
     "place": "unknown",
-    "city": "Mantes-la-Jolie",
-    "departementNumber": 78,
-    "eventType": "trail",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1807999200000,
-    "ending": 1808037000000,
-    "name": "La diagonale des Yvelines",
-    "eventLink": "https://fr.milesrepublic.com/event/la-diagonale-des-yvelines-5372"
-  },
-  {
-    "place": "unknown",
     "city": "Reichshoffen",
     "departementNumber": 67,
     "eventType": "walk",
@@ -99682,19 +99721,6 @@
     "ending": 1808075700000,
     "name": "Trail nocturne des lucioles",
     "eventLink": "https://fr.milesrepublic.com/event/trail-nocturne-des-lucioles-6341"
-  },
-  {
-    "place": "unknown",
-    "city": "Brest",
-    "departementNumber": 29,
-    "eventType": "trail",
-    "numberOfRaceVariants": 9,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1808069400000,
-    "ending": 1808204400000,
-    "name": "Brest urban trail",
-    "eventLink": "https://fr.milesrepublic.com/event/brest-urban-trail-239"
   },
   {
     "place": "unknown",
