@@ -261,84 +261,6 @@
   },
   {
     "place": "unknown",
-    "city": "Ham-les-Moines",
-    "departementNumber": 8,
-    "eventType": "running",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787781600000,
-    "ending": 1787781600000,
-    "name": "Course Saint-Laurent",
-    "eventLink": "https://fr.milesrepublic.com/event/course-saint-laurent-8069"
-  },
-  {
-    "place": "unknown",
-    "city": "Granges-Narboz",
-    "departementNumber": 25,
-    "eventType": "walk",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787781600000,
-    "ending": 1787781600000,
-    "name": "Entre lacs et tourbières",
-    "eventLink": "https://fr.milesrepublic.com/event/entre-lacs-et-tourbieres-9495"
-  },
-  {
-    "place": "unknown",
-    "city": "Sainte-Brigitte",
-    "departementNumber": 56,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787781600000,
-    "ending": 1787781600000,
-    "name": "Fêtes de quenecan",
-    "eventLink": "https://fr.milesrepublic.com/event/fetes-de-quenecan-7457"
-  },
-  {
-    "place": "unknown",
-    "city": "Terranjou",
-    "departementNumber": 49,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787781600000,
-    "ending": 1787781600000,
-    "name": "Les foulées du layon",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-du-layon-2379"
-  },
-  {
-    "place": "unknown",
-    "city": "Jans",
-    "departementNumber": 44,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787781600000,
-    "ending": 1787781600000,
-    "name": "Les foulées janséennes",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-janseennes-2400"
-  },
-  {
-    "place": "unknown",
-    "city": "Brochon",
-    "departementNumber": 21,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1787781600000,
-    "ending": 1787781600000,
-    "name": "Trail des cent marches",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-cent-marches-2478"
-  },
-  {
-    "place": "unknown",
     "city": "Digosville",
     "departementNumber": 50,
     "eventType": "trail",
@@ -420,7 +342,7 @@
     "city": "Les Belleville",
     "departementNumber": 73,
     "eventType": "trail",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 1,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1787900400000,
@@ -698,7 +620,7 @@
     "registrationStatus": "unknown",
     "beginning": 1787961600000,
     "ending": 1787961600000,
-    "eventLink": "https://www.klikego.com/inscription/la-trez-bellec-2026/running-course-a-pied/1743540715773-3",
+    "eventLink": "https://www.klikego.com/inscription/la-trez-bellec-2026/course-a-pied-running/1743540715773-3",
     "name": "LA TREZ BELLEC"
   },
   {
@@ -1826,7 +1748,7 @@
     "eventType": "poursuite_sur_terre",
     "numberOfRaceVariants": 15,
     "registrationLink": "https://sites.google.com/view/autopoursuitecentre/accueil",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1788048000000,
     "ending": 1788048000000,
     "name": ".AUTO-POURSUITE KART CROSS . CIRCUIT DE VAULIONS TEAM MARTINET COMPETITION",
@@ -2429,6 +2351,19 @@
     "ending": 1788076800000,
     "name": "Courses de la rosière",
     "eventLink": "https://fr.milesrepublic.com/event/courses-de-la-rosiere-6720"
+  },
+  {
+    "place": "unknown",
+    "city": "Vred",
+    "departementNumber": 59,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788073200000,
+    "ending": 1788076800000,
+    "name": "La Vred Course",
+    "eventLink": "https://fr.milesrepublic.com/event/la-vred-course-18045"
   },
   {
     "place": "unknown",
@@ -4312,7 +4247,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/49eme-foulees-chateaulinoises-2026/running-course-a-pied/1496025007232-14",
+    "eventLink": "https://www.klikego.com/inscription/49eme-foulees-chateaulinoises-2026/course-a-pied-running/1496025007232-14",
     "name": "49ème Foulées Châteaulinoises"
   },
   {
@@ -6002,7 +5937,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/la-guibollrun-2026/running-course-a-pied/1579734410853-8",
+    "eventLink": "https://www.klikego.com/inscription/la-guibollrun-2026/course-a-pied-running/1579734410853-8",
     "name": "La Guiboll'run"
   },
   {
@@ -24979,7 +24914,7 @@
     "eventType": "poursuite_sur_terre",
     "numberOfRaceVariants": 17,
     "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3226",
-    "registrationStatus": "not_open_yet",
+    "registrationStatus": "open",
     "beginning": 1790467200000,
     "ending": 1790467200000,
     "name": "MELLERAN 8EME MANCHE TROPHEE POITOU CHARENTES VENDEE",
@@ -29558,7 +29493,7 @@
     "registrationStatus": "unknown",
     "beginning": 1790985600000,
     "ending": 1790985600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-val-de-see-2026/running-course-a-pied/1645654957917-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-val-de-see-2026/course-a-pied-running/1645654957917-6",
     "name": "Trail du Val de Sée"
   },
   {
@@ -95013,7 +94948,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807401600000,
     "ending": 1807401600000,
-    "eventLink": "https://www.klikego.com/inscription/le-trail-des-zikos-2027/running-course-a-pied/1782196315082-1",
+    "eventLink": "https://www.klikego.com/inscription/le-trail-des-zikos-2027/course-a-pied-running/1782196315082-1",
     "name": "Le Trail des Zikos"
   },
   {
@@ -102763,6 +102698,19 @@
     "ending": 1808611200000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-dacigne-acigne-au-feminin-2027/running-course-a-pied/1356384566470-13",
     "name": "Les foulées d'Acigné - Acigné au féminin"
+  },
+  {
+    "place": "unknown",
+    "city": "Talmas",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1808611200000,
+    "ending": 1808611200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-muches-2027/course-a-pied-running/1764404513248-2",
+    "name": "TRAIL DES MUCHES"
   },
   {
     "place": "unknown",
@@ -136888,6 +136836,71 @@
     "ending": 1812976200000,
     "name": "Triathlon de Carpentras",
     "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-carpentras-10479"
+  },
+  {
+    "place": "unknown",
+    "city": "Réallon",
+    "departementNumber": "",
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812949200000,
+    "ending": 1812956400000,
+    "name": "Wild Trail Reallon",
+    "eventLink": "https://fr.milesrepublic.com/event/wild-trail-reallon-17293"
+  },
+  {
+    "place": "unknown",
+    "city": "Beauvezer",
+    "departementNumber": 4,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812949200000,
+    "ending": 1812960000000,
+    "name": "Trail de Beauvezer",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-de-beauvezer-7579"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Dizier",
+    "departementNumber": 51,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812951000000,
+    "ending": 1812951000000,
+    "name": "Marathon du Lac du Der",
+    "eventLink": "https://fr.milesrepublic.com/event/marathon-du-lac-du-der-6254"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Orens-de-Gameville",
+    "departementNumber": 31,
+    "eventType": "walk",
+    "numberOfRaceVariants": 10,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812951000000,
+    "ending": 1812964500000,
+    "name": "Course des rivières et des châteaux aux portes du Lauragais",
+    "eventLink": "https://fr.milesrepublic.com/event/course-des-rivieres-et-des-chateaux-aux-portes-du-lauragais-6726"
+  },
+  {
+    "place": "unknown",
+    "city": "Apprieu",
+    "departementNumber": 38,
+    "eventType": "running",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812951000000,
+    "ending": 1812965100000,
+    "name": "Trail des tortues joggeuses",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-tortues-joggeuses-1694"
   },
   {
     "place": "unknown",
