@@ -5677,7 +5677,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/la-guibollrun-2026/running-course-a-pied/1579734410853-8",
+    "eventLink": "https://www.klikego.com/inscription/la-guibollrun-2026/course-a-pied-running/1579734410853-8",
     "name": "La Guiboll'run"
   },
   {
@@ -82096,6 +82096,19 @@
   },
   {
     "place": "unknown",
+    "city": "La Courneuve",
+    "departementNumber": 93,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805065200000,
+    "ending": 1805065200000,
+    "name": "Les foulées Jazy ",
+    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-jazy-9910"
+  },
+  {
+    "place": "unknown",
     "city": "Nice",
     "departementNumber": 6,
     "eventType": "cycling",
@@ -136849,19 +136862,6 @@
     "ending": 1812963000000,
     "name": "Run for the Planet Paris",
     "eventLink": "https://fr.milesrepublic.com/event/run-for-the-planet-paris-6801"
-  },
-  {
-    "place": "unknown",
-    "city": "Fontaine-le-Bourg",
-    "departementNumber": 76,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1812954600000,
-    "ending": 1812957300000,
-    "name": "Bourguifon'trail ",
-    "eventLink": "https://fr.milesrepublic.com/event/bourguifontrail-9000"
   },
   {
     "place": "unknown",
