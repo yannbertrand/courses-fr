@@ -261,19 +261,6 @@
   },
   {
     "place": "unknown",
-    "city": "Le Faou",
-    "departementNumber": 29,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788040800000,
-    "ending": 1788213600000,
-    "name": "Outdoor Cycling Series Armorique",
-    "eventLink": "https://fr.milesrepublic.com/event/outdoor-cycling-series-armorique-11587"
-  },
-  {
-    "place": "unknown",
     "city": "Espalion",
     "departementNumber": 12,
     "eventType": "cycling",
@@ -323,136 +310,6 @@
     "ending": 1788260400000,
     "name": "Rando de la vallée de l’Yaigne",
     "eventLink": "https://fr.milesrepublic.com/event/rando-de-la-vallee-de-lyaigne-11664"
-  },
-  {
-    "place": "unknown",
-    "city": "Pontivy",
-    "departementNumber": 56,
-    "eventType": "running",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788190200000,
-    "ending": 1788193800000,
-    "name": "Les foulées de la plage",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-de-la-plage-2581"
-  },
-  {
-    "place": "unknown",
-    "city": "Marennes-Hiers-Brouage",
-    "departementNumber": 17,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788192000000,
-    "ending": 1788193800000,
-    "name": "Explor'run Brouage",
-    "eventLink": "https://fr.milesrepublic.com/event/explorrun-brouage-11999"
-  },
-  {
-    "place": "unknown",
-    "city": "Mont-sur-Meurthe",
-    "departementNumber": 54,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788213600000,
-    "ending": 1788213600000,
-    "name": "Gérars ROCHET",
-    "eventLink": "https://fr.milesrepublic.com/event/gerars-rochet-11738"
-  },
-  {
-    "place": "unknown",
-    "city": "Quéven",
-    "departementNumber": 56,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788213600000,
-    "ending": 1788213600000,
-    "name": "kewenn Gravel Marche VTT",
-    "eventLink": "https://fr.milesrepublic.com/event/kewenn-gravel-marche-vtt-11739"
-  },
-  {
-    "place": "unknown",
-    "city": "Neuviller-sur-Moselle",
-    "departementNumber": 54,
-    "eventType": "other",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788213600000,
-    "ending": 1788213600000,
-    "name": "La neuvilloise ",
-    "eventLink": "https://fr.milesrepublic.com/event/la-neuvilloise-8330"
-  },
-  {
-    "place": "unknown",
-    "city": "Les Aspres",
-    "departementNumber": 61,
-    "eventType": "walk",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788213600000,
-    "ending": 1788213600000,
-    "name": "Rando Jean Gabin",
-    "eventLink": "https://fr.milesrepublic.com/event/rando-jean-gabin-9465"
-  },
-  {
-    "place": "unknown",
-    "city": "Ploumagoar",
-    "departementNumber": 22,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788213600000,
-    "ending": 1788213600000,
-    "name": "Randonnée Sortie",
-    "eventLink": "https://fr.milesrepublic.com/event/randonnee-sortie-11723"
-  },
-  {
-    "place": "unknown",
-    "city": "Sarzeau",
-    "departementNumber": 56,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788213600000,
-    "ending": 1788213600000,
-    "name": "SwimRun de Suscinio",
-    "eventLink": "https://fr.milesrepublic.com/event/swimrun-de-suscinio-9710"
-  },
-  {
-    "place": "unknown",
-    "city": "Ladern-sur-Lauquet",
-    "departementNumber": 11,
-    "eventType": "walk",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788213600000,
-    "ending": 1788213600000,
-    "name": "Trail des vendanges",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-vendanges-2859"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Pierre-d'Albigny",
-    "departementNumber": 73,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": 8,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788213600000,
-    "ending": 1788213600000,
-    "name": "Triathlon de Saint Pierre d'Albigny",
-    "eventLink": "https://fr.milesrepublic.com/event/triathlon-de-saint-pierre-dalbigny-9670"
   },
   {
     "place": "unknown",
@@ -2778,7 +2635,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/course-du-coeur-premiere-edition-5-km-2026/running-course-a-pied/1774946889808-1",
+    "eventLink": "https://www.klikego.com/inscription/course-du-coeur-premiere-edition-5-km-2026/course-a-pied-running/1774946889808-1",
     "name": "COURSE DU COEUR - Première édition - 5 Km"
   },
   {
@@ -2947,7 +2804,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/les-boucles-de-saint-thonan-challenge-de-lelorn-2026/running-course-a-pied/1561498121416-12",
+    "eventLink": "https://www.klikego.com/inscription/les-boucles-de-saint-thonan-challenge-de-lelorn-2026/course-a-pied-running/1561498121416-12",
     "name": "Les Boucles de Saint-Thonan - Challenge de l'Elorn"
   },
   {
@@ -35244,6 +35101,19 @@
   },
   {
     "place": "unknown",
+    "city": "Bain de bretagne",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1791676800000,
+    "ending": 1791676800000,
+    "eventLink": "https://www.klikego.com/inscription/la-rose-de-bain-2026/course-a-pied-running/1724051190466-3",
+    "name": "La Rose de Bain"
+  },
+  {
+    "place": "unknown",
     "city": "Doullens",
     "departementNumber": 80,
     "eventType": "unknown",
@@ -35382,7 +35252,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-patate-2026/running-course-a-pied/1471882210911-12",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-patate-2026/course-a-pied-running/1471882210911-12",
     "name": "TRAIL DE LA PATATE"
   },
   {
@@ -39297,19 +39167,6 @@
     "ending": 1792195200000,
     "eventLink": "https://www.klikego.com/inscription/la-voie-rose-2026/running-course-a-pied/1663704579848-5",
     "name": "La voie Rose 2026"
-  },
-  {
-    "place": "unknown",
-    "city": "St pierre des landes",
-    "departementNumber": 53,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/les-automnales-2026/running-course-a-pied/1557899388074-6",
-    "name": "Les Automnales"
   },
   {
     "place": "Complexe sportif - rue de Langförden",
@@ -45852,6 +45709,19 @@
   },
   {
     "place": "unknown",
+    "city": "Orgeres",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 9,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1793318400000,
+    "ending": 1793491200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-belle-dorgeres-2026/course-a-pied-running/1655194179144-5",
+    "name": "Trail de la Belle d'Orgères"
+  },
+  {
+    "place": "unknown",
     "city": "Camaret-sur-Mer",
     "departementNumber": 29,
     "eventType": "trail",
@@ -46161,19 +46031,6 @@
     "ending": 1793491200000,
     "eventLink": "https://www.klikego.com/inscription/eden-rox-challenge-2026/running-course-a-pied/1699481084702-16",
     "name": "EDEN ROX CHALLENGE"
-  },
-  {
-    "place": "unknown",
-    "city": "Orgeres",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 8,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793491200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-belle-dorgeres-2026/running-course-a-pied/1655194179144-5",
-    "name": "Trail de la Belle d'Orgères"
   },
   {
     "place": "unknown",
@@ -51377,6 +51234,19 @@
   },
   {
     "place": "unknown",
+    "city": "Saint-Aubin-d'Aubigné",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794614400000,
+    "ending": 1794614400000,
+    "eventLink": "https://www.klikego.com/inscription/les-escapades-nocturnes-saint-aubinoises-2026/course-a-pied-running/1422072323642-11",
+    "name": "Les escapades nocturnes Saint Aubinoises"
+  },
+  {
+    "place": "unknown",
     "city": "Plougastel daoulas",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -52256,7 +52126,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/running-course-a-pied/1725587953930-7",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/course-a-pied-running/1725587953930-7",
     "name": "Marathon Trail Pays de Brive"
   },
   {
@@ -55831,7 +55701,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/courir-entre-deux-o-----2026/running-course-a-pied/1313135106256-26",
+    "eventLink": "https://www.klikego.com/inscription/courir-entre-deux-o-----2026/course-a-pied-running/1313135106256-26",
     "name": "Courir entre deux O   -"
   },
   {
@@ -56364,7 +56234,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795910400000,
     "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/la-creative-chantepie-2026/running-course-a-pied/1254897502069-19",
+    "eventLink": "https://www.klikego.com/inscription/la-creative-chantepie-2026/course-a-pied-running/1254897502069-19",
     "name": "La Créative Chantepie"
   },
   {
@@ -60316,7 +60186,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/la-chouette-alleuzienne-2026/running-course-a-pied/1620089763293-6",
+    "eventLink": "https://www.klikego.com/inscription/la-chouette-alleuzienne-2026/course-a-pied-running/1620089763293-6",
     "name": "La Chouette Alleuzienne 2026"
   },
   {
@@ -69587,6 +69457,19 @@
     "ending": 1801958400000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-meaultoises-2027/running-course-a-pied-marche-nordique/1621905209259-8",
     "name": "Les foulées Méaultoises"
+  },
+  {
+    "place": "stade",
+    "city": "Le Bignon",
+    "departementNumber": 44,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1801958400000,
+    "ending": 1801958400000,
+    "name": "Trail + Run and Bike du Bignon",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3527/trail-run-and-bike-du-bignon-le-bignon"
   },
   {
     "place": "unknown",
@@ -136514,6 +136397,19 @@
   },
   {
     "place": "unknown",
+    "city": "Brunoy",
+    "departementNumber": 91,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813096800000,
+    "ending": 1813096800000,
+    "name": "Aquathlon de l'ENVY",
+    "eventLink": "https://fr.milesrepublic.com/event/aquathlon-de-lenvy-11036"
+  },
+  {
+    "place": "unknown",
     "city": "Paris",
     "departementNumber": 75,
     "eventType": "running",
@@ -136540,6 +136436,19 @@
   },
   {
     "place": "unknown",
+    "city": "Lyon",
+    "departementNumber": 69,
+    "eventType": "fun",
+    "numberOfRaceVariants": 0,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813096800000,
+    "ending": 1813096800000,
+    "name": "Re Lyon Nous",
+    "eventLink": "https://fr.milesrepublic.com/event/re-lyon-nous-10352"
+  },
+  {
+    "place": "unknown",
     "city": "Compiègne",
     "departementNumber": 60,
     "eventType": "other",
@@ -136550,6 +136459,19 @@
     "ending": 1813096800000,
     "name": "Ric",
     "eventLink": "https://fr.milesrepublic.com/event/ric-8285"
+  },
+  {
+    "place": "unknown",
+    "city": "Petit-Caux",
+    "departementNumber": 76,
+    "eventType": "triathlon",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813096800000,
+    "ending": 1813096800000,
+    "name": "Triathlon Jeunes de Dieppe",
+    "eventLink": "https://fr.milesrepublic.com/event/triathlon-jeunes-de-dieppe-9602"
   },
   {
     "place": "unknown",
@@ -136602,6 +136524,110 @@
     "ending": 1813131300000,
     "name": "Trail du chant d'oiseau",
     "eventLink": "https://fr.milesrepublic.com/event/trail-du-chant-doiseau-5413"
+  },
+  {
+    "place": "unknown",
+    "city": "Combes",
+    "departementNumber": 34,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813125600000,
+    "ending": 1813133460000,
+    "name": "Randuro",
+    "eventLink": "https://fr.milesrepublic.com/event/randuro-11289"
+  },
+  {
+    "place": "unknown",
+    "city": "Vernon",
+    "departementNumber": 86,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813127400000,
+    "ending": 1813129200000,
+    "name": "Foulées de Vernon",
+    "eventLink": "https://fr.milesrepublic.com/event/foulees-de-vernon-1667"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Laurent-d'Arce",
+    "departementNumber": 33,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813127400000,
+    "ending": 1813129500000,
+    "name": "Trail du millésime",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-du-millesime-11421"
+  },
+  {
+    "place": "unknown",
+    "city": "La Capelle-lès-Boulogne",
+    "departementNumber": 62,
+    "eventType": "trail",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813127400000,
+    "ending": 1813133100000,
+    "name": "Sur les traces du Mont Renard à La Capelle",
+    "eventLink": "https://fr.milesrepublic.com/event/sur-les-traces-du-mont-renard-a-la-capelle-8823"
+  },
+  {
+    "place": "unknown",
+    "city": "Quarré-les-Tombes",
+    "departementNumber": 89,
+    "eventType": "walk",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813128300000,
+    "ending": 1813128300000,
+    "name": "Crêtes de Quarré",
+    "eventLink": "https://fr.milesrepublic.com/event/cretes-de-quarre-9463"
+  },
+  {
+    "place": "unknown",
+    "city": "Romagne",
+    "departementNumber": 86,
+    "eventType": "fun",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813129200000,
+    "ending": 1813129200000,
+    "name": "Primates run",
+    "eventLink": "https://fr.milesrepublic.com/event/primates-run-7904"
+  },
+  {
+    "place": "unknown",
+    "city": "Épreville",
+    "departementNumber": 76,
+    "eventType": "running",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813131000000,
+    "ending": 1813131300000,
+    "name": "LFA run",
+    "eventLink": "https://fr.milesrepublic.com/event/lfa-run-4563"
+  },
+  {
+    "place": "unknown",
+    "city": "Meschers-sur-Gironde",
+    "departementNumber": 17,
+    "eventType": "running",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813131000000,
+    "ending": 1813136400000,
+    "name": "La course des pirates et des nonnes",
+    "eventLink": "https://fr.milesrepublic.com/event/la-course-des-pirates-et-des-nonnes-1680"
   },
   {
     "place": "unknown",
