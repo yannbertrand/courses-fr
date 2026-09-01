@@ -6660,7 +6660,7 @@
     "city": "Savignac les eglises",
     "departementNumber": 24,
     "eventType": "unknown",
-    "numberOfRaceVariants": 1,
+    "numberOfRaceVariants": "unknown",
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1789171200000,
@@ -13126,7 +13126,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-trail-de-pons-2026/running-course-a-pied/1676018194759-7",
+    "eventLink": "https://www.klikego.com/inscription/ultra-trail-de-pons-2026/course-a-pied-running/1676018194759-7",
     "name": "Ultra Trail de Pons 2026"
   },
   {
@@ -19621,7 +19621,7 @@
     "city": "ST GERMAIN D' ANXURE",
     "departementNumber": 53,
     "eventType": "poursuite_sur_terre",
-    "numberOfRaceVariants": 4,
+    "numberOfRaceVariants": 6,
     "registrationLink": "https://www.facebook.com/groups/4155814168077047/",
     "registrationStatus": "not_open_yet",
     "beginning": 1790380800000,
@@ -28375,7 +28375,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791072000000,
     "ending": 1791072000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-cuzance-2026/running-course-a-pied/1687291934492-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-cuzance-2026/course-a-pied-running/1687291934492-4",
     "name": "Trail de Cuzance 2026"
   },
   {
@@ -34719,7 +34719,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/10-km-de-la-fleche-2026/running-course-a-pied/1452716856718-10",
+    "eventLink": "https://www.klikego.com/inscription/10-km-de-la-fleche-2026/course-a-pied-running/1452716856718-10",
     "name": "10 km de la Flèche"
   },
   {
@@ -46429,7 +46429,7 @@
     "eventType": "running",
     "numberOfRaceVariants": 6,
     "registrationLink": "http://www.castelrace.fr/",
-    "registrationStatus": "not_open_yet",
+    "registrationStatus": "open",
     "beginning": 1793491200000,
     "ending": 1793491200000,
     "name": "CASTEL RACE",
@@ -48486,7 +48486,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -50358,7 +50358,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-bleues-decathlon-2026/running-course-a-pied/1770759786057-2",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-bleues-decathlon-2026/course-a-pied-running/1770759786057-2",
     "name": "Les Foulées Bleues Decathlon"
   },
   {
@@ -57188,6 +57188,19 @@
   },
   {
     "place": "unknown",
+    "city": "Moncontour",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 10,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1796428800000,
+    "ending": 1796428800000,
+    "eventLink": "https://www.klikego.com/inscription/menestrail-2026/course-a-pied-running/1472150551876-14",
+    "name": "MENESTRAIL"
+  },
+  {
+    "place": "unknown",
     "city": "Kourou",
     "departementNumber": 97,
     "eventType": "unknown",
@@ -60693,8 +60706,8 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins-cross-du-graulhet-athle--4-eme-editions-2026/course-a-pied-running/1724232492749-3",
-    "name": "TRAIL DES LUTINS /CROSS DU GRAULHET ATHLE  4 ème éditions"
+    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins-cross-graulhet-athle--4-eme-editions-2026/course-a-pied-running/1724232492749-3",
+    "name": "TRAIL DES LUTINS /CROSS GRAULHET ATHLE  4 ème éditions"
   },
   {
     "place": "unknown",
@@ -62175,7 +62188,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/running-course-a-pied/1624160890633-7",
+    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/course-a-pied-running/1624160890633-7",
     "name": "COURSE DE NOEL by Apiruntour"
   },
   {
@@ -63202,7 +63215,7 @@
     "registrationStatus": "unknown",
     "beginning": 1798588800000,
     "ending": 1798588800000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-dinannaise-2026/running-course-a-pied/1399449568138-22",
+    "eventLink": "https://www.klikego.com/inscription/corrida-dinannaise-2026/course-a-pied-running/1399449568138-22",
     "name": "CORRIDA DINANNAISE"
   },
   {
@@ -87376,7 +87389,7 @@
     "place": "unknown",
     "city": "Wavrans-sur-l'Aa",
     "departementNumber": 62,
-    "eventType": "trail",
+    "eventType": "walk",
     "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "open",
@@ -87421,7 +87434,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806710400000,
-    "eventLink": "https://www.klikego.com/inscription/100km-n07-marathon-semi-marathon-de-crevin-et-la-crevinoise-2027/running-course-a-pied/1516494105802-20",
+    "eventLink": "https://www.klikego.com/inscription/100km-n07-marathon-semi-marathon-de-crevin-et-la-crevinoise-2027/course-a-pied-running/1516494105802-20",
     "name": "100km N°07, Marathon, Semi-Marathon de Crevin et La Crevinoise"
   },
   {
@@ -103528,7 +103541,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809043200000,
     "ending": 1809043200000,
-    "eventLink": "https://www.klikego.com/inscription/urban-trail-de-villedieu-les-poeles-2027/running-course-a-pied/1729370475941-3",
+    "eventLink": "https://www.klikego.com/inscription/urban-trail-de-villedieu-les-poeles-2027/course-a-pied-running/1729370475941-3",
     "name": "URBAN TRAIL de Villedieu les poêles 2027"
   },
   {
@@ -121304,6 +121317,19 @@
   },
   {
     "place": "unknown",
+    "city": "Les mathes",
+    "departementNumber": 17,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811548800000,
+    "ending": 1811635200000,
+    "eventLink": "https://www.klikego.com/inscription/palmyre-triathlon-2027/triathlon/1758240814777-3",
+    "name": "PALMYRE TRIATHLON"
+  },
+  {
+    "place": "unknown",
     "city": "Weiswampach",
     "departementNumber": 0,
     "eventType": "unknown",
@@ -126358,6 +126384,19 @@
     "ending": 1812270600000,
     "name": "La dynamorun",
     "eventLink": "https://fr.milesrepublic.com/event/la-dynamorun-6197"
+  },
+  {
+    "place": "unknown",
+    "city": "La rochelle",
+    "departementNumber": 17,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812153600000,
+    "ending": 1812240000000,
+    "eventLink": "https://www.klikego.com/inscription/half-des-deux-tours-2027/triathlon/1360808403296-13",
+    "name": "HALF DES DEUX TOURS"
   },
   {
     "place": "unknown",
