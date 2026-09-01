@@ -222,6 +222,19 @@
   },
   {
     "place": "unknown",
+    "city": "Servon sur vilaine",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788220800000,
+    "ending": 1792108800000,
+    "eventLink": "https://www.klikego.com/inscription/foulee-de-la-saint-denis--17-octobre-2026/course-a-pied-running/1567021385139-16",
+    "name": "Foulée de la Saint Denis  17 octobre 2026"
+  },
+  {
+    "place": "unknown",
     "city": "Amiens",
     "departementNumber": 80,
     "eventType": "unknown",
@@ -258,45 +271,6 @@
     "ending": 1788766200000,
     "name": "Trail des vallées",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-vallees-2449"
-  },
-  {
-    "place": "unknown",
-    "city": "Bagnères-de-Luchon",
-    "departementNumber": 31,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788300000000,
-    "ending": 1788300000000,
-    "name": "Skyrunning tour hrp Hospice de France",
-    "eventLink": "https://fr.milesrepublic.com/event/skyrunning-tour-hrp-hospice-de-france-9179"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Germain",
-    "departementNumber": 70,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788300000000,
-    "ending": 1788300000000,
-    "name": "Trail 1000 pas pour Axel",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-1000-pas-pour-axel-9912"
-  },
-  {
-    "place": "unknown",
-    "city": "Monflanquin",
-    "departementNumber": 47,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788300000000,
-    "ending": 1788300000000,
-    "name": "UTM - Urban trail Monflanquin",
-    "eventLink": "https://fr.milesrepublic.com/event/utm-urban-trail-monflanquin-7639"
   },
   {
     "place": "unknown",
@@ -789,7 +763,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-pontivy-2026/running-course-a-pied/1718231947073-2",
+    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-pontivy-2026/course-a-pied-running/1718231947073-2",
     "name": "La corrida de Pontivy"
   },
   {
@@ -2453,7 +2427,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/la-guibollrun-2026/running-course-a-pied/1579734410853-8",
+    "eventLink": "https://www.klikego.com/inscription/la-guibollrun-2026/course-a-pied-running/1579734410853-8",
     "name": "La Guiboll'run"
   },
   {
@@ -34724,6 +34698,19 @@
   },
   {
     "place": "unknown",
+    "city": "Tremeven",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1791676800000,
+    "ending": 1791676800000,
+    "eventLink": "https://www.klikego.com/inscription/1er-trail-nature-tremevenois-29-2026/course-a-pied-running-marche-nordique/1787128843020-1",
+    "name": "1er TRAIL NATURE TREMEVENOIS (29)"
+  },
+  {
+    "place": "unknown",
     "city": "Cognac",
     "departementNumber": 16,
     "eventType": "unknown",
@@ -38881,32 +38868,6 @@
     "ending": 1792195200000,
     "eventLink": "https://www.klikego.com/inscription/entre-palis-et-megalithes-grand-8-2026/running-course-a-pied/1714334615460-3",
     "name": "Entre Palis et Mégalithes - Grand 8"
-  },
-  {
-    "place": "unknown",
-    "city": "Servon sur vilaine",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/foulee-de-la-saint-denis-2026/running-course-a-pied/1567021385139-16",
-    "name": "Foulée de la Saint Denis"
-  },
-  {
-    "place": "unknown",
-    "city": "La rochelle",
-    "departementNumber": 17,
-    "eventType": "unknown",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792195200000,
-    "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/hurricane-challenge-2026/running-course-a-pied/1778031643123-1",
-    "name": "Hurricane Challenge"
   },
   {
     "place": "Complexe sportif - rue de Langförden",
@@ -64944,7 +64905,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800057600000,
-    "eventLink": "https://www.klikego.com/inscription/snow-trail-by-utma-2027/running-course-a-pied/1748916984787-3",
+    "eventLink": "https://www.klikego.com/inscription/snow-trail-by-utma-2027/course-a-pied-running/1748916984787-3",
     "name": "Snow Trail by UTMA"
   },
   {
@@ -99641,7 +99602,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-muches-2027/running-course-a-pied/1764404513248-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-muches-2027/course-a-pied-running/1764404513248-2",
     "name": "TRAIL DES MUCHES"
   },
   {
@@ -136589,6 +136550,45 @@
     "ending": 1813213800000,
     "name": "Montée de l'alpe d'huez",
     "eventLink": "https://fr.milesrepublic.com/event/montee-de-l-alpe-d-huez-13864"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Vulbas",
+    "departementNumber": 1,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813219200000,
+    "ending": 1813219200000,
+    "name": "10 km de Saint-Vulbas",
+    "eventLink": "https://fr.milesrepublic.com/event/10-km-de-saint-vulbas-2949"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Jean-d'Angély",
+    "departementNumber": 17,
+    "eventType": "fun",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813237200000,
+    "ending": 1813307400000,
+    "name": "Insane race baykyard",
+    "eventLink": "https://fr.milesrepublic.com/event/insane-race-baykyard-9079"
+  },
+  {
+    "place": "unknown",
+    "city": "Buvilly",
+    "departementNumber": 39,
+    "eventType": "running",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813248000000,
+    "ending": 1813248000000,
+    "name": "Course des vignes",
+    "eventLink": "https://fr.milesrepublic.com/event/course-des-vignes-1824"
   },
   {
     "place": "unknown",
