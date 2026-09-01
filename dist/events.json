@@ -40,58 +40,6 @@
   },
   {
     "place": "unknown",
-    "city": "Guichen",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1775001600000,
-    "ending": 1793318400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-liberte-en-route-pour-lultra-marin-du-golfe-du-morbihan-2026/running-course-a-pied/1773697515147-2",
-    "name": "Trail Liberté - En route pour l'Ultra Marin® du Golfe du Morbihan"
-  },
-  {
-    "place": "unknown",
-    "city": "Guichen",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1775001600000,
-    "ending": 1793318400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-liberte-entre-les-iles-quiberon-houat-et-belle-ile-en-mer-2026/running-course-a-pied/1773697515147-5",
-    "name": "Trail Liberté - Entre les îles - Quiberon - Houat et Belle-île-en-Mer"
-  },
-  {
-    "place": "unknown",
-    "city": "Guichen",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1775001600000,
-    "ending": 1793318400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-liberte-le-bout-du-monde-et-lile-douessant-2026/running-course-a-pied/1773697515147-1",
-    "name": "Trail Liberté - Le Bout du monde et l'Île d'Ouessant"
-  },
-  {
-    "place": "unknown",
-    "city": "Guichen",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1775001600000,
-    "ending": 1793318400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-liberte-sur-les-traces-du-trail-du-glazig-et-la-cote-de-granit-rose-2026/running-course-a-pied/1773697515147-4",
-    "name": "Trail Liberté - Sur les traces du Trail du Glazig® et la côte de Granit Rose"
-  },
-  {
-    "place": "unknown",
     "city": "Saint-Jean-de-Monts",
     "departementNumber": 85,
     "eventType": "triathlon",
@@ -196,19 +144,6 @@
   },
   {
     "place": "unknown",
-    "city": "Guichen",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1784937600000,
-    "ending": 1790467200000,
-    "eventLink": "https://www.klikego.com/inscription/stage-trail-100-feminin-a-belle-ile-en-mer-2026/running-course-a-pied/1773697515147-3",
-    "name": "Stage Trail 100% féminin à Belle-Île-en-Mer"
-  },
-  {
-    "place": "unknown",
     "city": "St fort",
     "departementNumber": 53,
     "eventType": "unknown",
@@ -219,19 +154,6 @@
     "ending": 1791072000000,
     "eventLink": "https://www.klikego.com/inscription/run-and-bike-de-st-fort-2026/triathlon/1784171546742-1",
     "name": "Run and bike de St Fort"
-  },
-  {
-    "place": "unknown",
-    "city": "Troyes",
-    "departementNumber": 10,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1786752000000,
-    "ending": 1790380800000,
-    "eventLink": "https://www.klikego.com/inscription/mon-marathon-handisolitdaire-2026/running-course-a-pied/1770777205250-3",
-    "name": "Mon Marathon Handisolitdaire"
   },
   {
     "place": "unknown",
@@ -271,19 +193,6 @@
     "ending": 1790746200000,
     "name": "Rando Vtt des 3 Boucles",
     "eventLink": "https://fr.milesrepublic.com/event/rando-vtt-des-3-boucles-15057"
-  },
-  {
-    "place": "Anse des Pins, Mourillon, Toulon",
-    "city": "Toulon",
-    "departementNumber": 83,
-    "eventType": "natation",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788048000000,
-    "ending": 1788134400000,
-    "name": "TOULON SWIM RACE",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3420/toulon-swim-race-toulon"
   },
   {
     "place": "unknown",
@@ -40488,7 +40397,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 13,
     "registrationLink": "https://www.facebook.com/share/1Eq879nHRW/",
-    "registrationStatus": "not_open_yet",
+    "registrationStatus": "open",
     "beginning": 1792281600000,
     "ending": 1792281600000,
     "name": "TRAIL DE LA BULTIERE (85) BAZOGES EN PAILLERS",
@@ -136667,5 +136576,44 @@
     "ending": 1816387200000,
     "eventLink": "https://www.klikego.com/inscription/le-grand-roseau-2027/running-course-a-pied/1669420255564-5",
     "name": "Le Grand Roseau"
+  },
+  {
+    "place": "unknown",
+    "city": "Ploudalmezeau",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1820102400000,
+    "ending": 1820102400000,
+    "eventLink": "https://www.klikego.com/inscription/la-garenne-run-2027/running-course-a-pied/1770367848413-1",
+    "name": "La Garenne Run"
+  },
+  {
+    "place": "unknown",
+    "city": "Landrais",
+    "departementNumber": 17,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1821312000000,
+    "ending": 1821312000000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-landraisiennes-2027/running-course-a-pied/1559978095056-5",
+    "name": "Les Foulées Landraisiennes"
+  },
+  {
+    "place": "unknown",
+    "city": "Abbeville",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1821312000000,
+    "ending": 1821312000000,
+    "eventLink": "https://www.klikego.com/inscription/urban-trail-abbeville-2027/running-course-a-pied/1710468757146-6",
+    "name": "Urban Trail Abbeville"
   }
 ]
