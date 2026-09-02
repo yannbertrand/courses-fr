@@ -2440,7 +2440,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/la-santez-helen-la-course-nature-de-la-ria-detel-2026/running-course-a-pied/1485655279941-15",
+    "eventLink": "https://www.klikego.com/inscription/la-santez-helen-la-course-nature-de-la-ria-detel-2026/course-a-pied-running/1485655279941-15",
     "name": "La Santez Helen La course nature de la ria d'Etel"
   },
   {
@@ -2583,7 +2583,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/randonnee-gourmande-la-randeau-des-papilles-2026/running-course-a-pied/1745360127215-2",
+    "eventLink": "https://www.klikego.com/inscription/randonnee-gourmande-la-randeau-des-papilles-2026/course-a-pied-running/1745360127215-2",
     "name": "Randonnée Gourmande - La Rand'Eau des Papilles"
   },
   {
@@ -12996,7 +12996,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789776000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-urbain-de-fougeres--2026/running-course-a-pied/1434528888525-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-urbain-de-fougeres--2026/course-a-pied-running/1434528888525-15",
     "name": "Trail Urbain de Fougères -  2026"
   },
   {
@@ -13074,7 +13074,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-rodo-2026-la-dixieme--trail-et-concerts/running-course-a-pied/1556931201530-8",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-rodo-2026-la-dixieme--trail-et-concerts/course-a-pied-running/1556931201530-8",
     "name": "Trail du Rodo - 2026 - La Dixième : Trail et concerts"
   },
   {
@@ -19597,7 +19597,7 @@
     "eventType": "poursuite_sur_terre",
     "numberOfRaceVariants": 6,
     "registrationLink": "https://www.facebook.com/groups/4155814168077047/",
-    "registrationStatus": "not_open_yet",
+    "registrationStatus": "open",
     "beginning": 1790380800000,
     "ending": 1790467200000,
     "name": "POURSUITE SUR TERRE - TROISIÈME ÉPREUVES DU TROPHÉE MAINE ANJOU ST GERMAIN",
@@ -21687,8 +21687,8 @@
     "place": "unknown",
     "city": "Lourmarin",
     "departementNumber": 84,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "open",
     "beginning": 1790488800000,
@@ -59913,7 +59913,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/la-chouette-alleuzienne-2026/running-course-a-pied/1620089763293-6",
+    "eventLink": "https://www.klikego.com/inscription/la-chouette-alleuzienne-2026/course-a-pied-running/1620089763293-6",
     "name": "La Chouette Alleuzienne 2026"
   },
   {
@@ -60667,7 +60667,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins-cross-graulhet-athle--4-eme-editions-2026/running-course-a-pied/1724232492749-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins-cross-graulhet-athle--4-eme-editions-2026/course-a-pied-running/1724232492749-3",
     "name": "TRAIL DES LUTINS /CROSS GRAULHET ATHLE  4 ème éditions"
   },
   {
@@ -63176,7 +63176,7 @@
     "registrationStatus": "unknown",
     "beginning": 1798588800000,
     "ending": 1798588800000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-dinannaise-2026/running-course-a-pied/1399449568138-22",
+    "eventLink": "https://www.klikego.com/inscription/corrida-dinannaise-2026/course-a-pied-running/1399449568138-22",
     "name": "CORRIDA DINANNAISE"
   },
   {
@@ -83453,7 +83453,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 8,
     "registrationLink": "",
-    "registrationStatus": "unknown",
+    "registrationStatus": "open",
     "beginning": 1806084900000,
     "ending": 1806229800000,
     "name": "Défi Trails Lillois",
@@ -95951,6 +95951,19 @@
     "ending": 1807912800000,
     "name": "La course forest",
     "eventLink": "https://fr.milesrepublic.com/event/la-course-forest-9812"
+  },
+  {
+    "place": "unknown",
+    "city": "Contes",
+    "departementNumber": 6,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807920000000,
+    "ending": 1807920000000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-sapeurs-pompiers-de-contes-2027/course-a-pied-running/1787094748914-1",
+    "name": "Trail Des Sapeurs-Pompiers De Contes"
   },
   {
     "place": "unknown",
