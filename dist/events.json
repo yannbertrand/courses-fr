@@ -273,39 +273,13 @@
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-vallees-2449"
   },
   {
-    "place": "unknown",
-    "city": "Sainte-Savine",
-    "departementNumber": 10,
-    "eventType": "running",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788472800000,
-    "ending": 1788472800000,
-    "name": "Cross de l'ARS",
-    "eventLink": "https://fr.milesrepublic.com/event/cross-de-lars-6904"
-  },
-  {
-    "place": "unknown",
-    "city": "Briare",
-    "departementNumber": 45,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 9,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788472800000,
-    "ending": 1788472800000,
-    "name": "La Briaroise Randonnée Senior Et Du Temps Libre",
-    "eventLink": "https://fr.milesrepublic.com/event/la-briaroise-randonnee-senior-et-du-temps-libre-14544"
-  },
-  {
     "place": "Champ de foire",
     "city": "Argentan",
     "departementNumber": 61,
     "eventType": "course_a_pied",
     "numberOfRaceVariants": "unknown",
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1788480000000,
     "ending": 1788480000000,
     "name": "10km d'Argentan 2026",
@@ -815,7 +789,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-bois-riou-2026/running-course-a-pied/1780645915872-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-bois-riou-2026/course-a-pied-running/1780645915872-1",
     "name": "Trail de la vallée du Bois Riou"
   },
   {
@@ -1444,6 +1418,19 @@
   },
   {
     "place": "unknown",
+    "city": "Rehon",
+    "departementNumber": 54,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "Challenge De La Municipalite",
+    "eventLink": "https://fr.milesrepublic.com/event/challenge-de-la-municipalite-14566"
+  },
+  {
+    "place": "unknown",
     "city": "Crest",
     "departementNumber": 26,
     "eventType": "cycling",
@@ -1610,6 +1597,19 @@
     "ending": 1788645600000,
     "name": "Rando gourmande",
     "eventLink": "https://fr.milesrepublic.com/event/rando-gourmande-11856"
+  },
+  {
+    "place": "unknown",
+    "city": "Nouvoitou",
+    "departementNumber": 35,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "Rando La Vallee De L Yaigne",
+    "eventLink": "https://fr.milesrepublic.com/event/rando-la-vallee-de-l-yaigne-14567"
   },
   {
     "place": "unknown",
@@ -1998,7 +1998,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/course-du-coeur-premiere-edition-5-km-2026/running-course-a-pied/1774946889808-1",
+    "eventLink": "https://www.klikego.com/inscription/course-du-coeur-premiere-edition-5-km-2026/course-a-pied-running/1774946889808-1",
     "name": "COURSE DU COEUR - Première édition - 5 Km"
   },
   {
@@ -2037,7 +2037,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/larmor-trail-santec-2026/running-course-a-pied/1623204318528-6",
+    "eventLink": "https://www.klikego.com/inscription/larmor-trail-santec-2026/course-a-pied-running/1623204318528-6",
     "name": "L'Armor Trail Santec"
   },
   {
@@ -2375,7 +2375,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-bandiat-2026/running-course-a-pied/1688433500099-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-bandiat-2026/course-a-pied-running/1688433500099-4",
     "name": "Trail du bandiat 2026"
   },
   {
@@ -4559,7 +4559,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791072000000,
     "ending": 1791072000000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-detival-2026/running-course-a-pied/1498108578363-19",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-detival-2026/course-a-pied-running/1498108578363-19",
     "name": "Les Foulées d'Etival"
   },
   {
@@ -7242,6 +7242,19 @@
   },
   {
     "place": "unknown",
+    "city": "Gamaches",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795910400000,
+    "ending": 1795910400000,
+    "eventLink": "https://www.klikego.com/inscription/en-bleu-pour-eux-2026/course-a-pied-running/1787284716348-1",
+    "name": "En bleu pour eux"
+  },
+  {
+    "place": "unknown",
     "city": "LA MOTHE-ACHARD",
     "departementNumber": 85,
     "eventType": "running",
@@ -7889,6 +7902,19 @@
     "ending": 1804982400000,
     "eventLink": "https://www.klikego.com/inscription/trail-bleu-2027/running-marche-nordique/1783397129918-1",
     "name": "Trail bleu"
+  },
+  {
+    "place": "unknown",
+    "city": "Fouesnant",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804982400000,
+    "ending": 1804982400000,
+    "eventLink": "https://www.klikego.com/inscription/la-moussterlinoise-2027/course-a-pied-running/1700974888300-4",
+    "name": "La moussterlinoise 2027"
   },
   {
     "place": "unknown",
