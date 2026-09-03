@@ -235,19 +235,6 @@
   },
   {
     "place": "unknown",
-    "city": "Servon sur vilaine",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788220800000,
-    "ending": 1792108800000,
-    "eventLink": "https://www.klikego.com/inscription/foulee-de-la-saint-denis--17-octobre-2026/running-course-a-pied/1567021385139-16",
-    "name": "Foulée de la Saint Denis  17 octobre 2026"
-  },
-  {
-    "place": "unknown",
     "city": "Amiens",
     "departementNumber": 80,
     "eventType": "unknown",
@@ -284,45 +271,6 @@
     "ending": 1788766200000,
     "name": "Trail des vallées",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-vallees-2449"
-  },
-  {
-    "place": "unknown",
-    "city": "Habarcq",
-    "departementNumber": 62,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788418800000,
-    "ending": 1788418800000,
-    "name": "Les foulées du diable",
-    "eventLink": "https://fr.milesrepublic.com/event/les-foulees-du-diable-5592"
-  },
-  {
-    "place": "unknown",
-    "city": "Beaumont-de-Lomagne",
-    "departementNumber": 82,
-    "eventType": "trail",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788420600000,
-    "ending": 1788420600000,
-    "name": "Trail des lacs",
-    "eventLink": "https://fr.milesrepublic.com/event/trail-des-lacs-6572"
-  },
-  {
-    "place": "unknown",
-    "city": "Sarrebourg",
-    "departementNumber": 57,
-    "eventType": "trail",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788421500000,
-    "ending": 1788424200000,
-    "name": "Sar'run",
-    "eventLink": "https://fr.milesrepublic.com/event/sarrun-5577"
   },
   {
     "place": "unknown",
@@ -1522,6 +1470,19 @@
   },
   {
     "place": "unknown",
+    "city": "Champniers",
+    "departementNumber": 16,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "Forum Sport Sante Environnement",
+    "eventLink": "https://fr.milesrepublic.com/event/forum-sport-sante-environnement-14564"
+  },
+  {
+    "place": "unknown",
     "city": "Roquefort-sur-Soulzon",
     "departementNumber": 12,
     "eventType": "cycling",
@@ -1558,6 +1519,19 @@
     "ending": 1788645600000,
     "name": "La fournaise",
     "eventLink": "https://fr.milesrepublic.com/event/la-fournaise-9468"
+  },
+  {
+    "place": "unknown",
+    "city": "Chalette-sur-loing",
+    "departementNumber": 45,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "La Jonction Des 3 Canaux",
+    "eventLink": "https://fr.milesrepublic.com/event/la-jonction-des-3-canaux-14565"
   },
   {
     "place": "unknown",
@@ -1860,6 +1834,19 @@
   },
   {
     "place": "unknown",
+    "city": "Mozac",
+    "departementNumber": 63,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "Uncentparmois",
+    "eventLink": "https://fr.milesrepublic.com/event/uncentparmois-14563"
+  },
+  {
+    "place": "unknown",
     "city": "Le Cannet",
     "departementNumber": 6,
     "eventType": "trail",
@@ -2076,7 +2063,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/la-braconienne-briaude-2026/running-course-a-pied/1776385987476-1",
+    "eventLink": "https://www.klikego.com/inscription/la-braconienne-briaude-2026/course-a-pied-running/1776385987476-1",
     "name": "La braconienne Briaude"
   },
   {
@@ -2336,7 +2323,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-fontseche-2026/running-course-a-pied/1773451446403-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-fontseche-2026/course-a-pied-running/1773451446403-1",
     "name": "Trail de Fontseche"
   },
   {
@@ -5785,6 +5772,19 @@
     "name": "Backyard Beau Soleil 2026"
   },
   {
+    "place": "unknown",
+    "city": "Renac",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1792195200000,
+    "ending": 1792195200000,
+    "eventLink": "https://www.klikego.com/inscription/entre-palis-et-megalithes-grand-8-2026/running-course-a-pied/1714334615460-3",
+    "name": "Entre Palis et Mégalithes - Grand 8"
+  },
+  {
     "place": "Complexe sportif - rue de Langförden",
     "city": "Le Cellier",
     "departementNumber": 44,
@@ -6186,6 +6186,19 @@
     "ending": 1794096000000,
     "eventLink": "https://www.klikego.com/inscription/breizh-backyard-odyssee-2026/running-course-a-pied/1761251134512-1",
     "name": "Breizh Backyard Odyssee"
+  },
+  {
+    "place": "unknown",
+    "city": "Ducey",
+    "departementNumber": 50,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794009600000,
+    "ending": 1794009600000,
+    "eventLink": "https://www.klikego.com/inscription/10-km-de-ducey-2026/course-a-pied-running/1535682155923-10",
+    "name": "10 km de Ducey"
   },
   {
     "place": "Stade Antonin-Berliat – 91 avenue Professeur-Tixier – 38300 Bourgoin-Jallieu",
