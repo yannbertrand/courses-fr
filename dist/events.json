@@ -708,7 +708,7 @@
     "eventType": "running",
     "numberOfRaceVariants": 7,
     "registrationLink": "https://dompierrecourseaventure.fr/",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1788566400000,
     "ending": 1788566400000,
     "name": "LA DOM'PIED'ROISE",
@@ -2411,7 +2411,7 @@
     "eventType": "triathlon",
     "numberOfRaceVariants": 5,
     "registrationLink": "https://sites.google.com/site/triathlonpouance/triathlon/accueil-du-triathlon?authuser=0",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1788652800000,
     "ending": 1788652800000,
     "name": "TRIATHLON DE POUANCE",
@@ -5690,7 +5690,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-entre-loire-et-vignes-2026/running-course-a-pied/1460704491111-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-entre-loire-et-vignes-2026/course-a-pied-running/1460704491111-15",
     "name": "Trail Entre Loire et Vignes"
   },
   {
@@ -6431,7 +6431,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-val-de-scie-tvs-2026/running-course-a-pied/1746839575479-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-val-de-scie-tvs-2026/course-a-pied-running/1746839575479-2",
     "name": "Trail du Val de Scie (TVS)"
   },
   {
@@ -6782,7 +6782,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/running-course-a-pied/1725587953930-7",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/course-a-pied-running/1725587953930-7",
     "name": "Marathon Trail Pays de Brive"
   },
   {
@@ -7016,7 +7016,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/cross-du-cam-2026/running-course-a-pied/1629088835199-14",
+    "eventLink": "https://www.klikego.com/inscription/cross-du-cam-2026/course-a-pied-running/1629088835199-14",
     "name": "CROSS DU CAM"
   },
   {
@@ -7239,6 +7239,19 @@
     "ending": 1795910400000,
     "eventLink": "https://www.klikego.com/inscription/30eme-corrida-de-loches-2026/running-course-a-pied/1400744438763-15",
     "name": "30ème CORRIDA DE LOCHES"
+  },
+  {
+    "place": "unknown",
+    "city": "LA MOTHE-ACHARD",
+    "departementNumber": 85,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "http://acpachards.fr/",
+    "registrationStatus": "open",
+    "beginning": 1795910400000,
+    "ending": 1795910400000,
+    "name": "LA CORRIDA DES ACHARDS",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3234"
   },
   {
     "place": "unknown",
@@ -7523,7 +7536,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-de-malemort-2026/running-course-a-pied/1623202731927-5",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-de-malemort-2026/course-a-pied-running/1623202731927-5",
     "name": "Corrida de Noël de malemort 2026"
   },
   {
@@ -7666,7 +7679,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/tlj5-trail-entre-landes-et-justice-2026/running-course-a-pied/1645087368296-7",
+    "eventLink": "https://www.klikego.com/inscription/tlj5-trail-entre-landes-et-justice-2026/course-a-pied-running/1645087368296-7",
     "name": "TLJ#5 - Trail Entre Landes et Justice"
   },
   {
@@ -8043,7 +8056,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808438400000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/boucle-infinie-o2-lair-2027/running-course-a-pied/1643237107171-3",
+    "eventLink": "https://www.klikego.com/inscription/boucle-infinie-o2-lair-2027/course-a-pied-running/1643237107171-3",
     "name": "Boucle infinie O2 L'air"
   },
   {
