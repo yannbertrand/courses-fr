@@ -287,45 +287,6 @@
   },
   {
     "place": "unknown",
-    "city": "Frouard",
-    "departementNumber": 54,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788516000000,
-    "ending": 1788516000000,
-    "name": "Infinity Trail Nancy",
-    "eventLink": "https://fr.milesrepublic.com/event/infinity-trail-nancy-16678"
-  },
-  {
-    "place": "unknown",
-    "city": "Coligny",
-    "departementNumber": 1,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788534000000,
-    "ending": 1788534000000,
-    "name": "Corrida de Coligny",
-    "eventLink": "https://fr.milesrepublic.com/event/corrida-de-coligny-16660"
-  },
-  {
-    "place": "unknown",
-    "city": "Furiani",
-    "departementNumber": "",
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788537600000,
-    "ending": 1788537600000,
-    "name": "Corsa Di A Festa Di U Sport",
-    "eventLink": "https://fr.milesrepublic.com/event/corsa-di-a-festa-di-u-sport-18007"
-  },
-  {
-    "place": "unknown",
     "city": "Quaregnon",
     "departementNumber": 99,
     "eventType": "running",
@@ -698,7 +659,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/la-grande-bosse-21km--la-petite-bosse-10km-2026/running-course-a-pied/1427507090682-24",
+    "eventLink": "https://www.klikego.com/inscription/la-grande-bosse-21km--la-petite-bosse-10km-2026/course-a-pied-running/1427507090682-24",
     "name": "La Grande Bosse 21km & la Petite Bosse 10km"
   },
   {
@@ -724,7 +685,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-la-tour-2026/running-course-a-pied/1693081209668-9",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-la-tour-2026/course-a-pied-running/1693081209668-9",
     "name": "Les Foulées de la Tour"
   },
   {
@@ -789,7 +750,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788566400000,
     "ending": 1788566400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-bois-riou-2026/running-course-a-pied/1780645915872-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-bois-riou-2026/course-a-pied-running/1780645915872-1",
     "name": "Trail de la vallée du Bois Riou"
   },
   {
@@ -1457,6 +1418,19 @@
   },
   {
     "place": "unknown",
+    "city": "Saint-parres-aux-tertres",
+    "departementNumber": 10,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "Echapee Du Tertre",
+    "eventLink": "https://fr.milesrepublic.com/event/echapee-du-tertre-14568"
+  },
+  {
+    "place": "unknown",
     "city": "Champniers",
     "departementNumber": 16,
     "eventType": "cycling",
@@ -1623,6 +1597,19 @@
     "ending": 1788645600000,
     "name": "Randonnée de l'Austreberthe",
     "eventLink": "https://fr.milesrepublic.com/event/randonnee-de-laustreberthe-11780"
+  },
+  {
+    "place": "unknown",
+    "city": "Bezannes",
+    "departementNumber": 51,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "Randonnée Du Chemin Des Dames",
+    "eventLink": "https://fr.milesrepublic.com/event/randonnee-du-chemin-des-dames-14578"
   },
   {
     "place": "unknown",
@@ -1834,6 +1821,19 @@
   },
   {
     "place": "unknown",
+    "city": "La Motte-servolex",
+    "departementNumber": 73,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788645600000,
+    "ending": 1788645600000,
+    "name": "Ultra Nuit Des Fruits",
+    "eventLink": "https://fr.milesrepublic.com/event/ultra-nuit-des-fruits-14569"
+  },
+  {
+    "place": "unknown",
     "city": "Mozac",
     "departementNumber": 63,
     "eventType": "cycling",
@@ -1933,7 +1933,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/10km-hexagone-trocadero-2026/running-course-a-pied/1724195398568-2",
+    "eventLink": "https://www.klikego.com/inscription/10km-hexagone-trocadero-2026/course-a-pied-running/1724195398568-2",
     "name": "10km Hexagone Trocadéro"
   },
   {
@@ -2063,7 +2063,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/la-braconienne-briaude-2026/running-course-a-pied/1776385987476-1",
+    "eventLink": "https://www.klikego.com/inscription/la-braconienne-briaude-2026/course-a-pied-running/1776385987476-1",
     "name": "La braconienne Briaude"
   },
   {
@@ -2203,7 +2203,7 @@
     "eventType": "running",
     "numberOfRaceVariants": 4,
     "registrationLink": "http://www.basse-goulaine.fr/",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1788652800000,
     "ending": 1788652800000,
     "name": "LES SENTIERS DE GOULAINE 2026",
@@ -2323,7 +2323,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-fontseche-2026/running-course-a-pied/1773451446403-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-fontseche-2026/course-a-pied-running/1773451446403-1",
     "name": "Trail de Fontseche"
   },
   {
@@ -2375,7 +2375,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-bandiat-2026/running-course-a-pied/1688433500099-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-bandiat-2026/course-a-pied-running/1688433500099-4",
     "name": "Trail du bandiat 2026"
   },
   {
@@ -2648,7 +2648,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789171200000,
     "ending": 1789171200000,
-    "eventLink": "https://www.klikego.com/inscription/st-pal-run-tour-2026/running-course-a-pied/1747882022646-2",
+    "eventLink": "https://www.klikego.com/inscription/st-pal-run-tour-2026/course-a-pied-running/1747882022646-2",
     "name": "St Pal' Run Tour 2026"
   },
   {
@@ -2973,7 +2973,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-lindoises--vaincre-ensemble-la-sclerose-en-plaques-2026/running-course-a-pied/1271467163297-22",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-lindoises--vaincre-ensemble-la-sclerose-en-plaques-2026/course-a-pied-running/1271467163297-22",
     "name": "Les Foulées Lindoises : vaincre ensemble la sclérose en plaques"
   },
   {
@@ -2986,7 +2986,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-dordogne-perigord-canoe-kayak-sup-2026/running-course-a-pied/1754357533977-2",
+    "eventLink": "https://www.klikego.com/inscription/marathon-dordogne-perigord-canoe-kayak-sup-2026/course-a-pied-running/1754357533977-2",
     "name": "Marathon Dordogne-Périgord Canoe Kayak SUP"
   },
   {
@@ -3064,7 +3064,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789257600000,
     "ending": 1789257600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-maree-2026/running-course-a-pied/1782507024143-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-maree-2026/course-a-pied-running/1782507024143-1",
     "name": "Trail de la grande marée"
   },
   {
@@ -3532,7 +3532,7 @@
     "registrationStatus": "unknown",
     "beginning": 1789776000000,
     "ending": 1789862400000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-trail-de-pons-2026/running-course-a-pied/1676018194759-7",
+    "eventLink": "https://www.klikego.com/inscription/ultra-trail-de-pons-2026/course-a-pied-running/1676018194759-7",
     "name": "Ultra Trail de Pons 2026"
   },
   {
@@ -6127,12 +6127,12 @@
     "city": "St berthevin",
     "departementNumber": 53,
     "eventType": "unknown",
-    "numberOfRaceVariants": 3,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1793491200000,
     "ending": 1793491200000,
-    "eventLink": "https://www.klikego.com/inscription/courses-nature-de-coupeau-2026/running-course-a-pied/1692753042601-4",
+    "eventLink": "https://www.klikego.com/inscription/courses-nature-de-coupeau-2026/course-a-pied-running/1692753042601-4",
     "name": "Courses Nature de Coupeau"
   },
   {
@@ -7003,7 +7003,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/running-course-a-pied/1632289277348-7",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/course-a-pied-running/1632289277348-7",
     "name": "CORRIDA DE CORBIE"
   },
   {
@@ -7159,7 +7159,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/biathlon-de-damgan-2026/running-course-a-pied/1758350054749-2",
+    "eventLink": "https://www.klikego.com/inscription/biathlon-de-damgan-2026/course-a-pied-running/1758350054749-2",
     "name": "Biathlon de Damgan 2026"
   },
   {
@@ -7258,12 +7258,12 @@
     "city": "LA MOTHE-ACHARD",
     "departementNumber": 85,
     "eventType": "running",
-    "numberOfRaceVariants": 3,
+    "numberOfRaceVariants": 2,
     "registrationLink": "http://acpachards.fr/",
     "registrationStatus": "open",
     "beginning": 1795910400000,
     "ending": 1795910400000,
-    "name": "LA CORRIDA DES ACHARDS",
+    "name": "LA CORRIDA DES ACHARDS 2026",
     "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3234"
   },
   {
@@ -7541,6 +7541,19 @@
   },
   {
     "place": "unknown",
+    "city": "Bouzille",
+    "departementNumber": 49,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797033600000,
+    "ending": 1797033600000,
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-la-tim-muco-meo-2026/course-a-pied-running/1786942826595-1",
+    "name": "Corrida de la Tim Muco Méo"
+  },
+  {
+    "place": "unknown",
     "city": "Malemort sur correze",
     "departementNumber": 19,
     "eventType": "unknown",
@@ -7666,7 +7679,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/running-course-a-pied/1624160890633-7",
+    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/course-a-pied-running/1624160890633-7",
     "name": "COURSE DE NOEL by Apiruntour"
   },
   {
@@ -7692,7 +7705,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/tlj5-trail-entre-landes-et-justice-2026/running-course-a-pied/1645087368296-7",
+    "eventLink": "https://www.klikego.com/inscription/tlj5-trail-entre-landes-et-justice-2026/course-a-pied-running/1645087368296-7",
     "name": "TLJ#5 - Trail Entre Landes et Justice"
   },
   {
@@ -7705,8 +7718,8 @@
     "registrationStatus": "unknown",
     "beginning": 1798243200000,
     "ending": 1798243200000,
-    "eventLink": "https://www.klikego.com/inscription/christmas-run-trail-nocturne-semi-urbain-et-marche-2026/running-course-a-pied/1768267476778-1",
-    "name": "CHRISTMAS RUN - Trail Nocturne Semi Urbain et Marche"
+    "eventLink": "https://www.klikego.com/inscription/christmas-run-2026-trail-nocturne-semi-urbain-de-8km-ou-16km-et-marche-de-8km/course-a-pied-running/1768267476778-1",
+    "name": "CHRISTMAS RUN 2026 - Trail Nocturne Semi Urbain de 8km ou 16km et Marche de 8km"
   },
   {
     "place": "unknown",
