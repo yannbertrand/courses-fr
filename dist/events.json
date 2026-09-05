@@ -183,19 +183,6 @@
   },
   {
     "place": "unknown",
-    "city": "Aigle",
-    "departementNumber": 99,
-    "eventType": "trail",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1787680800000,
-    "ending": 1788694200000,
-    "name": "Swiss Peaks",
-    "eventLink": "https://fr.milesrepublic.com/event/swiss-peaks-13253"
-  },
-  {
-    "place": "unknown",
     "city": "Espalion",
     "departementNumber": 12,
     "eventType": "cycling",
@@ -271,19 +258,6 @@
     "ending": 1788766200000,
     "name": "Trail des vallées",
     "eventLink": "https://fr.milesrepublic.com/event/trail-des-vallees-2449"
-  },
-  {
-    "place": "Champ de foire",
-    "city": "Argentan",
-    "departementNumber": 61,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788480000000,
-    "ending": 1788480000000,
-    "name": "10km d'Argentan 2026",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3234/10km-d-argentan-2026-argentan"
   },
   {
     "place": "unknown",
@@ -2429,6 +2403,19 @@
     "ending": 1788652800000,
     "eventLink": "https://www.klikego.com/inscription/triathlon-de-saint-gilles-croix-de-vie-2026/triathlon/1644021780895-7",
     "name": "Triathlon de Saint-Gilles-Croix-de-Vie 2026"
+  },
+  {
+    "place": "unknown",
+    "city": "Azé",
+    "departementNumber": 71,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788670800000,
+    "ending": 1788670800000,
+    "name": "Roc d'Azé",
+    "eventLink": "https://fr.milesrepublic.com/event/roc-daze-11731"
   },
   {
     "place": "unknown",
