@@ -261,19 +261,6 @@
   },
   {
     "place": "unknown",
-    "city": "Sommeval",
-    "departementNumber": 10,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788559200000,
-    "ending": 1788591600000,
-    "name": "Ultimate Man : Sommeval",
-    "eventLink": "https://fr.milesrepublic.com/event/ultimate-man-la-grande-corniche-14011"
-  },
-  {
-    "place": "unknown",
     "city": "La Baule-Escoublac",
     "departementNumber": 44,
     "eventType": "running",
@@ -586,32 +573,6 @@
   },
   {
     "place": "unknown",
-    "city": "Boigny-sur-Bionne",
-    "departementNumber": 45,
-    "eventType": "cycling",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788586200000,
-    "ending": 1788586200000,
-    "name": "Randonnée Orléanaise Senior et du Temps Libre",
-    "eventLink": "https://fr.milesrepublic.com/event/randonnee-orleanaise-senior-et-du-temps-libre-11749"
-  },
-  {
-    "place": "unknown",
-    "city": "Gouise",
-    "departementNumber": 3,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788588000000,
-    "ending": 1788588000000,
-    "name": "La gouisadingue",
-    "eventLink": "https://fr.milesrepublic.com/event/la-gouisadingue-2585"
-  },
-  {
-    "place": "unknown",
     "city": "Ayguesvives",
     "departementNumber": 31,
     "eventType": "running",
@@ -651,32 +612,6 @@
   },
   {
     "place": "unknown",
-    "city": "Aix-les-Bains",
-    "departementNumber": 73,
-    "eventType": "fun",
-    "numberOfRaceVariants": 0,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788591600000,
-    "ending": 1788591600000,
-    "name": "Handival ",
-    "eventLink": "https://fr.milesrepublic.com/event/handival-14065"
-  },
-  {
-    "place": "unknown",
-    "city": "Vimoutiers",
-    "departementNumber": 61,
-    "eventType": "trail",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788591600000,
-    "ending": 1788595200000,
-    "name": "Union Des Producteurs De Lait AOP",
-    "eventLink": "https://fr.milesrepublic.com/event/union-des-producteurs-de-lait-aop-17440"
-  },
-  {
-    "place": "unknown",
     "city": "Hauteville Les Dijon",
     "departementNumber": 21,
     "eventType": "running",
@@ -713,19 +648,6 @@
     "ending": 1788598800000,
     "name": "Trail de la Lande-Forêt",
     "eventLink": "https://fr.milesrepublic.com/event/trail-de-la-lande-foret-3000"
-  },
-  {
-    "place": "unknown",
-    "city": "Pauillac",
-    "departementNumber": 33,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "open",
-    "beginning": 1788593700000,
-    "ending": 1788594000000,
-    "name": "Marathon du Médoc",
-    "eventLink": "https://fr.milesrepublic.com/event/marathon-du-medoc-2885"
   },
   {
     "place": "unknown",
@@ -1972,7 +1894,7 @@
     "registrationStatus": "unknown",
     "beginning": 1788652800000,
     "ending": 1788652800000,
-    "eventLink": "https://www.klikego.com/inscription/course-du-coeur-premiere-edition-5-km-2026/running-course-a-pied/1774946889808-1",
+    "eventLink": "https://www.klikego.com/inscription/course-du-coeur-premiere-edition-5-km-2026/course-a-pied-running/1774946889808-1",
     "name": "COURSE DU COEUR - Première édition - 5 Km"
   },
   {
@@ -2416,6 +2338,84 @@
     "ending": 1788670800000,
     "name": "Roc d'Azé",
     "eventLink": "https://fr.milesrepublic.com/event/roc-daze-11731"
+  },
+  {
+    "place": "unknown",
+    "city": "La Gaubretiere",
+    "departementNumber": 85,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788670800000,
+    "ending": 1788680700000,
+    "name": "Gaubre'trail \"Eté\"",
+    "eventLink": "https://fr.milesrepublic.com/event/gaubretrail-ete-18022"
+  },
+  {
+    "place": "unknown",
+    "city": "Bagà",
+    "departementNumber": 99,
+    "eventType": "walk",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788670800000,
+    "ending": 1788766200000,
+    "name": "Pedraforca Xtrail",
+    "eventLink": "https://fr.milesrepublic.com/event/pedraforca-xtrail-15141"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-nazaire",
+    "departementNumber": 44,
+    "eventType": "cycling",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788672600000,
+    "ending": 1788672600000,
+    "name": "Rallye Cyclotourisme",
+    "eventLink": "https://fr.milesrepublic.com/event/rallye-cyclotourisme-14602"
+  },
+  {
+    "place": "unknown",
+    "city": "Ruy-Montceau",
+    "departementNumber": 38,
+    "eventType": "walk",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788672600000,
+    "ending": 1788678000000,
+    "name": "La berruyenne",
+    "eventLink": "https://fr.milesrepublic.com/event/la-berruyenne-2854"
+  },
+  {
+    "place": "unknown",
+    "city": "Matour",
+    "departementNumber": 71,
+    "eventType": "trail",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788672600000,
+    "ending": 1788681600000,
+    "name": "Foulée matourine au clair de lune",
+    "eventLink": "https://fr.milesrepublic.com/event/foulee-matourine-au-clair-de-lune-2786"
+  },
+  {
+    "place": "unknown",
+    "city": "Varacieux",
+    "departementNumber": 38,
+    "eventType": "trail",
+    "numberOfRaceVariants": 9,
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1788672600000,
+    "ending": 1788684300000,
+    "name": "Trail des Chambaran",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-chambaran-2848"
   },
   {
     "place": "unknown",
@@ -7629,6 +7629,19 @@
     "ending": 1797120000000,
     "eventLink": "https://www.klikego.com/inscription/foulees-fest-hiv-de-noel-2026/running-course-a-pied/1787099541573-1",
     "name": "Foulées Fest' Hiv' de Noel"
+  },
+  {
+    "place": "unknown",
+    "city": "Cesson sevigne",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797120000000,
+    "ending": 1797120000000,
+    "eventLink": "https://www.klikego.com/inscription/la-corrida-cessonnaise-2026/course-a-pied-running/1716926134149-3",
+    "name": "La Corrida Cessonnaise 2026"
   },
   {
     "place": "unknown",
