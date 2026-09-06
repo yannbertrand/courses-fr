@@ -859,19 +859,6 @@
   },
   {
     "place": "unknown",
-    "city": "Allassac",
-    "departementNumber": 19,
-    "eventType": "running",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1788714000000,
-    "ending": 1788714000000,
-    "name": "10 Km Allassac",
-    "eventLink": "https://fr.milesrepublic.com/event/10-km-allassac-11575"
-  },
-  {
-    "place": "unknown",
     "city": "Olemps",
     "departementNumber": "",
     "eventType": "cycling",
@@ -2221,6 +2208,19 @@
     "ending": 1788850800000,
     "name": "Course à l'échalote",
     "eventLink": "https://fr.milesrepublic.com/event/course-a-lechalote-2847"
+  },
+  {
+    "place": "unknown",
+    "city": "Châtelus-le-Marcheix",
+    "departementNumber": 23,
+    "eventType": "trail",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1788850800000,
+    "ending": 1788852600000,
+    "name": "Trail des gorges du Thaurion",
+    "eventLink": "https://fr.milesrepublic.com/event/trail-des-gorges-du-thaurion-6501"
   },
   {
     "place": "unknown",
@@ -6175,6 +6175,19 @@
     "name": "Brangokor"
   },
   {
+    "place": "unknown",
+    "city": "Corps nuds",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794009600000,
+    "ending": 1794009600000,
+    "eventLink": "https://www.klikego.com/inscription/corps-nuds-by-night-2026/running-course-a-pied-marche-nordique/1408585609557-6",
+    "name": "Corps Nuds by Night 2026"
+  },
+  {
     "place": "ORÉE-D'ANJOU, Salle des Hautes Cartelles",
     "city": "La Varenne",
     "departementNumber": 49,
@@ -7185,7 +7198,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/noz-trail-des-lutins-2026/running-course-a-pied/1663438530698-5",
+    "eventLink": "https://www.klikego.com/inscription/noz-trail-des-lutins-2026/course-a-pied-running/1663438530698-5",
     "name": "Noz Trail des Lutins 2026"
   },
   {
