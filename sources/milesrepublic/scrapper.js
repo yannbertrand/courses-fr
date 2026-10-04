@@ -7,7 +7,7 @@ import {
 
 const API_URL = 'https://search.milesrepublic.com/multi-search';
 const TOKEN =
-  '6ec06c9d0b2ad245d4e7d098af96c5ba660e5f3b9a458200116cd124f3ddae6e';
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZWFyY2hSdWxlcyI6eyJmcmFfZXZlbnRzIjp7ImZpbHRlciI6ImV2ZW50U3RhdHVzID0gXCJMSVZFXCIifSwiZnJhX2V2ZW50c19nZW8iOnsiZmlsdGVyIjoiZXZlbnRTdGF0dXMgPSBcIkxJVkVcIiJ9LCJnZW9uYW1lcyI6e319LCJhcGlLZXlVaWQiOiJhMWExZjViMC03MDkxLTRiZmUtOWNiMy00ZjMwNWI3OTM2YzIiLCJleHAiOjE3OTExMjYxMjl9.V05wzTQ5EK5cVqTEBUH2dIgn345iLNcnWEwAomKm_90';
 const BASE_URL = 'https://fr.milesrepublic.com';
 
 const MAX_PAGES = 50;
