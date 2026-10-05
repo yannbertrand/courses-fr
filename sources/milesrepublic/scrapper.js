@@ -1,3 +1,4 @@
+import { getBrowserPage } from '../../browser/browser.js';
 import { getDateRange, isInRange } from '../utils/date.js';
 import {
   dedupeEvents,
@@ -6,11 +7,14 @@ import {
 } from '../utils/scrapper-common.js';
 
 const API_URL = 'https://search.milesrepublic.com/multi-search';
-const TOKEN =
-  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZWFyY2hSdWxlcyI6eyJmcmFfZXZlbnRzIjp7ImZpbHRlciI6ImV2ZW50U3RhdHVzID0gXCJMSVZFXCIifSwiZnJhX2V2ZW50c19nZW8iOnsiZmlsdGVyIjoiZXZlbnRTdGF0dXMgPSBcIkxJVkVcIiJ9LCJnZW9uYW1lcyI6e319LCJhcGlLZXlVaWQiOiJhMWExZjViMC03MDkxLTRiZmUtOWNiMy00ZjMwNWI3OTM2YzIiLCJleHAiOjE3OTExMjYxMjl9.V05wzTQ5EK5cVqTEBUH2dIgn345iLNcnWEwAomKm_90';
 const BASE_URL = 'https://fr.milesrepublic.com';
 
+const SITE_URL =
+  'https://fr.milesrepublic.com/search?geoSearch=52.526157916110805%2C9.7%2C36.38341995380996%2C-5.5&geoLocation=France';
+const SEARCH_URL = 'https://fr.milesrepublic.com/_search/multi-search';
+
 const MAX_PAGES = 50;
+let cachedToken = null;
 
 function getBody(after, before, withTieBreaker = true) {
   return {
@@ -65,28 +69,96 @@ function mapHit(hit) {
   });
 }
 
-async function fetchPage(body) {
-  const payload = body;
+export async function fetchFreshToken(timeoutMs = 30000) {
+  const { browser, page } = await getBrowserPage();
 
+  try {
+    const tokenPromise = new Promise((resolve, reject) => {
+      const timer = setTimeout(
+        () => reject(new Error('Token non trouvé (timeout)')),
+        timeoutMs,
+      );
+
+      page.on('request', (request) => {
+        console.log(request.url());
+        if (!request.url().includes(SEARCH_URL)) return;
+
+        const auth = request.headers()['authorization'];
+        if (auth?.startsWith('Bearer ')) {
+          clearTimeout(timer);
+          resolve(auth.slice('Bearer '.length));
+        }
+      });
+    });
+
+    // Pas de "networkidle" : on veut juste déclencher la 1re requête de recherche
+    await page.goto(SITE_URL, { waitUntil: 'domcontentloaded' });
+
+    return await tokenPromise;
+  } finally {
+    await browser.close();
+  }
+}
+
+function isTokenValid(token, marginSeconds = 60) {
+  try {
+    const payload = JSON.parse(
+      Buffer.from(token.split('.')[1], 'base64url').toString('utf8'),
+    );
+    return payload.exp > Date.now() / 1000 + marginSeconds;
+  } catch {
+    return false;
+  }
+}
+
+async function getToken(forceRefresh = false) {
+  if (!forceRefresh || (cachedToken != null && isTokenValid(cachedToken))) {
+    return cachedToken;
+  }
+  console.log("[MR] Récupération d'un nouveau token via Puppeteer");
+  cachedToken = await fetchFreshToken();
+  return cachedToken;
+}
+
+async function postSearch(body, token) {
   const res = await fetch(API_URL, {
     method: 'POST',
     headers: {
-      Authorization: `Bearer ${TOKEN}`,
+      Authorization: `Bearer ${token}`,
       'Content-Type': 'application/json',
       Accept: '*/*',
       Origin: 'https://fr.milesrepublic.com',
       Referer: 'https://fr.milesrepublic.com/',
     },
-    body: JSON.stringify(payload),
+    body: JSON.stringify(body),
   });
 
   if (!res.ok) {
-    throw new Error(`HTTP ${res.status}: ${await res.text()}`);
+    const error = new Error(`HTTP ${res.status}: ${await res.text()}`);
+    error.status = res.status;
+    throw error;
   }
   return res.json();
 }
 
-export async function listFutureEvents(nbMois) {
+async function fetchPage(body, baseToken) {
+  if (baseToken != null) {
+    cachedToken = baseToken;
+  }
+  const token = baseToken ?? (await getToken());
+
+  try {
+    return await postSearch(body, token);
+  } catch (err) {
+    if (err.status !== 401 && err.status !== 403) throw err;
+
+    console.warn('[MR] Token rejeté, renouvellement et nouvelle tentative');
+    const freshToken = await getToken(true);
+    return postSearch(body, freshToken);
+  }
+}
+
+export async function listFutureEvents(nbMois, baseToken) {
   console.log('[MR] Récupération des événements');
   const { now, limitDate } = getDateRange(nbMois);
   const events = [];
@@ -101,7 +173,7 @@ export async function listFutureEvents(nbMois) {
     body.queries[0].page = page;
     let data;
     try {
-      data = await fetchPage(body);
+      data = await fetchPage(body, baseToken);
     } catch (err) {
       if (page === 1 && /invalid_sort|sort/i.test(err.message)) {
         console.warn(
@@ -109,7 +181,7 @@ export async function listFutureEvents(nbMois) {
         );
         body = getBody(now.getTime(), limitDate.getTime(), false);
         body.queries[0].page = page;
-        data = await fetchPage(body);
+        data = await fetchPage(body, baseToken);
       } else throw err;
     }
     const result = data.results[0];
