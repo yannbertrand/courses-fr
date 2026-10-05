@@ -23,32 +23,6 @@ describe('#espaceCompetition.listFutureEvents()', () => {
     expect(list).toMatchInlineSnapshot(`
       [
         {
-          "beginning": 1791072000000,
-          "city": "ANGERS",
-          "departementNumber": 49,
-          "ending": 1791072000000,
-          "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3198",
-          "eventType": "course_d_orientation",
-          "name": "COURSE D'ORIENTATAION 2026",
-          "numberOfRaceVariants": 5,
-          "place": "unknown",
-          "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3198",
-          "registrationStatus": "open",
-        },
-        {
-          "beginning": 1791072000000,
-          "city": "ROCHESERVIERE",
-          "departementNumber": 85,
-          "ending": 1791072000000,
-          "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3136",
-          "eventType": "trail",
-          "name": "TRAIL DE LA SOURCE",
-          "numberOfRaceVariants": 3,
-          "place": "unknown",
-          "registrationLink": "https://www.facebook.com/share/18N6fHYb9u/",
-          "registrationStatus": "open",
-        },
-        {
           "beginning": 1791590400000,
           "city": "NOIRMOUTIER-EN-L'ÎLE",
           "departementNumber": 85,
