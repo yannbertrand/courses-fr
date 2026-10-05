@@ -9,6 +9,23 @@ import {
 const AGENDA_URL =
   'https://www.espace-competition.com/index.php?module=accueil&action=agenda';
 
+async function clickWithRetry(page, selector, attempts = 3) {
+  for (let attempt = 1; attempt <= attempts; attempt++) {
+    try {
+      await page.waitForSelector(selector, { visible: true, timeout: 10000 });
+      await page.click(selector);
+      return;
+    } catch (error) {
+      const retryable =
+        error.message.includes('detached') ||
+        error.message.includes('not clickable') ||
+        error.message.includes('not visible');
+      if (!retryable || attempt === attempts) throw error;
+      await new Promise((resolve) => setTimeout(resolve, 500 * attempt));
+    }
+  }
+}
+
 export async function listFutureEvents(nbMois = 12, { page }) {
   console.log(`[EC] Récupération des événements`);
 
@@ -33,16 +50,33 @@ export async function listFutureEvents(nbMois = 12, { page }) {
   for (let i = 2; i <= nbMois; i++) {
     console.log(`[EC] Chargement du mois suivant (${i}/${nbMois})...`);
 
+    const getMonthLabel = () =>
+      page.$eval(
+        'td.mois-sup[data-suiv="1"]',
+        (el) => el.closest('table')?.innerText ?? '',
+      );
+
+    const before = await getMonthLabel();
+
     await Promise.all([
       page
         .waitForResponse((res) => res.url().includes('agenda_charger'), {
           timeout: 10000,
         })
         .catch(() => {}),
-      page.click('td.mois-sup[data-suiv="1"]'),
+      clickWithRetry(page, 'td.mois-sup[data-suiv="1"]'),
     ]);
 
-    await new Promise((resolve) => setTimeout(resolve, 300));
+    await page
+      .waitForFunction(
+        (previous) => {
+          const el = document.querySelector('td.mois-sup[data-suiv="1"]');
+          return el && (el.closest('table')?.innerText ?? '') !== previous;
+        },
+        { timeout: 10000 },
+        before,
+      )
+      .catch(() => {});
   }
 
   console.log('[EC] Extraction des événements...');
