@@ -14,7 +14,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "postinstall": "npx puppeteer browsers install firefox",
+    "postinstall": "puppeteer browsers install chrome",
     "scrap": "node index.js",
     "build": "node build/build.js",
     "test": "vitest --test-timeout=15000"

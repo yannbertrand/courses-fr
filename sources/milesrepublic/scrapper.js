@@ -90,9 +90,10 @@ export async function fetchFreshToken(timeoutMs = 30000) {
         }
       });
     });
-
-    // Pas de "networkidle" : on veut juste déclencher la 1re requête de recherche
-    await page.goto(SITE_URL, { waitUntil: 'domcontentloaded' });
+    // Ne pas await le goto : on laisse le challenge se faire en parallèle
+    page
+      .goto(SITE_URL, { waitUntil: 'networkidle2', timeout: timeoutMs })
+      .catch(() => {});
 
     return await tokenPromise;
   } finally {
