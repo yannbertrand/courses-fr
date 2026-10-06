@@ -763,7 +763,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/les-petites-foulees-de-la-baie-2026/running-course-a-pied/1693089172913-4",
+    "eventLink": "https://www.klikego.com/inscription/les-petites-foulees-de-la-baie-2026/course-a-pied-running/1693089172913-4",
     "name": "Les petites foulées de la baie"
   },
   {
@@ -1270,7 +1270,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/albi-24h-6h--100km-2026/running-course-a-pied/1384568432549-16",
+    "eventLink": "https://www.klikego.com/inscription/albi-24h-6h--100km-2026/course-a-pied-running/1384568432549-16",
     "name": "ALBI 24H - 6H -100Km"
   },
   {
@@ -2466,7 +2466,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-val-de-scie-tvs-2026/running-course-a-pied/1746839575479-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-val-de-scie-tvs-2026/course-a-pied-running/1746839575479-2",
     "name": "Trail du Val de Scie (TVS)"
   },
   {
@@ -3064,7 +3064,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-et-foulees-de-la-st-martin-2026/running-course-a-pied-marche-nordique/1440318552609-24",
+    "eventLink": "https://www.klikego.com/inscription/trail-et-foulees-de-la-st-martin-2026/course-a-pied-running/1440318552609-24",
     "name": "Trail et Foulees de la St Martin"
   },
   {
@@ -4745,6 +4745,19 @@
     "name": "CHRISTMAS RUN 2026 - Trail Nocturne Semi Urbain de 8km ou 16km et Marche de 8km"
   },
   {
+    "place": "Beaujoire",
+    "city": "Nantes",
+    "departementNumber": 44,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1798243200000,
+    "ending": 1798243200000,
+    "name": "Corrida de la Beaujoire",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3618/corrida-de-la-beaujoire-nantes"
+  },
+  {
     "place": "unknown",
     "city": "Chateau gontier",
     "departementNumber": 53,
@@ -5222,7 +5235,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804982400000,
     "ending": 1804982400000,
-    "eventLink": "https://www.klikego.com/inscription/ekiden-de-laval-2027/running-course-a-pied/1731830941286-3",
+    "eventLink": "https://www.klikego.com/inscription/ekiden-de-laval-2027/course-a-pied-running/1731830941286-3",
     "name": "EKIDEN de LAVAL"
   },
   {
@@ -5510,6 +5523,19 @@
     "ending": 1806796800000,
     "eventLink": "https://www.klikego.com/inscription/trail-de-la-vezere-2027/running-course-a-pied/1701808925456-4",
     "name": "Trail de la Vézère 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Mezangers",
+    "departementNumber": 53,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807315200000,
+    "ending": 1807315200000,
+    "eventLink": "https://www.klikego.com/inscription/course-nature-des-coevrons-cnc-2027/course-a-pied-running/1720932298665-3",
+    "name": "Course Nature des Coëvrons - CNC"
   },
   {
     "place": "unknown",
