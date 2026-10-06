@@ -763,7 +763,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/les-petites-foulees-de-la-baie-2026/running-course-a-pied/1693089172913-4",
+    "eventLink": "https://www.klikego.com/inscription/les-petites-foulees-de-la-baie-2026/course-a-pied-running/1693089172913-4",
     "name": "Les petites foulées de la baie"
   },
   {
@@ -1807,6 +1807,19 @@
     "name": "TRAIL URBAIN"
   },
   {
+    "place": "unknown",
+    "city": "Toulouse",
+    "departementNumber": 31,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1792281600000,
+    "ending": 1792281600000,
+    "eventLink": "https://www.klikego.com/inscription/trails-relais-by-yenzclub-2026/course-a-pied-running/1790058110102-1",
+    "name": "TRAILS RELAIS by YENZCLUB"
+  },
+  {
     "place": "Piscine Léo Lagrange, Allée de l'Île Gloriette",
     "city": "Nantes",
     "departementNumber": 44,
@@ -1909,19 +1922,6 @@
     "ending": 1792800000000,
     "eventLink": "https://www.klikego.com/inscription/marathon-de-chablis-2026/running-marche-nordique/1699664782865-8",
     "name": "Marathon de Chablis"
-  },
-  {
-    "place": "unknown",
-    "city": "Guipry messac",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 10,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792800000000,
-    "ending": 1792800000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-bbc-boeuvres-baron-corbinieres-2026/running-course-a-pied/1556787024954-9",
-    "name": "TRAIL BBC (Boeuvres Baron Corbiniéres)"
   },
   {
     "place": "Chateau du Plessis-Macé",
@@ -2219,7 +2219,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/running-course-a-pied/1770757732257-1",
+    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/course-a-pied-running/1770757732257-1",
     "name": "Brangokor"
   },
   {
