@@ -1140,7 +1140,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/running-course-a-pied/1472342761951-11",
+    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/course-a-pied-running/1472342761951-11",
     "name": "Kastell Trail de PLOMELIN"
   },
   {
@@ -1231,7 +1231,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-urbain-lamballe-armor-2026/running-course-a-pied/1692757829346-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-urbain-lamballe-armor-2026/course-a-pied-running/1692757829346-7",
     "name": "Trail Urbain Lamballe Armor"
   },
   {
@@ -1335,7 +1335,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2026/running-course-a-pied/1284761384288-44",
+    "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2026/course-a-pied-running/1284761384288-44",
     "name": "Marathon Vert Rennes Groupe Interaction"
   },
   {
@@ -2258,7 +2258,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-baie-de-quiberon-2026/running-course-a-pied/1681847174164-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-baie-de-quiberon-2026/course-a-pied-running/1681847174164-4",
     "name": "Trail de la Baie de Quiberon"
   },
   {
@@ -2689,6 +2689,19 @@
     "ending": 1794355200000,
     "eventLink": "https://www.klikego.com/inscription/vetathlon-de-broons-2026/triathlon/1566979159728-7",
     "name": "vetathlon de Broons 2026"
+  },
+  {
+    "place": "unknown",
+    "city": "Lorient",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794614400000,
+    "ending": 1794614400000,
+    "eventLink": "https://www.klikego.com/inscription/defi-relais-course-et-marche-telethon--lorient-2026/course-a-pied-running/1757480349541-2",
+    "name": "Défi relais Course et marche Téléthon – Lorient 2026"
   },
   {
     "place": "unknown",
@@ -4494,7 +4507,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-camon-2026/course-a-pied-running/1789785348913-1",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-camon-2026/course-a-pied-running-marche-nordique/1789785348913-1",
     "name": "Corrida de Camon"
   },
   {
@@ -4691,6 +4704,19 @@
     "ending": 1797724800000,
     "eventLink": "https://www.klikego.com/inscription/tlj5-trail-entre-landes-et-justice-2026/running-course-a-pied/1645087368296-7",
     "name": "TLJ#5 - Trail Entre Landes et Justice"
+  },
+  {
+    "place": "unknown",
+    "city": "Le lardin st lazare",
+    "departementNumber": 24,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797724800000,
+    "ending": 1797724800000,
+    "eventLink": "https://www.klikego.com/inscription/trail-du-pere-noel-2026/course-a-pied-running/1747082851006-4",
+    "name": "Trail du père noël"
   },
   {
     "place": "ROUTE DE PUCEUL, NOZAY",
@@ -5313,7 +5339,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805500800000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-bayeux-2027/running-course-a-pied/1714596490384-3",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-bayeux-2027/course-a-pied-running/1714596490384-3",
     "name": "Les Foulées de Bayeux"
   },
   {
