@@ -2146,6 +2146,19 @@
   },
   {
     "place": "unknown",
+    "city": "MAINE ET LOIRE",
+    "departementNumber": 49,
+    "eventType": "escalade",
+    "numberOfRaceVariants": 10,
+    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3245",
+    "registrationStatus": "open",
+    "beginning": 1793491200000,
+    "ending": 1793491200000,
+    "name": "MELTS 2026/2027 (RÉSERVÉ ELL)",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3245"
+  },
+  {
+    "place": "unknown",
     "city": "Moulidars",
     "departementNumber": 16,
     "eventType": "unknown",
@@ -2286,6 +2299,19 @@
     "ending": 1794096000000,
     "eventLink": "https://www.klikego.com/inscription/biathlon-de-loust-courir-viser-se-depasser-2026/running-course-a-pied/1745401144984-3",
     "name": "Biathlon de l'Oust: Courir, viser, se dépasser"
+  },
+  {
+    "place": "unknown",
+    "city": "Surgeres",
+    "departementNumber": 17,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794096000000,
+    "ending": 1794096000000,
+    "eventLink": "https://www.klikego.com/inscription/bike-and-run-aunis-sud-2026/triathlon/1755892394468-2",
+    "name": "BIKE AND RUN AUNIS SUD"
   },
   {
     "place": "unknown",
@@ -3025,7 +3051,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-lacave-2026/running-course-a-pied/1756323308579-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-lacave-2026/course-a-pied-running/1756323308579-2",
     "name": "Trail de Lacave 2026"
   },
   {
@@ -3810,6 +3836,19 @@
   },
   {
     "place": "unknown",
+    "city": "Murat",
+    "departementNumber": 15,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1796428800000,
+    "ending": 1796428800000,
+    "eventLink": "https://www.klikego.com/inscription/lecir-hivernal-2026/course-a-pied-running/1472802679859-14",
+    "name": "L'Ecir Hivernal"
+  },
+  {
+    "place": "unknown",
     "city": "Eymoutiers",
     "departementNumber": 87,
     "eventType": "unknown",
@@ -3896,7 +3935,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796428800000,
-    "eventLink": "https://www.klikego.com/inscription/telethon-hent-melen-2026/running-course-a-pied/1552209890160-15",
+    "eventLink": "https://www.klikego.com/inscription/telethon-hent-melen-2026/course-a-pied-running/1552209890160-15",
     "name": "TELETHON - HENT MELEN"
   },
   {
@@ -4078,7 +4117,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/running-course-a-pied/1409279910468-13",
+    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/course-a-pied-running/1409279910468-13",
     "name": "ROTTE DES GOBIONS VERTS 2026"
   },
   {
@@ -4247,7 +4286,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-quintinaise-2026/running-course-a-pied/1755033064048-2",
+    "eventLink": "https://www.klikego.com/inscription/corrida-quintinaise-2026/course-a-pied-running/1755033064048-2",
     "name": "Corrida Quintinaise"
   },
   {
@@ -4663,7 +4702,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/running-course-a-pied/jceb_1353799518037-29",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/course-a-pied-running/jceb_1353799518037-29",
     "name": "LES FOULEES DU PERE NOEL 2026"
   },
   {
@@ -4832,7 +4871,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799539200000,
     "ending": 1799539200000,
-    "eventLink": "https://www.klikego.com/inscription/23eme-corrida-de-lepiphanie-2027/running-course-a-pied/1444796229443-17",
+    "eventLink": "https://www.klikego.com/inscription/23eme-corrida-de-lepiphanie-2027/course-a-pied-running/1444796229443-17",
     "name": "23ème CORRIDA DE L'EPIPHANIE"
   },
   {
@@ -5404,7 +5443,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806278400000,
     "ending": 1806278400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/running-course-a-pied/1736056005202-3",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/course-a-pied-running/1736056005202-3",
     "name": "Les Foulées Iodées d'an arvor"
   },
   {
