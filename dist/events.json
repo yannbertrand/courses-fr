@@ -139,7 +139,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791590400000,
     "ending": 1791590400000,
-    "eventLink": "https://www.klikego.com/inscription/cazinight-2026/running-course-a-pied/1772665343668-2",
+    "eventLink": "https://www.klikego.com/inscription/cazinight-2026/course-a-pied-running/1772665343668-2",
     "name": "Cazinight"
   },
   {
@@ -799,7 +799,7 @@
     "eventType": "poursuite_sur_terre",
     "numberOfRaceVariants": 4,
     "registrationLink": "https://www.facebook.com/groups/4155814168077047/",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1791676800000,
     "ending": 1791676800000,
     "name": "POURSUITE SUR TERRE - TROPHÉE MAINE ANJOU ÉPREUVE DE CHOUE",
@@ -906,7 +906,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-chateaux---montreuil-bellay-11-oct-2026/running-course-a-pied/1717871774057-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-chateaux---montreuil-bellay-11-oct-2026/course-a-pied-running/1717871774057-2",
     "name": "Trail des Châteaux  ; Montreuil-Bellay 11 oct 2026"
   },
   {
@@ -2024,7 +2024,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793318400000,
     "ending": 1793491200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-belle-dorgeres-2026/running-course-a-pied/1655194179144-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-belle-dorgeres-2026/course-a-pied-running/1655194179144-5",
     "name": "Trail de la Belle d'Orgères"
   },
   {
@@ -2531,7 +2531,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/43eme-edition-des-foulees-erceennes-2026/running-course-a-pied/1361312277407-18",
+    "eventLink": "https://www.klikego.com/inscription/43eme-edition-des-foulees-erceennes-2026/course-a-pied-running/1361312277407-18",
     "name": "43ème édition des Foulées Ercéennes"
   },
   {
@@ -2687,7 +2687,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-tro-bro-melrant-le-ttbm-11eme-edition---2026/running-course-a-pied/1469331681857-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-tro-bro-melrant-le-ttbm-11eme-edition---2026/course-a-pied-running/1469331681857-14",
     "name": "Trail Tro Bro Melrant - Le TTBM - 11ème édition -"
   },
   {
@@ -2804,7 +2804,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/t3-trail-2026/running-course-a-pied/1748633932450-1",
+    "eventLink": "https://www.klikego.com/inscription/t3-trail-2026/course-a-pied-running/1748633932450-1",
     "name": "T3 TRAIL"
   },
   {
@@ -3896,7 +3896,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796428800000,
-    "eventLink": "https://www.klikego.com/inscription/menestrail-2026/running-course-a-pied/1472150551876-14",
+    "eventLink": "https://www.klikego.com/inscription/menestrail-2026/course-a-pied-running/1472150551876-14",
     "name": "MENESTRAIL"
   },
   {
@@ -4184,6 +4184,19 @@
     "ending": 1796515200000,
     "eventLink": "https://www.klikego.com/inscription/trail-du-porteur-deau-2026/course-a-pied-running/1380671358520-19",
     "name": "Trail du Porteur d'Eau"
+  },
+  {
+    "place": "unknown",
+    "city": "Landivisiau",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1796947200000,
+    "ending": 1796947200000,
+    "eventLink": "https://www.klikego.com/inscription/kerzoutrail-2026/course-a-pied-running/1790212631020-1",
+    "name": "Kerzou'Trail"
   },
   {
     "place": "unknown",
@@ -4496,6 +4509,19 @@
     "ending": 1797120000000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-de-noel-de-st-edern-2026/course-a-pied-running/1787682863879-1",
     "name": "Les Foulées de Noël de St Edern"
+  },
+  {
+    "place": "unknown",
+    "city": "Mondeville",
+    "departementNumber": 14,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797120000000,
+    "ending": 1797120000000,
+    "eventLink": "https://www.klikego.com/inscription/les-sportifs-ont-du-coeur-2026/course-a-pied-running/1740275131381-4",
+    "name": "LES SPORTIFS ONT DU COEUR"
   },
   {
     "place": "unknown",
@@ -4850,19 +4876,6 @@
   },
   {
     "place": "unknown",
-    "city": "St gervais",
-    "departementNumber": 33,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1798934400000,
-    "ending": 1798934400000,
-    "eventLink": "https://www.klikego.com/inscription/detox-relais-2027/running-course-a-pied-marche-nordique/1789173975679-1",
-    "name": "Détox Relais 2027"
-  },
-  {
-    "place": "unknown",
     "city": "Daoulas",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -5133,6 +5146,19 @@
     "ending": 1802044800000,
     "eventLink": "https://www.klikego.com/inscription/la-course-au-large-2027/course-a-pied-running/1497390259945-11",
     "name": "La Course au large"
+  },
+  {
+    "place": "unknown",
+    "city": "Chalvignac",
+    "departementNumber": 15,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1802476800000,
+    "ending": 1802476800000,
+    "eventLink": "https://www.klikego.com/inscription/raid-des-gabariers-2027/course-a-pied-running/1497821519858-9",
+    "name": "Raid des Gabariers 2027"
   },
   {
     "place": "unknown",
