@@ -581,7 +581,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/course-mys-rose-2026/running-course-a-pied/1787698973990-1",
+    "eventLink": "https://www.klikego.com/inscription/course-mys-rose-2026/course-a-pied-running/1787698973990-1",
     "name": "course m'Ys Rose"
   },
   {
@@ -620,7 +620,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-bruzoises-2026/running-course-a-pied/1493697833382-10",
+    "eventLink": "https://www.klikego.com/inscription/foulees-bruzoises-2026/course-a-pied-running/1493697833382-10",
     "name": "Foulées Bruzoises"
   },
   {
@@ -633,7 +633,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/la-boucle-du-feu-2026/running-course-a-pied/1779817536081-1",
+    "eventLink": "https://www.klikego.com/inscription/la-boucle-du-feu-2026/course-a-pied-running/1779817536081-1",
     "name": "La boucle du feu"
   },
   {
@@ -659,7 +659,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/la-medievale-de-parthenay-2026/running-course-a-pied/1660961364832-5",
+    "eventLink": "https://www.klikego.com/inscription/la-medievale-de-parthenay-2026/course-a-pied-running/1660961364832-5",
     "name": "La médiévale de Parthenay"
   },
   {
@@ -893,7 +893,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-2-chapelles-2026/running-course-a-pied/1540943251985-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-2-chapelles-2026/course-a-pied-running/1540943251985-7",
     "name": "Trail des 2 Chapelles"
   },
   {
@@ -1335,7 +1335,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2026/running-course-a-pied/1284761384288-44",
+    "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2026/course-a-pied-running/1284761384288-44",
     "name": "Marathon Vert Rennes Groupe Interaction"
   },
   {
@@ -2146,19 +2146,6 @@
   },
   {
     "place": "unknown",
-    "city": "MAINE ET LOIRE",
-    "departementNumber": 49,
-    "eventType": "escalade",
-    "numberOfRaceVariants": 10,
-    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3245",
-    "registrationStatus": "open",
-    "beginning": 1793491200000,
-    "ending": 1793491200000,
-    "name": "MELTS 2026/2027 (RÉSERVÉ ELL)",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3245"
-  },
-  {
-    "place": "unknown",
     "city": "Moulidars",
     "departementNumber": 16,
     "eventType": "unknown",
@@ -2305,7 +2292,7 @@
     "city": "Surgeres",
     "departementNumber": 17,
     "eventType": "unknown",
-    "numberOfRaceVariants": 5,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
@@ -2583,7 +2570,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/cross-du-courrier-2026/running-course-a-pied/1309577085500-16",
+    "eventLink": "https://www.klikego.com/inscription/cross-du-courrier-2026/course-a-pied-running/1309577085500-16",
     "name": "Cross du Courrier"
   },
   {
@@ -3220,7 +3207,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/pasly-noctrail-2026/running-course-a-pied/1789079518254-1",
+    "eventLink": "https://www.klikego.com/inscription/pasly-noctrail-2026/course-a-pied-running/1789079518254-1",
     "name": "PASLY NOC'TRAIL"
   },
   {
@@ -3298,7 +3285,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/festival-du-cross-festirun-et-yffic-trail-2026/running-course-a-pied/1591762055438-11",
+    "eventLink": "https://www.klikego.com/inscription/festival-du-cross-festirun-et-yffic-trail-2026/course-a-pied-running/1591762055438-11",
     "name": "Festival du Cross - Festi'Run et Yffic Trail"
   },
   {
@@ -3940,6 +3927,19 @@
   },
   {
     "place": "unknown",
+    "city": "Languidic",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1796428800000,
+    "ending": 1796428800000,
+    "eventLink": "https://www.klikego.com/inscription/telethon-endurance-2026/course-a-pied-running/1636447435100-8",
+    "name": "TELETHON Endurance"
+  },
+  {
+    "place": "unknown",
     "city": "Kourou",
     "departementNumber": 97,
     "eventType": "unknown",
@@ -4182,7 +4182,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-porteur-deau-2026/running-course-a-pied/1380671358520-19",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-porteur-deau-2026/course-a-pied-running/1380671358520-19",
     "name": "Trail du Porteur d'Eau"
   },
   {
@@ -4429,7 +4429,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/15eme-edition-de-la-guignennaise-2026/running-course-a-pied/jceb_1377094807352-19",
+    "eventLink": "https://www.klikego.com/inscription/15eme-edition-de-la-guignennaise-2026/course-a-pied-running/jceb_1377094807352-19",
     "name": "15ème édition de la Guignennaise"
   },
   {
@@ -4494,7 +4494,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-noel-de-st-edern-2026/running-course-a-pied/1787682863879-1",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-noel-de-st-edern-2026/course-a-pied-running/1787682863879-1",
     "name": "Les Foulées de Noël de St Edern"
   },
   {
@@ -4759,6 +4759,19 @@
   },
   {
     "place": "unknown",
+    "city": "LE LION D'ANGERS",
+    "departementNumber": 49,
+    "eventType": "vtt_triathlon_trail",
+    "numberOfRaceVariants": 9,
+    "registrationLink": "http://triple-race.com/",
+    "registrationStatus": "open",
+    "beginning": 1797811200000,
+    "ending": 1797811200000,
+    "name": "LA TRIPLE RACE 2026",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3246"
+  },
+  {
+    "place": "unknown",
     "city": "Sable sur sarthe",
     "departementNumber": 72,
     "eventType": "unknown",
@@ -4834,6 +4847,19 @@
     "ending": 1798934400000,
     "eventLink": "https://www.klikego.com/inscription/corrida-darnage-2027/running-course-a-pied/1429816663910-11",
     "name": "Corrida d'Arnage"
+  },
+  {
+    "place": "unknown",
+    "city": "St gervais",
+    "departementNumber": 33,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1798934400000,
+    "ending": 1798934400000,
+    "eventLink": "https://www.klikego.com/inscription/detox-relais-2027/running-course-a-pied-marche-nordique/1789173975679-1",
+    "name": "Détox Relais 2027"
   },
   {
     "place": "unknown",
@@ -4993,6 +5019,19 @@
   },
   {
     "place": "unknown",
+    "city": "Chateaugiron",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1801267200000,
+    "ending": 1801267200000,
+    "eventLink": "https://www.klikego.com/inscription/orientation-chateaugiron-2027/course-a-pied-running/1419295170205-49",
+    "name": "ORIENTATION CHATEAUGIRON"
+  },
+  {
+    "place": "unknown",
     "city": "Paussac et st vivien",
     "departementNumber": 24,
     "eventType": "unknown",
@@ -5092,7 +5131,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801958400000,
     "ending": 1802044800000,
-    "eventLink": "https://www.klikego.com/inscription/la-course-au-large-2027/running-course-a-pied/1497390259945-11",
+    "eventLink": "https://www.klikego.com/inscription/la-course-au-large-2027/course-a-pied-running/1497390259945-11",
     "name": "La Course au large"
   },
   {
@@ -5950,7 +5989,7 @@
     "registrationStatus": "unknown",
     "beginning": 1811462400000,
     "ending": 1811462400000,
-    "eventLink": "https://www.klikego.com/inscription/palmyre-run-2027/running-course-a-pied/1758240814777-4",
+    "eventLink": "https://www.klikego.com/inscription/palmyre-run-2027/course-a-pied-running/1758240814777-4",
     "name": "Palmyre Run"
   },
   {
@@ -6067,7 +6106,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812153600000,
     "ending": 1812153600000,
-    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/running-course-a-pied/1674875346003-5",
+    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/course-a-pied-running/1674875346003-5",
     "name": "Mémorial Bruno Willecoq"
   },
   {
