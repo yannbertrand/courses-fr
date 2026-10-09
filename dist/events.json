@@ -71,7 +71,7 @@
     "eventType": "course_a_pied",
     "numberOfRaceVariants": "unknown",
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1791504000000,
     "ending": 1791504000000,
     "name": "La Moine Express 2026",
@@ -2624,19 +2624,6 @@
     "ending": 1794355200000,
     "eventLink": "https://www.klikego.com/inscription/saint-caltrail-2026/running-course-a-pied/1724525869404-3",
     "name": "SAINT-CAL'TRAIL"
-  },
-  {
-    "place": "unknown",
-    "city": "GUÉMENÉ-PENFAO",
-    "departementNumber": 44,
-    "eventType": "running",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "https://enl44athletisme.com/",
-    "registrationStatus": "open",
-    "beginning": 1794355200000,
-    "ending": 1794355200000,
-    "name": "TRAIL DE GUEMENE",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3122"
   },
   {
     "place": "unknown",
