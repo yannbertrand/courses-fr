@@ -360,7 +360,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791590400000,
     "ending": 1791590400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-coatloch-2026/running-course-a-pied/1499387438265-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-coatloch-2026/course-a-pied-running/1499387438265-15",
     "name": "Trail de Coatloc'h"
   },
   {
@@ -932,7 +932,7 @@
     "registrationStatus": "unknown",
     "beginning": 1791676800000,
     "ending": 1791676800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-sentiers-saint-caprais-de-lerm-2026/running-course-a-pied/1754447046767-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-sentiers-saint-caprais-de-lerm-2026/course-a-pied-running/1754447046767-2",
     "name": "Trail des Sentiers Saint Caprais de Lerm"
   },
   {
@@ -1135,7 +1135,7 @@
     "city": "La rochelle",
     "departementNumber": 17,
     "eventType": "unknown",
-    "numberOfRaceVariants": "unknown",
+    "numberOfRaceVariants": 1,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
@@ -1270,7 +1270,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-trail-nancibo-65km-trail-14km-nancibo-2026/running-course-a-pied/1479886996157-35",
+    "eventLink": "https://www.klikego.com/inscription/ultra-trail-nancibo-65km-trail-14km-nancibo-2026/course-a-pied-running/1479886996157-35",
     "name": "ULTRA TRAIL NANCIBO 65KM TRAIL 14KM NANCIBO"
   },
   {
@@ -5443,7 +5443,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804982400000,
     "ending": 1804982400000,
-    "eventLink": "https://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2027/running-course-a-pied/1419371741424-32",
+    "eventLink": "https://www.klikego.com/inscription/semi-marathon-de-la-rochelle-2027/course-a-pied-running/1419371741424-32",
     "name": "Semi-marathon de La Rochelle"
   },
   {
