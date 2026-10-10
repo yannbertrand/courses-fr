@@ -3987,7 +3987,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/running-course-a-pied/1531902866229-8",
+    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/course-a-pied-running/1531902866229-8",
     "name": "Les Ribines de l'Aber Ildut - édition 2026"
   },
   {
@@ -5365,7 +5365,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804291200000,
     "ending": 1804291200000,
-    "eventLink": "https://www.klikego.com/inscription/intrail-muros-2027/running-course-a-pied/1413880064129-22",
+    "eventLink": "https://www.klikego.com/inscription/intrail-muros-2027/course-a-pied-running/1413880064129-22",
     "name": "INTRAIL-MUROS 2027"
   },
   {
@@ -5562,6 +5562,19 @@
     "ending": 1805587200000,
     "eventLink": "https://www.klikego.com/inscription/ekiden-de-touraine-2027/running-course-a-pied/1699681901237-4",
     "name": "Ekiden de Touraine 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Bussy st georges",
+    "departementNumber": 77,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805587200000,
+    "ending": 1805587200000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-bussy-2027/course-a-pied-running/1643406100102-6",
+    "name": "LES FOULEES DE BUSSY"
   },
   {
     "place": "unknown",
