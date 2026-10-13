@@ -230,7 +230,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/running-course-a-pied/1472342761951-11",
+    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/course-a-pied-running/1472342761951-11",
     "name": "Kastell Trail de PLOMELIN"
   },
   {
@@ -4598,7 +4598,20 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800144000000,
-    "eventLink": "https://www.klikego.com/inscription/inscription-bol-dair-2027/running-course-a-pied/1740975965646-5",
+    "eventLink": "https://www.klikego.com/inscription/inscription-bol-dair-2027/course-a-pied-running/1740975965646-5",
+    "name": "Inscription bol d'air 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "St avertin",
+    "departementNumber": 37,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800057600000,
+    "ending": 1800144000000,
+    "eventLink": "https://www.klikego.com/inscription/inscription-bol-dair-2027/triathlon/1740975965646-6",
     "name": "Inscription bol d'air 2027"
   },
   {
@@ -5601,6 +5614,19 @@
     "ending": 1810425600000,
     "eventLink": "https://www.klikego.com/inscription/triathlon-de-mimizan-2027/triathlon/1786581153980-2",
     "name": "Triathlon de Mimizan"
+  },
+  {
+    "place": "unknown",
+    "city": "Trebeurden",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1810425600000,
+    "ending": 1810425600000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-embruns-2027/course-a-pied-running/1766983865076-2",
+    "name": "Trail des Embruns 2027"
   },
   {
     "place": "unknown",
