@@ -230,7 +230,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/running-course-a-pied/1472342761951-11",
+    "eventLink": "https://www.klikego.com/inscription/kastell-trail-de-plomelin-2026/course-a-pied-running/1472342761951-11",
     "name": "Kastell Trail de PLOMELIN"
   },
   {
@@ -321,7 +321,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-urbain-lamballe-armor-2026/running-course-a-pied/1692757829346-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-urbain-lamballe-armor-2026/course-a-pied-running/1692757829346-7",
     "name": "Trail Urbain Lamballe Armor"
   },
   {
@@ -1920,7 +1920,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -2284,7 +2284,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-lespoir-2026/running-course-a-pied/1469576389713-11",
+    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-lespoir-2026/course-a-pied-running/1469576389713-11",
     "name": "La Corrida De L'Espoir"
   },
   {
@@ -2663,6 +2663,19 @@
     "ending": 1795132800000,
     "eventLink": "https://www.klikego.com/inscription/la-quevert-luisante-2026/running-course-a-pied/1473738832444-11",
     "name": "LA QUEVERT LUISANTE"
+  },
+  {
+    "place": "Le lieu de votre choix",
+    "city": "France",
+    "departementNumber": 0,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1795132800000,
+    "ending": 1795132800000,
+    "name": "Run for Lily Cerise (5) 20-21-22 novembre",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3624/run-for-lily-cerise-5-20-21-22-novembre-france"
   },
   {
     "place": "unknown",
@@ -3532,7 +3545,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/running-course-a-pied/1531902866229-8",
+    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/course-a-pied-running/1531902866229-8",
     "name": "Les Ribines de l'Aber Ildut - édition 2026"
   },
   {
@@ -3974,8 +3987,8 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/stage-de-preparation-trail-avec-trampoline-sportif-et-preparation-mentale-2026/running-course-a-pied/1767384339570-2",
-    "name": "Stage de préparation Trail avec Trampoline sportif et préparation mentale"
+    "eventLink": "https://www.klikego.com/inscription/stage-de-preparation-trail-savoir-sauter-2026/course-a-pied-running/1767384339570-2",
+    "name": "Stage de préparation Trail - Savoir sauter"
   },
   {
     "place": "unknown",
@@ -4351,7 +4364,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/running-course-a-pied/jceb_1353799518037-29",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/course-a-pied-running/jceb_1353799518037-29",
     "name": "LES FOULEES DU PERE NOEL 2026"
   },
   {
@@ -4455,7 +4468,7 @@
     "registrationStatus": "unknown",
     "beginning": 1798329600000,
     "ending": 1798329600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-chateau-gontier-2026/running-course-a-pied/1789369836432-1",
+    "eventLink": "https://www.klikego.com/inscription/corrida-chateau-gontier-2026/course-a-pied-running/1789369836432-1",
     "name": "Corrida Chateau Gontier"
   },
   {
@@ -4681,6 +4694,19 @@
   },
   {
     "place": "unknown",
+    "city": "MARTIGNÉ SUR MAYENNE",
+    "departementNumber": 53,
+    "eventType": "running",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "http://martignerunning.fr/",
+    "registrationStatus": "not_open_yet",
+    "beginning": 1800662400000,
+    "ending": 1800662400000,
+    "name": "LA KANGOUCOURSE",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3252"
+  },
+  {
+    "place": "unknown",
     "city": "Layrac",
     "departementNumber": 47,
     "eventType": "unknown",
@@ -4769,6 +4795,19 @@
     "ending": 1801958400000,
     "eventLink": "https://www.klikego.com/inscription/10km-des-champs-elysees-fulfil-2027/running-course-a-pied/1665608501151-7",
     "name": "10km des Champs-Elysées Fulfil"
+  },
+  {
+    "place": "unknown",
+    "city": "MONTOIR-DE-BRETAGNE",
+    "departementNumber": 44,
+    "eventType": "running",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3237",
+    "registrationStatus": "open",
+    "beginning": 1801958400000,
+    "ending": 1801958400000,
+    "name": "CROSS DÉPARTEMENTAL DES SAPEURS-POMPIERS DU 44 - MONTOIR-DE-BRETAGNE",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3237"
   },
   {
     "place": "unknown",
@@ -5170,7 +5209,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-bussy-2027/running-course-a-pied/1643406100102-6",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-bussy-2027/course-a-pied-running/1643406100102-6",
     "name": "LES FOULEES DE BUSSY"
   },
   {
@@ -5760,6 +5799,19 @@
   },
   {
     "place": "unknown",
+    "city": "Le lardin st lazare",
+    "departementNumber": 24,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811462400000,
+    "ending": 1811635200000,
+    "eventLink": "https://www.klikego.com/inscription/lultra-rando-cyclo-2027/cyclo/vtt/1790650074312-1",
+    "name": "L'Ultra Rando Cyclo 2027"
+  },
+  {
+    "place": "unknown",
     "city": "St jean de la motte",
     "departementNumber": 72,
     "eventType": "unknown",
@@ -5939,6 +5991,19 @@
     "ending": 1812844800000,
     "eventLink": "https://www.klikego.com/inscription/trail-des-aqueducs-2027/running-course-a-pied/1785975002608-1",
     "name": "Trail Des Aqueducs"
+  },
+  {
+    "place": "unknown",
+    "city": "Le lardin st lazare",
+    "departementNumber": 24,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813363200000,
+    "ending": 1813449600000,
+    "eventLink": "https://www.klikego.com/inscription/la-cyclosportive-la-perigordine-2027/cyclo/vtt/1790650074312-2",
+    "name": "La Cyclosportive La Périgordine 2027"
   },
   {
     "place": "unknown",
