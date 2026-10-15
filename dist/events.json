@@ -256,7 +256,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
-    "eventLink": "https://www.klikego.com/inscription/les-automnales-2026/running-course-a-pied/1557899388074-6",
+    "eventLink": "https://www.klikego.com/inscription/les-automnales-2026/course-a-pied-running/1557899388074-6",
     "name": "Les Automnales"
   },
   {
@@ -407,7 +407,7 @@
     "city": "Rennes",
     "departementNumber": 35,
     "eventType": "unknown",
-    "numberOfRaceVariants": 3,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
@@ -1491,7 +1491,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/la-corridhalloween-de-montdidier-2026/running-course-a-pied/1742613933213-2",
+    "eventLink": "https://www.klikego.com/inscription/la-corridhalloween-de-montdidier-2026/course-a-pied-running/1742613933213-2",
     "name": "La Corrid’Halloween de Montdidier"
   },
   {
@@ -1829,7 +1829,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/edition-automnale-des-4-saisons-2026/running-course-a-pied/1603054434896-36",
+    "eventLink": "https://www.klikego.com/inscription/edition-automnale-des-4-saisons-2026/course-a-pied-running/1603054434896-36",
     "name": "Édition Automnale des 4 saisons 2026"
   },
   {
@@ -2817,7 +2817,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-lapocalypse-2026/running-course-a-pied/1556223507103-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-lapocalypse-2026/course-a-pied-running/1556223507103-14",
     "name": "Trail de l'Apocalypse"
   },
   {
@@ -2897,6 +2897,19 @@
     "ending": 1795305600000,
     "eventLink": "https://www.klikego.com/inscription/tropicadingue-2026/running-course-a-pied/1699481084702-15",
     "name": "Tropica'Dingue"
+  },
+  {
+    "place": "unknown",
+    "city": "Montauban",
+    "departementNumber": 82,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795305600000,
+    "ending": 1795305600000,
+    "eventLink": "https://www.klikego.com/inscription/22eme-cross-rene-arcuset-2026/course-a-pied-running/1697836405543-4",
+    "name": "22ème Cross René ARCUSET"
   },
   {
     "place": "unknown",
@@ -3586,6 +3599,19 @@
     "ending": 1796515200000,
     "eventLink": "https://www.klikego.com/inscription/cross-ceperou-2026-de-la-ville-de-cayenne-4eme-edition/running-course-a-pied/1762877839458-3",
     "name": "CROSS CEPEROU 2026 DE LA VILLE DE CAYENNE - 4EME EDITION"
+  },
+  {
+    "place": "unknown",
+    "city": "Lampaul plouarzel",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1796515200000,
+    "ending": 1796515200000,
+    "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/course-a-pied-running/1790892290410-1",
+    "name": "Cross de l'Iroise Athlétisme"
   },
   {
     "place": "unknown",
@@ -4390,7 +4416,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-pere-noel-2026/running-course-a-pied/1747082851006-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-pere-noel-2026/course-a-pied-running/1747082851006-4",
     "name": "Trail du père noël"
   },
   {
@@ -4876,6 +4902,19 @@
   },
   {
     "place": "unknown",
+    "city": "Calan",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1802563200000,
+    "ending": 1802563200000,
+    "eventLink": "https://www.klikego.com/inscription/10-km-et-semi-marathon-rrunning-pays-de-lorient-2027/course-a-pied-running/1776796331243-3",
+    "name": "10 KM ET SEMI MARATHON RRUNNING PAYS DE LORIENT"
+  },
+  {
+    "place": "unknown",
     "city": "Quimper",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -5079,7 +5118,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804982400000,
     "ending": 1804982400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-pays-des-fous-2027/running-course-a-pied/1672172333679-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-pays-des-fous-2027/course-a-pied-running/1672172333679-5",
     "name": "Trail du Pays des Fous"
   },
   {
@@ -5315,6 +5354,19 @@
     "ending": 1806796800000,
     "eventLink": "https://www.klikego.com/inscription/ar-meilhou-glaz-trail-kemper-2027/running-course-a-pied/1470183506201-13",
     "name": "Ar Meilhou Glaz Trail - Kemper"
+  },
+  {
+    "place": "unknown",
+    "city": "St nazaire",
+    "departementNumber": 44,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806796800000,
+    "ending": 1806796800000,
+    "eventLink": "https://www.klikego.com/inscription/ekiden-de-l-estuaire-2027/course-a-pied-running/1452678362731-19",
+    "name": "EKIDEN DE L ESTUAIRE"
   },
   {
     "place": "unknown",
