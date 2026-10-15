@@ -40,19 +40,6 @@
   },
   {
     "place": "unknown",
-    "city": "Paris 7eme arrondissement",
-    "departementNumber": 75,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1789603200000,
-    "ending": 1791936000000,
-    "eventLink": "https://www.klikego.com/inscription/objectif-autonomie--courez-marchez-roulez-connectez-vous-pour-nous-porter-jusqua-lassemblee-nationale-2026/running-course-a-pied-marche-nordique/1787712469336-1",
-    "name": "Objectif Autonomie : courez, marchez, roulez, connectez-vous pour nous porter jusqu'à l'Assemblée nationale."
-  },
-  {
-    "place": "unknown",
     "city": "Change",
     "departementNumber": 53,
     "eventType": "unknown",
@@ -451,7 +438,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/neveztell-trail-2026/running-course-a-pied/1350372166564-11",
+    "eventLink": "https://www.klikego.com/inscription/neveztell-trail-2026/course-a-pied-running/1350372166564-11",
     "name": "NEVEZTELL TRAIL 2026"
   },
   {
@@ -945,7 +932,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792281600000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/yanabus-challenge-2026/running-course-a-pied/1747961012047-8",
+    "eventLink": "https://www.klikego.com/inscription/yanabus-challenge-2026/course-a-pied-running/1747961012047-8",
     "name": "YANA'BUS CHALLENGE"
   },
   {
@@ -1192,7 +1179,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/la-fabuleuse-trail-de-la-fosse-arthour-a-brouains-2026/running-course-a-pied/1582149746940-19",
+    "eventLink": "https://www.klikego.com/inscription/la-fabuleuse-trail-de-la-fosse-arthour-a-brouains-2026/course-a-pied-running/1582149746940-19",
     "name": "La FABuleuse - Trail de la Fosse Arthour à Brouains"
   },
   {
@@ -1257,7 +1244,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-kayenn-felix-eboue-2026/running-course-a-pied/1762877839458-4",
+    "eventLink": "https://www.klikego.com/inscription/marathon-kayenn-felix-eboue-2026/course-a-pied-running/1762877839458-4",
     "name": "MARATHON KAYENN FELIX EBOUE"
   },
   {
