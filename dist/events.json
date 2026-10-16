@@ -65,6 +65,19 @@
     "name": "Chouette Trail des Chemins Creux"
   },
   {
+    "place": "Espace sportif George Bollengier Stragier",
+    "city": "Coulaines",
+    "departementNumber": 72,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1792108800000,
+    "ending": 1792108800000,
+    "name": "Chouette' Trail des Chemins Creux",
+    "eventLink": "https://www.timepulse.fr/calendrier/voir/3625/chouette-trail-des-chemins-creux-coulaines"
+  },
+  {
     "place": "unknown",
     "city": "Pontivy",
     "departementNumber": 56,
@@ -347,8 +360,8 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/albi-24h-6h--100km-2026/running-course-a-pied/1384568432549-16",
-    "name": "ALBI 24H - 6H -100Km"
+    "eventLink": "https://www.klikego.com/inscription/albi-24h-6h-2026/course-a-pied-running/1384568432549-16",
+    "name": "ALBI 24H - 6H"
   },
   {
     "place": "unknown",
@@ -412,7 +425,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2026/running-course-a-pied/1284761384288-44",
+    "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2026/course-a-pied-running/1284761384288-44",
     "name": "Marathon Vert Rennes Groupe Interaction"
   },
   {
@@ -438,7 +451,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/neveztell-trail-2026/running-course-a-pied/1350372166564-11",
+    "eventLink": "https://www.klikego.com/inscription/neveztell-trail-2026/course-a-pied-running/1350372166564-11",
     "name": "NEVEZTELL TRAIL 2026"
   },
   {
@@ -516,7 +529,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792281600000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/courir-a-meslay-2026/running-course-a-pied/1417751881093-18",
+    "eventLink": "https://www.klikego.com/inscription/courir-a-meslay-2026/course-a-pied-running/1417751881093-18",
     "name": "Courir à Meslay 2026"
   },
   {
@@ -880,7 +893,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792281600000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-urbain-2026/running-course-a-pied/1629088835199-13",
+    "eventLink": "https://www.klikego.com/inscription/trail-urbain-2026/course-a-pied-running/1629088835199-13",
     "name": "TRAIL URBAIN"
   },
   {
@@ -1062,7 +1075,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792800000000,
     "ending": 1792800000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-relais-des-chapelles-56-2026/running-course-a-pied/1688090838192-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-relais-des-chapelles-56-2026/course-a-pied-running/1688090838192-4",
     "name": "Trail Relais des Chapelles 56"
   },
   {
@@ -4195,7 +4208,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-noel-2026/running-course-a-pied/jceb_1377094791298-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-noel-2026/course-a-pied-running/jceb_1377094791298-15",
     "name": "TRAIL DE NOEL"
   },
   {
@@ -4535,19 +4548,6 @@
     "ending": 1798934400000,
     "eventLink": "https://www.klikego.com/inscription/corrida-darnage-2027/running-course-a-pied/1429816663910-11",
     "name": "Corrida d'Arnage"
-  },
-  {
-    "place": "unknown",
-    "city": "St gervais",
-    "departementNumber": 33,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1798934400000,
-    "ending": 1798934400000,
-    "eventLink": "https://www.klikego.com/inscription/detox-relais-2027/running-course-a-pied-marche-nordique/1789173975679-1",
-    "name": "Détox Relais 2027"
   },
   {
     "place": "unknown",
@@ -4936,7 +4936,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/10kmper-2027/running-course-a-pied/jceb_1377094791298-14",
+    "eventLink": "https://www.klikego.com/inscription/10kmper-2027/course-a-pied-running/jceb_1377094791298-14",
     "name": "10Kmper"
   },
   {
@@ -5157,7 +5157,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805500800000,
     "ending": 1805500800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/running-course-a-pied/1760064003476-3",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/course-a-pied-running/1760064003476-3",
     "name": "LA DOUZE - FRENCH RIVIERA 2027"
   },
   {
