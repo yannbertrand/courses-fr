@@ -39,32 +39,6 @@
     "name": "Adhésion à l'Amicale du Val de Somme saison 2026-2027"
   },
   {
-    "place": "unknown",
-    "city": "Change",
-    "departementNumber": 53,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792108800000,
-    "ending": 1792108800000,
-    "eventLink": "https://www.klikego.com/inscription/campus-trail-decouverte-des-etablissements-du-campus-de-laval-2026/running-course-a-pied/1786232035961-1",
-    "name": "CAMPUS TRAIL - DÉCOUVERTE DES ÉTABLISSEMENTS DU CAMPUS DE LAVAL"
-  },
-  {
-    "place": "unknown",
-    "city": "Coulaines",
-    "departementNumber": 72,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792108800000,
-    "ending": 1792108800000,
-    "eventLink": "https://www.klikego.com/inscription/chouette-trail-des-chemins-creux-2026/running-course-a-pied/1562355785279-8",
-    "name": "Chouette Trail des Chemins Creux"
-  },
-  {
     "place": "Espace sportif George Bollengier Stragier",
     "city": "Coulaines",
     "departementNumber": 72,
@@ -76,45 +50,6 @@
     "ending": 1792108800000,
     "name": "Chouette' Trail des Chemins Creux",
     "eventLink": "https://www.timepulse.fr/calendrier/voir/3625/chouette-trail-des-chemins-creux-coulaines"
-  },
-  {
-    "place": "unknown",
-    "city": "Pontivy",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792108800000,
-    "ending": 1792108800000,
-    "eventLink": "https://www.klikego.com/inscription/course-partage-un-moment-avec-les-saints-anges-2026/running-course-a-pied/1788304592843-1",
-    "name": "Course \"partage un moment avec les Saints Anges\""
-  },
-  {
-    "place": "unknown",
-    "city": "Pontivy",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792108800000,
-    "ending": 1792108800000,
-    "eventLink": "https://www.klikego.com/inscription/course-partage-un-moment-avec-les-saints-anges-2026/running-course-a-pied/1788298682300-1",
-    "name": "Course \"partage un moment avec les Saints Anges\""
-  },
-  {
-    "place": "unknown",
-    "city": "Pontivy",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792108800000,
-    "ending": 1792108800000,
-    "eventLink": "https://www.klikego.com/inscription/course-partage-un-moment-avec-les-saints-anges-2026/running-course-a-pied/1788300097060-1",
-    "name": "Course \"partage un moment avec les Saints Anges\""
   },
   {
     "place": "unknown",
@@ -292,7 +227,7 @@
     "eventType": "course_a_pied",
     "numberOfRaceVariants": "unknown",
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1792195200000,
     "ending": 1792195200000,
     "name": "Les Foulées Siffait",
@@ -1010,7 +945,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792800000000,
     "ending": 1792800000000,
-    "eventLink": "https://www.klikego.com/inscription/courses-a-pied-la-quebecoise-2026/running-course-a-pied/1785639968583-1",
+    "eventLink": "https://www.klikego.com/inscription/courses-a-pied-la-quebecoise-2026/course-a-pied-running/1785639968583-1",
     "name": "Courses à pied La Québecoise."
   },
   {
@@ -3584,7 +3519,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/running-course-a-pied/1531902866229-8",
+    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/course-a-pied-running/1531902866229-8",
     "name": "Les Ribines de l'Aber Ildut - édition 2026"
   },
   {
@@ -4936,7 +4871,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802476800000,
     "ending": 1802476800000,
-    "eventLink": "https://www.klikego.com/inscription/raid-des-gabariers-2027/running-course-a-pied/1497821519858-9",
+    "eventLink": "https://www.klikego.com/inscription/raid-des-gabariers-2027/course-a-pied-running/1497821519858-9",
     "name": "Raid des Gabariers 2027"
   },
   {
