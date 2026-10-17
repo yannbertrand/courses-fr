@@ -451,7 +451,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792281600000,
     "ending": 1792281600000,
-    "eventLink": "https://www.klikego.com/inscription/brivekiden-2026/running-course-a-pied/1685048291264-4",
+    "eventLink": "https://www.klikego.com/inscription/brivekiden-2026/course-a-pied-running/1685048291264-4",
     "name": "Briv'Ekiden 2026"
   },
   {
@@ -2635,7 +2635,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795132800000,
     "ending": 1795132800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-animaux-de-lumiere-2026/running-course-a-pied/1484041488191-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-animaux-de-lumiere-2026/course-a-pied-running/1484041488191-15",
     "name": "Trail des Animaux de Lumière"
   },
   {
@@ -2895,7 +2895,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/running-course-a-pied/1632289277348-7",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/course-a-pied-running/1632289277348-7",
     "name": "CORRIDA DE CORBIE"
   },
   {
@@ -3571,7 +3571,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/running-course-a-pied/1790903154268-1",
+    "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/course-a-pied-running/1790903154268-1",
     "name": "Cross de l'Iroise Athlétisme"
   },
   {
@@ -5237,6 +5237,19 @@
     "ending": 1805587200000,
     "eventLink": "https://www.klikego.com/inscription/trail-de-la-flora-2027/running-course-a-pied/1483067403115-9",
     "name": "Trail de la Flora"
+  },
+  {
+    "place": "unknown",
+    "city": "Ploemeur",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806105600000,
+    "ending": 1806105600000,
+    "eventLink": "https://www.klikego.com/inscription/trail-entre-mer-et-terre-2027/course-a-pied-running/1729481588698-3",
+    "name": "Trail entre Mer et Terre"
   },
   {
     "place": "unknown",
