@@ -1491,7 +1491,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-jambes-allaire-edition-2026/running-course-a-pied/1463865764159-11",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-jambes-allaire-edition-2026/course-a-pied-running/1463865764159-11",
     "name": "Trail des Jambes Allaire édition 2026"
   },
   {
@@ -1660,7 +1660,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/running-course-a-pied/1770757732257-1",
+    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/course-a-pied-running/1770757732257-1",
     "name": "Brangokor"
   },
   {
@@ -2206,7 +2206,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/running-course-a-pied/1422474798785-15",
+    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/course-a-pied-running/1422474798785-15",
     "name": "GREGAM NOZ TRAIL"
   },
   {
@@ -5965,6 +5965,19 @@
     "ending": 1812240000000,
     "eventLink": "https://www.klikego.com/inscription/half-des-deux-tours-2027/triathlon/1360808403296-13",
     "name": "HALF DES DEUX TOURS"
+  },
+  {
+    "place": "unknown",
+    "city": "St thois",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812240000000,
+    "ending": 1812240000000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-montagnes-noires-2027/course-a-pied-running/1790994309008-1",
+    "name": "Trail des Montagnes Noires"
   },
   {
     "place": "unknown",
