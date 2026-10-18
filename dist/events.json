@@ -1465,7 +1465,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/tournen-nocturne-2026/running-course-a-pied/1459041481852-24",
+    "eventLink": "https://www.klikego.com/inscription/tournen-nocturne-2026/course-a-pied-running/1459041481852-24",
     "name": "Tourn'en Nocturne"
   },
   {
@@ -4772,6 +4772,19 @@
   },
   {
     "place": "unknown",
+    "city": "St evarzec",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804377600000,
+    "ending": 1804377600000,
+    "eventLink": "https://www.klikego.com/inscription/saint-e-trail-2027/course-a-pied-running/1472852825424-12",
+    "name": "SAINT E TRAIL"
+  },
+  {
+    "place": "unknown",
     "city": "L etang la ville",
     "departementNumber": 78,
     "eventType": "unknown",
@@ -5014,7 +5027,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806278400000,
     "ending": 1806278400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/running-course-a-pied/1736056005202-3",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/course-a-pied-running/1736056005202-3",
     "name": "Les Foulées Iodées d'an arvor"
   },
   {
@@ -5716,7 +5729,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812153600000,
     "ending": 1812153600000,
-    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/running-course-a-pied/1674875346003-5",
+    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/course-a-pied-running/1674875346003-5",
     "name": "Mémorial Bruno Willecoq"
   },
   {
