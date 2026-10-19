@@ -282,7 +282,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/la-fabuleuse-trail-de-la-fosse-arthour-a-brouains-2026/running-course-a-pied/1582149746940-19",
+    "eventLink": "https://www.klikego.com/inscription/la-fabuleuse-trail-de-la-fosse-arthour-a-brouains-2026/course-a-pied-running/1582149746940-19",
     "name": "La FABuleuse - Trail de la Fosse Arthour à Brouains"
   },
   {
@@ -1361,7 +1361,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/la-boucle-diamant-2026/running-course-a-pied/1789588818080-1",
+    "eventLink": "https://www.klikego.com/inscription/la-boucle-diamant-2026/course-a-pied-running/1789588818080-1",
     "name": "La Boucle Diamant"
   },
   {
@@ -1985,7 +1985,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-seigneurs-2026/running-course-a-pied/1471983518942-20",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-seigneurs-2026/course-a-pied-running/1471983518942-20",
     "name": "Trail de la vallée des seigneurs 2026"
   },
   {
@@ -4395,6 +4395,19 @@
   },
   {
     "place": "unknown",
+    "city": "tahanaout",
+    "departementNumber": 42,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805587200000,
+    "ending": 1805587200000,
+    "eventLink": "https://www.klikego.com/inscription/morocco-trail-race-2027/course-a-pied-running/1791262965558-1",
+    "name": "MOROCCO TRAIL RACE"
+  },
+  {
+    "place": "unknown",
     "city": "Quimper",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -4819,7 +4832,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809129600000,
     "ending": 1809129600000,
-    "eventLink": "https://www.klikego.com/inscription/trails-de-la-truyere-2027/running-course-a-pied/1571714018482-6",
+    "eventLink": "https://www.klikego.com/inscription/trails-de-la-truyere-2027/course-a-pied-running/1571714018482-6",
     "name": "Trails de la Truyère"
   },
   {
