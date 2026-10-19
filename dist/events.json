@@ -243,7 +243,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/defi-nature-de-clayes-2026/running-course-a-pied/1777964750458-1",
+    "eventLink": "https://www.klikego.com/inscription/defi-nature-de-clayes-2026/course-a-pied-running/1777964750458-1",
     "name": "Défi Nature de Clayes"
   },
   {
@@ -360,7 +360,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-perigord-noir-2026/running-course-a-pied/1725587953930-4",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-perigord-noir-2026/course-a-pied-running/1725587953930-4",
     "name": "Marathon Trail Périgord Noir 2026"
   },
   {
@@ -1153,7 +1153,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/44e-foulees-de-la-presse-de-la-manche-2026/running-course-a-pied/1633485497207-6",
+    "eventLink": "https://www.klikego.com/inscription/44e-foulees-de-la-presse-de-la-manche-2026/course-a-pied-running/1633485497207-6",
     "name": "44e Foulées de La Presse de la Manche"
   },
   {
@@ -1283,7 +1283,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-plaintel-2026/running-course-a-pied/1504312553265-10",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-plaintel-2026/course-a-pied-running/1504312553265-10",
     "name": "TRAIL DE PLAINTEL"
   },
   {
@@ -1595,7 +1595,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/running-course-a-pied/1725587953930-7",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/course-a-pied-running/1725587953930-7",
     "name": "Marathon Trail Pays de Brive"
   },
   {
@@ -1899,6 +1899,19 @@
   },
   {
     "place": "unknown",
+    "city": "St laurent du maroni",
+    "departementNumber": 97,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795219200000,
+    "ending": 1795219200000,
+    "eventLink": "https://www.klikego.com/inscription/run-and-bike-20km-2026/triathlon/1511602471262-44",
+    "name": "Run and bike 20km"
+  },
+  {
+    "place": "unknown",
     "city": "St jean sur vilaine",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -2123,7 +2136,7 @@
     "city": "VÉLIZY",
     "departementNumber": 78,
     "eventType": "trail",
-    "numberOfRaceVariants": 6,
+    "numberOfRaceVariants": 7,
     "registrationLink": "https://www.lasansraison.com/",
     "registrationStatus": "open",
     "beginning": 1795305600000,
@@ -2431,19 +2444,6 @@
     "name": "TRAIL DES GUEULES NOIRES"
   },
   {
-    "place": "unknown",
-    "city": "Loperhet",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795910400000,
-    "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-loperhethon-2026/running-course-a-pied/1475354249825-13",
-    "name": "Trail du Loperhethon"
-  },
-  {
     "place": "Ancenis Saint Géréon - Centre ville",
     "city": "Ancenis",
     "departementNumber": 44,
@@ -2714,19 +2714,6 @@
     "beginning": 1796515200000,
     "ending": 1796515200000,
     "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/running-course-a-pied/1790903154268-1",
-    "name": "Cross de l'Iroise Athlétisme"
-  },
-  {
-    "place": "unknown",
-    "city": "Lampaul plouarzel",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1796515200000,
-    "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/running-course-a-pied/1790892290410-1",
     "name": "Cross de l'Iroise Athlétisme"
   },
   {
@@ -3025,7 +3012,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-quintinaise-2026/running-course-a-pied/1755033064048-2",
+    "eventLink": "https://www.klikego.com/inscription/corrida-quintinaise-2026/course-a-pied-running/1755033064048-2",
     "name": "Corrida Quintinaise"
   },
   {
@@ -3298,7 +3285,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-noel-2026/running-course-a-pied/jceb_1377094791298-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-noel-2026/course-a-pied-running/jceb_1377094791298-15",
     "name": "TRAIL DE NOEL"
   },
   {
@@ -3363,7 +3350,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/la-course-de-noel-12e-edition-2026/running-course-a-pied/1415393204348-13",
+    "eventLink": "https://www.klikego.com/inscription/la-course-de-noel-12e-edition-2026/course-a-pied-running/1415393204348-13",
     "name": "LA COURSE DE NOEL - 12e édition"
   },
   {
@@ -3402,8 +3389,21 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/nocturne-de-la-vallee-verte-2eme-edition-2026/running-course-a-pied/1643685747082-7",
+    "eventLink": "https://www.klikego.com/inscription/nocturne-de-la-vallee-verte-2eme-edition-2026/course-a-pied-running/1643685747082-7",
     "name": "Nocturne de la Vallée Verte - 2ème édition"
+  },
+  {
+    "place": "unknown",
+    "city": "Santec",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797638400000,
+    "ending": 1797724800000,
+    "eventLink": "https://www.klikego.com/inscription/la-didermen-2026/course-a-pied-running/1791226343449-1",
+    "name": "La DIDERMEN"
   },
   {
     "place": "unknown",
@@ -3430,6 +3430,19 @@
     "ending": 1797724800000,
     "name": "CORRIDA DE LONGUE - 2026",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3529/corrida-de-longue-2026-longue-jumelles"
+  },
+  {
+    "place": "unknown",
+    "city": "Abbeville",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797724800000,
+    "ending": 1797724800000,
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-dabbeville-2026/course-a-pied-running/1698798249648-3",
+    "name": "Corrida de Noël d'Abbeville"
   },
   {
     "place": "unknown",
@@ -3571,7 +3584,7 @@
     "registrationStatus": "unknown",
     "beginning": 1798243200000,
     "ending": 1798243200000,
-    "eventLink": "https://www.klikego.com/inscription/christmas-run-2026-trail-nocturne-semi-urbain-de-8km-ou-16km-et-marche-de-8km/running-course-a-pied/1768267476778-1",
+    "eventLink": "https://www.klikego.com/inscription/christmas-run-2026-trail-nocturne-semi-urbain-de-8km-ou-16km-et-marche-de-8km/course-a-pied-running/1768267476778-1",
     "name": "CHRISTMAS RUN 2026 - Trail Nocturne Semi Urbain de 8km ou 16km et Marche de 8km"
   },
   {
@@ -3823,6 +3836,19 @@
   },
   {
     "place": "unknown",
+    "city": "Lignieres sonneville",
+    "departementNumber": 16,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800662400000,
+    "ending": 1800662400000,
+    "eventLink": "https://www.klikego.com/inscription/lhivernale-de-la-grande-champagne-2027/course-a-pied-running/1666821547546-8",
+    "name": "L'HIVERNALE DE LA GRANDE CHAMPAGNE 2027"
+  },
+  {
+    "place": "unknown",
     "city": "MARTIGNÉ SUR MAYENNE",
     "departementNumber": 53,
     "eventType": "running",
@@ -4039,7 +4065,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/10kmper-2027/running-course-a-pied/jceb_1377094791298-14",
+    "eventLink": "https://www.klikego.com/inscription/10kmper-2027/course-a-pied-running/jceb_1377094791298-14",
     "name": "10Kmper"
   },
   {
@@ -4117,7 +4143,7 @@
     "registrationStatus": "unknown",
     "beginning": 1803772800000,
     "ending": 1803772800000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-tour-des-cotes-darmor-2027/running-course-a-pied/1536975359188-25",
+    "eventLink": "https://www.klikego.com/inscription/ultra-tour-des-cotes-darmor-2027/course-a-pied-running/1536975359188-25",
     "name": "Ultra Tour des Cotes d'Armor"
   },
   {
@@ -4143,7 +4169,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804377600000,
     "ending": 1804377600000,
-    "eventLink": "https://www.klikego.com/inscription/courons-a-thorigne-fouillard-2027/running-course-a-pied/1353543629265-12",
+    "eventLink": "https://www.klikego.com/inscription/courons-a-thorigne-fouillard-2027/course-a-pied-running/1353543629265-12",
     "name": "Courons à Thorigné-Fouillard"
   },
   {
@@ -4416,7 +4442,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806105600000,
     "ending": 1806105600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-entre-mer-et-terre-2027/running-course-a-pied/1729481588698-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-entre-mer-et-terre-2027/course-a-pied-running/1729481588698-3",
     "name": "Trail entre Mer et Terre"
   },
   {
@@ -4598,7 +4624,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807315200000,
     "ending": 1807315200000,
-    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/running-course-a-pied/1790031691736-1",
+    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/course-a-pied-running/1790031691736-1",
     "name": "DELTA RACE PARIS 2027"
   },
   {
@@ -4678,6 +4704,19 @@
     "ending": 1807920000000,
     "eventLink": "https://www.klikego.com/inscription/trail-des-sapeurs-pompiers-de-contes-2027/running-course-a-pied/1787094748914-1",
     "name": "Trail Des Sapeurs-Pompiers De Contes"
+  },
+  {
+    "place": "unknown",
+    "city": "Montignac charente",
+    "departementNumber": 16,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1808006400000,
+    "ending": 1808006400000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-lhippodrome-2027/course-a-pied-running/1791255945997-1",
+    "name": "Trail de l'Hippodrome"
   },
   {
     "place": "unknown",
@@ -5131,7 +5170,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812153600000,
     "ending": 1812153600000,
-    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/running-course-a-pied/1674875346003-5",
+    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/course-a-pied-running/1674875346003-5",
     "name": "Mémorial Bruno Willecoq"
   },
   {
@@ -5146,6 +5185,19 @@
     "ending": 1812240000000,
     "eventLink": "https://www.klikego.com/inscription/half-des-deux-tours-2027/triathlon/1360808403296-13",
     "name": "HALF DES DEUX TOURS"
+  },
+  {
+    "place": "unknown",
+    "city": "Mezangers",
+    "departementNumber": 53,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812240000000,
+    "ending": 1812240000000,
+    "eventLink": "https://www.klikego.com/inscription/le-north-may-2027/triathlon/1788916620795-1",
+    "name": "Le North may"
   },
   {
     "place": "unknown",
@@ -5224,6 +5276,19 @@
     "ending": 1813449600000,
     "eventLink": "https://www.klikego.com/inscription/la-cyclosportive-la-perigordine-2027/cyclo/vtt/1790650074312-2",
     "name": "La Cyclosportive La Périgordine 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Vannes",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813708800000,
+    "ending": 1814054400000,
+    "eventLink": "https://www.klikego.com/inscription/lultra-marin-2027/running-course-a-pied-marche-nordique/1605741692033-7",
+    "name": "L'ULTRA MARIN®"
   },
   {
     "place": "unknown",
