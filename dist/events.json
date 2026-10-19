@@ -39,175 +39,6 @@
     "name": "Adhésion à l'Amicale du Val de Somme saison 2026-2027"
   },
   {
-    "place": "Place Albert Camus",
-    "city": "Orléans",
-    "departementNumber": 45,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "Courses de l'Indien - Edition 2026 (50e édition)",
-    "eventLink": "https://www.timepulse.fr/calendrier/voir/3324/courses-de-l-indien-edition-2026-50e-edition-orleans"
-  },
-  {
-    "place": "Gymnase CARNOT rue du Traict",
-    "city": "Saint-Nazaire",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "Foulées Nazairiennes 2026",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3457/foulees-nazairiennes-2026-saint-nazaire"
-  },
-  {
-    "place": "unknown",
-    "city": "LOIRE-AUTHION",
-    "departementNumber": 49,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "http://www.loire-authion.fr/course-nature-latitude/",
-    "registrationStatus": "closed",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "LA’TITUDE ÉDITION 2026",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3200"
-  },
-  {
-    "place": "unknown",
-    "city": "LE LUDE",
-    "departementNumber": 72,
-    "eventType": "running",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "http://lesfouleesludoises.e-monsite.com/",
-    "registrationStatus": "closed",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "LES FOULEES LUDOISES 2026 - 15EME EDITION",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3107"
-  },
-  {
-    "place": "unknown",
-    "city": "MOZÉ SUR LOUET",
-    "departementNumber": 49,
-    "eventType": "running",
-    "numberOfRaceVariants": 9,
-    "registrationLink": "https://lestracesdulouet.com/",
-    "registrationStatus": "closed",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "LES TRACES DU LOUET",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3125"
-  },
-  {
-    "place": "Complexe sportif - rue de Langförden",
-    "city": "Le Cellier",
-    "departementNumber": 44,
-    "eventType": "marche",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "Marche Octobre Rose",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3515/marche-octobre-rose-le-cellier"
-  },
-  {
-    "place": "Complexe sportif du Buisson de la GROLLE",
-    "city": "La Chapelle-sur-Erdre",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "OUAGA SUR ERDRE 2026",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3418/ouaga-sur-erdre-2026-la-chapelle-sur-erdre"
-  },
-  {
-    "place": "MAIRIE - LA REMAUDIERE",
-    "city": "La Remaudière",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "RRX Rem Run Expérience - La Remaudière (44)",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3311/rrx-rem-run-experience-la-remaudiere-44-la-remaudiere"
-  },
-  {
-    "place": "Pépinière du Val d'Erdre, Les Places",
-    "city": "Saint-Mars-du-Désert",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "RUN AIM : Tous dans la même foulée",
-    "eventLink": "https://www.timepulse.fr/calendrier/voir/3562/run-aim-tous-dans-la-meme-foulee-saint-mars-du-desert"
-  },
-  {
-    "place": "Devant le Casino JOA, 55 Boulevard de L'Océan 44250 St Brevin les Pins",
-    "city": "Saint-Brevin-les-Pins",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "Run In Rose",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3526/run-in-rose-saint-brevin-les-pins"
-  },
-  {
-    "place": "unknown",
-    "city": "BAZOGES EN PAILLERS",
-    "departementNumber": 85,
-    "eventType": "trail",
-    "numberOfRaceVariants": 13,
-    "registrationLink": "https://www.facebook.com/share/1Eq879nHRW/",
-    "registrationStatus": "closed",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "TRAIL DE LA BULTIERE (85) BAZOGES EN PAILLERS",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3227"
-  },
-  {
-    "place": "Piscine Léo Lagrange, Allée de l'Île Gloriette",
-    "city": "Nantes",
-    "departementNumber": 44,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "Triathlon de Nantes",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3477/triathlon-de-nantes-nantes"
-  },
-  {
-    "place": "Piscine Léo Lagrange",
-    "city": "Nantes",
-    "departementNumber": 44,
-    "eventType": "triathlon",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1792281600000,
-    "name": "Triathlon des Roses",
-    "eventLink": "https://www.timepulse.fr/calendrier/voir/3628/triathlon-des-roses-nantes"
-  },
-  {
     "place": "unknown",
     "city": "SAINT JEAN DE LINIÈRES – SAINT LEGER DE LINIERES",
     "departementNumber": 49,
@@ -243,7 +74,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792800000000,
     "ending": 1792800000000,
-    "eventLink": "https://www.klikego.com/inscription/courses-a-pied-la-quebecoise-2026/course-a-pied-running/1785639968583-1",
+    "eventLink": "https://www.klikego.com/inscription/courses-a-pied-la-quebecoise-2026/running-course-a-pied/1785639968583-1",
     "name": "Courses à pied La Québecoise."
   },
   {
@@ -334,7 +165,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792800000000,
     "ending": 1792800000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-relais-des-chapelles-56-2026/course-a-pied-running/1688090838192-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-relais-des-chapelles-56-2026/running-course-a-pied/1688090838192-4",
     "name": "Trail Relais des Chapelles 56"
   },
   {
@@ -724,7 +555,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/kelan-olantern-les-boucles-dhalloween-2026/course-a-pied-running/1767595544661-2",
+    "eventLink": "https://www.klikego.com/inscription/kelan-olantern-les-boucles-dhalloween-2026/running-course-a-pied/1767595544661-2",
     "name": "Kelan O'Lantern - Les boucles d'Halloween"
   },
   {
@@ -802,7 +633,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-jambes-allaire-edition-2026/course-a-pied-running/1463865764159-11",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-jambes-allaire-edition-2026/running-course-a-pied/1463865764159-11",
     "name": "Trail des Jambes Allaire édition 2026"
   },
   {
@@ -971,7 +802,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/course-a-pied-running/1770757732257-1",
+    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/running-course-a-pied/1770757732257-1",
     "name": "Brangokor"
   },
   {
@@ -1023,7 +854,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/tournen-nocturne-2026/course-a-pied-running/1459041481852-24",
+    "eventLink": "https://www.klikego.com/inscription/tournen-nocturne-2026/running-course-a-pied/1459041481852-24",
     "name": "Tourn'en Nocturne"
   },
   {
@@ -1270,7 +1101,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/course-a-pied-running/1629931133992-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/running-course-a-pied/1629931133992-7",
     "name": "Trail Sable et Forêt 2026"
   },
   {
@@ -1517,7 +1348,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/course-a-pied-running/1422474798785-15",
+    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/running-course-a-pied/1422474798785-15",
     "name": "GREGAM NOZ TRAIL"
   },
   {
@@ -1946,7 +1777,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795132800000,
     "ending": 1795132800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-animaux-de-lumiere-2026/course-a-pied-running/1484041488191-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-animaux-de-lumiere-2026/running-course-a-pied/1484041488191-15",
     "name": "Trail des Animaux de Lumière"
   },
   {
@@ -2141,7 +1972,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-seigneurs-2026/course-a-pied-running/1471983518942-20",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-seigneurs-2026/running-course-a-pied/1471983518942-20",
     "name": "Trail de la vallée des seigneurs 2026"
   },
   {
@@ -2206,7 +2037,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/course-a-pied-running/1632289277348-7",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/running-course-a-pied/1632289277348-7",
     "name": "CORRIDA DE CORBIE"
   },
   {
@@ -2349,7 +2180,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-runan-2026/course-a-pied-running/1756425489987-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-runan-2026/running-course-a-pied/1756425489987-2",
     "name": "Trail de Runan"
   },
   {
@@ -2609,7 +2440,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795910400000,
     "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-loperhethon-2026/course-a-pied-running/1475354249825-13",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-loperhethon-2026/running-course-a-pied/1475354249825-13",
     "name": "Trail du Loperhethon"
   },
   {
@@ -2817,7 +2648,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/course-a-pied-running/1531902866229-8",
+    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/running-course-a-pied/1531902866229-8",
     "name": "Les Ribines de l'Aber Ildut - édition 2026"
   },
   {
@@ -2882,7 +2713,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/course-a-pied-running/1790903154268-1",
+    "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/running-course-a-pied/1790903154268-1",
     "name": "Cross de l'Iroise Athlétisme"
   },
   {
@@ -3467,7 +3298,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-noel-2026/course-a-pied-running/jceb_1377094791298-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-noel-2026/running-course-a-pied/jceb_1377094791298-15",
     "name": "TRAIL DE NOEL"
   },
   {
@@ -3584,7 +3415,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/21e-corrida-de-noel-du-pouliguen-2026/course-a-pied-running/1677015306084-13",
+    "eventLink": "https://www.klikego.com/inscription/21e-corrida-de-noel-du-pouliguen-2026/running-course-a-pied/1677015306084-13",
     "name": "21e Corrida de Noël du Pouliguen"
   },
   {
@@ -3701,7 +3532,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-pere-noel-2026/course-a-pied-running/1747082851006-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-pere-noel-2026/running-course-a-pied/1747082851006-4",
     "name": "Trail du père noël"
   },
   {
@@ -3831,7 +3662,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799452800000,
     "ending": 1799452800000,
-    "eventLink": "https://www.klikego.com/inscription/3eme-rurban-noz-trail-de-daoulas-2027/course-a-pied-running/1475354249825-14",
+    "eventLink": "https://www.klikego.com/inscription/3eme-rurban-noz-trail-de-daoulas-2027/running-course-a-pied/1475354249825-14",
     "name": "3eme RURban Noz Trail de Daoulas"
   },
   {
@@ -4169,7 +4000,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802476800000,
     "ending": 1802476800000,
-    "eventLink": "https://www.klikego.com/inscription/raid-des-gabariers-2027/course-a-pied-running/1497821519858-9",
+    "eventLink": "https://www.klikego.com/inscription/raid-des-gabariers-2027/running-course-a-pied/1497821519858-9",
     "name": "Raid des Gabariers 2027"
   },
   {
@@ -4208,7 +4039,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/10kmper-2027/course-a-pied-running/jceb_1377094791298-14",
+    "eventLink": "https://www.klikego.com/inscription/10kmper-2027/running-course-a-pied/jceb_1377094791298-14",
     "name": "10Kmper"
   },
   {
@@ -4338,7 +4169,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804377600000,
     "ending": 1804377600000,
-    "eventLink": "https://www.klikego.com/inscription/saint-e-trail-2027/course-a-pied-running/1472852825424-12",
+    "eventLink": "https://www.klikego.com/inscription/saint-e-trail-2027/running-course-a-pied/1472852825424-12",
     "name": "SAINT E TRAIL"
   },
   {
@@ -4442,7 +4273,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805500800000,
     "ending": 1805500800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/course-a-pied-running/1760064003476-3",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/running-course-a-pied/1760064003476-3",
     "name": "LA DOUZE - FRENCH RIVIERA 2027"
   },
   {
@@ -4564,6 +4395,19 @@
   },
   {
     "place": "unknown",
+    "city": "Martigne ferchaud",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805587200000,
+    "ending": 1805587200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-forge-9eme-edition-2027/course-a-pied-running/1547497906237-7",
+    "name": "Trail de la Forge 9ème Edition"
+  },
+  {
+    "place": "unknown",
     "city": "Ploemeur",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -4572,7 +4416,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806105600000,
     "ending": 1806105600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-entre-mer-et-terre-2027/course-a-pied-running/1729481588698-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-entre-mer-et-terre-2027/running-course-a-pied/1729481588698-3",
     "name": "Trail entre Mer et Terre"
   },
   {
@@ -4585,7 +4429,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806278400000,
     "ending": 1806278400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/course-a-pied-running/1736056005202-3",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/running-course-a-pied/1736056005202-3",
     "name": "Les Foulées Iodées d'an arvor"
   },
   {
@@ -4754,7 +4598,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807315200000,
     "ending": 1807315200000,
-    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/course-a-pied-running/1790031691736-1",
+    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/running-course-a-pied/1790031691736-1",
     "name": "DELTA RACE PARIS 2027"
   },
   {
@@ -4871,7 +4715,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808524800000,
     "ending": 1808524800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/course-a-pied-running/1760064003476-4",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/running-course-a-pied/1760064003476-4",
     "name": "LA DOUZE - MONTS DES GÉANTS 2027"
   },
   {
@@ -5287,7 +5131,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812153600000,
     "ending": 1812153600000,
-    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/course-a-pied-running/1674875346003-5",
+    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/running-course-a-pied/1674875346003-5",
     "name": "Mémorial Bruno Willecoq"
   },
   {
@@ -5313,7 +5157,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812240000000,
     "ending": 1812240000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-montagnes-noires-2027/course-a-pied-running/1790994309008-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-montagnes-noires-2027/running-course-a-pied/1790994309008-1",
     "name": "Trail des Montagnes Noires"
   },
   {
