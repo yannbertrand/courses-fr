@@ -43,7 +43,7 @@
     "city": "SAINT JEAN DE LINIÈRES – SAINT LEGER DE LINIERES",
     "departementNumber": 49,
     "eventType": "running",
-    "numberOfRaceVariants": 6,
+    "numberOfRaceVariants": 7,
     "registrationLink": "https://la-linieroise.sportsregions.fr/",
     "registrationStatus": "closed",
     "beginning": 1792800000000,
@@ -3745,6 +3745,19 @@
   },
   {
     "place": "unknown",
+    "city": "Uvea",
+    "departementNumber": 98,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1799539200000,
+    "ending": 1799539200000,
+    "eventLink": "https://www.klikego.com/inscription/marathon-international-wallis-et-futuna-2027/course-a-pied-running/1791451895413-1",
+    "name": "Marathon international Wallis et Futuna"
+  },
+  {
+    "place": "unknown",
     "city": "Les mathes",
     "departementNumber": 17,
     "eventType": "unknown",
@@ -3880,7 +3893,7 @@
     "eventType": "running",
     "numberOfRaceVariants": 3,
     "registrationLink": "http://martignerunning.fr/",
-    "registrationStatus": "not_open_yet",
+    "registrationStatus": "open",
     "beginning": 1800662400000,
     "ending": 1800662400000,
     "name": "LA KANGOUCOURSE",
@@ -4923,7 +4936,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809129600000,
     "ending": 1809129600000,
-    "eventLink": "https://www.klikego.com/inscription/trails-de-la-truyere-2027/running-course-a-pied/1571714018482-6",
+    "eventLink": "https://www.klikego.com/inscription/trails-de-la-truyere-2027/course-a-pied-running/1571714018482-6",
     "name": "Trails de la Truyère"
   },
   {
