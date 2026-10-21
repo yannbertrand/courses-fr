@@ -113,7 +113,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792800000000,
     "ending": 1792800000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-bbc-boeuvres-baron-corbinieres-2026/running-course-a-pied/1556787024954-9",
+    "eventLink": "https://www.klikego.com/inscription/trail-bbc-boeuvres-baron-corbinieres-2026/course-a-pied-running/1556787024954-9",
     "name": "TRAIL BBC (Boeuvres Baron Corbiniéres)"
   },
   {
@@ -1010,7 +1010,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -1582,7 +1582,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/running-course-a-pied/1725587953930-7",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/course-a-pied-running/1725587953930-7",
     "name": "Marathon Trail Pays de Brive"
   },
   {
@@ -1972,7 +1972,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-seigneurs-2026/running-course-a-pied/1471983518942-20",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-seigneurs-2026/course-a-pied-running/1471983518942-20",
     "name": "Trail de la vallée des seigneurs 2026"
   },
   {
@@ -2262,6 +2262,19 @@
     "name": "Noz Trail des Lutins 2026"
   },
   {
+    "place": "unknown",
+    "city": "St martin des champs",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795824000000,
+    "ending": 1795824000000,
+    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-du-challenge-de-lelorn-2026/course-a-pied-running/1561498121416-13",
+    "name": "Soirée de remise des prix du challenge de L'Elorn"
+  },
+  {
     "place": "Salle Omnisport",
     "city": "Les Touches",
     "departementNumber": 44,
@@ -2429,19 +2442,6 @@
     "ending": 1795910400000,
     "eventLink": "https://www.klikego.com/inscription/trail-des-gueules-noires-2026/running-course-a-pied/1481148611984-17",
     "name": "TRAIL DES GUEULES NOIRES"
-  },
-  {
-    "place": "unknown",
-    "city": "Loperhet",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795910400000,
-    "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-loperhethon-2026/running-course-a-pied/1475354249825-13",
-    "name": "Trail du Loperhethon"
   },
   {
     "place": "Ancenis Saint Géréon - Centre ville",
@@ -3207,7 +3207,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/course-du-lac-creteil-2026/running-course-a-pied/1790047523695-1",
+    "eventLink": "https://www.klikego.com/inscription/course-du-lac-creteil-2026/course-a-pied-running/1790047523695-1",
     "name": "Course du lac, Créteil"
   },
   {
@@ -3420,19 +3420,6 @@
   },
   {
     "place": "unknown",
-    "city": "Santec",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1797638400000,
-    "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/la-didermen-2026/running-course-a-pied/1791226343449-1",
-    "name": "La DIDERMEN"
-  },
-  {
-    "place": "unknown",
     "city": "Le pouliguen",
     "departementNumber": 44,
     "eventType": "unknown",
@@ -3638,6 +3625,19 @@
     "ending": 1798329600000,
     "eventLink": "https://www.klikego.com/inscription/corrida-chateau-gontier-2026/running-course-a-pied/1789369836432-1",
     "name": "Corrida Chateau Gontier"
+  },
+  {
+    "place": "unknown",
+    "city": "Naussannes",
+    "departementNumber": 24,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1798329600000,
+    "ending": 1798329600000,
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-naussannes-2026/course-a-pied-running/1637703991916-7",
+    "name": "Corrida de Naussannes 2026"
   },
   {
     "place": "unknown",
@@ -5055,6 +5055,19 @@
     "ending": 1810425600000,
     "eventLink": "https://www.klikego.com/inscription/trail-des-embruns-2027/running-course-a-pied/1766983865076-2",
     "name": "Trail des Embruns 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "St m herve",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1810425600000,
+    "ending": 1810425600000,
+    "eventLink": "https://www.klikego.com/inscription/triathlon-de-haute-vilaine-pays-de-vitre-2027/triathlon/1549445874936-7",
+    "name": "TRIATHLON DE HAUTE VILAINE pays de Vitré 2027"
   },
   {
     "place": "unknown",
