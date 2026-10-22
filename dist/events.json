@@ -370,7 +370,7 @@
     "eventType": "bike_and_run",
     "numberOfRaceVariants": 4,
     "registrationLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3233",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1792886400000,
     "ending": 1792886400000,
     "name": "RUN & BIKE SEGRE TRIATHLON",
