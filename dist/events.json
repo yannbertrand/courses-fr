@@ -620,7 +620,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-hantees-du-quillio-2026/running-course-a-pied/1783048251217-1",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-hantees-du-quillio-2026/course-a-pied-running/1783048251217-1",
     "name": "LES FOULEES HANTEES DU QUILLIO"
   },
   {
@@ -2037,7 +2037,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/running-course-a-pied/1632289277348-7",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/course-a-pied-running/1632289277348-7",
     "name": "CORRIDA DE CORBIE"
   },
   {
@@ -2635,7 +2635,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796428800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-telethon-2026/running-course-a-pied/1474160418418-11",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-telethon-2026/course-a-pied-running/1474160418418-11",
     "name": "Trail du Téléthon"
   },
   {
@@ -3090,7 +3090,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/nocturnes-entre-plages-et-chemins-creux-2026/running-course-a-pied/1361506947442-20",
+    "eventLink": "https://www.klikego.com/inscription/nocturnes-entre-plages-et-chemins-creux-2026/course-a-pied-running/1361506947442-20",
     "name": "Nocturnes Entre Plages et Chemins Creux"
   },
   {
@@ -3298,7 +3298,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/les-sportifs-ont-du-coeur-2026/running-course-a-pied/1740275131381-4",
+    "eventLink": "https://www.klikego.com/inscription/les-sportifs-ont-du-coeur-2026/course-a-pied-running/1740275131381-4",
     "name": "LES SPORTIFS ONT DU COEUR"
   },
   {
@@ -3870,7 +3870,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800144000000,
-    "eventLink": "https://www.klikego.com/inscription/inscription-bol-dair-2027/running-course-a-pied/1740975965646-5",
+    "eventLink": "https://www.klikego.com/inscription/inscription-bol-dair-2027/course-a-pied-running/1740975965646-5",
     "name": "Inscription bol d'air 2027"
   },
   {
@@ -4223,6 +4223,19 @@
     "ending": 1803168000000,
     "eventLink": "https://www.klikego.com/inscription/semi-marathon-du-finistere-2027/running-marche-nordique/1779989495415-1",
     "name": "Semi-Marathon du Finistère"
+  },
+  {
+    "place": "unknown",
+    "city": "Ploermel",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1803686400000,
+    "ending": 1803686400000,
+    "eventLink": "https://www.klikego.com/inscription/semi-marathon-et-10-km-de-ploermel-communaute-2027/running-course-a-pied/1447006603897-18",
+    "name": "Semi marathon et 10 km de Ploërmel communauté"
   },
   {
     "place": "unknown",
@@ -4821,6 +4834,19 @@
     "ending": 1807401600000,
     "eventLink": "https://www.klikego.com/inscription/rando-trail-ape-plounevezel-2027/running-course-a-pied/1708414852030-5",
     "name": "Rando-Trail APE plounevezel"
+  },
+  {
+    "place": "unknown",
+    "city": "Coudrecieux",
+    "departementNumber": 72,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807920000000,
+    "ending": 1807920000000,
+    "eventLink": "https://www.klikego.com/inscription/coudrtrail-2027/course-a-pied-running/1755128322989-2",
+    "name": "Coudr'Trail"
   },
   {
     "place": "unknown",
