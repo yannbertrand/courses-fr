@@ -360,7 +360,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-perigord-noir-2026/running-course-a-pied/1725587953930-4",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-perigord-noir-2026/course-a-pied-running/1725587953930-4",
     "name": "Marathon Trail Périgord Noir 2026"
   },
   {
@@ -412,7 +412,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-trieux-2026/running-course-a-pied/1660958737047-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-trieux-2026/course-a-pied-running/1660958737047-5",
     "name": "Trail de la Vallée du Trieux 2026"
   },
   {
@@ -464,7 +464,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-brame-monts-de-bonnac-2026/running-course-a-pied/1663096057681-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-brame-monts-de-bonnac-2026/course-a-pied-running/1663096057681-5",
     "name": "TRAIL DU BRAME - Monts de BONNAC 2026"
   },
   {
@@ -1140,7 +1140,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/44e-foulees-de-la-presse-de-la-manche-2026/running-course-a-pied/1633485497207-6",
+    "eventLink": "https://www.klikego.com/inscription/44e-foulees-de-la-presse-de-la-manche-2026/course-a-pied-running/1633485497207-6",
     "name": "44e Foulées de La Presse de la Manche"
   },
   {
@@ -3043,6 +3043,19 @@
   },
   {
     "place": "unknown",
+    "city": "Rennes",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797033600000,
+    "ending": 1797033600000,
+    "eventLink": "https://www.klikego.com/inscription/course-de-noel-aux-longs-champs--2026/course-a-pied-running/1760559280110-2",
+    "name": "Course de Noël aux Longs Champs !"
+  },
+  {
+    "place": "unknown",
     "city": "Lesneven",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -3199,6 +3212,19 @@
   },
   {
     "place": "unknown",
+    "city": "Carentan",
+    "departementNumber": 50,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797120000000,
+    "ending": 1797120000000,
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-2026/course-a-pied-running/1498782124484-19",
+    "name": "Corrida de Noël"
+  },
+  {
+    "place": "unknown",
     "city": "Creteil",
     "departementNumber": 94,
     "eventType": "unknown",
@@ -3298,7 +3324,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-noel-2026/running-course-a-pied/jceb_1377094791298-15",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-noel-2026/course-a-pied-running/jceb_1377094791298-15",
     "name": "TRAIL DE NOEL"
   },
   {
@@ -3680,6 +3706,19 @@
   },
   {
     "place": "unknown",
+    "city": "St gervais",
+    "departementNumber": 33,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1798934400000,
+    "ending": 1798934400000,
+    "eventLink": "https://www.klikego.com/inscription/detox-relais-2027/running-course-a-pied-marche-nordique/1789173975679-1",
+    "name": "Détox Relais 2027"
+  },
+  {
+    "place": "unknown",
     "city": "Daoulas",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -3781,6 +3820,19 @@
     "ending": 1800144000000,
     "eventLink": "https://www.klikego.com/inscription/cross-ouest-france-2027/running-course-a-pied-marche-nordique/1668475803381-5",
     "name": "Cross Ouest-France 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Pouffonds",
+    "departementNumber": 79,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800057600000,
+    "ending": 1800057600000,
+    "eventLink": "https://www.klikego.com/inscription/la-marcillaise-2027/course-a-pied-running/1735688535956-3",
+    "name": "La Marcillaise"
   },
   {
     "place": "unknown",
@@ -4182,7 +4234,7 @@
     "registrationStatus": "unknown",
     "beginning": 1803772800000,
     "ending": 1803772800000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-tour-des-cotes-darmor-2027/running-course-a-pied/1536975359188-25",
+    "eventLink": "https://www.klikego.com/inscription/ultra-tour-des-cotes-darmor-2027/course-a-pied-running/1536975359188-25",
     "name": "Ultra Tour des Cotes d'Armor"
   },
   {
@@ -4351,7 +4403,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805500800000,
     "ending": 1805500800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/running-course-a-pied/1760064003476-3",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/course-a-pied-running/1760064003476-3",
     "name": "LA DOUZE - FRENCH RIVIERA 2027"
   },
   {
@@ -4447,7 +4499,7 @@
   },
   {
     "place": "unknown",
-    "city": "tahanaout",
+    "city": "marrakech",
     "departementNumber": 42,
     "eventType": "unknown",
     "numberOfRaceVariants": "unknown",
@@ -4455,7 +4507,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/morocco-trail-race-2027/running-course-a-pied/1791262965558-1",
+    "eventLink": "https://www.klikego.com/inscription/morocco-trail-race-2027/course-a-pied-running/1791262965558-1",
     "name": "MOROCCO TRAIL RACE"
   },
   {
@@ -4624,7 +4676,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806796800000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/ekiden-de-l-estuaire-2027/running-course-a-pied/1452678362731-19",
+    "eventLink": "https://www.klikego.com/inscription/ekiden-de-l-estuaire-2027/course-a-pied-running/1452678362731-19",
     "name": "EKIDEN DE L ESTUAIRE"
   },
   {
@@ -4832,7 +4884,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808524800000,
     "ending": 1808524800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/running-course-a-pied/1760064003476-4",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/course-a-pied-running/1760064003476-4",
     "name": "LA DOUZE - MONTS DES GÉANTS 2027"
   },
   {
@@ -5092,7 +5144,7 @@
     "registrationStatus": "unknown",
     "beginning": 1810944000000,
     "ending": 1810944000000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-mont-blanc-passy-2027/running-course-a-pied/1760064003476-2",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-mont-blanc-passy-2027/course-a-pied-running/1760064003476-2",
     "name": "LA DOUZE - MONT-BLANC PASSY 2027"
   },
   {
@@ -5417,7 +5469,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812844800000,
     "ending": 1812844800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-aqueducs-2027/running-course-a-pied/1785975002608-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-aqueducs-2027/course-a-pied-running/1785975002608-1",
     "name": "Trail Des Aqueducs"
   },
   {
