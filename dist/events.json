@@ -149,7 +149,7 @@
     "eventType": "course_a_pied",
     "numberOfRaceVariants": "unknown",
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1792800000000,
     "ending": 1792800000000,
     "name": "TRAIL DE L’ANJOU",
@@ -347,7 +347,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-kayenn-felix-eboue-2026/running-course-a-pied/1762877839458-4",
+    "eventLink": "https://www.klikego.com/inscription/marathon-kayenn-felix-eboue-2026/course-a-pied-running/1762877839458-4",
     "name": "MARATHON KAYENN FELIX EBOUE"
   },
   {
