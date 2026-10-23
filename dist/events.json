@@ -243,7 +243,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/defi-nature-de-clayes-2026/running-course-a-pied/1777964750458-1",
+    "eventLink": "https://www.klikego.com/inscription/defi-nature-de-clayes-2026/course-a-pied-running/1777964750458-1",
     "name": "Défi Nature de Clayes"
   },
   {
@@ -308,7 +308,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/les-20-km-du-ruban-bleu-2026/running-course-a-pied/1545848386427-22",
+    "eventLink": "https://www.klikego.com/inscription/les-20-km-du-ruban-bleu-2026/course-a-pied-running/1545848386427-22",
     "name": "Les 20 km du Ruban Bleu"
   },
   {
@@ -318,10 +318,10 @@
     "eventType": "running",
     "numberOfRaceVariants": 5,
     "registrationLink": "https://larochesuryon.asptt.com/",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "name": "LES FOULÉES BOURGADINES",
+    "name": "LES FOULÉES BOURGADINES - INSCRIPTIONS SUR PLACE POSSIBLE",
     "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3216"
   },
   {
@@ -1010,7 +1010,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -1335,7 +1335,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/running-course-a-pied/1422474798785-15",
+    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/course-a-pied-running/1422474798785-15",
     "name": "GREGAM NOZ TRAIL"
   },
   {
@@ -1647,7 +1647,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-moulins-2026/running-course-a-pied/1472200149231-10",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-moulins-2026/course-a-pied-running/1472200149231-10",
     "name": "Trail de la Vallée des Moulins"
   },
   {
@@ -3446,6 +3446,19 @@
   },
   {
     "place": "unknown",
+    "city": "Santec",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797638400000,
+    "ending": 1797724800000,
+    "eventLink": "https://www.klikego.com/inscription/la-didermen-2026/course-a-pied-running/1791226343449-1",
+    "name": "La DIDERMEN"
+  },
+  {
+    "place": "unknown",
     "city": "Le pouliguen",
     "departementNumber": 44,
     "eventType": "unknown",
@@ -4135,6 +4148,19 @@
   },
   {
     "place": "unknown",
+    "city": "Labruguiere",
+    "departementNumber": 81,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1802476800000,
+    "ending": 1802476800000,
+    "eventLink": "https://www.klikego.com/inscription/foulees-nocturnes-en-montagne-noire-2027/course-a-pied-running/1488428793367-10",
+    "name": "FOULEES NOCTURNES EN MONTAGNE NOIRE"
+  },
+  {
+    "place": "unknown",
     "city": "Chalvignac",
     "departementNumber": 15,
     "eventType": "unknown",
@@ -4143,7 +4169,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802476800000,
     "ending": 1802476800000,
-    "eventLink": "https://www.klikego.com/inscription/raid-des-gabariers-2027/running-course-a-pied/1497821519858-9",
+    "eventLink": "https://www.klikego.com/inscription/raid-des-gabariers-2027/course-a-pied-running/1497821519858-9",
     "name": "Raid des Gabariers 2027"
   },
   {
@@ -4340,6 +4366,19 @@
     "ending": 1804377600000,
     "eventLink": "https://www.klikego.com/inscription/la-koala-run-2027/running-course-a-pied/1575452440402-8",
     "name": "La KOALA RUN 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Le marillais",
+    "departementNumber": 49,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804377600000,
+    "ending": 1804377600000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-seil-2027/course-a-pied-running/1782508428794-1",
+    "name": "Les foulées du Seil"
   },
   {
     "place": "unknown",
@@ -4806,7 +4845,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807315200000,
     "ending": 1807315200000,
-    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/running-course-a-pied/1790031691736-1",
+    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/course-a-pied-running/1790031691736-1",
     "name": "DELTA RACE PARIS 2027"
   },
   {
@@ -5191,7 +5230,7 @@
     "city": "St m herve",
     "departementNumber": 35,
     "eventType": "unknown",
-    "numberOfRaceVariants": 6,
+    "numberOfRaceVariants": 5,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1810425600000,
@@ -5575,6 +5614,19 @@
     "ending": 1814054400000,
     "eventLink": "https://www.klikego.com/inscription/le-kinetik-ultra-marin-2027/running-course-a-pied-marche-nordique/1605741692033-7",
     "name": "LE KINETIK ULTRA MARIN"
+  },
+  {
+    "place": "unknown",
+    "city": "La ferte mace",
+    "departementNumber": 61,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 11,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813968000000,
+    "ending": 1814054400000,
+    "eventLink": "https://www.klikego.com/inscription/le-survivorne-2027/triathlon/1354328878277-18",
+    "name": "LE SURVIV'ORNE 2027"
   },
   {
     "place": "unknown",
