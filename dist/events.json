@@ -227,7 +227,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 9,
     "registrationLink": "https://www.facebook.com/CraonNaturhallesTrail",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1792886400000,
     "ending": 1792886400000,
     "name": "CRAON NATUR'HALLES TRAIL 2026",
@@ -477,7 +477,7 @@
     "registrationStatus": "unknown",
     "beginning": 1792886400000,
     "ending": 1792886400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-un-sourire-dans-les-baskets-2026/running-course-a-pied/1662102890583-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-un-sourire-dans-les-baskets-2026/course-a-pied-running/1662102890583-5",
     "name": "TRAIL Un Sourire dans les Baskets"
   },
   {
@@ -945,7 +945,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/ekiden-36-marathon-en-relais-18eme-edition-2026/running-course-a-pied/1525393026307-8",
+    "eventLink": "https://www.klikego.com/inscription/ekiden-36-marathon-en-relais-18eme-edition-2026/course-a-pied-running/1525393026307-8",
     "name": "Ekiden 36 - Marathon en relais - 18ème édition"
   },
   {
@@ -1088,7 +1088,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/running-course-a-pied/1629931133992-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/course-a-pied-running/1629931133992-7",
     "name": "Trail Sable et Forêt 2026"
   },
   {
@@ -2999,7 +2999,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-perros-guirec-2026/running-course-a-pied/1779142645617-1",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-perros-guirec-2026/course-a-pied-running/1779142645617-1",
     "name": "Corrida de Perros Guirec"
   },
   {
@@ -3545,7 +3545,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/running-course-a-pied/jceb_1353799518037-29",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/course-a-pied-running/jceb_1353799518037-29",
     "name": "LES FOULEES DU PERE NOEL 2026"
   },
   {
@@ -3979,6 +3979,19 @@
   },
   {
     "place": "unknown",
+    "city": "La rochelle",
+    "departementNumber": 17,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800662400000,
+    "ending": 1800662400000,
+    "eventLink": "https://www.klikego.com/inscription/urban-trail-la-rochelle-2027/course-a-pied-running/1744329685968-2",
+    "name": "Urban Trail la Rochelle"
+  },
+  {
+    "place": "unknown",
     "city": "Chateaugiron",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -4002,6 +4015,19 @@
     "ending": 1801353600000,
     "eventLink": "https://www.klikego.com/inscription/roctrail-2027/running-course-a-pied/1634076845704-9",
     "name": "Roc'trail 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Cestas",
+    "departementNumber": 33,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1801353600000,
+    "ending": 1801353600000,
+    "eventLink": "https://www.klikego.com/inscription/la-cestadaise-2027-trails/course-a-pied-running/1667269876459-11",
+    "name": "La Cestadaise 2027 - Trails"
   },
   {
     "place": "unknown",
@@ -4265,6 +4291,19 @@
   },
   {
     "place": "unknown",
+    "city": "Nontron",
+    "departementNumber": 24,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 8,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804291200000,
+    "ending": 1804377600000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-grands-couteliers-2027/course-a-pied-running/1678762333619-7",
+    "name": "TRAIL DES GRANDS COUTELIERS 2027"
+  },
+  {
+    "place": "unknown",
     "city": "Thorigné-Fouillard",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -4494,7 +4533,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/ekiden-de-touraine-2027/running-course-a-pied/1699681901237-4",
+    "eventLink": "https://www.klikego.com/inscription/ekiden-de-touraine-2027/course-a-pied-running/1699681901237-4",
     "name": "Ekiden de Touraine 2027"
   },
   {
@@ -5380,6 +5419,19 @@
     "ending": 1811635200000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-borneloise-2027/running-course-a-pied/1788397789638-1",
     "name": "Les Foulées Borneloise"
+  },
+  {
+    "place": "unknown",
+    "city": "Trelissac",
+    "departementNumber": 24,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811980800000,
+    "ending": 1811980800000,
+    "eventLink": "https://www.klikego.com/inscription/la-tournicoti-run-2027/course-a-pied-running/1699932906700-4",
+    "name": "La Tournicoti-Run 2027"
   },
   {
     "place": "unknown",
