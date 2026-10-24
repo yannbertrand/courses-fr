@@ -633,7 +633,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-jambes-allaire-edition-2026/running-course-a-pied/1463865764159-11",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-jambes-allaire-edition-2026/course-a-pied-running/1463865764159-11",
     "name": "Trail des Jambes Allaire édition 2026"
   },
   {
@@ -4005,6 +4005,19 @@
   },
   {
     "place": "unknown",
+    "city": "Douarnenez",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800748800000,
+    "ending": 1800748800000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-douarnenistes-2027/course-a-pied-running/1472928746592-11",
+    "name": "LES FOULEES DOUARNENISTES"
+  },
+  {
+    "place": "unknown",
     "city": "Chateaugiron",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -4650,7 +4663,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806105600000,
     "ending": 1806105600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-entre-mer-et-terre-2027/running-course-a-pied/1729481588698-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-entre-mer-et-terre-2027/course-a-pied-running/1729481588698-3",
     "name": "Trail entre Mer et Terre"
   },
   {
@@ -4850,6 +4863,19 @@
   },
   {
     "place": "unknown",
+    "city": "Albert",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807315200000,
+    "ending": 1807315200000,
+    "eventLink": "https://www.klikego.com/inscription/la-nocturne-dalbert-2027/course-a-pied-running/1621905209259-10",
+    "name": "LA NOCTURNE D'ALBERT"
+  },
+  {
+    "place": "unknown",
     "city": "Souligne sous ballon",
     "departementNumber": 72,
     "eventType": "unknown",
@@ -5009,12 +5035,12 @@
     "city": "Acigne",
     "departementNumber": 35,
     "eventType": "unknown",
-    "numberOfRaceVariants": 7,
+    "numberOfRaceVariants": 6,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-dacigne-acigne-au-feminin-2027/running-course-a-pied/1356384566470-13",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-dacigne-acigne-au-feminin-2027/course-a-pied-running/1356384566470-13",
     "name": "Les foulées d'Acigné - Acigné au féminin"
   },
   {
@@ -5105,7 +5131,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809129600000,
     "ending": 1809216000000,
-    "eventLink": "https://www.klikego.com/inscription/la-backyard-de-la-presquile-2027/running-course-a-pied/1788834191739-1",
+    "eventLink": "https://www.klikego.com/inscription/la-backyard-de-la-presquile-2027/course-a-pied-running/1788834191739-1",
     "name": "La Backyard de la Presqu'ile"
   },
   {
@@ -5185,6 +5211,19 @@
     "ending": 1809820800000,
     "eventLink": "https://www.klikego.com/inscription/la-mosnacotoise-trail-du-vignoble-cognacais-2027/running-course-a-pied/1411443328742-2",
     "name": "La Mosnacotoise trail du vignoble cognaçais"
+  },
+  {
+    "place": "unknown",
+    "city": "Chemire le gaudin",
+    "departementNumber": 72,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1810339200000,
+    "ending": 1810339200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-du-belvedere-2027/course-a-pied-running/1760991579886-2",
+    "name": "trail du Belvédère"
   },
   {
     "place": "unknown",
