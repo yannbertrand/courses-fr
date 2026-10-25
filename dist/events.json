@@ -672,7 +672,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/running-course-a-pied/1770757732257-1",
+    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/course-a-pied-running/1770757732257-1",
     "name": "Brangokor"
   },
   {
@@ -1738,7 +1738,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/relais-de-lensil-ensci-16eme-edition-2026/running-course-a-pied/1705539728962-3",
+    "eventLink": "https://www.klikego.com/inscription/relais-de-lensil-ensci-16eme-edition-2026/course-a-pied-running/1705539728962-3",
     "name": "Relais de l'ENSIL-ENSCI 16ème édition"
   },
   {
@@ -2700,7 +2700,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/running-course-a-pied/1409279910468-13",
+    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/course-a-pied-running/1409279910468-13",
     "name": "ROTTE DES GOBIONS VERTS 2026"
   },
   {
@@ -3768,6 +3768,19 @@
     "ending": 1800144000000,
     "eventLink": "https://www.klikego.com/inscription/trail-du-pecharmant-2027/running-course-a-pied/1726102705683-3",
     "name": "Trail du Pécharmant 2027"
+  },
+  {
+    "place": "Gymnase Cité Scolaire Internationale de Gerland, 2 place de Montréal",
+    "city": "Lyon 07",
+    "departementNumber": 69,
+    "eventType": "nage_avec_palmes",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1800144000000,
+    "ending": 1800144000000,
+    "name": "46e TRAVERSEE DE LYON A LA NAGE AVEC PALMES",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3620/46e-traversee-de-lyon-a-la-nage-avec-palmes-lyon-07"
   },
   {
     "place": "unknown",
