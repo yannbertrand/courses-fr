@@ -40,32 +40,6 @@
   },
   {
     "place": "unknown",
-    "city": "SAINT JEAN DE LINIÈRES – SAINT LEGER DE LINIERES",
-    "departementNumber": 49,
-    "eventType": "running",
-    "numberOfRaceVariants": 7,
-    "registrationLink": "https://la-linieroise.sportsregions.fr/",
-    "registrationStatus": "closed",
-    "beginning": 1792800000000,
-    "ending": 1792800000000,
-    "name": "13EME LINIÈROISE",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3152"
-  },
-  {
-    "place": "Chateau du Plessis-Macé",
-    "city": "Le Plessis-Macé",
-    "departementNumber": 49,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792800000000,
-    "ending": 1792800000000,
-    "name": "TRAIL DE L’ANJOU",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3516/trail-de-l-anjou-le-plessis-mace"
-  },
-  {
-    "place": "unknown",
     "city": "St rene hillion",
     "departementNumber": 22,
     "eventType": "unknown",
