@@ -2583,7 +2583,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/running-course-a-pied/1790903154268-1",
+    "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/course-a-pied-running/1790903154268-1",
     "name": "Cross de l'Iroise Athlétisme"
   },
   {
@@ -3376,7 +3376,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/running-course-a-pied/1624160890633-7",
+    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/course-a-pied-running/1624160890633-7",
     "name": "COURSE DE NOEL by Apiruntour"
   },
   {
@@ -3482,19 +3482,6 @@
     "ending": 1797724800000,
     "name": "URBAN TRAIL DES ENFARINÉS",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3525/urban-trail-des-enfarin-s-nozay"
-  },
-  {
-    "place": "unknown",
-    "city": "LE LION D'ANGERS",
-    "departementNumber": 49,
-    "eventType": "vtt_triathlon_trail",
-    "numberOfRaceVariants": 9,
-    "registrationLink": "http://triple-race.com/",
-    "registrationStatus": "open",
-    "beginning": 1797811200000,
-    "ending": 1797811200000,
-    "name": "LA TRIPLE RACE 2026",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3246"
   },
   {
     "place": "unknown",
