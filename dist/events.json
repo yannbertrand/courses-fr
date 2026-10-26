@@ -300,6 +300,19 @@
   },
   {
     "place": "unknown",
+    "city": "Frehel",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1793664000000,
+    "ending": 1793664000000,
+    "eventLink": "https://www.klikego.com/inscription/les-20-km-du-ruban-bleu-2026/running-course-a-pied/1545848386427-22",
+    "name": "Les 20 km du Ruban Bleu"
+  },
+  {
+    "place": "unknown",
     "city": "Ploemeur",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -321,7 +334,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/10-km-de-ducey-2026/running-course-a-pied/1535682155923-10",
+    "eventLink": "https://www.klikego.com/inscription/10-km-de-ducey-2026/course-a-pied-running/1535682155923-10",
     "name": "10 km de Ducey"
   },
   {
@@ -412,7 +425,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-baie-de-quiberon-2026/running-course-a-pied/1681847174164-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-baie-de-quiberon-2026/course-a-pied-running/1681847174164-4",
     "name": "Trail de la Baie de Quiberon"
   },
   {
@@ -1587,32 +1600,6 @@
   },
   {
     "place": "unknown",
-    "city": "Vitre",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795305600000,
-    "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/course-du-muscle-2026/running-course-a-pied-marche-nordique/1791791032099-1",
-    "name": "Course du Muscle"
-  },
-  {
-    "place": "unknown",
-    "city": "Vitre",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795305600000,
-    "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/course-du-muscle-2026/running-course-a-pied-marche-nordique/1791782688990-1",
-    "name": "Course du Muscle"
-  },
-  {
-    "place": "unknown",
     "city": "Peronne",
     "departementNumber": 80,
     "eventType": "unknown",
@@ -1647,7 +1634,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/des-marais--des-bosses-by-cocerto-2026/running-course-a-pied/1771824655537-1",
+    "eventLink": "https://www.klikego.com/inscription/des-marais--des-bosses-by-cocerto-2026/course-a-pied-running/1771824655537-1",
     "name": "Des Marais & Des Bosses by Cocerto"
   },
   {
@@ -1987,6 +1974,19 @@
     "ending": 1795910400000,
     "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-goelo-2026/running-course-a-pied/1460775591049-35",
     "name": "Trail de la Vallée du Goëlo"
+  },
+  {
+    "place": "unknown",
+    "city": "Pontivy",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795910400000,
+    "ending": 1795910400000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-pontivy-2026/running-course-a-pied/1378717780457-25",
+    "name": "Trail de Pontivy"
   },
   {
     "place": "Ancenis Saint Géréon - Centre ville",
@@ -2375,7 +2375,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/running-course-a-pied/1409279910468-13",
+    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/course-a-pied-running/1409279910468-13",
     "name": "ROTTE DES GOBIONS VERTS 2026"
   },
   {
@@ -2765,7 +2765,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-2026/running-course-a-pied/1498782124484-19",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-2026/course-a-pied-running/1498782124484-19",
     "name": "Corrida de Noël"
   },
   {
@@ -2999,7 +2999,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/la-didermen-2026/running-course-a-pied/1791226343449-1",
+    "eventLink": "https://www.klikego.com/inscription/la-didermen-2026/course-a-pied-running/1791226343449-1",
     "name": "La DIDERMEN"
   },
   {
@@ -3545,7 +3545,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800662400000,
     "ending": 1800662400000,
-    "eventLink": "https://www.klikego.com/inscription/urban-trail-la-rochelle-2027/running-course-a-pied/1744329685968-2",
+    "eventLink": "https://www.klikego.com/inscription/urban-trail-la-rochelle-2027/course-a-pied-running/1744329685968-2",
     "name": "Urban Trail la Rochelle"
   },
   {
@@ -3599,6 +3599,19 @@
     "ending": 1801353600000,
     "eventLink": "https://www.klikego.com/inscription/la-cestadaise-2027-trails/running-course-a-pied/1667269876459-11",
     "name": "La Cestadaise 2027 - Trails"
+  },
+  {
+    "place": "salle Du Doué",
+    "city": "Cugand",
+    "departementNumber": 85,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1801353600000,
+    "ending": 1801353600000,
+    "name": "Les Foulées du Mingot",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3626/les-foulees-du-mingot-cugand"
   },
   {
     "place": "unknown",
@@ -3943,12 +3956,12 @@
     "city": "St evarzec",
     "departementNumber": 29,
     "eventType": "unknown",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1804377600000,
     "ending": 1804377600000,
-    "eventLink": "https://www.klikego.com/inscription/saint-e-trail-2027/running-course-a-pied/1472852825424-12",
+    "eventLink": "https://www.klikego.com/inscription/saint-e-trail-2027/course-a-pied-running/1472852825424-12",
     "name": "SAINT E TRAIL"
   },
   {
@@ -4520,7 +4533,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808006400000,
     "ending": 1808006400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-lhippodrome-2027/running-course-a-pied/1791255945997-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-lhippodrome-2027/course-a-pied-running/1791255945997-1",
     "name": "Trail de l'Hippodrome"
   },
   {
@@ -4567,7 +4580,7 @@
     "city": "Lacanau",
     "departementNumber": 33,
     "eventType": "unknown",
-    "numberOfRaceVariants": 7,
+    "numberOfRaceVariants": 9,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1808524800000,
@@ -4587,6 +4600,19 @@
     "ending": 1808611200000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-dacigne-acigne-au-feminin-2027/running-course-a-pied/1356384566470-13",
     "name": "Les foulées d'Acigné - Acigné au féminin"
+  },
+  {
+    "place": "Place de la Liberté",
+    "city": "La Tranche-sur-Mer",
+    "departementNumber": 85,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1808611200000,
+    "ending": 1808611200000,
+    "name": "Semi Marathon La Tranche sur Mer",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3520/semi-marathon-la-tranche-sur-mer-la-tranche-sur-mer"
   },
   {
     "place": "unknown",
@@ -4715,7 +4741,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809734400000,
     "ending": 1809734400000,
-    "eventLink": "https://www.klikego.com/inscription/perigord-grand-trail-2027/running-course-a-pied/1791336688119-1",
+    "eventLink": "https://www.klikego.com/inscription/perigord-grand-trail-2027/course-a-pied-running/1791336688119-1",
     "name": "Perigord Grand Trail"
   },
   {
@@ -4756,6 +4782,19 @@
     "ending": 1809820800000,
     "eventLink": "https://www.klikego.com/inscription/la-mosnacotoise-trail-du-vignoble-cognacais-2027/running-course-a-pied/1411443328742-2",
     "name": "La Mosnacotoise trail du vignoble cognaçais"
+  },
+  {
+    "place": "unknown",
+    "city": "Ryes",
+    "departementNumber": 14,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1809820800000,
+    "ending": 1809820800000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-gens-bons-2027/course-a-pied-running/1767671862513-2",
+    "name": "TRAIL DES GENS BONS"
   },
   {
     "place": "unknown",
@@ -4951,6 +4990,19 @@
     "ending": 1811635200000,
     "eventLink": "https://www.klikego.com/inscription/lultra-rando-cyclo-2027/cyclo/vtt/1790650074312-1",
     "name": "L'Ultra Rando Cyclo 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "St aubin d arquenay",
+    "departementNumber": 14,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811548800000,
+    "ending": 1811548800000,
+    "eventLink": "https://www.klikego.com/inscription/larquenayse-2027/course-a-pied-running/1678743009100-4",
+    "name": "L'ARQUENAYSE"
   },
   {
     "place": "unknown",
