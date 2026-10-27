@@ -1,6 +1,19 @@
 [
   {
     "place": "unknown",
+    "city": "Rennes",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1767225600000,
+    "ending": 1798675200000,
+    "eventLink": "https://www.klikego.com/inscription/challenge-ott-2026/course-a-pied-running/1656030925998-4",
+    "name": "Challenge OTT 2026"
+  },
+  {
+    "place": "unknown",
     "city": "paris",
     "departementNumber": 75,
     "eventType": "unknown",
@@ -87,7 +100,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/halloween-run-2026/running-course-a-pied/1636075125976-7",
+    "eventLink": "https://www.klikego.com/inscription/halloween-run-2026/course-a-pied-running/1636075125976-7",
     "name": "Halloween Run 2026"
   },
   {
@@ -893,7 +906,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/running-course-a-pied/1422474798785-15",
+    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/course-a-pied-running/1422474798785-15",
     "name": "GREGAM NOZ TRAIL"
   },
   {
@@ -984,7 +997,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-buzancy-2026/running-course-a-pied/1790286306719-1",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-buzancy-2026/course-a-pied-running/1790286306719-1",
     "name": "Trail de Buzancy"
   },
   {
@@ -1478,7 +1491,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-lapocalypse-2026/running-course-a-pied/1556223507103-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-lapocalypse-2026/course-a-pied-running/1556223507103-14",
     "name": "Trail de l'Apocalypse"
   },
   {
@@ -1530,7 +1543,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-seigneurs-2026/running-course-a-pied/1471983518942-20",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-des-seigneurs-2026/course-a-pied-running/1471983518942-20",
     "name": "Trail de la vallée des seigneurs 2026"
   },
   {
@@ -3051,7 +3064,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/running-course-a-pied/1624160890633-7",
+    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/course-a-pied-running/1624160890633-7",
     "name": "COURSE DE NOEL by Apiruntour"
   },
   {
@@ -4065,7 +4078,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805500800000,
     "ending": 1805500800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/running-course-a-pied/1760064003476-3",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/course-a-pied-running/1760064003476-3",
     "name": "LA DOUZE - FRENCH RIVIERA 2027"
   },
   {
@@ -4195,7 +4208,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-flora-2027/running-course-a-pied/1483067403115-9",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-flora-2027/course-a-pied-running/1483067403115-9",
     "name": "Trail de la Flora"
   },
   {
@@ -4312,8 +4325,21 @@
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-des-sables-dolonne-2027/running-course-a-pied/1780429129786-1",
+    "eventLink": "https://www.klikego.com/inscription/marathon-des-sables-dolonne-2027/course-a-pied-running/1780429129786-1",
     "name": "Marathon des Sables D'Olonne"
+  },
+  {
+    "place": "unknown",
+    "city": "Le folgoet",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 10,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806710400000,
+    "ending": 1806796800000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/course-a-pied-running/1440013577697-14",
+    "name": "TRAIL DE L'ABER WRACH"
   },
   {
     "place": "unknown",
@@ -4572,7 +4598,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808524800000,
     "ending": 1808524800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/running-course-a-pied/1760064003476-4",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/course-a-pied-running/1760064003476-4",
     "name": "LA DOUZE - MONTS DES GÉANTS 2027"
   },
   {
@@ -4650,7 +4676,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809043200000,
     "ending": 1809043200000,
-    "eventLink": "https://www.klikego.com/inscription/urban-trail-de-villedieu-les-poeles-2027/running-course-a-pied/1729370475941-3",
+    "eventLink": "https://www.klikego.com/inscription/urban-trail-de-villedieu-les-poeles-2027/course-a-pied-running/1729370475941-3",
     "name": "URBAN TRAIL de Villedieu les poêles 2027"
   },
   {
@@ -4858,7 +4884,7 @@
     "registrationStatus": "unknown",
     "beginning": 1810944000000,
     "ending": 1810944000000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-mont-blanc-passy-2027/running-course-a-pied/1760064003476-2",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-mont-blanc-passy-2027/course-a-pied-running/1760064003476-2",
     "name": "LA DOUZE - MONT-BLANC PASSY 2027"
   },
   {
@@ -4884,7 +4910,7 @@
     "registrationStatus": "unknown",
     "beginning": 1810944000000,
     "ending": 1811030400000,
-    "eventLink": "https://www.klikego.com/inscription/11eme-marathon-royan-u-cote-de-beaute-2027/running-course-a-pied/1446588740963-17",
+    "eventLink": "https://www.klikego.com/inscription/11eme-marathon-royan-u-cote-de-beaute-2027/course-a-pied-running/1446588740963-17",
     "name": "11ème Marathon Royan U Côte de Beauté"
   },
   {
@@ -5235,8 +5261,8 @@
     "registrationStatus": "unknown",
     "beginning": 1813708800000,
     "ending": 1814054400000,
-    "eventLink": "https://www.klikego.com/inscription/le-kinetik-ultra-marin-2027/running-course-a-pied-marche-nordique/1605741692033-7",
-    "name": "LE KINETIK ULTRA MARIN"
+    "eventLink": "https://www.klikego.com/inscription/kinetik-ultra-marin-2027/running-course-a-pied-marche-nordique/1605741692033-7",
+    "name": "KINETIK ULTRA MARIN"
   },
   {
     "place": "unknown",
