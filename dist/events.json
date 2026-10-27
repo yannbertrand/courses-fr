@@ -53,6 +53,19 @@
   },
   {
     "place": "unknown",
+    "city": "Plourin les morlaix",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1793059200000,
+    "ending": 1793059200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-du-velery-2026/course-a-pied-running/1791261534266-1",
+    "name": "Trail du Véléry"
+  },
+  {
+    "place": "unknown",
     "city": "Trehorenteuc",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -126,7 +139,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/kemper-urban-noz-trail-2026/running-course-a-pied/1465889826200-11",
+    "eventLink": "https://www.klikego.com/inscription/kemper-urban-noz-trail-2026/course-a-pied-running/1465889826200-11",
     "name": "Kemper Urban Noz Trail"
   },
   {
@@ -256,7 +269,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793491200000,
     "ending": 1793491200000,
-    "eventLink": "https://www.klikego.com/inscription/courses-nature-de-coupeau-2026/running-course-a-pied/1692753042601-4",
+    "eventLink": "https://www.klikego.com/inscription/courses-nature-de-coupeau-2026/course-a-pied-running/1692753042601-4",
     "name": "Courses Nature de Coupeau"
   },
   {
@@ -971,7 +984,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/plougastel-noz-trail-2026-7eme-edition/running-course-a-pied/1645083428610-10",
+    "eventLink": "https://www.klikego.com/inscription/plougastel-noz-trail-2026-7eme-edition/course-a-pied-running/1645083428610-10",
     "name": "Plougastel Noz Trail 2026 - 7ème édition"
   },
   {
@@ -1400,7 +1413,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/melar-noz-trail-2026/running-course-a-pied/1784873734653-1",
+    "eventLink": "https://www.klikego.com/inscription/melar-noz-trail-2026/course-a-pied-running/1784873734653-1",
     "name": "Melar Noz Trail"
   },
   {
@@ -1909,6 +1922,19 @@
     "ending": 1795910400000,
     "eventLink": "https://www.klikego.com/inscription/30eme-corrida-de-loches-2026/running-course-a-pied/1400744438763-15",
     "name": "30ème CORRIDA DE LOCHES"
+  },
+  {
+    "place": "Parc de la Chantrerie",
+    "city": "Nantes",
+    "departementNumber": 44,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1795910400000,
+    "ending": 1795910400000,
+    "name": "Cross de la Chantrerie - 41ème édition",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3623/cross-de-la-chantrerie-41eme-edition-nantes"
   },
   {
     "place": "unknown",
@@ -2809,6 +2835,19 @@
   },
   {
     "place": "unknown",
+    "city": "Castres",
+    "departementNumber": 81,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797120000000,
+    "ending": 1797120000000,
+    "eventLink": "https://www.klikego.com/inscription/foulees-de-noel-2026/course-a-pied-running/1756433931367-2",
+    "name": "Foulées de Noël 2026"
+  },
+  {
+    "place": "unknown",
     "city": "Royan",
     "departementNumber": 17,
     "eventType": "unknown",
@@ -2960,7 +2999,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/la-course-de-noel-12e-edition-2026/running-course-a-pied/1415393204348-13",
+    "eventLink": "https://www.klikego.com/inscription/la-course-de-noel-12e-edition-2026/course-a-pied-running/1415393204348-13",
     "name": "LA COURSE DE NOEL - 12e édition"
   },
   {
@@ -3001,6 +3040,19 @@
     "ending": 1797638400000,
     "eventLink": "https://www.klikego.com/inscription/nocturne-de-la-vallee-verte-2eme-edition-2026/running-course-a-pied/1643685747082-7",
     "name": "Nocturne de la Vallée Verte - 2ème édition"
+  },
+  {
+    "place": "unknown",
+    "city": "Pledran",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797638400000,
+    "ending": 1797638400000,
+    "eventLink": "https://www.klikego.com/inscription/rando-trail-de-noel-2026/course-a-pied-running/1670316413368-4",
+    "name": "RANDO TRAIL DE NOEL 2026"
   },
   {
     "place": "unknown",
@@ -3389,7 +3441,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800057600000,
-    "eventLink": "https://www.klikego.com/inscription/la-marcillaise-2027/running-course-a-pied/1735688535956-3",
+    "eventLink": "https://www.klikego.com/inscription/la-marcillaise-2027/course-a-pied-running/1735688535956-3",
     "name": "La Marcillaise"
   },
   {
@@ -3454,7 +3506,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800144000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-pecharmant-2027/running-course-a-pied/1726102705683-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-pecharmant-2027/course-a-pied-running/1726102705683-3",
     "name": "Trail du Pécharmant 2027"
   },
   {
@@ -4095,6 +4147,19 @@
     "name": "Le passe partout triouzoune 2027"
   },
   {
+    "place": "Chateau du Plessis-Macé",
+    "city": "Le Plessis-Macé",
+    "departementNumber": 49,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1805500800000,
+    "ending": 1805500800000,
+    "name": "TRAIL DE L’ANJOU",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3516/trail-de-l-anjou-le-plessis-mace"
+  },
+  {
     "place": "unknown",
     "city": "St gilles les bains",
     "departementNumber": 97,
@@ -4187,6 +4252,19 @@
   },
   {
     "place": "unknown",
+    "city": "Chatou",
+    "departementNumber": 78,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805587200000,
+    "ending": 1805587200000,
+    "eventLink": "https://www.klikego.com/inscription/semi-marathon-boucle-de-seine-2027/course-a-pied-running/1790283994662-1",
+    "name": "Semi Marathon Boucle de Seine"
+  },
+  {
+    "place": "unknown",
     "city": "Quimper",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -4221,7 +4299,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-forge-9eme-edition-2027/running-course-a-pied/1547497906237-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-forge-9eme-edition-2027/course-a-pied-running/1547497906237-7",
     "name": "Trail de la Forge 9ème Edition"
   },
   {
