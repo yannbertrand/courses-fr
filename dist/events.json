@@ -516,7 +516,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/ekiden-36-marathon-en-relais-18eme-edition-2026/running-course-a-pied/1525393026307-8",
+    "eventLink": "https://www.klikego.com/inscription/ekiden-36-marathon-en-relais-18eme-edition-2026/course-a-pied-running/1525393026307-8",
     "name": "Ekiden 36 - Marathon en relais - 18ème édition"
   },
   {
@@ -565,7 +565,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 4,
     "registrationLink": "https://muscadaytrail.wixsite.com/muscadaytrail",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1794096000000,
     "ending": 1794096000000,
     "name": "MUSCA'DAY TRAIL 2026",
@@ -1231,7 +1231,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-lacave-2026/running-course-a-pied/1756323308579-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-lacave-2026/course-a-pied-running/1756323308579-2",
     "name": "Trail de Lacave 2026"
   },
   {
@@ -1324,6 +1324,19 @@
     "ending": 1795132800000,
     "name": "Run for Lily Cerise (5) 20-21-22 novembre",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3624/run-for-lily-cerise-5-20-21-22-novembre-france"
+  },
+  {
+    "place": "unknown",
+    "city": "La roche maurice",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795132800000,
+    "ending": 1795132800000,
+    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-du-challenge-armorik-trail-2026/course-a-pied-running/1660377890993-6",
+    "name": "Soirée de remise des prix du Challenge Armorik Trail 2026"
   },
   {
     "place": "unknown",
@@ -2000,19 +2013,6 @@
     "ending": 1795910400000,
     "name": "Trail de L'erdre",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3564/trail-de-l-erdre-nantes"
-  },
-  {
-    "place": "unknown",
-    "city": "Ploufragan",
-    "departementNumber": 22,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795910400000,
-    "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-goelo-2026/running-course-a-pied/1460775591049-35",
-    "name": "Trail de la Vallée du Goëlo"
   },
   {
     "place": "Ancenis Saint Géréon - Centre ville",
@@ -3953,6 +3953,19 @@
   },
   {
     "place": "unknown",
+    "city": "Le drennec",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1803168000000,
+    "ending": 1803168000000,
+    "eventLink": "https://www.klikego.com/inscription/gravel-des-abers-2027/cyclo/vtt/1729765036820-3",
+    "name": "Gravel des Abers - 2027"
+  },
+  {
+    "place": "unknown",
     "city": "Camaret sur mer",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -4520,7 +4533,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/running-course-a-pied/1440013577697-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/course-a-pied-running/1440013577697-14",
     "name": "TRAIL DE L'ABER WRACH"
   },
   {
@@ -4694,6 +4707,19 @@
   },
   {
     "place": "unknown",
+    "city": "Le guerno",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807401600000,
+    "ending": 1807401600000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-guerno-2027/course-a-pied-running/1792032750023-1",
+    "name": "Les Foulées du Guerno"
+  },
+  {
+    "place": "unknown",
     "city": "St pantaleon de larche",
     "departementNumber": 19,
     "eventType": "unknown",
@@ -4793,7 +4819,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808524800000,
     "ending": 1808524800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/running-course-a-pied/1760064003476-4",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/course-a-pied-running/1760064003476-4",
     "name": "LA DOUZE - MONTS DES GÉANTS 2027"
   },
   {
@@ -4936,7 +4962,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809129600000,
     "ending": 1809216000000,
-    "eventLink": "https://www.klikego.com/inscription/la-backyard-de-la-presquile-2027/running-course-a-pied/1788834191739-1",
+    "eventLink": "https://www.klikego.com/inscription/la-backyard-de-la-presquile-2027/course-a-pied-running/1788834191739-1",
     "name": "La Backyard de la Presqu'ile"
   },
   {
