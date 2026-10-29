@@ -100,7 +100,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/halloween-run-2026/running-course-a-pied/1636075125976-7",
+    "eventLink": "https://www.klikego.com/inscription/halloween-run-2026/course-a-pied-running/1636075125976-7",
     "name": "Halloween Run 2026"
   },
   {
@@ -685,7 +685,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794268800000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/semi-marathon-10km-5km-et-defi-de-plouguin-2026/running-course-a-pied/1633737828041-6",
+    "eventLink": "https://www.klikego.com/inscription/semi-marathon-10km-5km-et-defi-de-plouguin-2026/course-a-pied-running/1633737828041-6",
     "name": "Semi-marathon, 10km 5km et defi de Plouguin"
   },
   {
@@ -698,7 +698,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/43eme-edition-des-foulees-erceennes-2026/running-course-a-pied/1361312277407-18",
+    "eventLink": "https://www.klikego.com/inscription/43eme-edition-des-foulees-erceennes-2026/course-a-pied-running/1361312277407-18",
     "name": "43ème édition des Foulées Ercéennes"
   },
   {
@@ -2973,7 +2973,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-morlaix-2026/running-course-a-pied/1537764010884-14",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-morlaix-2026/course-a-pied-running/1537764010884-14",
     "name": "Corrida de Morlaix"
   },
   {
@@ -3989,6 +3989,19 @@
     "ending": 1803686400000,
     "eventLink": "https://www.klikego.com/inscription/semi-marathon-et-10-km-de-ploermel-communaute-2027/running-course-a-pied/1447006603897-18",
     "name": "Semi marathon et 10 km de Ploërmel communauté"
+  },
+  {
+    "place": "rue de bel air",
+    "city": "Cerisé",
+    "departementNumber": 61,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1803772800000,
+    "ending": 1803772800000,
+    "name": "La Ceriséenne - 10ème édition",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3632/la-ceriseenne-10eme-edition-cerise"
   },
   {
     "place": "unknown",
