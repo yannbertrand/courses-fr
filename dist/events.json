@@ -100,7 +100,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/halloween-run-2026/running-course-a-pied/1636075125976-7",
+    "eventLink": "https://www.klikego.com/inscription/halloween-run-2026/course-a-pied-running/1636075125976-7",
     "name": "Halloween Run 2026"
   },
   {
@@ -542,7 +542,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/le-montagrier-trail-2026/running-course-a-pied/1663705635944-5",
+    "eventLink": "https://www.klikego.com/inscription/le-montagrier-trail-2026/course-a-pied-running/1663705635944-5",
     "name": "Le Montagrier Trail 2026"
   },
   {
@@ -1153,7 +1153,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/running-course-a-pied/1725587953930-7",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/course-a-pied-running/1725587953930-7",
     "name": "Marathon Trail Pays de Brive"
   },
   {
@@ -1298,6 +1298,19 @@
     "ending": 1794700800000,
     "eventLink": "https://www.klikego.com/inscription/vetathlon-de-fleurigne-2026/running-course-a-pied/1595120233931-8",
     "name": "VETATHLON DE FLEURIGNE"
+  },
+  {
+    "place": "unknown",
+    "city": "Querrieu",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1794700800000,
+    "ending": 1812585600000,
+    "eventLink": "https://www.klikego.com/inscription/coursetrail-des-merlettes-3eme-edition-2026/course-a-pied-running/1741132075237-3",
+    "name": "COURSE/TRAIL DES MERLETTES 3ème édition"
   },
   {
     "place": "unknown",
@@ -1582,7 +1595,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/tropicadingue-2026/running-course-a-pied/1699481084702-15",
+    "eventLink": "https://www.klikego.com/inscription/tropicadingue-2026/course-a-pied-running/1699481084702-15",
     "name": "Tropica'Dingue"
   },
   {
@@ -2468,6 +2481,19 @@
     "ending": 1796515200000,
     "eventLink": "https://www.klikego.com/inscription/trail-du-porteur-deau-2026/running-course-a-pied/1380671358520-19",
     "name": "Trail du Porteur d'Eau"
+  },
+  {
+    "place": "unknown",
+    "city": "Hennebont",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1796515200000,
+    "ending": 1796515200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-et-marche-nordique-du-haras-national-dhennebont-2026/running-course-a-pied-marche-nordique/1507195793301-15",
+    "name": "Trail et marche nordique du Haras National d'Hennebont"
   },
   {
     "place": "unknown",
@@ -4109,6 +4135,19 @@
   },
   {
     "place": "unknown",
+    "city": "Lorient",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804377600000,
+    "ending": 1804377600000,
+    "eventLink": "https://www.klikego.com/inscription/run-a-lorient-2027/course-a-pied-running/1398800411241-25",
+    "name": "RUN À L'ORIENT"
+  },
+  {
+    "place": "unknown",
     "city": "St evarzec",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -4130,7 +4169,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804377600000,
     "ending": 1804377600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-chataigniers-2027/running-course-a-pied/1638911564531-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-chataigniers-2027/course-a-pied-running/1638911564531-6",
     "name": "Trail des Châtaigniers 2027"
   },
   {
@@ -4446,6 +4485,19 @@
     "name": "Les galopades tranchaises"
   },
   {
+    "place": "Allée des sport",
+    "city": "Le Fief-Sauvin",
+    "departementNumber": 49,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1806192000000,
+    "ending": 1806192000000,
+    "name": "Trail de la Pierre qui Tourne 2027",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3633/trail-de-la-pierre-qui-tourne-2027-le-fief-sauvin"
+  },
+  {
     "place": "unknown",
     "city": "Tregunc",
     "departementNumber": 29,
@@ -4658,7 +4710,7 @@
     "city": "Paris 13eme arrondissement",
     "departementNumber": 75,
     "eventType": "unknown",
-    "numberOfRaceVariants": 4,
+    "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1807315200000,
@@ -4837,6 +4889,19 @@
   },
   {
     "place": "unknown",
+    "city": "Commana",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1808438400000,
+    "ending": 1808524800000,
+    "eventLink": "https://www.klikego.com/inscription/ultra-trail-des-monts-darree-utma-2027/course-a-pied-running/1748916984787-4",
+    "name": "Ultra Trail des Monts d'Arrée (UTMA)"
+  },
+  {
+    "place": "unknown",
     "city": "Plourivo",
     "departementNumber": 22,
     "eventType": "unknown",
@@ -4910,8 +4975,8 @@
     "registrationStatus": "open",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "name": "Semi Marathon La Tranche sur Mer",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3520/semi-marathon-la-tranche-sur-mer-la-tranche-sur-mer"
+    "name": "Semi Marathon La Tranche sur Mer 2027",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3634/semi-marathon-la-tranche-sur-mer-2027-la-tranche-sur-mer"
   },
   {
     "place": "unknown",
@@ -5516,7 +5581,7 @@
     "city": "Le lardin st lazare",
     "departementNumber": 24,
     "eventType": "unknown",
-    "numberOfRaceVariants": 10,
+    "numberOfRaceVariants": 11,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1813363200000,
@@ -5677,7 +5742,7 @@
     "registrationStatus": "unknown",
     "beginning": 1820102400000,
     "ending": 1820102400000,
-    "eventLink": "https://www.klikego.com/inscription/la-garenne-run-2027/running-course-a-pied/1770367848413-1",
+    "eventLink": "https://www.klikego.com/inscription/la-garenne-run-2027/course-a-pied-running/1770367848413-1",
     "name": "La Garenne Run"
   },
   {
