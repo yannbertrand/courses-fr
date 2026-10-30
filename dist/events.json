@@ -240,7 +240,7 @@
     "eventType": "running",
     "numberOfRaceVariants": 6,
     "registrationLink": "http://www.castelrace.fr/",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1793491200000,
     "ending": 1793491200000,
     "name": "CASTEL RACE",
@@ -4554,12 +4554,12 @@
     "city": "Le folgoet",
     "departementNumber": 29,
     "eventType": "unknown",
-    "numberOfRaceVariants": 10,
+    "numberOfRaceVariants": 9,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/running-course-a-pied/1440013577697-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/course-a-pied-running/1440013577697-14",
     "name": "TRAIL DE L'ABER WRACH"
   },
   {
