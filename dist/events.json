@@ -78,45 +78,6 @@
     "name": "Trail de la Belle d'Orgères"
   },
   {
-    "place": "unknown",
-    "city": "Gesnes le gandelin",
-    "departementNumber": 72,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/ekigesnes--marathon-relais--trail-semi-nocturne-2026/running-course-a-pied/1740515941571-2",
-    "name": "Eki'Gesnes : Marathon relais & Trail semi nocturne"
-  },
-  {
-    "place": "unknown",
-    "city": "Coulounieix chamiers",
-    "departementNumber": 24,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/halloween-run-2026/course-a-pied-running/1636075125976-7",
-    "name": "Halloween Run 2026"
-  },
-  {
-    "place": "unknown",
-    "city": "Calan",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/kelan-olantern-les-boucles-dhalloween-2026/running-course-a-pied/1767595544661-2",
-    "name": "Kelan O'Lantern - Les boucles d'Halloween"
-  },
-  {
     "place": "Salle Arc en ciel, Avenue du Mortier",
     "city": "Saint-Géréon",
     "departementNumber": 44,
@@ -128,58 +89,6 @@
     "ending": 1793404800000,
     "name": "La 555 by Go'Trail (#3)",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3452/la-555-by-go-trail-3-saint-gereon"
-  },
-  {
-    "place": "unknown",
-    "city": "Montdidier",
-    "departementNumber": 80,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/la-corridhalloween-de-montdidier-2026/running-course-a-pied/1742613933213-2",
-    "name": "La Corrid’Halloween de Montdidier"
-  },
-  {
-    "place": "unknown",
-    "city": "Collonges la rouge",
-    "departementNumber": 19,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-collongeoises-2026/running-course-a-pied/1784752404218-1",
-    "name": "Les foulées collongeoises"
-  },
-  {
-    "place": "unknown",
-    "city": "Le quillio",
-    "departementNumber": 22,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-hantees-du-quillio-2026/course-a-pied-running/1783048251217-1",
-    "name": "LES FOULEES HANTEES DU QUILLIO"
-  },
-  {
-    "place": "unknown",
-    "city": "Allaire",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 12,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-jambes-allaire-edition-2026/running-course-a-pied/1463865764159-11",
-    "name": "Trail des Jambes Allaire édition 2026"
   },
   {
     "place": "Ensemble sportif René Gautier",
@@ -2414,7 +2323,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/running-course-a-pied/1409279910468-13",
+    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/course-a-pied-running/1409279910468-13",
     "name": "ROTTE DES GOBIONS VERTS 2026"
   },
   {
@@ -3207,7 +3116,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/running-course-a-pied/jceb_1353799518037-29",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/course-a-pied-running/jceb_1353799518037-29",
     "name": "LES FOULEES DU PERE NOEL 2026"
   },
   {
@@ -5224,6 +5133,19 @@
     "ending": 1810339200000,
     "eventLink": "https://www.klikego.com/inscription/trail-du-belvedere-2027/running-course-a-pied/1760991579886-2",
     "name": "trail du Belvédère"
+  },
+  {
+    "place": "unknown",
+    "city": "Pontivy",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 7,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1810339200000,
+    "ending": 1810425600000,
+    "eventLink": "https://www.klikego.com/inscription/diaoulman-pontivy-2027/triathlon/1480410135917-18",
+    "name": "Diaoulman Pontivy"
   },
   {
     "place": "unknown",
