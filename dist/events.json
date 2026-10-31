@@ -100,7 +100,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793404800000,
     "ending": 1793404800000,
-    "eventLink": "https://www.klikego.com/inscription/halloween-run-2026/running-course-a-pied/1636075125976-7",
+    "eventLink": "https://www.klikego.com/inscription/halloween-run-2026/course-a-pied-running/1636075125976-7",
     "name": "Halloween Run 2026"
   },
   {
@@ -204,7 +204,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793491200000,
     "ending": 1793491200000,
-    "eventLink": "https://www.klikego.com/inscription/banaleg-trail-2026/running-course-a-pied/1786050859719-1",
+    "eventLink": "https://www.klikego.com/inscription/banaleg-trail-2026/course-a-pied-running/1786050859719-1",
     "name": "BANALEG TRAIL"
   },
   {
@@ -4845,7 +4845,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807401600000,
     "ending": 1807401600000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-de-la-vezere-2027/running-course-a-pied/1792010996366-1",
+    "eventLink": "https://www.klikego.com/inscription/marathon-de-la-vezere-2027/course-a-pied-running/1792010996366-1",
     "name": "Marathon de la Vézère"
   },
   {
@@ -4860,6 +4860,19 @@
     "ending": 1807401600000,
     "eventLink": "https://www.klikego.com/inscription/rando-trail-ape-plounevezel-2027/running-course-a-pied/1708414852030-5",
     "name": "Rando-Trail APE plounevezel"
+  },
+  {
+    "place": "unknown",
+    "city": "Frise",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807401600000,
+    "ending": 1807401600000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-anguilleres-2027/course-a-pied-running/1639717766538-7",
+    "name": "Trail des Anguillères"
   },
   {
     "place": "unknown",
