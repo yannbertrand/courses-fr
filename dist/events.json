@@ -87,7 +87,7 @@
     "registrationStatus": "unknown",
     "beginning": 1793491200000,
     "ending": 1793491200000,
-    "eventLink": "https://www.klikego.com/inscription/banaleg-trail-2026/course-a-pied-running/1786050859719-1",
+    "eventLink": "https://www.klikego.com/inscription/banaleg-trail-2026/running-course-a-pied/1786050859719-1",
     "name": "BANALEG TRAIL"
   },
   {
@@ -256,7 +256,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/course-a-pied-running/1770757732257-1",
+    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/running-course-a-pied/1770757732257-1",
     "name": "Brangokor"
   },
   {
@@ -1023,7 +1023,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/les-5-km-de-la-corrida-de-marcelcave-qualificatifs-aux-championnats-de-france-2026/running-course-a-pied/1630203501058-6",
+    "eventLink": "https://www.klikego.com/inscription/les-5-km-de-la-corrida-de-marcelcave-qualificatifs-aux-championnats-de-france-2026/course-a-pied-running/1630203501058-6",
     "name": "Les 5 km de la corrida de Marcelcave (qualificatifs aux championnats de France)"
   },
   {
@@ -1036,7 +1036,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/running-course-a-pied/1725587953930-7",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/course-a-pied-running/1725587953930-7",
     "name": "Marathon Trail Pays de Brive"
   },
   {
@@ -1389,6 +1389,19 @@
     "ending": 1795219200000,
     "eventLink": "https://www.klikego.com/inscription/saint-jean-sur-le-coeur-2026/running-course-a-pied/1784495683631-1",
     "name": "Saint Jean sur le Coeur"
+  },
+  {
+    "place": "unknown",
+    "city": "Cleguer",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1795219200000,
+    "ending": 1795219200000,
+    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-challenge-armor-argoat-2026/course-a-pied-running/1509226817964-18",
+    "name": "Soirée de remise des prix challenge ARMOR ARGOAT 2026"
   },
   {
     "place": "unknown",
@@ -1872,19 +1885,6 @@
     "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3234"
   },
   {
-    "place": "unknown",
-    "city": "Chantepie",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795910400000,
-    "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/la-creative-chantepie-2026/running-course-a-pied/1254897502069-19",
-    "name": "La Créative Chantepie"
-  },
-  {
     "place": "Parc de la Chantrerie Nantes",
     "city": "Nantes",
     "departementNumber": 44,
@@ -2297,7 +2297,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/course-a-pied-running/1409279910468-13",
+    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/running-course-a-pied/1409279910468-13",
     "name": "ROTTE DES GOBIONS VERTS 2026"
   },
   {
@@ -3090,7 +3090,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/course-a-pied-running/jceb_1353799518037-29",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/running-course-a-pied/jceb_1353799518037-29",
     "name": "LES FOULEES DU PERE NOEL 2026"
   },
   {
@@ -3347,7 +3347,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 5,
     "registrationLink": "https://www.facebook.com/Caropoliteam",
-    "registrationStatus": "not_open_yet",
+    "registrationStatus": "open",
     "beginning": 1799539200000,
     "ending": 1799539200000,
     "name": "LA CAROPOLITAINE",
@@ -3727,7 +3727,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801958400000,
     "ending": 1801958400000,
-    "eventLink": "https://www.klikego.com/inscription/la-course-au-large-2027/course-a-pied-running/1497390259945-11",
+    "eventLink": "https://www.klikego.com/inscription/la-course-au-large-2027/running-course-a-pied/1497390259945-11",
     "name": "La Course au large"
   },
   {
@@ -3950,6 +3950,19 @@
     "ending": 1803772800000,
     "name": "La Ceriséenne - 10ème édition",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3632/la-ceriseenne-10eme-edition-cerise"
+  },
+  {
+    "place": "unknown",
+    "city": "Fleury les aubrais",
+    "departementNumber": 45,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1803772800000,
+    "ending": 1803772800000,
+    "eventLink": "https://www.klikego.com/inscription/sur-les-pas-de-raboliot-gravel-ou-route-brm200--brevet-federal-100-gravel-2027/cyclo/vtt/1574239698806-19",
+    "name": "Sur les Pas de Raboliot - Gravel ou Route BRM200 + Brevet fédéral 100 gravel"
   },
   {
     "place": "unknown",
@@ -4637,7 +4650,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807315200000,
     "ending": 1807315200000,
-    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/course-a-pied-running/1790031691736-1",
+    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/running-course-a-pied/1790031691736-1",
     "name": "DELTA RACE PARIS 2027"
   },
   {
@@ -4728,7 +4741,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807401600000,
     "ending": 1807401600000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-de-la-vezere-2027/course-a-pied-running/1792010996366-1",
+    "eventLink": "https://www.klikego.com/inscription/marathon-de-la-vezere-2027/running-course-a-pied/1792010996366-1",
     "name": "Marathon de la Vézère"
   },
   {
@@ -4754,7 +4767,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807401600000,
     "ending": 1807401600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-anguilleres-2027/course-a-pied-running/1639717766538-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-anguilleres-2027/running-course-a-pied/1639717766538-7",
     "name": "Trail des Anguillères"
   },
   {
@@ -5079,7 +5092,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809820800000,
     "ending": 1809820800000,
-    "eventLink": "https://www.klikego.com/inscription/la-mosnacotoise-trail-du-vignoble-cognacais-2027/running-course-a-pied/1411443328742-2",
+    "eventLink": "https://www.klikego.com/inscription/la-mosnacotoise-trail-du-vignoble-cognacais-2027/course-a-pied-running/1411443328742-2",
     "name": "La Mosnacotoise trail du vignoble cognaçais"
   },
   {
@@ -5222,7 +5235,7 @@
     "registrationStatus": "unknown",
     "beginning": 1811030400000,
     "ending": 1811030400000,
-    "eventLink": "https://www.klikego.com/inscription/la-govenaise-nature-2027/course-a-pied-running/1790280776134-1",
+    "eventLink": "https://www.klikego.com/inscription/la-govenaise-nature-2027/running-course-a-pied/1790280776134-1",
     "name": "La Govenaise Nature"
   },
   {
