@@ -78,32 +78,6 @@
     "name": "Trail de la Belle d'Orgères"
   },
   {
-    "place": "Salle Arc en ciel, Avenue du Mortier",
-    "city": "Saint-Géréon",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793404800000,
-    "name": "La 555 by Go'Trail (#3)",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3452/la-555-by-go-trail-3-saint-gereon"
-  },
-  {
-    "place": "Ensemble sportif René Gautier",
-    "city": "Bouaye",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793404800000,
-    "ending": 1793404800000,
-    "name": "TRAIL NOCTURNE BOSCEEN",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3486/trail-nocturne-bosceen-bouaye"
-  },
-  {
     "place": "unknown",
     "city": "Bannalec",
     "departementNumber": 29,
