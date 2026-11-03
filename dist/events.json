@@ -87,7 +87,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/10-km-de-ducey-2026/running-course-a-pied/1535682155923-10",
+    "eventLink": "https://www.klikego.com/inscription/10-km-de-ducey-2026/course-a-pied-running/1535682155923-10",
     "name": "10 km de Ducey"
   },
   {
@@ -165,7 +165,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/tournen-nocturne-2026/running-course-a-pied/1459041481852-24",
+    "eventLink": "https://www.klikego.com/inscription/tournen-nocturne-2026/course-a-pied-running/1459041481852-24",
     "name": "Tourn'en Nocturne"
   },
   {
@@ -321,7 +321,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -438,7 +438,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/43eme-edition-des-foulees-erceennes-2026/running-course-a-pied/1361312277407-18",
+    "eventLink": "https://www.klikego.com/inscription/43eme-edition-des-foulees-erceennes-2026/course-a-pied-running/1361312277407-18",
     "name": "43ème édition des Foulées Ercéennes"
   },
   {
@@ -568,7 +568,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-larmistice-2eme-edition-2026/running-course-a-pied/1756275459457-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-larmistice-2eme-edition-2026/course-a-pied-running/1756275459457-2",
     "name": "Trail de l'armistice 2ème édition"
   },
   {
@@ -607,7 +607,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-tro-bro-melrant-le-ttbm-11eme-edition---2026/running-course-a-pied/1469331681857-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-tro-bro-melrant-le-ttbm-11eme-edition---2026/course-a-pied-running/1469331681857-14",
     "name": "Trail Tro Bro Melrant - Le TTBM - 11ème édition -"
   },
   {
@@ -2050,7 +2050,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/running-course-a-pied/1531902866229-8",
+    "eventLink": "https://www.klikego.com/inscription/les-ribines-de-laber-ildut-edition-2026/course-a-pied-running/1531902866229-8",
     "name": "Les Ribines de l'Aber Ildut - édition 2026"
   },
   {
@@ -3025,7 +3025,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/running-course-a-pied/jceb_1353799518037-29",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pere-noel-2026/course-a-pied-running/jceb_1353799518037-29",
     "name": "LES FOULEES DU PERE NOEL 2026"
   },
   {
@@ -3246,7 +3246,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799452800000,
     "ending": 1799452800000,
-    "eventLink": "https://www.klikego.com/inscription/entre-chien-et-loup-2027/running-course-a-pied/1484685134217-18",
+    "eventLink": "https://www.klikego.com/inscription/entre-chien-et-loup-2027/course-a-pied-running/1484685134217-18",
     "name": "Entre Chien et Loup 2027"
   },
   {
@@ -3350,7 +3350,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800057600000,
-    "eventLink": "https://www.klikego.com/inscription/la-marcillaise-2027/running-course-a-pied/1735688535956-3",
+    "eventLink": "https://www.klikego.com/inscription/la-marcillaise-2027/course-a-pied-running/1735688535956-3",
     "name": "La Marcillaise"
   },
   {
@@ -3363,7 +3363,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800057600000,
-    "eventLink": "https://www.klikego.com/inscription/la-potetrail-2027/running-course-a-pied/1572987998880-7",
+    "eventLink": "https://www.klikego.com/inscription/la-potetrail-2027/course-a-pied-running/1572987998880-7",
     "name": "La Pote'Trail 2027"
   },
   {
@@ -4005,6 +4005,19 @@
   },
   {
     "place": "unknown",
+    "city": "Remungol",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804377600000,
+    "ending": 1804377600000,
+    "eventLink": "https://www.klikego.com/inscription/randonnee-caritative-a-remungol-2027/marche-nordique-running/1792488470727-1",
+    "name": "Randonnée caritative à Remungol"
+  },
+  {
+    "place": "unknown",
     "city": "Lorient",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -4379,6 +4392,19 @@
     "ending": 1806192000000,
     "eventLink": "https://www.klikego.com/inscription/les-galopades-tranchaises-2027/running-course-a-pied/1289363737972-24",
     "name": "Les galopades tranchaises"
+  },
+  {
+    "place": "unknown",
+    "city": "Juvigny le tertre",
+    "departementNumber": 50,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806105600000,
+    "ending": 1806192000000,
+    "eventLink": "https://www.klikego.com/inscription/tms-trail-du-moulin-de-la-see-2027/course-a-pied-running-marche-nordique/1792490235445-1",
+    "name": "TMS Trail du Moulin de la Sée"
   },
   {
     "place": "Allée des sport",
@@ -4975,7 +5001,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809129600000,
     "ending": 1809129600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-landes-du-loup-2027/running-course-a-pied/1472863352649-20",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-landes-du-loup-2027/course-a-pied-running/1472863352649-20",
     "name": "Trail des landes du loup"
   },
   {
