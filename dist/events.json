@@ -39,19 +39,6 @@
     "name": "Adhésion à l'Amicale du Val de Somme saison 2026-2027"
   },
   {
-    "place": "unknown",
-    "city": "Frehel",
-    "departementNumber": 22,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793664000000,
-    "ending": 1793664000000,
-    "eventLink": "https://www.klikego.com/inscription/les-20-km-du-ruban-bleu-2026/running-course-a-pied/1545848386427-22",
-    "name": "Les 20 km du Ruban Bleu"
-  },
-  {
     "place": "R. du Hameau de l'Erdurière, 44220 Couëron",
     "city": "Couëron",
     "departementNumber": 44,
@@ -113,7 +100,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/running-course-a-pied/1770757732257-1",
+    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/course-a-pied-running/1770757732257-1",
     "name": "Brangokor"
   },
   {
@@ -893,7 +880,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/running-course-a-pied/1725587953930-7",
+    "eventLink": "https://www.klikego.com/inscription/marathon-trail-pays-de-brive-2026/course-a-pied-running/1725587953930-7",
     "name": "Marathon Trail Pays de Brive"
   },
   {
@@ -3472,6 +3459,19 @@
   },
   {
     "place": "unknown",
+    "city": "Plouay",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800144000000,
+    "ending": 1800144000000,
+    "eventLink": "https://www.klikego.com/inscription/run--bike-de-plouay-2027/triathlon/1476920186165-19",
+    "name": "Run & Bike de Plouay"
+  },
+  {
+    "place": "unknown",
     "city": "La selle craonnaise",
     "departementNumber": 53,
     "eventType": "unknown",
@@ -3703,6 +3703,19 @@
     "ending": 1801958400000,
     "eventLink": "https://www.klikego.com/inscription/la-course-au-large-2027/running-course-a-pied/1497390259945-11",
     "name": "La Course au large"
+  },
+  {
+    "place": "Le Pont de Moine Rue du Champ des Fleurs",
+    "city": "Montfaucon-Montigné",
+    "departementNumber": 49,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1801958400000,
+    "ending": 1801958400000,
+    "name": "Le Free GO",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3630/le-free-go-montfaucon-montigne"
   },
   {
     "place": "unknown",
@@ -4195,7 +4208,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804982400000,
     "ending": 1804982400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-pays-des-fous-2027/running-course-a-pied/1672172333679-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-pays-des-fous-2027/course-a-pied-running/1672172333679-5",
     "name": "Trail du Pays des Fous"
   },
   {
@@ -4821,6 +4834,19 @@
     "ending": 1807401600000,
     "eventLink": "https://www.klikego.com/inscription/rando-trail-ape-plounevezel-2027/running-course-a-pied/1708414852030-5",
     "name": "Rando-Trail APE plounevezel"
+  },
+  {
+    "place": "unknown",
+    "city": "Rennes",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807401600000,
+    "ending": 1807401600000,
+    "eventLink": "https://www.klikego.com/inscription/runn-belote-2027/course-a-pied-running/1767817532850-2",
+    "name": "run'n belote"
   },
   {
     "place": "unknown",
