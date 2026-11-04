@@ -594,7 +594,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-tro-bro-melrant-le-ttbm-11eme-edition---2026/running-course-a-pied/1469331681857-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-tro-bro-melrant-le-ttbm-11eme-edition---2026/course-a-pied-running/1469331681857-14",
     "name": "Trail Tro Bro Melrant - Le TTBM - 11ème édition -"
   },
   {
@@ -760,7 +760,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 3,
     "registrationLink": "https://lescoursesdeslions.com/trail/index.php",
-    "registrationStatus": "closed",
+    "registrationStatus": "open",
     "beginning": 1794700800000,
     "ending": 1794700800000,
     "name": "12ÈME TRAIL DES LIONS",
@@ -1025,19 +1025,6 @@
     "ending": 1794700800000,
     "eventLink": "https://www.klikego.com/inscription/vetathlon-de-fleurigne-2026/running-course-a-pied/1595120233931-8",
     "name": "VETATHLON DE FLEURIGNE"
-  },
-  {
-    "place": "unknown",
-    "city": "Querrieu",
-    "departementNumber": 80,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794700800000,
-    "ending": 1812585600000,
-    "eventLink": "https://www.klikego.com/inscription/coursetrail-des-merlettes-3eme-edition-2026/running-course-a-pied/1741132075237-3",
-    "name": "COURSE/TRAIL DES MERLETTES 3ème édition"
   },
   {
     "place": "unknown",
@@ -1517,7 +1504,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pont-du-bonhomme-2026/running-course-a-pied/1472532579442-14",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-du-pont-du-bonhomme-2026/course-a-pied-running/1472532579442-14",
     "name": "Les Foulées du Pont du Bonhomme"
   },
   {
@@ -1582,7 +1569,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/biathlon-de-damgan-2026/running-course-a-pied/1758350054749-2",
+    "eventLink": "https://www.klikego.com/inscription/biathlon-de-damgan-2026/course-a-pied-running/1758350054749-2",
     "name": "Biathlon de Damgan 2026"
   },
   {
@@ -2117,6 +2104,19 @@
     "ending": 1796515200000,
     "eventLink": "https://www.klikego.com/inscription/cross-de-liroise-athletisme-2026/running-course-a-pied/1790903154268-1",
     "name": "Cross de l'Iroise Athlétisme"
+  },
+  {
+    "place": "unknown",
+    "city": "Issoire",
+    "departementNumber": 63,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 10,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1796515200000,
+    "ending": 1796515200000,
+    "eventLink": "https://www.klikego.com/inscription/cross-lyssoirien-2026/course-a-pied-running/1761018361586-3",
+    "name": "Cross L'Yssoirien 2026"
   },
   {
     "place": "unknown",
@@ -2913,6 +2913,19 @@
   },
   {
     "place": "unknown",
+    "city": "Ste colombe",
+    "departementNumber": 17,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797638400000,
+    "ending": 1797638400000,
+    "eventLink": "https://www.klikego.com/inscription/trail-givre-des-coteaux-de-la-seugne-2026/running-course-a-pied/1550282926865-8",
+    "name": "TRAIL GIVRE DES COTEAUX DE LA SEUGNE"
+  },
+  {
+    "place": "unknown",
     "city": "Santec",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -2986,7 +2999,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/running-course-a-pied/1624160890633-7",
+    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/course-a-pied-running/1624160890633-7",
     "name": "COURSE DE NOEL by Apiruntour"
   },
   {
@@ -3168,7 +3181,7 @@
     "registrationStatus": "unknown",
     "beginning": 1798329600000,
     "ending": 1798329600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-naussannes-2026/running-course-a-pied/1637703991916-7",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-naussannes-2026/course-a-pied-running/1637703991916-7",
     "name": "Corrida de Naussannes 2026"
   },
   {
@@ -3337,7 +3350,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799539200000,
     "ending": 1799539200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/running-course-a-pied/1691113218274-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-hivernal-les-mathes-la-palmyre-2027/course-a-pied-running/1691113218274-6",
     "name": "Trail Hivernal Les Mathes - La Palmyre"
   },
   {
@@ -4598,7 +4611,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/running-course-a-pied/1440013577697-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/course-a-pied-running/1440013577697-14",
     "name": "TRAIL DE L'ABER WRACH"
   },
   {
@@ -4650,7 +4663,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806796800000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/ekiden-de-l-estuaire-2027/running-course-a-pied/1452678362731-19",
+    "eventLink": "https://www.klikego.com/inscription/ekiden-de-l-estuaire-2027/course-a-pied-running/1452678362731-19",
     "name": "EKIDEN DE L ESTUAIRE"
   },
   {
@@ -4689,7 +4702,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806796800000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/semi-marathon-et-10km-de-lasptt-grand-perigueux-athletisme-2027/running-course-a-pied/1668474890896-5",
+    "eventLink": "https://www.klikego.com/inscription/semi-marathon-et-10km-de-lasptt-grand-perigueux-athletisme-2027/course-a-pied-running/1668474890896-5",
     "name": "Semi-Marathon et 10km de l'ASPTT Grand Périgueux Athlétisme 2027"
   },
   {
@@ -4988,7 +5001,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808524800000,
     "ending": 1808524800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/running-course-a-pied/1760064003476-4",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/course-a-pied-running/1760064003476-4",
     "name": "LA DOUZE - MONTS DES GÉANTS 2027"
   },
   {
@@ -5027,7 +5040,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/la-skydronne-2027/running-course-a-pied/1792446356749-1",
+    "eventLink": "https://www.klikego.com/inscription/la-skydronne-2027/course-a-pied-running/1792446356749-1",
     "name": "LA SKYDRONNE"
   },
   {
@@ -5378,7 +5391,7 @@
     "registrationStatus": "unknown",
     "beginning": 1810944000000,
     "ending": 1811030400000,
-    "eventLink": "https://www.klikego.com/inscription/11eme-marathon-royan-u-cote-de-beaute-2027/running-course-a-pied/1446588740963-17",
+    "eventLink": "https://www.klikego.com/inscription/11eme-marathon-royan-u-cote-de-beaute-2027/course-a-pied-running/1446588740963-17",
     "name": "11ème Marathon Royan U Côte de Beauté"
   },
   {
@@ -5757,6 +5770,19 @@
     "ending": 1813449600000,
     "eventLink": "https://www.klikego.com/inscription/la-cyclosportive-la-perigordine-2027/cyclo/vtt/1790650074312-2",
     "name": "La Cyclosportive La Périgordine 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Querrieu",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813449600000,
+    "ending": 1813449600000,
+    "eventLink": "https://www.klikego.com/inscription/coursetrail-des-merlettes-3eme-edition-2027/course-a-pied-running/1741132075237-3",
+    "name": "COURSE/TRAIL DES MERLETTES 3ème édition"
   },
   {
     "place": "unknown",
