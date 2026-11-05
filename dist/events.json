@@ -39,19 +39,6 @@
     "name": "Adhésion à l'Amicale du Val de Somme saison 2026-2027"
   },
   {
-    "place": "R. du Hameau de l'Erdurière, 44220 Couëron",
-    "city": "Couëron",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1793750400000,
-    "ending": 1793750400000,
-    "name": "CROSS DEPARTEMENTAL UGSEL 44",
-    "eventLink": "https://www.timepulse.fr/calendrier/voir/3638/cross-departemental-ugsel-44-coueron"
-  },
-  {
     "place": "unknown",
     "city": "Ploemeur",
     "departementNumber": 56,
@@ -152,7 +139,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/tournen-nocturne-2026/running-course-a-pied/1459041481852-24",
+    "eventLink": "https://www.klikego.com/inscription/tournen-nocturne-2026/course-a-pied-running/1459041481852-24",
     "name": "Tourn'en Nocturne"
   },
   {
@@ -2726,7 +2713,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-noel-de-st-edern-2026/running-course-a-pied/1787682863879-1",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-noel-de-st-edern-2026/course-a-pied-running/1787682863879-1",
     "name": "Les Foulées de Noël de St Edern"
   },
   {
