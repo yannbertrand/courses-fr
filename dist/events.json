@@ -53,6 +53,19 @@
   },
   {
     "place": "unknown",
+    "city": "Remire montjoly",
+    "departementNumber": 97,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1793923200000,
+    "ending": 1797638400000,
+    "eventLink": "https://www.klikego.com/inscription/cross-de-matoury-2000-2026/course-a-pied-running/1562974819992-23",
+    "name": "Cross de Matoury 2000"
+  },
+  {
+    "place": "unknown",
     "city": "Ducey",
     "departementNumber": 50,
     "eventType": "unknown",
