@@ -100,7 +100,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/running-course-a-pied/1770757732257-1",
+    "eventLink": "https://www.klikego.com/inscription/brangokor-2026/course-a-pied-running/1770757732257-1",
     "name": "Brangokor"
   },
   {
@@ -360,7 +360,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-segala-2026/running-course-a-pied/1433204086479-12",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-segala-2026/course-a-pied-running/1433204086479-12",
     "name": "Trail du Ségala"
   },
   {
@@ -373,7 +373,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-val-de-scie-tvs-2026/running-course-a-pied/1746839575479-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-val-de-scie-tvs-2026/course-a-pied-running/1746839575479-2",
     "name": "Trail du Val de Scie (TVS)"
   },
   {
@@ -1062,7 +1062,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795132800000,
     "ending": 1795132800000,
-    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-du-challenge-armorik-trail-2026/running-course-a-pied/1660377890993-6",
+    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-du-challenge-armorik-trail-2026/course-a-pied-running/1660377890993-6",
     "name": "Soirée de remise des prix du Challenge Armorik Trail 2026"
   },
   {
@@ -1530,7 +1530,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-runan-2026/running-course-a-pied/1756425489987-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-runan-2026/course-a-pied-running/1756425489987-2",
     "name": "Trail de Runan"
   },
   {
@@ -2115,7 +2115,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/cross-ceperou-2026-de-la-ville-de-cayenne-4eme-edition/running-course-a-pied/1762877839458-3",
+    "eventLink": "https://www.klikego.com/inscription/cross-ceperou-2026-de-la-ville-de-cayenne-4eme-edition/course-a-pied-running/1762877839458-3",
     "name": "CROSS CEPEROU 2026 DE LA VILLE DE CAYENNE - 4EME EDITION"
   },
   {
@@ -3731,6 +3731,19 @@
     "name": "10ème édition de la Ronde Solidaire du Val d'Amboise (RSVA)"
   },
   {
+    "place": "Parc des Dorices",
+    "city": "Vallet",
+    "departementNumber": 44,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1801872000000,
+    "ending": 1801872000000,
+    "name": "Val'Escapades - Trails Nocturnes",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3631/val-escapades-trails-nocturnes-vallet"
+  },
+  {
     "place": "unknown",
     "city": "Paris 8eme arrondissement",
     "departementNumber": 75,
@@ -4559,7 +4572,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806105600000,
     "ending": 1806192000000,
-    "eventLink": "https://www.klikego.com/inscription/les-galopades-tranchaises-2027/running-course-a-pied/1289363737972-24",
+    "eventLink": "https://www.klikego.com/inscription/les-galopades-tranchaises-2027/course-a-pied-running/1289363737972-24",
     "name": "Les galopades tranchaises"
   },
   {
@@ -4715,7 +4728,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806710400000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/running-course-a-pied/1440013577697-14",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/course-a-pied-running/1440013577697-14",
     "name": "TRAIL DE L'ABER WRACH"
   },
   {
@@ -5019,6 +5032,19 @@
   },
   {
     "place": "unknown",
+    "city": "St vincent sur oust",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 10,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807920000000,
+    "ending": 1807920000000,
+    "eventLink": "https://www.klikego.com/inscription/tiken-trail-2027/course-a-pied-running/1717731190286-5",
+    "name": "Tiken Trail"
+  },
+  {
+    "place": "unknown",
     "city": "Contes",
     "departementNumber": 6,
     "eventType": "unknown",
@@ -5172,6 +5198,19 @@
     "ending": 1808611200000,
     "name": "Semi Marathon La Tranche sur Mer 2027",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3634/semi-marathon-la-tranche-sur-mer-2027-la-tranche-sur-mer"
+  },
+  {
+    "place": "unknown",
+    "city": "Moulon",
+    "departementNumber": 33,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1808611200000,
+    "ending": 1808611200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-lavenir-2027/course-a-pied-running/1761951816155-2",
+    "name": "Trail de l'Avenir 2027"
   },
   {
     "place": "unknown",
@@ -5497,6 +5536,19 @@
     "ending": 1810944000000,
     "eventLink": "https://www.klikego.com/inscription/seychelles-nature-trail-2027/running-course-a-pied/1699481084702-17",
     "name": "SEYCHELLES NATURE TRAIL"
+  },
+  {
+    "place": "unknown",
+    "city": "Kerlouan",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1810944000000,
+    "ending": 1810944000000,
+    "eventLink": "https://www.klikego.com/inscription/swimrun-cote-des-legendes-22-mai-2027/triathlon/1763069085538-2",
+    "name": "SWIMRUN COTE DES LEGENDES - 22 Mai 2027"
   },
   {
     "place": "unknown",
