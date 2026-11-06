@@ -178,7 +178,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-3-rivieres-2026/running-course-a-pied/1756587249907-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-3-rivieres-2026/course-a-pied-running/1756587249907-2",
     "name": "Trail des 3 Rivières"
   },
   {
@@ -243,7 +243,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/ekiden-36-marathon-en-relais-18eme-edition-2026/running-course-a-pied/1525393026307-8",
+    "eventLink": "https://www.klikego.com/inscription/ekiden-36-marathon-en-relais-18eme-edition-2026/course-a-pied-running/1525393026307-8",
     "name": "Ekiden 36 - Marathon en relais - 18ème édition"
   },
   {
@@ -633,7 +633,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/running-course-a-pied/1422474798785-15",
+    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/course-a-pied-running/1422474798785-15",
     "name": "GREGAM NOZ TRAIL"
   },
   {
@@ -3129,7 +3129,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-pere-noel-2026/running-course-a-pied/1747082851006-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-pere-noel-2026/course-a-pied-running/1747082851006-4",
     "name": "Trail du père noël"
   },
   {
@@ -3729,6 +3729,19 @@
     "ending": 1801872000000,
     "eventLink": "https://www.klikego.com/inscription/10eme-edition-de-la-ronde-solidaire-du-val-damboise-rsva-2027/running-marche-nordique/1384548159840-18",
     "name": "10ème édition de la Ronde Solidaire du Val d'Amboise (RSVA)"
+  },
+  {
+    "place": "Salle Omnisports Sporti'Vallons St Mars la Jaille",
+    "city": "Saint-Mars-la-Jaille",
+    "departementNumber": 44,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1801872000000,
+    "ending": 1801872000000,
+    "name": "LA NOCTURNE DE LA CHANDELEUR : Course",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3639/la-nocturne-de-la-chandeleur-course-saint-mars-la-jaille"
   },
   {
     "place": "Parc des Dorices",
