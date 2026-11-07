@@ -308,7 +308,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -347,7 +347,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-chataignes-2026/running-course-a-pied/1492734788105-10",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-chataignes-2026/course-a-pied-running/1492734788105-10",
     "name": "Trail des Châtaignes"
   },
   {
@@ -386,7 +386,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/running-course-a-pied/1629931133992-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-sable-et-foret-2026/course-a-pied-running/1629931133992-7",
     "name": "Trail Sable et Forêt 2026"
   },
   {
@@ -997,7 +997,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-et-foulees-de-la-st-martin-2026/running-course-a-pied/1440318552609-24",
+    "eventLink": "https://www.klikego.com/inscription/trail-et-foulees-de-la-st-martin-2026/course-a-pied-running/1440318552609-24",
     "name": "Trail et Foulees de la St Martin"
   },
   {
@@ -3441,7 +3441,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800057600000,
-    "eventLink": "https://www.klikego.com/inscription/snow-trail-by-utma-2027/running-course-a-pied/1748916984787-3",
+    "eventLink": "https://www.klikego.com/inscription/snow-trail-by-utma-2027/course-a-pied-running/1748916984787-3",
     "name": "Snow Trail by UTMA"
   },
   {
@@ -5367,6 +5367,19 @@
     "ending": 1809734400000,
     "eventLink": "https://www.klikego.com/inscription/medoc-atlantique-frenchman-triathlon-carcans-2027/triathlon/1354050643080-24",
     "name": "MEDOC ATLANTIQUE FRENCHMAN Triathlon Carcans 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Port des barques",
+    "departementNumber": 17,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1809648000000,
+    "ending": 1809648000000,
+    "eventLink": "https://www.klikego.com/inscription/championnat-du-monde-de-joelette-2027/course-a-pied-running/1673383413306-5",
+    "name": "Championnat du Monde de Joëlette 2027"
   },
   {
     "place": "unknown",
