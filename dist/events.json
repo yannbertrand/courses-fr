@@ -123,7 +123,7 @@
     "eventType": "course_a_pied",
     "numberOfRaceVariants": "unknown",
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1794009600000,
     "ending": 1794009600000,
     "name": "DIVA'TRAIL Nocturne",
@@ -2804,7 +2804,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins--cross-graulhet-athle--4-eme-edition-2026/running-course-a-pied/1724232492749-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins--cross-graulhet-athle--4-eme-edition-2026/course-a-pied-running/1724232492749-3",
     "name": "TRAIL DES LUTINS / CROSS GRAULHET ATHLE  4 ème édition"
   },
   {
