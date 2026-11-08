@@ -191,7 +191,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794096000000,
     "ending": 1794096000000,
-    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/running-course-a-pied/1473132877687-14",
+    "eventLink": "https://www.klikego.com/inscription/plogastrail-2026/course-a-pied-running/1473132877687-14",
     "name": "PLOGASTRAIL"
   },
   {
@@ -464,7 +464,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-vidames-2026/running-course-a-pied/1661837785816-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-vidames-2026/course-a-pied-running/1661837785816-5",
     "name": "Trail des Vidames"
   },
   {
@@ -750,7 +750,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/les-5-km-de-la-corrida-de-marcelcave-qualificatifs-aux-championnats-de-france-2026/running-course-a-pied/1630203501058-6",
+    "eventLink": "https://www.klikego.com/inscription/les-5-km-de-la-corrida-de-marcelcave-qualificatifs-aux-championnats-de-france-2026/course-a-pied-running/1630203501058-6",
     "name": "Les 5 km de la corrida de Marcelcave (qualificatifs aux championnats de France)"
   },
   {
@@ -2653,6 +2653,19 @@
   },
   {
     "place": "unknown",
+    "city": "Pleucadeuc",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1797120000000,
+    "ending": 1797120000000,
+    "eventLink": "https://www.klikego.com/inscription/randonnee--trail-de-noel-2026/course-a-pied-running/1730538628515-3",
+    "name": "Randonnée & Trail de Noël 2026"
+  },
+  {
+    "place": "unknown",
     "city": "Avrille",
     "departementNumber": 49,
     "eventType": "unknown",
@@ -2908,7 +2921,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/running-course-a-pied/1624160890633-7",
+    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/course-a-pied-running/1624160890633-7",
     "name": "COURSE DE NOEL by Apiruntour"
   },
   {
@@ -3875,6 +3888,19 @@
   },
   {
     "place": "unknown",
+    "city": "Lanfains",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1803081600000,
+    "ending": 1803081600000,
+    "eventLink": "https://www.klikego.com/inscription/les-nocturnes-du-pain-chaud-2027/course-a-pied-running/1476755844632-11",
+    "name": "Les Nocturnes du Pain Chaud"
+  },
+  {
+    "place": "unknown",
     "city": "Pujols",
     "departementNumber": 33,
     "eventType": "unknown",
@@ -4351,7 +4377,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/le-trail-du-printemps-de-payzac-2027/running-course-a-pied/1792722228204-1",
+    "eventLink": "https://www.klikego.com/inscription/le-trail-du-printemps-de-payzac-2027/course-a-pied-running/1792722228204-1",
     "name": "Le Trail du printemps de Payzac"
   },
   {
@@ -4507,7 +4533,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806192000000,
     "ending": 1806192000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-la-trace-2027/running-course-a-pied/1674092775837-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-la-trace-2027/course-a-pied-running/1674092775837-6",
     "name": "Trail La Trace"
   },
   {
