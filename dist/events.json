@@ -997,7 +997,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/running-course-a-pied/1632289277348-7",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-corbie-2026/course-a-pied-running/1632289277348-7",
     "name": "CORRIDA DE CORBIE"
   },
   {
@@ -2141,7 +2141,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/course-de-noel-aux-longs-champs--2026/running-course-a-pied/1760559280110-2",
+    "eventLink": "https://www.klikego.com/inscription/course-de-noel-aux-longs-champs--2026/course-a-pied-running/1760559280110-2",
     "name": "Course de Noël aux Longs Champs !"
   },
   {
@@ -3342,6 +3342,19 @@
   },
   {
     "place": "unknown",
+    "city": "St divy",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800748800000,
+    "ending": 1800748800000,
+    "eventLink": "https://www.klikego.com/inscription/foulees-de-saint-divy-2027/course-a-pied-running/1498032670269-17",
+    "name": "Foulées de Saint-Divy"
+  },
+  {
+    "place": "unknown",
     "city": "Douarnenez",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -3482,6 +3495,19 @@
     "ending": 1801872000000,
     "name": "LA NOCTURNE DE LA CHANDELEUR : Course",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3639/la-nocturne-de-la-chandeleur-course-saint-mars-la-jaille"
+  },
+  {
+    "place": "unknown",
+    "city": "Morlaix",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1801872000000,
+    "ending": 1801872000000,
+    "eventLink": "https://www.klikego.com/inscription/marche-nordique-du-leon-tregor-athletisme-2027/marche-nordique-running/1537764010884-15",
+    "name": "Marche Nordique du Léon Trégor Athlétisme"
   },
   {
     "place": "Parc des Dorices",
@@ -3805,7 +3831,7 @@
     "registrationStatus": "unknown",
     "beginning": 1803081600000,
     "ending": 1803081600000,
-    "eventLink": "https://www.klikego.com/inscription/les-nocturnes-du-pain-chaud-2027/running-course-a-pied/1476755844632-11",
+    "eventLink": "https://www.klikego.com/inscription/les-nocturnes-du-pain-chaud-2027/course-a-pied-running/1476755844632-11",
     "name": "Les Nocturnes du Pain Chaud"
   },
   {
@@ -3820,6 +3846,19 @@
     "ending": 1803168000000,
     "eventLink": "https://www.klikego.com/inscription/17eme-authentic-barjots-trail-2027/running-course-a-pied/1695948070100-5",
     "name": "17eme Authentic Barjots Trail"
+  },
+  {
+    "place": "unknown",
+    "city": "Bourg blanc",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1803168000000,
+    "ending": 1803168000000,
+    "eventLink": "https://www.klikego.com/inscription/courses-du-lac-2027/course-a-pied-running/1667426464878-5",
+    "name": "Courses du lac 2027"
   },
   {
     "place": "unknown",
@@ -4364,7 +4403,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/le-trail-du-printemps-de-payzac-2027/running-course-a-pied/1792722228204-1",
+    "eventLink": "https://www.klikego.com/inscription/le-trail-du-printemps-de-payzac-2027/course-a-pied-running/1792722228204-1",
     "name": "Le Trail du printemps de Payzac"
   },
   {
@@ -4572,7 +4611,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806192000000,
     "ending": 1806192000000,
-    "eventLink": "https://www.klikego.com/inscription/la-samaritaine-2027/running-course-a-pied/1761997591209-4",
+    "eventLink": "https://www.klikego.com/inscription/la-samaritaine-2027/course-a-pied-running/1761997591209-4",
     "name": "La Samaritaine"
   },
   {
@@ -5443,7 +5482,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809648000000,
     "ending": 1809648000000,
-    "eventLink": "https://www.klikego.com/inscription/championnat-du-monde-de-joelette-2027/running-course-a-pied/1673383413306-5",
+    "eventLink": "https://www.klikego.com/inscription/championnat-du-monde-de-joelette-2027/course-a-pied-running/1673383413306-5",
     "name": "Championnat du Monde de Joëlette 2027"
   },
   {
