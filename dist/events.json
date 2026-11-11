@@ -74,7 +74,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794355200000,
     "ending": 1794355200000,
-    "eventLink": "https://www.klikego.com/inscription/44e-foulees-de-la-presse-de-la-manche-2026/running-course-a-pied/1633485497207-6",
+    "eventLink": "https://www.klikego.com/inscription/44e-foulees-de-la-presse-de-la-manche-2026/course-a-pied-running/1633485497207-6",
     "name": "44e Foulées de La Presse de la Manche"
   },
   {
@@ -295,7 +295,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-lespoir-2026/running-course-a-pied/1469576389713-11",
+    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-lespoir-2026/course-a-pied-running/1469576389713-11",
     "name": "La Corrida De L'Espoir"
   },
   {
@@ -945,7 +945,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-foulees-de-coursac-2026/running-course-a-pied/1661465658087-5",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-foulees-de-coursac-2026/course-a-pied-running/1661465658087-5",
     "name": "Trail des foulées de Coursac 2026"
   },
   {
@@ -1257,7 +1257,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-du-challenge-de-lelorn-2026/running-course-a-pied/1561498121416-13",
+    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-du-challenge-de-lelorn-2026/course-a-pied-running/1561498121416-13",
     "name": "Soirée de remise des prix du challenge de L'Elorn"
   },
   {
@@ -2045,12 +2045,12 @@
     "city": "Bouzille",
     "departementNumber": 49,
     "eventType": "unknown",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-la-tim-muco-meo-2026/running-course-a-pied/1786942826595-1",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-la-tim-muco-meo-2026/course-a-pied-running/1786942826595-1",
     "name": "Corrida de la Tim Muco Méo"
   },
   {
@@ -2115,7 +2115,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-quintinaise-2026/running-course-a-pied/1755033064048-2",
+    "eventLink": "https://www.klikego.com/inscription/corrida-quintinaise-2026/course-a-pied-running/1755033064048-2",
     "name": "Corrida Quintinaise"
   },
   {
@@ -2401,7 +2401,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-noel-de-st-edern-2026/running-course-a-pied/1787682863879-1",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-noel-de-st-edern-2026/course-a-pied-running/1787682863879-1",
     "name": "Les Foulées de Noël de St Edern"
   },
   {
@@ -2518,7 +2518,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-morlaix-2026/running-course-a-pied/1537764010884-14",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-morlaix-2026/course-a-pied-running/1537764010884-14",
     "name": "Corrida de Morlaix"
   },
   {
@@ -3290,6 +3290,19 @@
   },
   {
     "place": "unknown",
+    "city": "Graces",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800662400000,
+    "ending": 1800662400000,
+    "eventLink": "https://www.klikego.com/inscription/trail-nocturne-de-graces-2027/course-a-pied-running/1756078590644-4",
+    "name": "TRAIL NOCTURNE DE GRACES"
+  },
+  {
+    "place": "unknown",
     "city": "Houdan",
     "departementNumber": 78,
     "eventType": "unknown",
@@ -3363,7 +3376,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801267200000,
     "ending": 1801267200000,
-    "eventLink": "https://www.klikego.com/inscription/orientation-chateaugiron-2027/running-course-a-pied/1419295170205-49",
+    "eventLink": "https://www.klikego.com/inscription/orientation-chateaugiron-2027/course-a-pied-running/1419295170205-49",
     "name": "ORIENTATION CHATEAUGIRON"
   },
   {
@@ -4070,6 +4083,19 @@
   },
   {
     "place": "unknown",
+    "city": "Bohal",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804896000000,
+    "ending": 1804896000000,
+    "eventLink": "https://www.klikego.com/inscription/apollo-trail-2027/course-a-pied-running/1588202295637-6",
+    "name": "Apollo Trail"
+  },
+  {
+    "place": "unknown",
     "city": "Pire sur seiche",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -4143,8 +4169,8 @@
     "registrationStatus": "unknown",
     "beginning": 1804982400000,
     "ending": 1804982400000,
-    "eventLink": "https://www.klikego.com/inscription/le-trail-bien-chausse-tbc-2027/running-course-a-pied/1361664460576-16",
-    "name": "Le Trail Bien Chaussé (TBC)"
+    "eventLink": "https://www.klikego.com/inscription/le-trail-bien-chausse-2027-tbc/course-a-pied-running/1361664460576-16",
+    "name": "Le Trail Bien Chaussé 2027 (TBC)"
   },
   {
     "place": "unknown",
@@ -4580,12 +4606,12 @@
     "city": "Larmor plage",
     "departementNumber": 56,
     "eventType": "unknown",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 6,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1806278400000,
     "ending": 1806278400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/running-course-a-pied/1736056005202-3",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/course-a-pied-running/1736056005202-3",
     "name": "Les Foulées Iodées d'an arvor"
   },
   {
@@ -4613,6 +4639,19 @@
     "ending": 1806278400000,
     "eventLink": "https://www.klikego.com/inscription/trail-urbain-7-dhonneur-2027/running-course-a-pied/1757828106805-2",
     "name": "Trail Urbain 7 d'honneur"
+  },
+  {
+    "place": "unknown",
+    "city": "Berric",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806624000000,
+    "ending": 1806710400000,
+    "eventLink": "https://www.klikego.com/inscription/la-verda-trail-de-berric-2027/course-a-pied-running/1417677835604-14",
+    "name": "La Verda - Trail de Berric"
   },
   {
     "place": "unknown",
@@ -5237,6 +5276,19 @@
     "ending": 1808611200000,
     "eventLink": "https://www.klikego.com/inscription/trail-de-lavenir-2027/running-course-a-pied/1761951816155-2",
     "name": "Trail de l'Avenir 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Plouguin",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1808611200000,
+    "ending": 1808611200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-plouguin-8eme-edition-2027/course-a-pied-running/1481329263531-10",
+    "name": "Trail de Plouguin - 8ème édition"
   },
   {
     "place": "unknown",
