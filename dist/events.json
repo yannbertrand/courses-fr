@@ -188,7 +188,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 3,
     "registrationLink": "https://lescoursesdeslions.com/trail/index.php",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1794700800000,
     "ending": 1794700800000,
     "name": "12ÈME TRAIL DES LIONS",
@@ -3064,7 +3064,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800662400000,
     "ending": 1800662400000,
-    "eventLink": "https://www.klikego.com/inscription/lhivernale-de-la-grande-champagne-2027/running-course-a-pied/1666821547546-8",
+    "eventLink": "https://www.klikego.com/inscription/lhivernale-de-la-grande-champagne-2027/course-a-pied-running/1666821547546-8",
     "name": "L'HIVERNALE DE LA GRANDE CHAMPAGNE 2027"
   },
   {
@@ -3719,6 +3719,19 @@
   },
   {
     "place": "unknown",
+    "city": "Saint-Gilles",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1803686400000,
+    "ending": 1803686400000,
+    "eventLink": "https://www.klikego.com/inscription/foulees-saint-gilloises-2027--20eme-edition/course-a-pied-running/1260829885238-17",
+    "name": "Foulées Saint-Gilloises 2027 : 20ème édition"
+  },
+  {
+    "place": "unknown",
     "city": "Ploermel",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -4028,19 +4041,6 @@
     "ending": 1804982400000,
     "eventLink": "https://www.klikego.com/inscription/la-moussterlinoise-2027/running-course-a-pied/1700974888300-4",
     "name": "La moussterlinoise 2027"
-  },
-  {
-    "place": "unknown",
-    "city": "La chapelle chaussee",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1804982400000,
-    "ending": 1804982400000,
-    "eventLink": "https://www.klikego.com/inscription/le-trail-bien-chausse-2027-tbc/course-a-pied-running/1361664460576-16",
-    "name": "Le Trail Bien Chaussé 2027 (TBC)"
   },
   {
     "place": "salle figulina le fuilet",
@@ -5339,7 +5339,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809648000000,
     "ending": 1809734400000,
-    "eventLink": "https://www.klikego.com/inscription/perigord-grand-trail-2027/running-course-a-pied/1791336688119-1",
+    "eventLink": "https://www.klikego.com/inscription/perigord-grand-trail-2027/course-a-pied-running/1791336688119-1",
     "name": "Perigord Grand Trail"
   },
   {
@@ -5991,6 +5991,19 @@
     "ending": 1813363200000,
     "name": "24ème Raid VTT des Monts d'Ardèche",
     "eventLink": "https://www.timepulse.fr/calendrier/voir/3637/24eme-raid-vtt-des-monts-d-ardeche-le-cheylard"
+  },
+  {
+    "place": "unknown",
+    "city": "Segonzac",
+    "departementNumber": 16,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1813363200000,
+    "ending": 1813363200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-champagne-2027/course-a-pied-running/1666821547546-9",
+    "name": "TRAIL DE LA GRANDE CHAMPAGNE 2027"
   },
   {
     "place": "unknown",
