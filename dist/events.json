@@ -61,7 +61,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/running-course-a-pied/1422474798785-15",
+    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/course-a-pied-running/1422474798785-15",
     "name": "GREGAM NOZ TRAIL"
   },
   {
@@ -1036,7 +1036,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/noz-trail-des-lutins-2026/running-course-a-pied/1663438530698-5",
+    "eventLink": "https://www.klikego.com/inscription/noz-trail-des-lutins-2026/course-a-pied-running/1663438530698-5",
     "name": "Noz Trail des Lutins 2026"
   },
   {
@@ -2323,7 +2323,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-de-noel-la-motte-2026/running-course-a-pied/1473707876424-22",
+    "eventLink": "https://www.klikego.com/inscription/foulees-de-noel-la-motte-2026/course-a-pied-running/1473707876424-22",
     "name": "Foulées de Noël LA MOTTE"
   },
   {
@@ -2388,7 +2388,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/rando-trail-de-noel-2026/running-course-a-pied/1670316413368-4",
+    "eventLink": "https://www.klikego.com/inscription/rando-trail-de-noel-2026/course-a-pied-running/1670316413368-4",
     "name": "RANDO TRAIL DE NOEL 2026"
   },
   {
@@ -2666,19 +2666,6 @@
   },
   {
     "place": "unknown",
-    "city": "SCEAUX",
-    "departementNumber": 92,
-    "eventType": "running",
-    "numberOfRaceVariants": 8,
-    "registrationLink": "https://www.viradeparcdesceaux.org/",
-    "registrationStatus": "closed",
-    "beginning": 1798329600000,
-    "ending": 1798329600000,
-    "name": "COURSE DU SOUFFLE DE SCEAUX 2026",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3155"
-  },
-  {
-    "place": "unknown",
     "city": "Quimper",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -2715,6 +2702,19 @@
     "ending": 1798588800000,
     "eventLink": "https://www.klikego.com/inscription/la-corrida-des-etoiles-2026/running-course-a-pied/1761079181557-3",
     "name": "La corrida des étoiles 2026"
+  },
+  {
+    "place": "unknown",
+    "city": "Plaintel",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1798848000000,
+    "ending": 1798848000000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-plaintel-2027/course-a-pied-running/1791529197608-1",
+    "name": "Les Foulées de Plaintel"
   },
   {
     "place": "unknown",
@@ -2921,7 +2921,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800057600000,
-    "eventLink": "https://www.klikego.com/inscription/snow-trail-by-utma-2027/running-course-a-pied/1748916984787-3",
+    "eventLink": "https://www.klikego.com/inscription/snow-trail-by-utma-2027/course-a-pied-running/1748916984787-3",
     "name": "Snow Trail by UTMA"
   },
   {
@@ -3030,6 +3030,19 @@
   },
   {
     "place": "unknown",
+    "city": "Le sourn",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800144000000,
+    "ending": 1800144000000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-pierre-fendue-2027/course-a-pied-running/1474596215398-11",
+    "name": "Trail de la pierre fendue"
+  },
+  {
+    "place": "unknown",
     "city": "Peillac",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -3064,7 +3077,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800662400000,
     "ending": 1800662400000,
-    "eventLink": "https://www.klikego.com/inscription/lhivernale-de-la-grande-champagne-2027/running-course-a-pied/1666821547546-8",
+    "eventLink": "https://www.klikego.com/inscription/lhivernale-de-la-grande-champagne-2027/course-a-pied-running/1666821547546-8",
     "name": "L'HIVERNALE DE LA GRANDE CHAMPAGNE 2027"
   },
   {
@@ -3224,6 +3237,19 @@
     "name": "ORIENTATION CHATEAUGIRON"
   },
   {
+    "place": "Base nautique du pointeau, Boulevard de l'océan",
+    "city": "Saint-Brevin-les-Pins",
+    "departementNumber": 44,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1801267200000,
+    "ending": 1801267200000,
+    "name": "Trail du Boivre",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3649/trail-du-boivre-saint-brevin-les-pins"
+  },
+  {
     "place": "unknown",
     "city": "Paussac et st vivien",
     "departementNumber": 24,
@@ -3363,7 +3389,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801872000000,
     "ending": 1801958400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-glazig-2027/running-course-a-pied/1352933103191-17",
+    "eventLink": "https://www.klikego.com/inscription/trail-glazig-2027/course-a-pied-running/1352933103191-17",
     "name": "Trail GLAZIG"
   },
   {
@@ -3662,7 +3688,7 @@
     "registrationStatus": "unknown",
     "beginning": 1803081600000,
     "ending": 1803081600000,
-    "eventLink": "https://www.klikego.com/inscription/les-nocturnes-du-pain-chaud-2027/running-course-a-pied/1476755844632-11",
+    "eventLink": "https://www.klikego.com/inscription/les-nocturnes-du-pain-chaud-2027/course-a-pied-running/1476755844632-11",
     "name": "Les Nocturnes du Pain Chaud"
   },
   {
@@ -3805,7 +3831,7 @@
     "registrationStatus": "unknown",
     "beginning": 1803772800000,
     "ending": 1803772800000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-tour-des-cotes-darmor-2027/running-course-a-pied/1536975359188-25",
+    "eventLink": "https://www.klikego.com/inscription/ultra-tour-des-cotes-darmor-2027/course-a-pied-running/1536975359188-25",
     "name": "Ultra Tour des Cotes d'Armor"
   },
   {
@@ -4057,6 +4083,19 @@
   },
   {
     "place": "unknown",
+    "city": "Reze",
+    "departementNumber": 44,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804982400000,
+    "ending": 1804982400000,
+    "eventLink": "https://www.klikego.com/inscription/les-10h-naon-2027/course-a-pied-running/1793414905300-1",
+    "name": "Les 10H NAON"
+  },
+  {
+    "place": "unknown",
     "city": "Rohan",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -4247,7 +4286,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/le-trail-du-printemps-de-payzac-2027/running-course-a-pied/1792722228204-1",
+    "eventLink": "https://www.klikego.com/inscription/le-trail-du-printemps-de-payzac-2027/course-a-pied-running/1792722228204-1",
     "name": "Le Trail du printemps de Payzac"
   },
   {
@@ -4808,6 +4847,19 @@
     "ending": 1807315200000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-des-portes-du-maine-run-for-fun-2027/running-course-a-pied/1539241861539-13",
     "name": "Les foulées des portes du maine - Run for fun"
+  },
+  {
+    "place": "unknown",
+    "city": "Noyant d allier",
+    "departementNumber": 3,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807315200000,
+    "ending": 1807315200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-cotes-matras-2027/course-a-pied-running/1516660445438-13",
+    "name": "Trail des Côtes Matras"
   },
   {
     "place": "Parc du Loiry",
@@ -5916,6 +5968,19 @@
   },
   {
     "place": "unknown",
+    "city": "La bazoge",
+    "departementNumber": 72,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1812240000000,
+    "ending": 1812240000000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-forges-claude-fortin-2027/course-a-pied-running/1520927589277-9",
+    "name": "Trail des Forges Claude Fortin"
+  },
+  {
+    "place": "unknown",
     "city": "St thois",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -6002,7 +6067,7 @@
     "registrationStatus": "unknown",
     "beginning": 1813363200000,
     "ending": 1813363200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-champagne-2027/running-course-a-pied/1666821547546-9",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-champagne-2027/course-a-pied-running/1666821547546-9",
     "name": "TRAIL DE LA GRANDE CHAMPAGNE 2027"
   },
   {
