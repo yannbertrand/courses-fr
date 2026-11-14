@@ -40,123 +40,6 @@
   },
   {
     "place": "unknown",
-    "city": "Lorient",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794614400000,
-    "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/defi-relais-course-et-marche-telethon--lorient-2026/running-course-a-pied/1757480349541-2",
-    "name": "Défi relais Course et marche Téléthon – Lorient 2026"
-  },
-  {
-    "place": "unknown",
-    "city": "Grand champ",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794614400000,
-    "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/gregam-noz-trail-2026/course-a-pied-running/1422474798785-15",
-    "name": "GREGAM NOZ TRAIL"
-  },
-  {
-    "place": "unknown",
-    "city": "Remire montjoly",
-    "departementNumber": 97,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794614400000,
-    "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/la-boucle-diamant-2026/running-course-a-pied/1789588818080-1",
-    "name": "La Boucle Diamant"
-  },
-  {
-    "place": "unknown",
-    "city": "Loudeac",
-    "departementNumber": 22,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794614400000,
-    "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/la-corrida-de-lespoir-2026/running-course-a-pied/1469576389713-11",
-    "name": "La Corrida De L'Espoir"
-  },
-  {
-    "place": "unknown",
-    "city": "Cottenchy",
-    "departementNumber": 80,
-    "eventType": "unknown",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794614400000,
-    "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/les-duels-du-cur-de-cottenchy-2026/running-course-a-pied/1719965475337-4",
-    "name": "Les duels du Cœur de Cottenchy"
-  },
-  {
-    "place": "unknown",
-    "city": "Saint-Aubin-d'Aubigné",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794614400000,
-    "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/les-escapades-nocturnes-saint-aubinoises-2026/running-course-a-pied/1422072323642-11",
-    "name": "Les escapades nocturnes Saint Aubinoises"
-  },
-  {
-    "place": "unknown",
-    "city": "Plougastel daoulas",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 2,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794614400000,
-    "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/plougastel-noz-trail-2026-7eme-edition/running-course-a-pied/1645083428610-10",
-    "name": "Plougastel Noz Trail 2026 - 7ème édition"
-  },
-  {
-    "place": "unknown",
-    "city": "St glen",
-    "departementNumber": 22,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794614400000,
-    "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/t3-trail-2026/running-course-a-pied/1748633932450-1",
-    "name": "T3 TRAIL"
-  },
-  {
-    "place": "unknown",
-    "city": "Buzancy",
-    "departementNumber": 2,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1794614400000,
-    "ending": 1794614400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-buzancy-2026/running-course-a-pied/1790286306719-1",
-    "name": "Trail de Buzancy"
-  },
-  {
-    "place": "unknown",
     "city": "St brieuc",
     "departementNumber": 22,
     "eventType": "unknown",
@@ -409,7 +292,7 @@
     "eventType": "course_a_pied",
     "numberOfRaceVariants": "unknown",
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1794700800000,
     "ending": 1794700800000,
     "name": "Trail du Rouvray 2026",
@@ -1413,7 +1296,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796428800000,
-    "eventLink": "https://www.klikego.com/inscription/menestrail-2026/running-course-a-pied/1472150551876-14",
+    "eventLink": "https://www.klikego.com/inscription/menestrail-2026/course-a-pied-running/1472150551876-14",
     "name": "MENESTRAIL"
   },
   {
@@ -2783,6 +2666,19 @@
   },
   {
     "place": "unknown",
+    "city": "Cleguer",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1799452800000,
+    "ending": 1799452800000,
+    "eventLink": "https://www.klikego.com/inscription/noz-trail-du-nouvel-an-2027/course-a-pied-running/1776796331243-4",
+    "name": "NOZ TRAIL DU NOUVEL AN"
+  },
+  {
+    "place": "unknown",
     "city": "POUANCE",
     "departementNumber": 49,
     "eventType": "trail",
@@ -3615,6 +3511,19 @@
   },
   {
     "place": "unknown",
+    "city": "Amiens",
+    "departementNumber": 80,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1802563200000,
+    "ending": 1802563200000,
+    "eventLink": "https://www.klikego.com/inscription/edition-hivernale-des-quatre-saisons-2027/course-a-pied-running/1603054434896-39",
+    "name": "Edition hivernale des Quatre Saisons"
+  },
+  {
+    "place": "unknown",
     "city": "Mezidon canon",
     "departementNumber": 14,
     "eventType": "unknown",
@@ -3677,19 +3586,6 @@
     "ending": 1803081600000,
     "eventLink": "https://www.klikego.com/inscription/albatrail--11eme-edition-2027/running-course-a-pied/1445993762707-13",
     "name": "AlbaTrail  - 11ème édition"
-  },
-  {
-    "place": "unknown",
-    "city": "BLOU",
-    "departementNumber": 49,
-    "eventType": "running",
-    "numberOfRaceVariants": 4,
-    "registrationLink": "https://www.espace-competition.com/Facebook%20Longue%20Run%20&%20Trail",
-    "registrationStatus": "open",
-    "beginning": 1803081600000,
-    "ending": 1803081600000,
-    "name": "COURSE SEMI-NOCTURNE DE LA BUTTE XXS 2026",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3260"
   },
   {
     "place": "unknown",
@@ -3948,7 +3844,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804377600000,
     "ending": 1804377600000,
-    "eventLink": "https://www.klikego.com/inscription/run-a-lorient-2027/running-course-a-pied/1398800411241-25",
+    "eventLink": "https://www.klikego.com/inscription/run-a-lorient-2027/course-a-pied-running/1398800411241-25",
     "name": "RUN À L'ORIENT"
   },
   {
@@ -3963,19 +3859,6 @@
     "ending": 1804377600000,
     "eventLink": "https://www.klikego.com/inscription/saint-e-trail-2027/running-course-a-pied/1472852825424-12",
     "name": "SAINT E TRAIL"
-  },
-  {
-    "place": "unknown",
-    "city": "SAINT SYLVAIN D'ANJOU",
-    "departementNumber": 49,
-    "eventType": "running",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "https://www.athletisme-asssa.com/en-savoir-plus/le-semi-sylvanais-126788",
-    "registrationStatus": "open",
-    "beginning": 1804377600000,
-    "ending": 1804377600000,
-    "name": "SEMI-MARATHON ET LE DIX SYLVANAIS",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3243"
   },
   {
     "place": "unknown",
@@ -4148,19 +4031,6 @@
   },
   {
     "place": "unknown",
-    "city": "ORVAULT",
-    "departementNumber": 44,
-    "eventType": "running",
-    "numberOfRaceVariants": 6,
-    "registrationLink": "https://www.espace-competition.com/www.semi-marathonorvault.fr",
-    "registrationStatus": "open",
-    "beginning": 1804982400000,
-    "ending": 1804982400000,
-    "name": "SEMI-MARATHON ORVAULT 2027",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3247"
-  },
-  {
-    "place": "unknown",
     "city": "St senoux",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -4314,19 +4184,6 @@
     "ending": 1805587200000,
     "eventLink": "https://www.klikego.com/inscription/ekiden-de-touraine-2027/running-course-a-pied/1699681901237-4",
     "name": "Ekiden de Touraine 2027"
-  },
-  {
-    "place": "unknown",
-    "city": "VENANSAULT",
-    "departementNumber": 85,
-    "eventType": "running",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "https://www.lavenansaltaise.fr/",
-    "registrationStatus": "not_open_yet",
-    "beginning": 1805587200000,
-    "ending": 1805587200000,
-    "name": "LA VENANSALTAISE 2027",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3223"
   },
   {
     "place": "unknown",
@@ -4681,19 +4538,6 @@
   },
   {
     "place": "unknown",
-    "city": "SAINT FIACRE SUR MAINE",
-    "departementNumber": 44,
-    "eventType": "trail",
-    "numberOfRaceVariants": 5,
-    "registrationLink": "https://www.facebook.com/fiacraise",
-    "registrationStatus": "open",
-    "beginning": 1806710400000,
-    "ending": 1806796800000,
-    "name": "LA FIACRAISE 2027",
-    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3220"
-  },
-  {
-    "place": "unknown",
     "city": "Les sables d olonne",
     "departementNumber": 85,
     "eventType": "unknown",
@@ -4832,7 +4676,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806796800000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/monts-de-blond-nature-trail-2027/running-course-a-pied/1793067943093-1",
+    "eventLink": "https://www.klikego.com/inscription/monts-de-blond-nature-trail-2027/course-a-pied-running/1793067943093-1",
     "name": "Monts de Blond Nature Trail"
   },
   {
@@ -5261,7 +5105,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-lavenir-2027/running-course-a-pied/1761951816155-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-lavenir-2027/course-a-pied-running/1761951816155-2",
     "name": "Trail de l'Avenir 2027"
   },
   {
@@ -6238,6 +6082,19 @@
     "ending": 1814659200000,
     "eventLink": "https://www.klikego.com/inscription/ultra-trail-cote-dazur-mercantour-2027/running-course-a-pied/1546548572849-10",
     "name": "Ultra Trail Côte d'Azur Mercantour 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Tredias",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 8,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1814572800000,
+    "ending": 1814572800000,
+    "eventLink": "https://www.klikego.com/inscription/tbr----trail-breizh-reder-2027/course-a-pied-running/1483436366560-15",
+    "name": "TBR  ,  Trail Breizh Reder"
   },
   {
     "place": "unknown",
