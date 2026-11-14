@@ -2788,7 +2788,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 7,
     "registrationLink": "https://sites.google.com/site/triathlonpouance/trail-et-marche-des-rois/accueil-trail-et-marche-des-rois?authuser=0",
-    "registrationStatus": "not_open_yet",
+    "registrationStatus": "open",
     "beginning": 1799452800000,
     "ending": 1799452800000,
     "name": "TRAIL ET MARCHES DE ROIS",
@@ -3584,7 +3584,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/10-km-et-semi-marathon-rrunning-pays-de-lorient-2027/running-course-a-pied/1776796331243-3",
+    "eventLink": "https://www.klikego.com/inscription/10-km-et-semi-marathon-rrunning-pays-de-lorient-2027/course-a-pied-running/1776796331243-3",
     "name": "10 KM ET SEMI MARATHON RRUNNING PAYS DE LORIENT"
   },
   {
@@ -3677,6 +3677,19 @@
     "ending": 1803081600000,
     "eventLink": "https://www.klikego.com/inscription/albatrail--11eme-edition-2027/running-course-a-pied/1445993762707-13",
     "name": "AlbaTrail  - 11ème édition"
+  },
+  {
+    "place": "unknown",
+    "city": "BLOU",
+    "departementNumber": 49,
+    "eventType": "running",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "https://www.espace-competition.com/Facebook%20Longue%20Run%20&%20Trail",
+    "registrationStatus": "open",
+    "beginning": 1803081600000,
+    "ending": 1803081600000,
+    "name": "COURSE SEMI-NOCTURNE DE LA BUTTE XXS 2026",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3260"
   },
   {
     "place": "unknown",
@@ -3953,6 +3966,19 @@
   },
   {
     "place": "unknown",
+    "city": "SAINT SYLVAIN D'ANJOU",
+    "departementNumber": 49,
+    "eventType": "running",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "https://www.athletisme-asssa.com/en-savoir-plus/le-semi-sylvanais-126788",
+    "registrationStatus": "open",
+    "beginning": 1804377600000,
+    "ending": 1804377600000,
+    "name": "SEMI-MARATHON ET LE DIX SYLVANAIS",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3243"
+  },
+  {
+    "place": "unknown",
     "city": "Beynat",
     "departementNumber": 19,
     "eventType": "unknown",
@@ -4122,6 +4148,19 @@
   },
   {
     "place": "unknown",
+    "city": "ORVAULT",
+    "departementNumber": 44,
+    "eventType": "running",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "https://www.espace-competition.com/www.semi-marathonorvault.fr",
+    "registrationStatus": "open",
+    "beginning": 1804982400000,
+    "ending": 1804982400000,
+    "name": "SEMI-MARATHON ORVAULT 2027",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3247"
+  },
+  {
+    "place": "unknown",
     "city": "St senoux",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -4275,6 +4314,19 @@
     "ending": 1805587200000,
     "eventLink": "https://www.klikego.com/inscription/ekiden-de-touraine-2027/running-course-a-pied/1699681901237-4",
     "name": "Ekiden de Touraine 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "VENANSAULT",
+    "departementNumber": 85,
+    "eventType": "running",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "https://www.lavenansaltaise.fr/",
+    "registrationStatus": "not_open_yet",
+    "beginning": 1805587200000,
+    "ending": 1805587200000,
+    "name": "LA VENANSALTAISE 2027",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3223"
   },
   {
     "place": "unknown",
@@ -4626,6 +4678,19 @@
     "ending": 1806710400000,
     "eventLink": "https://www.klikego.com/inscription/ultra-trail-de-lile-doleron-2027/running-course-a-pied/1695760050266-4",
     "name": "Ultra Trail de l'île d'Oléron"
+  },
+  {
+    "place": "unknown",
+    "city": "SAINT FIACRE SUR MAINE",
+    "departementNumber": 44,
+    "eventType": "trail",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "https://www.facebook.com/fiacraise",
+    "registrationStatus": "open",
+    "beginning": 1806710400000,
+    "ending": 1806796800000,
+    "name": "LA FIACRAISE 2027",
+    "eventLink": "https://www.espace-competition.com/index.php?module=inscription&comp=3220"
   },
   {
     "place": "unknown",
