@@ -4000,7 +4000,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804896000000,
     "ending": 1804896000000,
-    "eventLink": "https://www.klikego.com/inscription/apollo-trail-2027/running-course-a-pied/1588202295637-6",
+    "eventLink": "https://www.klikego.com/inscription/apollo-trail-2027/course-a-pied-running/1588202295637-6",
     "name": "Apollo Trail"
   },
   {
@@ -6212,6 +6212,19 @@
     "ending": 1814659200000,
     "eventLink": "https://www.klikego.com/inscription/trail-du-tertre-gris-ttg-2027/running-course-a-pied/1361437218343-22",
     "name": "Trail du Tertre Gris (TTG)"
+  },
+  {
+    "place": "unknown",
+    "city": "Chasseneuil du poitou",
+    "departementNumber": 86,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1814572800000,
+    "ending": 1814659200000,
+    "eventLink": "https://www.klikego.com/inscription/tri4you-2027/triathlon/1792028652472-1",
+    "name": "TRI4YOU 2027"
   },
   {
     "place": "unknown",
