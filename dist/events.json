@@ -828,7 +828,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/thpb-2026--trail-du-haut-pays-bigouden/running-course-a-pied/1692072843111-5",
+    "eventLink": "https://www.klikego.com/inscription/thpb-2026--trail-du-haut-pays-bigouden/course-a-pied-running/1692072843111-5",
     "name": "THPB 2026 – Trail du Haut Pays Bigouden"
   },
   {
@@ -1114,7 +1114,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795910400000,
     "ending": 1795910400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-pontivy-2026/running-course-a-pied/1378717780457-25",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-pontivy-2026/course-a-pied-running/1378717780457-25",
     "name": "Trail de Pontivy"
   },
   {
@@ -1543,7 +1543,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/le-telethon-d-ille-2026/running-course-a-pied/1536087377908-8",
+    "eventLink": "https://www.klikego.com/inscription/le-telethon-d-ille-2026/course-a-pied-running/1536087377908-8",
     "name": "Le TÉLETHON D' ILLE"
   },
   {
@@ -2271,7 +2271,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/rando-trail-de-noel-2026/running-course-a-pied/1670316413368-4",
+    "eventLink": "https://www.klikego.com/inscription/rando-trail-de-noel-2026/course-a-pied-running/1670316413368-4",
     "name": "RANDO TRAIL DE NOEL 2026"
   },
   {
@@ -2362,7 +2362,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/running-course-a-pied/1624160890633-7",
+    "eventLink": "https://www.klikego.com/inscription/course-de-noel-by-apiruntour-2026/course-a-pied-running/1624160890633-7",
     "name": "COURSE DE NOEL by Apiruntour"
   },
   {
@@ -3170,6 +3170,19 @@
     "ending": 1801353600000,
     "eventLink": "https://www.klikego.com/inscription/duathlon-de-kourou-2027/triathlon/1787878066543-4",
     "name": "Duathlon de Kourou"
+  },
+  {
+    "place": "unknown",
+    "city": "Cestas",
+    "departementNumber": 33,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1801353600000,
+    "ending": 1801353600000,
+    "eventLink": "https://www.klikego.com/inscription/la-cestadaise-2027-bike--run/triathlon/1667269876459-10",
+    "name": "La Cestadaise 2027 - Bike & Run"
   },
   {
     "place": "unknown",
@@ -4814,7 +4827,7 @@
     "city": "Porspoder",
     "departementNumber": 29,
     "eventType": "unknown",
-    "numberOfRaceVariants": 7,
+    "numberOfRaceVariants": 6,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1807401600000,
@@ -5175,6 +5188,19 @@
   },
   {
     "place": "unknown",
+    "city": "Pouldergat",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1809129600000,
+    "ending": 1809129600000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-salamandre-2027/course-a-pied-running/1705098784610-4",
+    "name": "Trail de la Salamandre"
+  },
+  {
+    "place": "unknown",
     "city": "Cournon",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -5274,7 +5300,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809475200000,
     "ending": 1809475200000,
-    "eventLink": "https://www.klikego.com/inscription/courons-dans-le-bois-2027/running-course-a-pied/1663749929985-10",
+    "eventLink": "https://www.klikego.com/inscription/courons-dans-le-bois-2027/course-a-pied-running/1663749929985-10",
     "name": "Courons dans le bois"
   },
   {
@@ -5989,7 +6015,7 @@
     "registrationStatus": "unknown",
     "beginning": 1813363200000,
     "ending": 1813363200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-champagne-2027/running-course-a-pied/1666821547546-9",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-grande-champagne-2027/course-a-pied-running/1666821547546-9",
     "name": "TRAIL DE LA GRANDE CHAMPAGNE 2027"
   },
   {
