@@ -61,7 +61,7 @@
     "registrationStatus": "unknown",
     "beginning": 1794614400000,
     "ending": 1794700800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-international-in-deauville-2026/running-course-a-pied/1544740583497-10",
+    "eventLink": "https://www.klikego.com/inscription/marathon-international-in-deauville-2026/course-a-pied-running/1544740583497-10",
     "name": "Marathon International in Deauville"
   },
   {
@@ -1855,7 +1855,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/nocturnes-entre-plages-et-chemins-creux-2026/running-course-a-pied/1361506947442-20",
+    "eventLink": "https://www.klikego.com/inscription/nocturnes-entre-plages-et-chemins-creux-2026/course-a-pied-running/1361506947442-20",
     "name": "Nocturnes Entre Plages et Chemins Creux"
   },
   {
@@ -3181,7 +3181,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801353600000,
     "ending": 1801353600000,
-    "eventLink": "https://www.klikego.com/inscription/la-cestadaise-2027-trails/running-course-a-pied/1667269876459-11",
+    "eventLink": "https://www.klikego.com/inscription/la-cestadaise-2027-trails/course-a-pied-running/1667269876459-11",
     "name": "La Cestadaise 2027 - Trails"
   },
   {
@@ -3519,7 +3519,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/edition-hivernale-des-quatre-saisons-2027/running-course-a-pied/1603054434896-39",
+    "eventLink": "https://www.klikego.com/inscription/edition-hivernale-des-quatre-saisons-2027/course-a-pied-running/1603054434896-39",
     "name": "Edition hivernale des Quatre Saisons"
   },
   {
@@ -4031,6 +4031,19 @@
   },
   {
     "place": "unknown",
+    "city": "Plouvien",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804982400000,
+    "ending": 1804982400000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-moulins-2027/course-a-pied-running-marche-nordique/1758263891228-2",
+    "name": "Trail des Moulins"
+  },
+  {
+    "place": "unknown",
     "city": "St senoux",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -4195,7 +4208,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/le-trail-du-printemps-de-payzac-2027/running-course-a-pied/1792722228204-1",
+    "eventLink": "https://www.klikego.com/inscription/le-trail-du-printemps-de-payzac-2027/course-a-pied-running/1792722228204-1",
     "name": "Le Trail du printemps de Payzac"
   },
   {
@@ -4741,7 +4754,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807315200000,
     "ending": 1807315200000,
-    "eventLink": "https://www.klikego.com/inscription/la-nocturne-dalbert-2027/running-course-a-pied/1621905209259-10",
+    "eventLink": "https://www.klikego.com/inscription/la-nocturne-dalbert-2027/course-a-pied-running/1621905209259-10",
     "name": "LA NOCTURNE D'ALBERT"
   },
   {
