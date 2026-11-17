@@ -1907,7 +1907,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-de-noel-la-motte-2026/running-course-a-pied/1473707876424-22",
+    "eventLink": "https://www.klikego.com/inscription/foulees-de-noel-la-motte-2026/course-a-pied-running/1473707876424-22",
     "name": "Foulées de Noël LA MOTTE"
   },
   {
@@ -2089,7 +2089,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/explorrun-saint-trojan-2026/running-course-a-pied/1680548519350-15",
+    "eventLink": "https://www.klikego.com/inscription/explorrun-saint-trojan-2026/course-a-pied-running/1680548519350-15",
     "name": "Explor'Run Saint-Trojan"
   },
   {
@@ -2505,7 +2505,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800057600000,
-    "eventLink": "https://www.klikego.com/inscription/la-marcillaise-2027/running-course-a-pied/1735688535956-3",
+    "eventLink": "https://www.klikego.com/inscription/la-marcillaise-2027/course-a-pied-running/1735688535956-3",
     "name": "La Marcillaise"
   },
   {
@@ -3168,7 +3168,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802476800000,
     "ending": 1802476800000,
-    "eventLink": "https://www.klikego.com/inscription/raid-des-gabariers-2027/running-course-a-pied/1497821519858-9",
+    "eventLink": "https://www.klikego.com/inscription/raid-des-gabariers-2027/course-a-pied-running/1497821519858-9",
     "name": "Raid des Gabariers 2027"
   },
   {
@@ -3238,6 +3238,19 @@
   },
   {
     "place": "unknown",
+    "city": "Chasné-sur-Illet",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1802563200000,
+    "ending": 1802563200000,
+    "eventLink": "https://www.klikego.com/inscription/course-nature-de-la-choinette-2027/course-a-pied-running/1357856887792-14",
+    "name": "Course NATURE de la choinette"
+  },
+  {
+    "place": "unknown",
     "city": "Rennes",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -3246,7 +3259,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/course-solidaire-des-gayeulles-2027/running-course-a-pied/1792613693713-1",
+    "eventLink": "https://www.klikego.com/inscription/course-solidaire-des-gayeulles-2027/course-a-pied-running/1792613693713-1",
     "name": "Course Solidaire des Gayeulles 2027"
   },
   {
@@ -4065,7 +4078,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-forge-9eme-edition-2027/running-course-a-pied/1547497906237-7",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-forge-9eme-edition-2027/course-a-pied-running/1547497906237-7",
     "name": "Trail de la Forge 9ème Edition"
   },
   {
@@ -4093,6 +4106,19 @@
     "ending": 1806105600000,
     "eventLink": "https://www.klikego.com/inscription/le-bardoiz-trail-2027/running-course-a-pied/1761997591209-3",
     "name": "Le Bard'oiz Trail"
+  },
+  {
+    "place": "unknown",
+    "city": "Camors",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806105600000,
+    "ending": 1806105600000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-foret-de-camors-56400-2027/running-course-a-pied-trail-marche-nordique/1471379362162-21",
+    "name": "Trail de la forêt de Camors (56400)"
   },
   {
     "place": "unknown",
@@ -4195,7 +4221,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806278400000,
     "ending": 1806278400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/running-course-a-pied/1736056005202-3",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/course-a-pied-running/1736056005202-3",
     "name": "Les Foulées Iodées d'an arvor"
   },
   {
@@ -4598,7 +4624,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807401600000,
     "ending": 1807401600000,
-    "eventLink": "https://www.klikego.com/inscription/la-diagonale-du-four-2027/running-course-a-pied/1575452541791-9",
+    "eventLink": "https://www.klikego.com/inscription/la-diagonale-du-four-2027/course-a-pied-running/1575452541791-9",
     "name": "La Diagonale du Four"
   },
   {
@@ -4619,7 +4645,7 @@
     "city": "Le guerno",
     "departementNumber": 56,
     "eventType": "unknown",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 1,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1807401600000,
@@ -4875,6 +4901,19 @@
     "name": "Les foulées d'Acigné - Acigné au féminin"
   },
   {
+    "place": "unknown",
+    "city": "Plumelec",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1808611200000,
+    "ending": 1808611200000,
+    "eventLink": "https://www.klikego.com/inscription/melec-trail-2027/course-a-pied-running/1712530634629-5",
+    "name": "Melec trail"
+  },
+  {
     "place": "Place de la Liberté",
     "city": "La Tranche-sur-Mer",
     "departementNumber": 85,
@@ -4910,7 +4949,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-plouguin-8eme-edition-2027/running-course-a-pied/1481329263531-10",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-plouguin-8eme-edition-2027/course-a-pied-running/1481329263531-10",
     "name": "Trail de Plouguin - 8ème édition"
   },
   {
@@ -4962,7 +5001,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809129600000,
     "ending": 1809129600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-salamandre-2027/running-course-a-pied/1705098784610-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-salamandre-2027/course-a-pied-running/1705098784610-4",
     "name": "Trail de la Salamandre"
   },
   {
@@ -5083,6 +5122,19 @@
     "name": "MEDOC ATLANTIQUE FRENCHMAN Triathlon Carcans 2027"
   },
   {
+    "place": "La Tour DE Salvagny",
+    "city": "La Tour-de-Salvagny",
+    "departementNumber": 69,
+    "eventType": "cyclisme",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1809561600000,
+    "ending": 1809561600000,
+    "name": "Les 3 cols Matériel Velo.com",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3655/les-3-cols-materiel-velo-com-la-tour-de-salvagny"
+  },
+  {
     "place": "unknown",
     "city": "Port des barques",
     "departementNumber": 17,
@@ -5107,6 +5159,19 @@
     "ending": 1809734400000,
     "eventLink": "https://www.klikego.com/inscription/perigord-grand-trail-2027/running-course-a-pied/1791336688119-1",
     "name": "Perigord Grand Trail"
+  },
+  {
+    "place": "unknown",
+    "city": "Mezieres sur couesnon",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1809734400000,
+    "ending": 1809734400000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-du-couesnon-2027/course-a-pied-running/1472022993106-19",
+    "name": "Trail de la Vallée du Couesnon 2027"
   },
   {
     "place": "unknown",
@@ -5638,7 +5703,7 @@
     "registrationStatus": "unknown",
     "beginning": 1811980800000,
     "ending": 1811980800000,
-    "eventLink": "https://www.klikego.com/inscription/la-tournicoti-run-2027/running-course-a-pied/1699932906700-4",
+    "eventLink": "https://www.klikego.com/inscription/la-tournicoti-run-2027/course-a-pied-running/1699932906700-4",
     "name": "La Tournicoti-Run 2027"
   },
   {
@@ -5672,12 +5737,12 @@
     "city": "Abbeville",
     "departementNumber": 80,
     "eventType": "unknown",
-    "numberOfRaceVariants": 5,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1812153600000,
     "ending": 1812153600000,
-    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/running-course-a-pied/1674875346003-5",
+    "eventLink": "https://www.klikego.com/inscription/memorial-bruno-willecoq-2027/course-a-pied-running/1674875346003-5",
     "name": "Mémorial Bruno Willecoq"
   },
   {
@@ -5729,7 +5794,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812240000000,
     "ending": 1812240000000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-sallesiennes-2027/running-course-a-pied/1764126903857-2",
+    "eventLink": "https://www.klikego.com/inscription/foulees-sallesiennes-2027/course-a-pied-running/1764126903857-2",
     "name": "Foulées Sallésiennes 2027"
   },
   {
@@ -5755,7 +5820,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812240000000,
     "ending": 1812240000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-forges-claude-fortin-2027/running-course-a-pied/1520927589277-9",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-forges-claude-fortin-2027/course-a-pied-running/1520927589277-9",
     "name": "Trail des Forges Claude Fortin"
   },
   {
