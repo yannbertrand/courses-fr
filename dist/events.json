@@ -425,7 +425,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/des-marais--des-bosses-by-cocerto-2026/running-course-a-pied/1771824655537-1",
+    "eventLink": "https://www.klikego.com/inscription/des-marais--des-bosses-by-cocerto-2026/course-a-pied-running/1771824655537-1",
     "name": "Des Marais & Des Bosses by Cocerto"
   },
   {
@@ -633,7 +633,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
-    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-du-challenge-de-lelorn-2026/running-course-a-pied/1561498121416-13",
+    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-du-challenge-de-lelorn-2026/course-a-pied-running/1561498121416-13",
     "name": "Soirée de remise des prix du challenge de L'Elorn"
   },
   {
@@ -1049,7 +1049,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796428800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-canopee-2026/running-course-a-pied/1479886996157-43",
+    "eventLink": "https://www.klikego.com/inscription/trail-canopee-2026/course-a-pied-running/1479886996157-43",
     "name": "TRAIL CANOPEE"
   },
   {
@@ -1296,7 +1296,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/saucony-10km-de-la-tour-eiffel-2026/running-course-a-pied/1687984162591-5",
+    "eventLink": "https://www.klikego.com/inscription/saucony-10km-de-la-tour-eiffel-2026/course-a-pied-running/1687984162591-5",
     "name": "Saucony 10km de la Tour Eiffel"
   },
   {
@@ -1980,12 +1980,12 @@
     "city": "Ste colombe",
     "departementNumber": 17,
     "eventType": "unknown",
-    "numberOfRaceVariants": 1,
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-givre-des-coteaux-de-la-seugne-2026/running-course-a-pied/1550282926865-8",
+    "eventLink": "https://www.klikego.com/inscription/trail-givre-des-coteaux-de-la-seugne-2026/course-a-pied-running/1550282926865-8",
     "name": "TRAIL GIVRE DES COTEAUX DE LA SEUGNE"
   },
   {
@@ -2076,7 +2076,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797724800000,
     "ending": 1797724800000,
-    "eventLink": "https://www.klikego.com/inscription/cross-du-houssay-2026/running-course-a-pied/1701661159205-4",
+    "eventLink": "https://www.klikego.com/inscription/cross-du-houssay-2026/course-a-pied-running/1701661159205-4",
     "name": "Cross du Houssay"
   },
   {
@@ -2770,19 +2770,6 @@
   },
   {
     "place": "unknown",
-    "city": "Rennes",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1800748800000,
-    "ending": 1800748800000,
-    "eventLink": "https://www.klikego.com/inscription/coco-run-2027/running-course-a-pied/1793053615392-1",
-    "name": "Coco Run"
-  },
-  {
-    "place": "unknown",
     "city": "St divy",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -2856,7 +2843,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801267200000,
     "ending": 1801267200000,
-    "eventLink": "https://www.klikego.com/inscription/orientation-chateaugiron-2027/running-course-a-pied/1419295170205-49",
+    "eventLink": "https://www.klikego.com/inscription/orientation-chateaugiron-2027/course-a-pied-running/1419295170205-49",
     "name": "ORIENTATION CHATEAUGIRON"
   },
   {
@@ -3025,7 +3012,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801872000000,
     "ending": 1801958400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-glazig-2027/running-course-a-pied/1352933103191-17",
+    "eventLink": "https://www.klikego.com/inscription/trail-glazig-2027/course-a-pied-running/1352933103191-17",
     "name": "Trail GLAZIG"
   },
   {
@@ -3092,6 +3079,19 @@
     "ending": 1801958400000,
     "name": "Le Free GO",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3630/le-free-go-montfaucon-montigne"
+  },
+  {
+    "place": "unknown",
+    "city": "St armel",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1801958400000,
+    "ending": 1801958400000,
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-de-saint-armel-2027/course-a-pied-running/1694660894792-5",
+    "name": "Les Foulées de Saint-Armel"
   },
   {
     "place": "unknown",
@@ -3662,7 +3662,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804896000000,
     "ending": 1804896000000,
-    "eventLink": "https://www.klikego.com/inscription/apollo-trail-2027/running-course-a-pied/1588202295637-6",
+    "eventLink": "https://www.klikego.com/inscription/apollo-trail-2027/course-a-pied-running/1588202295637-6",
     "name": "Apollo Trail"
   },
   {
@@ -3727,8 +3727,21 @@
     "registrationStatus": "unknown",
     "beginning": 1804982400000,
     "ending": 1804982400000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-andre-heute-de-saint-marcel-2027/running-course-a-pied/1654138671766-9",
+    "eventLink": "https://www.klikego.com/inscription/foulees-andre-heute-de-saint-marcel-2027/course-a-pied-running/1654138671766-9",
     "name": "Foulées André Heute de Saint-Marcel"
+  },
+  {
+    "place": "unknown",
+    "city": "St brieuc",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804982400000,
+    "ending": 1804982400000,
+    "eventLink": "https://www.klikego.com/inscription/foulees-briochines-2027-52eme-edition/course-a-pied-running/1735335581929-3",
+    "name": "Foulées Briochines 2027 - 52ème édition"
   },
   {
     "place": "unknown",
@@ -3755,6 +3768,19 @@
     "ending": 1804982400000,
     "name": "LE TRAIL DES POTIERS",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3576/le-trail-des-potiers-le-fuilet"
+  },
+  {
+    "place": "unknown",
+    "city": "Reze",
+    "departementNumber": 44,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804982400000,
+    "ending": 1804982400000,
+    "eventLink": "https://www.klikego.com/inscription/les-10h-naon-2027/running-course-a-pied/1793414905300-1",
+    "name": "Les 10H NAON"
   },
   {
     "place": "unknown",
@@ -3831,7 +3857,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805500800000,
     "ending": 1805500800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/running-course-a-pied/1760064003476-3",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/course-a-pied-running/1760064003476-3",
     "name": "LA DOUZE - FRENCH RIVIERA 2027"
   },
   {
@@ -4002,6 +4028,32 @@
     "ending": 1805587200000,
     "eventLink": "https://www.klikego.com/inscription/morocco-trail-race-2027/running-course-a-pied/1791262965558-1",
     "name": "MOROCCO TRAIL RACE"
+  },
+  {
+    "place": "unknown",
+    "city": "Fay de bretagne",
+    "departementNumber": 44,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805587200000,
+    "ending": 1805587200000,
+    "eventLink": "https://www.klikego.com/inscription/run--bike-de-fay-de-bretagne-2027/triathlon/1670443369033-5",
+    "name": "Run & Bike de Fay de Bretagne"
+  },
+  {
+    "place": "unknown",
+    "city": "Saumur",
+    "departementNumber": 49,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805587200000,
+    "ending": 1805587200000,
+    "eventLink": "https://www.klikego.com/inscription/runbike-des-vignes-2027/triathlon/1731364974758-4",
+    "name": "Run&Bike des Vignes"
   },
   {
     "place": "unknown",
@@ -4208,7 +4260,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806278400000,
     "ending": 1806278400000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/running-course-a-pied/1736056005202-3",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-iodees-dan-arvor-2027/course-a-pied-running/1736056005202-3",
     "name": "Les Foulées Iodées d'an arvor"
   },
   {
@@ -4346,7 +4398,7 @@
     "city": "Tulle",
     "departementNumber": 19,
     "eventType": "unknown",
-    "numberOfRaceVariants": 9,
+    "numberOfRaceVariants": 8,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1806796800000,
@@ -4611,7 +4663,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807401600000,
     "ending": 1807401600000,
-    "eventLink": "https://www.klikego.com/inscription/la-diagonale-du-four-2027/running-course-a-pied/1575452541791-9",
+    "eventLink": "https://www.klikego.com/inscription/la-diagonale-du-four-2027/course-a-pied-running/1575452541791-9",
     "name": "La Diagonale du Four"
   },
   {
@@ -4871,7 +4923,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/la-skydronne-2027/running-course-a-pied/1792446356749-1",
+    "eventLink": "https://www.klikego.com/inscription/la-skydronne-2027/course-a-pied-running/1792446356749-1",
     "name": "LA SKYDRONNE"
   },
   {
@@ -4988,7 +5040,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809129600000,
     "ending": 1809129600000,
-    "eventLink": "https://www.klikego.com/inscription/trail-de-la-salamandre-2027/running-course-a-pied/1705098784610-4",
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-salamandre-2027/course-a-pied-running/1705098784610-4",
     "name": "Trail de la Salamandre"
   },
   {
@@ -5331,6 +5383,19 @@
   },
   {
     "place": "unknown",
+    "city": "Suevres",
+    "departementNumber": 41,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1810425600000,
+    "ending": 1810425600000,
+    "eventLink": "https://www.klikego.com/inscription/triathlon-du-domino-val-de-loire-2027/triathlon/1646273536851-7",
+    "name": "Triathlon du Domino - Val de Loire"
+  },
+  {
+    "place": "unknown",
     "city": "Rennes",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -5432,6 +5497,19 @@
     "ending": 1811030400000,
     "eventLink": "https://www.klikego.com/inscription/les-defis-raoul-ii-2027/running-marche-nordique/1460747035471-11",
     "name": "LES DÉFIS RAOUL II"
+  },
+  {
+    "place": "unknown",
+    "city": "St malo du bois",
+    "departementNumber": 85,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811030400000,
+    "ending": 1811030400000,
+    "eventLink": "https://www.klikego.com/inscription/festi-trail-2027/course-a-pied-running/1731011767451-3",
+    "name": "Festi Trail 2027"
   },
   {
     "place": "unknown",
@@ -5781,7 +5859,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812240000000,
     "ending": 1812240000000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-sallesiennes-2027/running-course-a-pied/1764126903857-2",
+    "eventLink": "https://www.klikego.com/inscription/foulees-sallesiennes-2027/course-a-pied-running/1764126903857-2",
     "name": "Foulées Sallésiennes 2027"
   },
   {
@@ -6214,6 +6292,19 @@
     "name": "T24 MONT BLANC PASSY 2027"
   },
   {
+    "place": "unknown",
+    "city": "St flour",
+    "departementNumber": 15,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1821916800000,
+    "ending": 1821916800000,
+    "eventLink": "https://www.klikego.com/inscription/duathlon-de-haute-auvergne-2027/triathlon/1770768833735-2",
+    "name": "Duathlon de Haute Auvergne"
+  },
+  {
     "place": "Domaine National de Saint Cloud",
     "city": "Saint-Cloud",
     "departementNumber": 92,
@@ -6225,6 +6316,19 @@
     "ending": 1821916800000,
     "name": "Enfants sans Cancer 2027",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3643/enfants-sans-cancer-2027-saint-cloud"
+  },
+  {
+    "place": "unknown",
+    "city": "La bouexiere",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1821916800000,
+    "ending": 1821916800000,
+    "eventLink": "https://www.klikego.com/inscription/lb-trail-urbain-2027/running-course-a-pied/1793398466395-1",
+    "name": "LB Trail Urbain"
   },
   {
     "place": "unknown",
