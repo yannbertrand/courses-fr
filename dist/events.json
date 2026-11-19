@@ -113,7 +113,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/10km-du-maine-libre-2026/running-course-a-pied/1473113914100-12",
+    "eventLink": "https://www.klikego.com/inscription/10km-du-maine-libre-2026/course-a-pied-running/1473113914100-12",
     "name": "10KM DU MAINE LIBRE"
   },
   {
@@ -162,7 +162,7 @@
     "eventType": "running",
     "numberOfRaceVariants": 3,
     "registrationLink": "http://www.lanocturneyvetotaise.fr/",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1795219200000,
     "ending": 1795219200000,
     "name": "NOCTURNE YVETOTAISE",
@@ -654,7 +654,7 @@
     "city": "VERSAILLES",
     "departementNumber": 78,
     "eventType": "trail",
-    "numberOfRaceVariants": 5,
+    "numberOfRaceVariants": 6,
     "registrationLink": "http://www.vertrail.com/",
     "registrationStatus": "open",
     "beginning": 1795824000000,
@@ -2544,7 +2544,7 @@
     "registrationStatus": "unknown",
     "beginning": 1800057600000,
     "ending": 1800144000000,
-    "eventLink": "https://www.klikego.com/inscription/inscription-bol-dair-2027/running-course-a-pied/1740975965646-5",
+    "eventLink": "https://www.klikego.com/inscription/inscription-bol-dair-2027/course-a-pied-running/1740975965646-5",
     "name": "Inscription bol d'air 2027"
   },
   {
@@ -3259,7 +3259,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/course-solidaire-des-gayeulles-2027/running-course-a-pied/1792613693713-1",
+    "eventLink": "https://www.klikego.com/inscription/course-solidaire-des-gayeulles-2027/course-a-pied-running/1792613693713-1",
     "name": "Course Solidaire des Gayeulles 2027"
   },
   {
@@ -3298,7 +3298,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-cote-sauvage-14-fevrier-2027/running-course-a-pied/1507376567885-10",
+    "eventLink": "https://www.klikego.com/inscription/trail-cote-sauvage-14-fevrier-2027/course-a-pied-running/1507376567885-10",
     "name": "Trail Côte Sauvage 14 février 2027"
   },
   {
@@ -3618,12 +3618,12 @@
     "city": "St evarzec",
     "departementNumber": 29,
     "eventType": "unknown",
-    "numberOfRaceVariants": 3,
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1804377600000,
     "ending": 1804377600000,
-    "eventLink": "https://www.klikego.com/inscription/saint-e-trail-2027/running-course-a-pied/1472852825424-12",
+    "eventLink": "https://www.klikego.com/inscription/saint-e-trail-2027/course-a-pied-running/1472852825424-12",
     "name": "SAINT E TRAIL"
   },
   {
@@ -5172,6 +5172,19 @@
     "ending": 1809561600000,
     "name": "Les 3 cols Matériel Velo.com",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3655/les-3-cols-materiel-velo-com-la-tour-de-salvagny"
+  },
+  {
+    "place": "unknown",
+    "city": "Le barcares",
+    "departementNumber": 66,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 14,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1809561600000,
+    "ending": 1809734400000,
+    "eventLink": "https://www.klikego.com/inscription/gorillaman-triathlon-le-barcares-2027/triathlon/1793673924799-1",
+    "name": "GORILLAMAN TRIATHLON LE BARCARES 2027"
   },
   {
     "place": "unknown",
