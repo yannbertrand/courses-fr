@@ -53,58 +53,6 @@
   },
   {
     "place": "unknown",
-    "city": "Quevert",
-    "departementNumber": 22,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795132800000,
-    "ending": 1795132800000,
-    "eventLink": "https://www.klikego.com/inscription/la-quevert-luisante-2026/running-course-a-pied/1473738832444-11",
-    "name": "LA QUEVERT LUISANTE"
-  },
-  {
-    "place": "Le lieu de votre choix",
-    "city": "France",
-    "departementNumber": 0,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795132800000,
-    "ending": 1795132800000,
-    "name": "Run for Lily Cerise (5) 20-21-22 novembre",
-    "eventLink": "https://www.timepulse.fr/evenements/voir/3624/run-for-lily-cerise-5-20-21-22-novembre-france"
-  },
-  {
-    "place": "unknown",
-    "city": "La roche maurice",
-    "departementNumber": 29,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795132800000,
-    "ending": 1795132800000,
-    "eventLink": "https://www.klikego.com/inscription/soiree-de-remise-des-prix-du-challenge-armorik-trail-2026/running-course-a-pied/1660377890993-6",
-    "name": "Soirée de remise des prix du Challenge Armorik Trail 2026"
-  },
-  {
-    "place": "unknown",
-    "city": "Pont scorff",
-    "departementNumber": 56,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 1,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795132800000,
-    "ending": 1795132800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-animaux-de-lumiere-2026/running-course-a-pied/1484041488191-15",
-    "name": "Trail des Animaux de Lumière"
-  },
-  {
-    "place": "unknown",
     "city": "Peillac",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -204,7 +152,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795219200000,
-    "eventLink": "https://www.klikego.com/inscription/relais-de-lensil-ensci-16eme-edition-2026/running-course-a-pied/1705539728962-3",
+    "eventLink": "https://www.klikego.com/inscription/relais-de-lensil-ensci-16eme-edition-2026/course-a-pied-running/1705539728962-3",
     "name": "Relais de l'ENSIL-ENSCI 16ème édition"
   },
   {
@@ -305,7 +253,7 @@
     "eventType": "course_a_pied",
     "numberOfRaceVariants": "unknown",
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1795219200000,
     "ending": 1795305600000,
     "name": "Trail de la Cote de Jade:  Noz Trail 15 km  / Défis court et long",
@@ -945,7 +893,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796428800000,
-    "eventLink": "https://www.klikego.com/inscription/course-des-poulets-de-janze-2026/running-course-a-pied/1702417514890-7",
+    "eventLink": "https://www.klikego.com/inscription/course-des-poulets-de-janze-2026/course-a-pied-running/1702417514890-7",
     "name": "Course des poulets de Janzé"
   },
   {
@@ -1491,7 +1439,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-de-malemort-2026/running-course-a-pied/1623202731927-5",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-de-malemort-2026/course-a-pied-running/1623202731927-5",
     "name": "Corrida de Noël de malemort 2026"
   },
   {
@@ -1512,12 +1460,12 @@
     "city": "Pommerit le vicomte",
     "departementNumber": 22,
     "eventType": "unknown",
-    "numberOfRaceVariants": 1,
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-ecole-sainte-anne-2026/running-course-a-pied/1782975723589-1",
+    "eventLink": "https://www.klikego.com/inscription/corrida-ecole-sainte-anne-2026/course-a-pied-running/1782975723589-1",
     "name": "Corrida Ecole Sainte Anne"
   },
   {
@@ -1595,7 +1543,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/nocturnes-entre-plages-et-chemins-creux-2026/running-course-a-pied/1361506947442-20",
+    "eventLink": "https://www.klikego.com/inscription/nocturnes-entre-plages-et-chemins-creux-2026/course-a-pied-running/1361506947442-20",
     "name": "Nocturnes Entre Plages et Chemins Creux"
   },
   {
@@ -3771,6 +3719,19 @@
   },
   {
     "place": "unknown",
+    "city": "Osse",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804896000000,
+    "ending": 1804982400000,
+    "eventLink": "https://www.klikego.com/inscription/biathlon-running-2027/course-a-pied-running/1419295170205-50",
+    "name": "Biathlon Running"
+  },
+  {
+    "place": "unknown",
     "city": "L etang la ville",
     "departementNumber": 78,
     "eventType": "unknown",
@@ -4353,6 +4314,19 @@
     "ending": 1806192000000,
     "eventLink": "https://www.klikego.com/inscription/trail-la-trace-2027/running-course-a-pied/1674092775837-6",
     "name": "Trail La Trace"
+  },
+  {
+    "place": "unknown",
+    "city": "Saint-Donan",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806192000000,
+    "ending": 1806192000000,
+    "eventLink": "https://www.klikego.com/inscription/trail-solidaire-de-saint-donan-2027/course-a-pied-running/1480050388644-13",
+    "name": "Trail solidaire de Saint-Donan"
   },
   {
     "place": "unknown",
@@ -5900,6 +5874,19 @@
     "ending": 1811635200000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-borneloise-2027/running-course-a-pied/1788397789638-1",
     "name": "Les Foulées Borneloise"
+  },
+  {
+    "place": "unknown",
+    "city": "Loudeac",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 4,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811635200000,
+    "ending": 1811635200000,
+    "eventLink": "https://www.klikego.com/inscription/marathon-loudeac-pontivy-2027/course-a-pied-running/1526881753360-10",
+    "name": "MARATHON LOUDÉAC-PONTIVY"
   },
   {
     "place": "Parvis de la Défense",
