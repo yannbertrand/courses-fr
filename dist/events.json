@@ -191,7 +191,7 @@
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
     "ending": 1795305600000,
-    "eventLink": "https://www.klikego.com/inscription/cross-du-cam-2026/running-course-a-pied/1629088835199-14",
+    "eventLink": "https://www.klikego.com/inscription/cross-du-cam-2026/course-a-pied-running/1629088835199-14",
     "name": "CROSS DU CAM"
   },
   {
@@ -199,7 +199,7 @@
     "city": "Allonnes",
     "departementNumber": 72,
     "eventType": "unknown",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 9,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1795305600000,
@@ -1291,12 +1291,12 @@
     "city": "Pommerit le vicomte",
     "departementNumber": 22,
     "eventType": "unknown",
-    "numberOfRaceVariants": 2,
+    "numberOfRaceVariants": 3,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-ecole-sainte-anne-2026/running-course-a-pied/1782975723589-1",
+    "eventLink": "https://www.klikego.com/inscription/corrida-ecole-sainte-anne-2026/course-a-pied-running/1782975723589-1",
     "name": "Corrida Ecole Sainte Anne"
   },
   {
@@ -1790,7 +1790,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/rando-trail-de-noel-2026/running-course-a-pied/1670316413368-4",
+    "eventLink": "https://www.klikego.com/inscription/rando-trail-de-noel-2026/course-a-pied-running/1670316413368-4",
     "name": "RANDO TRAIL DE NOEL 2026"
   },
   {
@@ -2494,6 +2494,19 @@
     "ending": 1800748800000,
     "eventLink": "https://www.klikego.com/inscription/week-end-off-stage-sur-les-hauteurs-du-pays-de-redon-2027/running-course-a-pied/1781209384730-3",
     "name": "WEEK-END OFF - Stage sur les hauteurs du Pays de Redon"
+  },
+  {
+    "place": "unknown",
+    "city": "Allineuc",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800662400000,
+    "ending": 1800662400000,
+    "eventLink": "https://www.klikego.com/inscription/allirun--saveurs-2027/course-a-pied-running/1761263015190-2",
+    "name": "Allirun & Saveurs"
   },
   {
     "place": "unknown",
@@ -4442,7 +4455,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806796800000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-de-chinon-2027/running-course-a-pied/1660098263645-6",
+    "eventLink": "https://www.klikego.com/inscription/marathon-de-chinon-2027/course-a-pied-running/1660098263645-6",
     "name": "Marathon de Chinon"
   },
   {
@@ -5170,7 +5183,7 @@
     "registrationStatus": "unknown",
     "beginning": 1809648000000,
     "ending": 1809734400000,
-    "eventLink": "https://www.klikego.com/inscription/perigord-grand-trail-2027/running-course-a-pied/1791336688119-1",
+    "eventLink": "https://www.klikego.com/inscription/perigord-grand-trail-2027/course-a-pied-running/1791336688119-1",
     "name": "Perigord Grand Trail"
   },
   {
