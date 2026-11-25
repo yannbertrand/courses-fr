@@ -503,7 +503,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796428800000,
-    "eventLink": "https://www.klikego.com/inscription/menestrail-2026/running-course-a-pied/1472150551876-14",
+    "eventLink": "https://www.klikego.com/inscription/menestrail-2026/course-a-pied-running/1472150551876-14",
     "name": "MENESTRAIL"
   },
   {
@@ -750,7 +750,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/le-telethon-d-ille-2026/running-course-a-pied/1536087377908-8",
+    "eventLink": "https://www.klikego.com/inscription/le-telethon-d-ille-2026/course-a-pied-running/1536087377908-8",
     "name": "Le TÉLETHON D' ILLE"
   },
   {
@@ -802,7 +802,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/saucony-10km-de-la-tour-eiffel-2026/running-course-a-pied/1687984162591-5",
+    "eventLink": "https://www.klikego.com/inscription/saucony-10km-de-la-tour-eiffel-2026/course-a-pied-running/1687984162591-5",
     "name": "Saucony 10km de la Tour Eiffel"
   },
   {
@@ -1062,7 +1062,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/la-chouette-alleuzienne-2026/running-course-a-pied/1620089763293-6",
+    "eventLink": "https://www.klikego.com/inscription/la-chouette-alleuzienne-2026/course-a-pied-running/1620089763293-6",
     "name": "La Chouette Alleuzienne 2026"
   },
   {
@@ -1205,7 +1205,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-2026/running-course-a-pied/1498782124484-19",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-2026/course-a-pied-running/1498782124484-19",
     "name": "Corrida de Noël"
   },
   {
@@ -1712,7 +1712,7 @@
     "registrationStatus": "unknown",
     "beginning": 1798243200000,
     "ending": 1798243200000,
-    "eventLink": "https://www.klikego.com/inscription/christmas-run-2026-trail-nocturne-semi-urbain-de-8km-ou-16km-et-marche-de-8km/running-course-a-pied/1768267476778-1",
+    "eventLink": "https://www.klikego.com/inscription/christmas-run-2026-trail-nocturne-semi-urbain-de-8km-ou-16km-et-marche-de-8km/course-a-pied-running/1768267476778-1",
     "name": "CHRISTMAS RUN 2026 - Trail Nocturne Semi Urbain de 8km ou 16km et Marche de 8km"
   },
   {
@@ -2492,7 +2492,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801353600000,
     "ending": 1801353600000,
-    "eventLink": "https://www.klikego.com/inscription/tout-betton-court-2027/running-course-a-pied/1226779614109-20",
+    "eventLink": "https://www.klikego.com/inscription/tout-betton-court-2027/course-a-pied-running/1226779614109-20",
     "name": "Tout Betton Court 2027"
   },
   {
@@ -3484,6 +3484,19 @@
     "name": "La moussterlinoise 2027"
   },
   {
+    "place": "unknown",
+    "city": "La chapelle chaussee",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1804982400000,
+    "ending": 1804982400000,
+    "eventLink": "https://www.klikego.com/inscription/le-trail-bien-chausse-2027-tbc/course-a-pied-running/1361664460576-16",
+    "name": "Le Trail Bien Chaussé 2027 (TBC)"
+  },
+  {
     "place": "salle figulina le fuilet",
     "city": "Le Fuilet",
     "departementNumber": 49,
@@ -3506,8 +3519,8 @@
     "registrationStatus": "unknown",
     "beginning": 1804982400000,
     "ending": 1804982400000,
-    "eventLink": "https://www.klikego.com/inscription/les-10h-naon-2027/course-a-pied-running/1793414905300-1",
-    "name": "Les 10H NAON"
+    "eventLink": "https://www.klikego.com/inscription/les-10h-naon-backyard-2027/course-a-pied-running/1793414905300-1",
+    "name": "Les 10H NAON #Backyard"
   },
   {
     "place": "unknown",
@@ -3573,6 +3586,19 @@
     "ending": 1804982400000,
     "eventLink": "https://www.klikego.com/inscription/trail-vilin-2027/running-course-a-pied/1754366465353-2",
     "name": "TRAIL VILIN"
+  },
+  {
+    "place": "unknown",
+    "city": "St brieuc",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805500800000,
+    "ending": 1805500800000,
+    "eventLink": "https://www.klikego.com/inscription/course-nature-du-valais-4eme-edition-2027/course-a-pied-running/1687207399659-4",
+    "name": "Course Nature du Valais 4ème édition"
   },
   {
     "place": "unknown",
@@ -3992,6 +4018,19 @@
   },
   {
     "place": "unknown",
+    "city": "St palais sur mer",
+    "departementNumber": 17,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1806192000000,
+    "ending": 1806192000000,
+    "eventLink": "https://www.klikego.com/inscription/course-du-pont-du-diable-2027/course-a-pied-running/1645499121688-7",
+    "name": "Course du Pont du Diable 2027"
+  },
+  {
+    "place": "unknown",
     "city": "Ste marie",
     "departementNumber": 35,
     "eventType": "unknown",
@@ -4390,7 +4429,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807315200000,
     "ending": 1807315200000,
-    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/running-course-a-pied/1790031691736-1",
+    "eventLink": "https://www.klikego.com/inscription/delta-race-paris-2027/course-a-pied-running/1790031691736-1",
     "name": "DELTA RACE PARIS 2027"
   },
   {
@@ -4421,6 +4460,19 @@
   },
   {
     "place": "unknown",
+    "city": "Rennes",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807315200000,
+    "ending": 1807315200000,
+    "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2027/course-a-pied-running/1284761384288-44",
+    "name": "Marathon Vert Rennes Groupe Interaction"
+  },
+  {
+    "place": "unknown",
     "city": "Noyant d allier",
     "departementNumber": 3,
     "eventType": "unknown",
@@ -4444,6 +4496,19 @@
     "ending": 1807401600000,
     "name": "Trail du Vignoble Nantais",
     "eventLink": "https://www.timepulse.fr/evenements/voir/3567/trail-du-vignoble-nantais-vertou"
+  },
+  {
+    "place": "unknown",
+    "city": "Meilars",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807401600000,
+    "ending": 1807401600000,
+    "eventLink": "https://www.klikego.com/inscription/course--marche-nature-la-boucle-de-la-forge-2027/course-a-pied-running/1794003470195-1",
+    "name": "Course & Marche Nature: La boucle de la forge"
   },
   {
     "place": "unknown",
@@ -4821,6 +4886,19 @@
     "ending": 1808611200000,
     "eventLink": "https://www.klikego.com/inscription/les-foulees-dacigne-acigne-au-feminin-2027/running-course-a-pied/1356384566470-13",
     "name": "Les foulées d'Acigné - Acigné au féminin"
+  },
+  {
+    "place": "unknown",
+    "city": "Albi",
+    "departementNumber": 81,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1808611200000,
+    "ending": 1808611200000,
+    "eventLink": "https://www.klikego.com/inscription/marathon-dalbi-2027-47eme-edition/course-a-pied-running/1337120465909-40",
+    "name": "Marathon d'Albi 2027 - 47ème édition"
   },
   {
     "place": "unknown",
@@ -5898,7 +5976,7 @@
     "registrationStatus": "unknown",
     "beginning": 1812758400000,
     "ending": 1812758400000,
-    "eventLink": "https://www.klikego.com/inscription/la-elle--lui-35-26eme-edition-2027/running-course-a-pied/1451954645670-11",
+    "eventLink": "https://www.klikego.com/inscription/la-elle--lui-35-26eme-edition-2027/course-a-pied-running/1451954645670-11",
     "name": "La ELLE & LUI 35 - 26ème édition"
   },
   {
@@ -6080,7 +6158,7 @@
     "registrationStatus": "unknown",
     "beginning": 1814486400000,
     "ending": 1814659200000,
-    "eventLink": "https://www.klikego.com/inscription/ultra-trail-cote-dazur-mercantour-2027/running-course-a-pied/1546548572849-10",
+    "eventLink": "https://www.klikego.com/inscription/ultra-trail-cote-dazur-mercantour-2027/course-a-pied-running/1546548572849-10",
     "name": "Ultra Trail Côte d'Azur Mercantour 2027"
   },
   {
@@ -6381,5 +6459,18 @@
     "ending": 1823126400000,
     "eventLink": "https://www.klikego.com/inscription/t24-bormes-les-mimosas-2027/triathlon/1603485341795-24",
     "name": "T24 BORMES LES MIMOSAS 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Albi",
+    "departementNumber": 81,
+    "eventType": "unknown",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1823644800000,
+    "ending": 1823731200000,
+    "eventLink": "https://www.klikego.com/inscription/albi-24h-championnats-de-france-2027/course-a-pied-running/1384568432549-18",
+    "name": "ALBI 24H - Championnats de France"
   }
 ]
