@@ -39,32 +39,6 @@
     "name": "Cross de Matoury 2000"
   },
   {
-    "place": "8 Bd des Tribunes",
-    "city": "Nantes",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795564800000,
-    "ending": 1795564800000,
-    "name": "Cross départemental UNSS 44",
-    "eventLink": "https://www.timepulse.fr/calendrier/voir/3656/cross-departemental-unss-44-nantes"
-  },
-  {
-    "place": "Stade de la Davrays - Impasse de l’île Mouchet",
-    "city": "Ancenis",
-    "departementNumber": 44,
-    "eventType": "course_a_pied",
-    "numberOfRaceVariants": "unknown",
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1795564800000,
-    "ending": 1795564800000,
-    "name": "Cross régional UGSEL 2026",
-    "eventLink": "https://www.timepulse.fr/calendrier/voir/3657/cross-regional-ugsel-2026-ancenis"
-  },
-  {
     "place": "unknown",
     "city": "Le roc st andre",
     "departementNumber": 56,
@@ -97,7 +71,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 2,
     "registrationLink": "http://www.crapahute-clair-de-lune.fr/",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1795824000000,
     "ending": 1795824000000,
     "name": "CRAPAHUTE AU CLAIR DE LUNE",
@@ -2895,7 +2869,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/edition-hivernale-des-quatre-saisons-2027/running-course-a-pied/1603054434896-39",
+    "eventLink": "https://www.klikego.com/inscription/edition-hivernale-des-quatre-saisons-2027/course-a-pied-running/1603054434896-39",
     "name": "Edition hivernale des Quatre Saisons"
   },
   {
@@ -3532,7 +3506,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804982400000,
     "ending": 1804982400000,
-    "eventLink": "https://www.klikego.com/inscription/rochan-tour-2027/running-course-a-pied/1746901406112-2",
+    "eventLink": "https://www.klikego.com/inscription/rochan-tour-2027/course-a-pied-running/1746901406112-2",
     "name": "roc'han tour"
   },
   {
@@ -3610,7 +3584,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805500800000,
     "ending": 1805500800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/running-course-a-pied/1760064003476-3",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-french-riviera-2027/course-a-pied-running/1760064003476-3",
     "name": "LA DOUZE - FRENCH RIVIERA 2027"
   },
   {
@@ -4806,7 +4780,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808524800000,
     "ending": 1808524800000,
-    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/running-course-a-pied/1760064003476-4",
+    "eventLink": "https://www.klikego.com/inscription/la-douze-monts-des-geants-2027/course-a-pied-running/1760064003476-4",
     "name": "LA DOUZE - MONTS DES GÉANTS 2027"
   },
   {
@@ -5357,6 +5331,19 @@
   },
   {
     "place": "unknown",
+    "city": "Tredion",
+    "departementNumber": 56,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1810425600000,
+    "ending": 1810425600000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-maison-du-loup-2027/course-a-pied-running/1642544827988-6",
+    "name": "TRAIL DE LA MAISON DU LOUP"
+  },
+  {
+    "place": "unknown",
     "city": "Trebeurden",
     "departementNumber": 22,
     "eventType": "unknown",
@@ -5744,6 +5731,19 @@
     "ending": 1811635200000,
     "eventLink": "https://www.klikego.com/inscription/t24-luxembourg-2027/triathlon/1603485341796-1",
     "name": "T24 LUXEMBOURG 2027"
+  },
+  {
+    "place": "unknown",
+    "city": "Boudy de beauregard",
+    "departementNumber": 47,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1811548800000,
+    "ending": 1811635200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-des-plus-beaux-villages-de-france-du-47-2027/course-a-pied-running/1736308610205-3",
+    "name": "Trail des plus beaux villages de France du 47 2027"
   },
   {
     "place": "unknown",
@@ -6280,6 +6280,19 @@
   },
   {
     "place": "unknown",
+    "city": "Tregueux",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1820016000000,
+    "ending": 1820016000000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-la-vallee-de-lurne-2027/course-a-pied-running/1663749929985-11",
+    "name": "Trail de la vallée de l'Urne"
+  },
+  {
+    "place": "unknown",
     "city": "Ploudalmezeau",
     "departementNumber": 29,
     "eventType": "unknown",
@@ -6418,7 +6431,7 @@
     "registrationStatus": "unknown",
     "beginning": 1821916800000,
     "ending": 1821916800000,
-    "eventLink": "https://www.klikego.com/inscription/lb-trail-urbain-2027/running-course-a-pied/1793398466395-1",
+    "eventLink": "https://www.klikego.com/inscription/lb-trail-urbain-2027/course-a-pied-running/1793398466395-1",
     "name": "LB Trail Urbain"
   },
   {
@@ -6444,8 +6457,8 @@
     "registrationStatus": "unknown",
     "beginning": 1822521600000,
     "ending": 1822521600000,
-    "eventLink": "https://www.klikego.com/inscription/les-8-heures-du-coiroux-by-celeste-running-2027/running-course-a-pied/1772159696333-2",
-    "name": "Les 8 heures du Coiroux by celeste running"
+    "eventLink": "https://www.klikego.com/inscription/les-8-heures-du-coiroux-2027/course-a-pied-running/1772159696333-2",
+    "name": "Les 8 heures du Coiroux 2027"
   },
   {
     "place": "unknown",
