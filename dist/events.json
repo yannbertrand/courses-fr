@@ -27,19 +27,6 @@
   },
   {
     "place": "unknown",
-    "city": "Rennes",
-    "departementNumber": 35,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 3,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1792281600000,
-    "ending": 1807315200000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-vert-rennes-groupe-interaction-2026/course-a-pied-running/1284761384288-44",
-    "name": "Marathon Vert Rennes Groupe Interaction"
-  },
-  {
-    "place": "unknown",
     "city": "Remire montjoly",
     "departementNumber": 97,
     "eventType": "unknown",
@@ -542,7 +529,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796428800000,
-    "eventLink": "https://www.klikego.com/inscription/trail-canopee-2026/running-course-a-pied/1479886996157-43",
+    "eventLink": "https://www.klikego.com/inscription/trail-canopee-2026/course-a-pied-running/1479886996157-43",
     "name": "TRAIL CANOPEE"
   },
   {
@@ -776,7 +763,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/running-course-a-pied/1409279910468-13",
+    "eventLink": "https://www.klikego.com/inscription/rotte-des-gobions-verts-2026/course-a-pied-running/1409279910468-13",
     "name": "ROTTE DES GOBIONS VERTS 2026"
   },
   {
@@ -789,7 +776,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/saucony-10km-de-la-tour-eiffel-2026/running-course-a-pied/1687984162591-5",
+    "eventLink": "https://www.klikego.com/inscription/saucony-10km-de-la-tour-eiffel-2026/course-a-pied-running/1687984162591-5",
     "name": "Saucony 10km de la Tour Eiffel"
   },
   {
@@ -2341,6 +2328,19 @@
   },
   {
     "place": "unknown",
+    "city": "Québriac",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1800748800000,
+    "ending": 1800748800000,
+    "eventLink": "https://www.klikego.com/inscription/trail-du-clocher-tors-2027/course-a-pied-running/1430427100346-12",
+    "name": "Trail du clocher Tors"
+  },
+  {
+    "place": "unknown",
     "city": "Plescop",
     "departementNumber": 56,
     "eventType": "unknown",
@@ -2856,7 +2856,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/course-nature-de-la-choinette-2027/running-course-a-pied/1357856887792-14",
+    "eventLink": "https://www.klikego.com/inscription/course-nature-de-la-choinette-2027/course-a-pied-running/1357856887792-14",
     "name": "Course NATURE de la choinette"
   },
   {
@@ -2869,7 +2869,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/course-solidaire-des-gayeulles-2027/running-course-a-pied/1792613693713-1",
+    "eventLink": "https://www.klikego.com/inscription/course-solidaire-des-gayeulles-2027/course-a-pied-running/1792613693713-1",
     "name": "Course Solidaire des Gayeulles 2027"
   },
   {
@@ -3363,7 +3363,7 @@
     "registrationStatus": "unknown",
     "beginning": 1804896000000,
     "ending": 1804896000000,
-    "eventLink": "https://www.klikego.com/inscription/decathnight-2027/running-course-a-pied/1760142588825-2",
+    "eventLink": "https://www.klikego.com/inscription/decathnight-2027/course-a-pied-running/1760142588825-2",
     "name": "Decath'Night"
   },
   {
@@ -4447,6 +4447,19 @@
   },
   {
     "place": "unknown",
+    "city": "Rennes",
+    "departementNumber": 35,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 2,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1807315200000,
+    "ending": 1807315200000,
+    "eventLink": "https://www.klikego.com/inscription/report-marathon-vert-rennes-groupe-interaction-2026-2027/course-a-pied-running/1284761384288-44",
+    "name": "REPORT - Marathon Vert Rennes Groupe Interaction 2026"
+  },
+  {
+    "place": "unknown",
     "city": "Noyant d allier",
     "departementNumber": 3,
     "eventType": "unknown",
@@ -4689,7 +4702,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807920000000,
     "ending": 1807920000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-golf-de-la-pree-2027/running-course-a-pied/1781557636983-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-golf-de-la-pree-2027/course-a-pied-running/1781557636983-2",
     "name": "Trail du Golf de La Prée"
   },
   {
