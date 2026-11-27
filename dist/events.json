@@ -123,7 +123,7 @@
     "eventType": "course_a_pied",
     "numberOfRaceVariants": "unknown",
     "registrationLink": "",
-    "registrationStatus": "open",
+    "registrationStatus": "unknown",
     "beginning": 1795824000000,
     "ending": 1795824000000,
     "name": "Trail Nocturne Touchois",
@@ -477,7 +477,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796428800000,
     "ending": 1796428800000,
-    "eventLink": "https://www.klikego.com/inscription/menestrail-2026/running-course-a-pied/1472150551876-14",
+    "eventLink": "https://www.klikego.com/inscription/menestrail-2026/course-a-pied-running/1472150551876-14",
     "name": "MENESTRAIL"
   },
   {
@@ -1335,7 +1335,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797120000000,
     "ending": 1797120000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins--cross-graulhet-athle--4-eme-edition-2026/running-course-a-pied/1724232492749-3",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-lutins--cross-graulhet-athle--4-eme-edition-2026/course-a-pied-running/1724232492749-3",
     "name": "TRAIL DES LUTINS / CROSS GRAULHET ATHLE  4 ème édition"
   },
   {
@@ -1712,7 +1712,7 @@
     "registrationStatus": "unknown",
     "beginning": 1798243200000,
     "ending": 1798243200000,
-    "eventLink": "https://www.klikego.com/inscription/les-12heures-de-beffou-2026/running-course-a-pied/1747434627548-2",
+    "eventLink": "https://www.klikego.com/inscription/les-12heures-de-beffou-2026/course-a-pied-running/1747434627548-2",
     "name": "LES 12HEURES DE BEFFOU"
   },
   {
@@ -1855,7 +1855,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799452800000,
     "ending": 1799452800000,
-    "eventLink": "https://www.klikego.com/inscription/entre-chien-et-loup-2027/running-course-a-pied/1484685134217-18",
+    "eventLink": "https://www.klikego.com/inscription/entre-chien-et-loup-2027/course-a-pied-running/1484685134217-18",
     "name": "Entre Chien et Loup 2027"
   },
   {
@@ -3779,7 +3779,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-de-lespace-2027/running-course-a-pied/1787878066543-2",
+    "eventLink": "https://www.klikego.com/inscription/marathon-de-lespace-2027/course-a-pied-running/1787878066543-2",
     "name": "Marathon de l'Espace 2027"
   },
   {
@@ -3831,7 +3831,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/semi-marathon-boucle-de-seine-2027/running-course-a-pied/1790283994662-1",
+    "eventLink": "https://www.klikego.com/inscription/semi-marathon-boucle-de-seine-2027/course-a-pied-running/1790283994662-1",
     "name": "Semi Marathon Boucle de Seine"
   },
   {
@@ -3935,7 +3935,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806105600000,
     "ending": 1806105600000,
-    "eventLink": "https://www.klikego.com/inscription/le-fclp-fait-son-trail-2027/running-course-a-pied/1792021478853-1",
+    "eventLink": "https://www.klikego.com/inscription/le-fclp-fait-son-trail-2027/course-a-pied-running/1792021478853-1",
     "name": "LE FCLP FAIT SON TRAIL"
   },
   {
@@ -4403,8 +4403,8 @@
     "registrationStatus": "unknown",
     "beginning": 1807315200000,
     "ending": 1807315200000,
-    "eventLink": "https://www.klikego.com/inscription/course-nature-des-coevrons-cnc-2027/running-course-a-pied/1720932298665-3",
-    "name": "Course Nature des Coëvrons - CNC"
+    "eventLink": "https://www.klikego.com/inscription/course-nature-des-coevrons-cnc-2027/course-a-pied-running/1720932298665-3",
+    "name": "Course Nature des Coëvrons - CNC 2027"
   },
   {
     "place": "unknown",
@@ -4901,6 +4901,19 @@
     "name": "Melec trail"
   },
   {
+    "place": "unknown",
+    "city": "Champfremont",
+    "departementNumber": 53,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 6,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1808611200000,
+    "ending": 1808611200000,
+    "eventLink": "https://www.klikego.com/inscription/sainte-anne-en-duo-2027/course-a-pied-running/1794626730370-1",
+    "name": "SAINTE ANNE EN DUO"
+  },
+  {
     "place": "Place de la Liberté",
     "city": "La Tranche-sur-Mer",
     "departementNumber": 85,
@@ -4949,7 +4962,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/trail-des-muches-2027/running-course-a-pied/1764404513248-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-des-muches-2027/course-a-pied-running/1764404513248-2",
     "name": "TRAIL DES MUCHES"
   },
   {
@@ -5250,6 +5263,19 @@
     "ending": 1809820800000,
     "eventLink": "https://www.klikego.com/inscription/trail-la-carolus-2027/running-course-a-pied/1668824613564-5",
     "name": "Trail La Carolus"
+  },
+  {
+    "place": "unknown",
+    "city": "Brive la gaillarde",
+    "departementNumber": 19,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 5,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1810339200000,
+    "ending": 1810339200000,
+    "eventLink": "https://www.klikego.com/inscription/courir-a-brive-2027/course-a-pied-running/1636602079119-9",
+    "name": "Courir à Brive 2027"
   },
   {
     "place": "Nice",
@@ -6316,6 +6342,19 @@
     "ending": 1820102400000,
     "eventLink": "https://www.klikego.com/inscription/la-garenne-run-2027/running-course-a-pied/1770367848413-1",
     "name": "La Garenne Run"
+  },
+  {
+    "place": "unknown",
+    "city": "Le blanc",
+    "departementNumber": 36,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 9,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1820620800000,
+    "ending": 1820707200000,
+    "eventLink": "https://www.klikego.com/inscription/brenntriman-2027/triathlon/1635903517399-6",
+    "name": "Brenn'Triman"
   },
   {
     "place": "unknown",
