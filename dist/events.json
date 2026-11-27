@@ -149,7 +149,7 @@
     "eventType": "trail",
     "numberOfRaceVariants": 6,
     "registrationLink": "http://www.vertrail.com/",
-    "registrationStatus": "open",
+    "registrationStatus": "closed",
     "beginning": 1795824000000,
     "ending": 1795824000000,
     "name": "VERTRAIL BY NIGHT",
@@ -646,7 +646,7 @@
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/cross-lyssoirien-2026/running-course-a-pied/1761018361586-3",
+    "eventLink": "https://www.klikego.com/inscription/cross-lyssoirien-2026/course-a-pied-running/1761018361586-3",
     "name": "Cross L'Yssoirien 2026"
   },
   {
@@ -958,7 +958,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797033600000,
     "ending": 1797033600000,
-    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-de-malemort-2026/running-course-a-pied/1623202731927-5",
+    "eventLink": "https://www.klikego.com/inscription/corrida-de-noel-de-malemort-2026/course-a-pied-running/1623202731927-5",
     "name": "Corrida de Noël de malemort 2026"
   },
   {
@@ -1478,7 +1478,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/rando-trail-de-noel-2026/running-course-a-pied/1670316413368-4",
+    "eventLink": "https://www.klikego.com/inscription/rando-trail-de-noel-2026/course-a-pied-running/1670316413368-4",
     "name": "RANDO TRAIL DE NOEL 2026"
   },
   {
@@ -1985,7 +1985,7 @@
     "registrationStatus": "unknown",
     "beginning": 1799539200000,
     "ending": 1799539200000,
-    "eventLink": "https://www.klikego.com/inscription/sortie-solidaire-de-lepiphanie-2027/running-course-a-pied/1764209925509-3",
+    "eventLink": "https://www.klikego.com/inscription/sortie-solidaire-de-lepiphanie-2027/course-a-pied-running/1764209925509-3",
     "name": "Sortie Solidaire de l'Epiphanie 2027"
   },
   {
@@ -2583,7 +2583,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801872000000,
     "ending": 1801958400000,
-    "eventLink": "https://www.klikego.com/inscription/trail-glazig-2027/running-course-a-pied/1352933103191-17",
+    "eventLink": "https://www.klikego.com/inscription/trail-glazig-2027/course-a-pied-running/1352933103191-17",
     "name": "Trail GLAZIG"
   },
   {
@@ -2817,7 +2817,7 @@
     "registrationStatus": "unknown",
     "beginning": 1802563200000,
     "ending": 1802563200000,
-    "eventLink": "https://www.klikego.com/inscription/10-km-et-semi-marathon-rrunning-pays-de-lorient-2027/running-course-a-pied/1776796331243-3",
+    "eventLink": "https://www.klikego.com/inscription/10-km-et-semi-marathon-rrunning-pays-de-lorient-2027/course-a-pied-running/1776796331243-3",
     "name": "10 KM ET SEMI MARATHON RRUNNING PAYS DE LORIENT"
   },
   {
@@ -2999,7 +2999,7 @@
     "registrationStatus": "unknown",
     "beginning": 1803168000000,
     "ending": 1803168000000,
-    "eventLink": "https://www.klikego.com/inscription/foulees-castelnodaises-2027/running-course-a-pied/1440994663512-10",
+    "eventLink": "https://www.klikego.com/inscription/foulees-castelnodaises-2027/course-a-pied-running/1440994663512-10",
     "name": "Foulées Castelnodaises 2027"
   },
   {
@@ -3922,7 +3922,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806105600000,
     "ending": 1806105600000,
-    "eventLink": "https://www.klikego.com/inscription/le-bardoiz-trail-2027/running-course-a-pied/1761997591209-3",
+    "eventLink": "https://www.klikego.com/inscription/le-bardoiz-trail-2027/course-a-pied-running/1761997591209-3",
     "name": "Le Bard'oiz Trail"
   },
   {
@@ -4210,19 +4210,6 @@
     "ending": 1806796800000,
     "eventLink": "https://www.klikego.com/inscription/trail-de-laber-wrach-2027/running-course-a-pied/1440013577697-14",
     "name": "TRAIL DE L'ABER WRACH"
-  },
-  {
-    "place": "unknown",
-    "city": "Tulle",
-    "departementNumber": 19,
-    "eventType": "unknown",
-    "numberOfRaceVariants": 9,
-    "registrationLink": "",
-    "registrationStatus": "unknown",
-    "beginning": 1806796800000,
-    "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/agglomeree-2027/course-a-pied-running/1669340202895-4",
-    "name": "AGGLOMEREE 2027"
   },
   {
     "place": "unknown",
@@ -4884,7 +4871,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-dalbi-2027-47eme-edition/running-course-a-pied/1337120465909-40",
+    "eventLink": "https://www.klikego.com/inscription/marathon-dalbi-2027-47eme-edition/course-a-pied-running/1337120465909-40",
     "name": "Marathon d'Albi 2027 - 47ème édition"
   },
   {
@@ -5435,6 +5422,19 @@
   },
   {
     "place": "unknown",
+    "city": "Plouarzel",
+    "departementNumber": 29,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 1,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1810944000000,
+    "ending": 1810944000000,
+    "eventLink": "https://www.klikego.com/inscription/10h-de-kerveatoux-2027/course-a-pied-running/1793843545848-1",
+    "name": "10h de Kervéatoux"
+  },
+  {
+    "place": "unknown",
     "city": "Passy",
     "departementNumber": 74,
     "eventType": "unknown",
@@ -5747,7 +5747,7 @@
   },
   {
     "place": "unknown",
-    "city": "Boudy de beauregard",
+    "city": "Villereal",
     "departementNumber": 47,
     "eventType": "unknown",
     "numberOfRaceVariants": 3,
