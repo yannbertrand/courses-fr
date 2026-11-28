@@ -706,12 +706,12 @@
     "city": "Brest",
     "departementNumber": 29,
     "eventType": "unknown",
-    "numberOfRaceVariants": 3,
+    "numberOfRaceVariants": 4,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1796515200000,
     "ending": 1796515200000,
-    "eventLink": "https://www.klikego.com/inscription/le-defi-de-kervallon-2026/running-course-a-pied/1687904431654-5",
+    "eventLink": "https://www.klikego.com/inscription/le-defi-de-kervallon-2026/course-a-pied-running/1687904431654-5",
     "name": "Le Défi de Kervallon"
   },
   {
@@ -1361,7 +1361,7 @@
     "registrationStatus": "unknown",
     "beginning": 1797638400000,
     "ending": 1797638400000,
-    "eventLink": "https://www.klikego.com/inscription/biathlon-et-corrida-de-noel-2026/running-course-a-pied/1601425941484-7",
+    "eventLink": "https://www.klikego.com/inscription/biathlon-et-corrida-de-noel-2026/course-a-pied-running/1601425941484-7",
     "name": "Biathlon et Corrida de Noël"
   },
   {
@@ -2479,7 +2479,7 @@
     "registrationStatus": "unknown",
     "beginning": 1801353600000,
     "ending": 1801353600000,
-    "eventLink": "https://www.klikego.com/inscription/tout-betton-court-2027/running-course-a-pied/1226779614109-20",
+    "eventLink": "https://www.klikego.com/inscription/tout-betton-court-2027/course-a-pied-running/1226779614109-20",
     "name": "Tout Betton Court 2027"
   },
   {
@@ -3727,7 +3727,7 @@
     "registrationStatus": "unknown",
     "beginning": 1805587200000,
     "ending": 1805587200000,
-    "eventLink": "https://www.klikego.com/inscription/la-riberacoise-2027/running-course-a-pied/1790934307526-1",
+    "eventLink": "https://www.klikego.com/inscription/la-riberacoise-2027/course-a-pied-running/1790934307526-1",
     "name": "La Ribéracoise"
   },
   {
@@ -3901,6 +3901,19 @@
   },
   {
     "place": "unknown",
+    "city": "Le quillio",
+    "departementNumber": 22,
+    "eventType": "unknown",
+    "numberOfRaceVariants": 3,
+    "registrationLink": "",
+    "registrationStatus": "unknown",
+    "beginning": 1805587200000,
+    "ending": 1805587200000,
+    "eventLink": "https://www.klikego.com/inscription/trail-de-lorette-2027/course-a-pied-running/1670899933015-5",
+    "name": "Trail de Lorette"
+  },
+  {
+    "place": "unknown",
     "city": "St projet de salers",
     "departementNumber": 15,
     "eventType": "unknown",
@@ -4052,7 +4065,7 @@
     "registrationStatus": "unknown",
     "beginning": 1806192000000,
     "ending": 1806192000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-la-trace-2027/running-course-a-pied/1674092775837-6",
+    "eventLink": "https://www.klikego.com/inscription/trail-la-trace-2027/course-a-pied-running/1674092775837-6",
     "name": "Trail La Trace"
   },
   {
@@ -4216,12 +4229,12 @@
     "city": "Quimper",
     "departementNumber": 29,
     "eventType": "unknown",
-    "numberOfRaceVariants": 3,
+    "numberOfRaceVariants": 2,
     "registrationLink": "",
     "registrationStatus": "unknown",
     "beginning": 1806796800000,
     "ending": 1806796800000,
-    "eventLink": "https://www.klikego.com/inscription/ar-meilhou-glaz-trail-kemper-2027/running-course-a-pied/1470183506201-13",
+    "eventLink": "https://www.klikego.com/inscription/ar-meilhou-glaz-trail-kemper-2027/course-a-pied-running/1470183506201-13",
     "name": "Ar Meilhou Glaz Trail - Kemper"
   },
   {
@@ -4403,7 +4416,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807315200000,
     "ending": 1807315200000,
-    "eventLink": "https://www.klikego.com/inscription/course-nature-des-coevrons-cnc-2027/running-course-a-pied/1720932298665-3",
+    "eventLink": "https://www.klikego.com/inscription/course-nature-des-coevrons-cnc-2027/course-a-pied-running/1720932298665-3",
     "name": "Course Nature des Coëvrons - CNC 2027"
   },
   {
@@ -4702,7 +4715,7 @@
     "registrationStatus": "unknown",
     "beginning": 1807920000000,
     "ending": 1807920000000,
-    "eventLink": "https://www.klikego.com/inscription/trail-du-golf-de-la-pree-2027/running-course-a-pied/1781557636983-2",
+    "eventLink": "https://www.klikego.com/inscription/trail-du-golf-de-la-pree-2027/course-a-pied-running/1781557636983-2",
     "name": "Trail du Golf de La Prée"
   },
   {
@@ -4884,7 +4897,7 @@
     "registrationStatus": "unknown",
     "beginning": 1808611200000,
     "ending": 1808611200000,
-    "eventLink": "https://www.klikego.com/inscription/marathon-dalbi-2027-47eme-edition/running-course-a-pied/1337120465909-40",
+    "eventLink": "https://www.klikego.com/inscription/marathon-dalbi-2027-47eme-edition/course-a-pied-running/1337120465909-40",
     "name": "Marathon d'Albi 2027 - 47ème édition"
   },
   {
@@ -5980,6 +5993,19 @@
     "name": "Le North may"
   },
   {
+    "place": "Stade des Dorices",
+    "city": "Vallet",
+    "departementNumber": 44,
+    "eventType": "course_a_pied",
+    "numberOfRaceVariants": "unknown",
+    "registrationLink": "",
+    "registrationStatus": "open",
+    "beginning": 1812240000000,
+    "ending": 1812240000000,
+    "name": "Run & Vignes by VHS",
+    "eventLink": "https://www.timepulse.fr/evenements/voir/3658/run-amp-vignes-by-vhs-vallet"
+  },
+  {
     "place": "unknown",
     "city": "La bazoge",
     "departementNumber": 72,
@@ -6379,7 +6405,7 @@
     "registrationStatus": "unknown",
     "beginning": 1821312000000,
     "ending": 1821312000000,
-    "eventLink": "https://www.klikego.com/inscription/les-foulees-bleues-2027/running-course-a-pied/1470269509816-12",
+    "eventLink": "https://www.klikego.com/inscription/les-foulees-bleues-2027/course-a-pied-running/1470269509816-12",
     "name": "Les Foulées Bleues 2027"
   },
   {
